@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "Lenovo-LOQ-15IAX9-15-6-FHD-IPS-i5-12450HX-RTX-2050-16GB-Ram-512GB-NVMe-Windows-11-Home",
+    "id": "68c2de08060b6d83e52109ef",
+    "title": "Lenovo LOQ 15IAX9 15.6\" FHD IPS | i5-12450HX | RTX 2050 | 16GB Ram | 512GB NVMe | Windows 11 Home",
+    "price": 2345,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757601806442.webp"
+  },
+  {
+    "slug": "Lenovo-LOQ-15IAX9-15-6-FHD-IPS-i5-12450HX-RTX-2050-8GB-Ram-512GB-NVMe-Windows-11-Home",
+    "id": "68c2da81060b6d83e520f346",
+    "title": "Lenovo LOQ 15IAX9 15.6\" FHD IPS | i5-12450HX | RTX 2050 | 8GB Ram | 512GB NVMe | Windows 11 Home",
+    "price": 2275,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757600625605.webp"
+  },
+  {
+    "slug": "GIGABYTE-GS27FA-27-SS-IPS-FHD-1ms-180Hz",
+    "id": "68c1a34c07171818d2a18e50",
+    "title": "GIGABYTE GS27FA 27\" SS IPS FHD | 1ms | 180Hz",
+    "price": 589,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757520836969.webp"
+  },
+  {
+    "slug": "MSI-SPATIUM-M470-PRO-PCIe-4.0-NVMe-M.2-2TB",
+    "id": "68c1811807171818d29e783b",
+    "title": "MSI SPATIUM M470 PRO PCIe 4.0 NVMe M.2 2TB",
+    "price": 439,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757512130654.jpg"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN8100-NVMe-SSD-2TB-Avec-Heatsink-PCIe-Gen5",
+    "id": "68c1883f07171818d29f8076",
+    "title": "WESTERN DIGITAL SN8100 NVMe SSD 2TB Avec Heatsink | PCIe Gen5",
+    "price": 1353,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757503543020.webp"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN8100-NVMe-SSD-1TB-Avec-Heatsink-PCIe-Gen5",
+    "id": "68c15d3507171818d29e1689",
+    "title": "WESTERN DIGITAL SN8100 NVMe SSD 1TB Avec Heatsink | PCIe Gen5",
+    "price": 888,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757503543020.webp"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN8100-NVMe-SSD-4TB-Avec-Heatsink-PCIe-Gen5",
+    "id": "68c189c707171818d2a05c66",
+    "title": "WESTERN DIGITAL SN8100 NVMe SSD 4TB Avec Heatsink | PCIe Gen5",
+    "price": 2424,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757503543020.webp"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN8100-NVMe-SSD-4TB-Sans-Heatsink-PCIe-Gen5",
+    "id": "68c1559407171818d29d0f7b",
+    "title": "WESTERN DIGITAL SN8100 NVMe SSD 4TB Sans Heatsink | PCIe Gen5",
+    "price": 2340,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757500301915.webp"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN8100-NVMe-SSD-1TB-Sans-Heatsink-PCIe-Gen5",
+    "id": "68c1528907171818d29c2879",
+    "title": "WESTERN DIGITAL SN8100 NVMe SSD 1TB Sans Heatsink | PCIe Gen5",
+    "price": 835,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757500301915.webp"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN8100-NVMe-SSD-2TB-Sans-Heatsink-PCIe-Gen5",
+    "id": "68c1542e07171818d29c3383",
+    "title": "WESTERN DIGITAL SN8100 NVMe SSD 2TB Sans Heatsink | PCIe Gen5",
+    "price": 1284,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757500301915.webp"
+  }
+]
