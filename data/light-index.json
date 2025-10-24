@@ -4,6 +4,8 @@
     "id": "68c2de08060b6d83e52109ef",
     "title": "Lenovo LOQ 15IAX9 15.6\" FHD IPS | i5-12450HX | RTX 2050 | 16GB Ram | 512GB NVMe | Windows 11 Home",
     "price": 2345,
+    "prixEnPromo": 2249,
+    "discount": 4.093816631130064,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757601806442.webp"
   },
   {
@@ -11,6 +13,8 @@
     "id": "68c2da81060b6d83e520f346",
     "title": "Lenovo LOQ 15IAX9 15.6\" FHD IPS | i5-12450HX | RTX 2050 | 8GB Ram | 512GB NVMe | Windows 11 Home",
     "price": 2275,
+    "prixEnPromo": 2169,
+    "discount": 4.659340659340659,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757600625605.webp"
   },
   {
@@ -18,6 +22,8 @@
     "id": "68c1a34c07171818d2a18e50",
     "title": "GIGABYTE GS27FA 27\" SS IPS FHD | 1ms | 180Hz",
     "price": 589,
+    "prixEnPromo": 489,
+    "discount": 16.97792869269949,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757520836969.webp"
   },
   {
@@ -25,6 +31,8 @@
     "id": "68c1811807171818d29e783b",
     "title": "MSI SPATIUM M470 PRO PCIe 4.0 NVMe M.2 2TB",
     "price": 439,
+    "prixEnPromo": null,
+    "discount": null,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757512130654.jpg"
   },
   {
@@ -32,6 +40,8 @@
     "id": "68c1883f07171818d29f8076",
     "title": "WESTERN DIGITAL SN8100 NVMe SSD 2TB Avec Heatsink | PCIe Gen5",
     "price": 1353,
+    "prixEnPromo": null,
+    "discount": null,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757503543020.webp"
   },
   {
@@ -39,6 +49,8 @@
     "id": "68c15d3507171818d29e1689",
     "title": "WESTERN DIGITAL SN8100 NVMe SSD 1TB Avec Heatsink | PCIe Gen5",
     "price": 888,
+    "prixEnPromo": null,
+    "discount": null,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757503543020.webp"
   },
   {
@@ -46,6 +58,8 @@
     "id": "68c189c707171818d2a05c66",
     "title": "WESTERN DIGITAL SN8100 NVMe SSD 4TB Avec Heatsink | PCIe Gen5",
     "price": 2424,
+    "prixEnPromo": null,
+    "discount": null,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757503543020.webp"
   },
   {
@@ -53,6 +67,8 @@
     "id": "68c1559407171818d29d0f7b",
     "title": "WESTERN DIGITAL SN8100 NVMe SSD 4TB Sans Heatsink | PCIe Gen5",
     "price": 2340,
+    "prixEnPromo": null,
+    "discount": null,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757500301915.webp"
   },
   {
@@ -60,6 +76,8 @@
     "id": "68c1528907171818d29c2879",
     "title": "WESTERN DIGITAL SN8100 NVMe SSD 1TB Sans Heatsink | PCIe Gen5",
     "price": 835,
+    "prixEnPromo": null,
+    "discount": null,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757500301915.webp"
   },
   {
@@ -67,6 +85,809 @@
     "id": "68c1542e07171818d29c3383",
     "title": "WESTERN DIGITAL SN8100 NVMe SSD 2TB Sans Heatsink | PCIe Gen5",
     "price": 1284,
+    "prixEnPromo": null,
+    "discount": null,
     "img": "https://apibackend.megapc.tn/uploads/gallerie/1757500301915.webp"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN850X-NVMe-SSD-4TB-Heatsink-M-2-2280",
+    "id": "68c148a807171818d29a505a",
+    "title": "WESTERN DIGITAL SN850X NVMe SSD 4TB Heatsink M.2 2280",
+    "price": 1498,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757497232774.webp"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN850X-NVMe-SSD-8TB-Heatsink-M-2-2280",
+    "id": "68c14cc507171818d29b3703",
+    "title": "WESTERN DIGITAL SN850X NVMe SSD 8TB Heatsink M.2 2280",
+    "price": 3078,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757497232774.webp"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN850X-NVMe-SSD-1TB-Heatsink-M.2-2280",
+    "id": "68c146cb07171818d2996974",
+    "title": "WESTERN DIGITAL SN850X NVMe SSD 1TB Heatsink M.2 2280",
+    "price": 493,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757497232774.webp"
+  },
+  {
+    "slug": "WESTERN-DIGITAL-SN850X-NVMe-SSD-2TB-Heatsink-M-2-2280",
+    "id": "68c147ad07171818d29969c1",
+    "title": "WESTERN DIGITAL SN850X NVMe SSD 2TB Heatsink M.2 2280",
+    "price": 841,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757497232774.webp"
+  },
+  {
+    "slug": "Imprimante-Epson-EcoTank-L3260-3en1-Wi-Fi-A4-5-Bouteilles-d'encres",
+    "id": "68c03a9007171818d2981bd4",
+    "title": "Imprimante Epson EcoTank L3260 – 3en1 / Wi-Fi A4 + 5 Bouteilles d'encres",
+    "price": 639,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757430643179.webp"
+  },
+  {
+    "slug": "Carte-Reseau-ARGUS-Gigabit-PCI-Express-ST-705-Adaptateur-RJ45",
+    "id": "68c037b307171818d29810c6",
+    "title": "Carte Réseau ARGUS Gigabit PCI Express ST-705 – Adaptateur RJ45",
+    "price": 44,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757427760801.jpg"
+  },
+  {
+    "slug": "Deepstorm-AMD-RYZEN-7-7700-RTX-5060-Ti-16B-32GB-Ram-512GB-NVMe",
+    "id": "68c029bb07171818d2952502",
+    "title": "Deepstorm | AMD RYZEN 7 7700 |  RTX 5060 Ti 16B | 32GB Ram | 512GB NVMe ",
+    "price": 4799,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757424535214.webp"
+  },
+  {
+    "slug": "DISQUE-SSD-WD-BLACK-SN850X-NVMe-4TB-M-2-PCIe-Gen4",
+    "id": "68c013bb07171818d2912ef9",
+    "title": "DISQUE SSD WD BLACK SN850X NVMe 4TB M.2 PCIe Gen4",
+    "price": 1392,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757418009168.webp"
+  },
+  {
+    "slug": "DISQUE-SSD-WD-BLACK-SN850X-NVMe-8TB-M-2-PCIe-Gen4",
+    "id": "68c015de07171818d293f28d",
+    "title": "DISQUE SSD WD BLACK SN850X NVMe 8TB M.2 PCIe Gen4",
+    "price": 2944,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757418009168.webp"
+  },
+  {
+    "slug": "DISQUE-SSD-WD-BLACK-SN850X-NVMe-2TB-M-2-PCIe-Gen4",
+    "id": "68c0128307171818d2904df1",
+    "title": "DISQUE SSD WD BLACK SN850X NVMe 2TB M.2 PCIe Gen4",
+    "price": 733,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757418009168.webp"
+  },
+  {
+    "slug": "DISQUE-SSD-WD-BLACK-SN850X-NVMe-1TB-M-2-PCIe-Gen4",
+    "id": "68c0113507171818d29042e4",
+    "title": "DISQUE SSD WD BLACK SN850X NVMe 1TB M.2 PCIe Gen4",
+    "price": 412,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757418009168.webp"
+  },
+  {
+    "slug": "DISQUE-WD-BLACK-SN7100-NVMe-SSD-M-2-2280-1TB-NVMe",
+    "id": "68c000ac07171818d28c71e4",
+    "title": "DISQUE WD BLACK SN7100 NVMe SSD M.2 2280 | 1TB NVMe",
+    "price": 330,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757413867572.webp"
+  },
+  {
+    "slug": "DISQUE-WD-BLACK-SN7100-NVMe-SSD-M-2-2280---500GB-",
+    "id": "68bff9b707171818d28c7080",
+    "title": "DISQUE WD BLACK SN7100 NVMe SSD M.2 2280 | 500GB ",
+    "price": 214,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757412035366.webp"
+  },
+  {
+    "slug": "DISQUE-WD-BLACK-SN7100-NVMe-SSD-M-2-2280-2TB-NVMe",
+    "id": "68c003a407171818d28e29d7",
+    "title": "DISQUE WD BLACK SN7100 NVMe SSD M.2 2280 | 2TB NVMe",
+    "price": 588,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757414648254.webp"
+  },
+  {
+    "slug": "DISQUE-WD-BLACK-SN7100-NVMe-SSD-M-2-2280-4TB-NVMe",
+    "id": "68c008e807171818d28f1bd1",
+    "title": "DISQUE WD BLACK SN7100 NVMe SSD M.2 2280 | 4TB NVMe",
+    "price": 1167,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757416257513.webp"
+  },
+  {
+    "slug": "DISQUE-DUR-Western-Digital-WD-BLACK-SN770M-NVMe-500-GB",
+    "id": "68bf031a07171818d28939f6",
+    "title": "DISQUE DUR Western Digital WD BLACK SN770M – NVMe 500 GB",
+    "price": 344,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757348780315.png"
+  },
+  {
+    "slug": "DISQUE-DUR-Western-Digital-WD-BLACK-SN770M-NVMe-2TB",
+    "id": "68bfeb4707171818d28b5eec",
+    "title": "DISQUE DUR Western Digital WD BLACK SN770M – NVMe 2TB",
+    "price": 891,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757348780315.png"
+  },
+  {
+    "slug": "DISQUE-DUR-Western-Digital-WD-BLACK-SN770M-NVMe-1TB",
+    "id": "68bfe8c007171818d28a82ef",
+    "title": "DISQUE DUR Western Digital WD BLACK SN770M – NVMe 1TB",
+    "price": 468,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757348780315.png"
+  },
+  {
+    "slug": "Lenovo-LOQ-15IRX10-15-6-FHD-IPS-i7-14700HX-24GB-Ram-RTX-5050-512GB-NVMe",
+    "id": "68bef6bd07171818d287817f",
+    "title": "Lenovo LOQ 15IRX10 15.6\" FHD IPS | i7-14700HX | 24GB Ram | RTX 5050 | 512GB NVMe",
+    "price": 3835,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757345676588.webp"
+  },
+  {
+    "slug": "Disque-SSD-NVMe-WD-Blue-SN5100-2TB-PCIe-Gen4-M-2-2280",
+    "id": "68bef81b07171818d28781fd",
+    "title": "Disque SSD NVMe WD Blue SN5100 2TB PCIe Gen4 M.2 2280",
+    "price": 562,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757346104102.webp"
+  },
+  {
+    "slug": "Disque-SSD-NVMe-WD-Blue-SN5100-1TB-PCIe-Gen4-M-2-2280",
+    "id": "68beed7607171818d2858a6c",
+    "title": "Disque SSD NVMe WD Blue SN5100 1TB PCIe Gen4 M.2 2280",
+    "price": 304,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757344140423.webp"
+  },
+  {
+    "slug": "Disque-SSD-NVMe-WD-Blue-SN5100-500-Go-PCIe-Gen4-M-2-228",
+    "id": "68bee5cc07171818d284b3fa",
+    "title": "Disque SSD NVMe WD Blue SN5100 500 Go PCIe Gen4 M.2 2280",
+    "price": 176,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757342728621.webp"
+  },
+  {
+    "slug": "Batti5a-K11-Intel-Core-i5-13400F-RTX-5060-32GB-Ram-1TB-NVMe",
+    "id": "68bed80707171818d28067bb",
+    "title": "Batti5a K11 | Intel Core i5-13400F | RTX 5060 | 32GB Ram | 1TB NVMe",
+    "price": 2399,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1686228178192.webp"
+  },
+  {
+    "slug": "WD-Blue-SN5000-NVMe-SSD-1TB-PCIe-Gen4-M-2",
+    "id": "68bed9f307171818d2806809",
+    "title": "DISQUE WD Blue SN5000 NVMe SSD 1TB | PCIe Gen4 M.2",
+    "price": 272,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757338460533.webp"
+  },
+  {
+    "slug": "WD-Blue-SN5000-NVMe-SSD-2TB-PCIe-Gen4-M-2",
+    "id": "68bedc7607171818d2814419",
+    "title": "WD Blue SN5000 NVMe SSD 2TB | PCIe Gen4 M.2",
+    "price": 519,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757339243729.webp"
+  },
+  {
+    "slug": "WD-Blue-SN5000-NVMe-SSD-500-Go-PCIe-Gen4-M.2",
+    "id": "68bebeab07171818d27ffebb",
+    "title": "DISQUE WD Blue SN5000 NVMe SSD 500 Go | PCIe Gen4 M.2",
+    "price": 157,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757332184160.webp"
+  },
+  {
+    "slug": "WD-Blue-SN5000-NVMe-SSD-4TB-PCIe-Gen4-M-2",
+    "id": "68bedf0807171818d282fbdd",
+    "title": "DISQUE DUR WD Blue SN5000 NVMe SSD 4TB | PCIe Gen4 M.2",
+    "price": 970,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757340840650.webp"
+  },
+  {
+    "slug": "Lenovo-Yoga-7-14-WUXGA-Intel-Core-Ultra-7-155U-16GB-Ram-1TB-NVMe",
+    "id": "68beb0f607171818d27f01be",
+    "title": "Lenovo Yoga 7 14\" WUXGA | Intel Core Ultra 7 155U | 16GB Ram | 1TB NVMe / Tactile ",
+    "price": 3609,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757327864008.webp"
+  },
+  {
+    "slug": "Western-Digital-SSD-WD-Blue-SA510-2-5-500GB",
+    "id": "68be9d8007171818d27c3f3e",
+    "title": "Western Digital SSD WD Blue SA510 2.5\" | 500GB",
+    "price": 135,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757323007916.webp"
+  },
+  {
+    "slug": "Western-Digital-SSD-WD-Blue-SA510-2-5-4TB",
+    "id": "68beb47307171818d27f176c",
+    "title": "DISQUE DUR Western Digital SSD WD Blue SA510 2.5\" | 4TB",
+    "price": 1124,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757329466494.webp"
+  },
+  {
+    "slug": "Western-Digital-SSD-WD-Blue-SA510-2-5-1TB",
+    "id": "68be9f1c07171818d27c3f9d",
+    "title": "Western Digital SSD WD Blue SA510 2.5\" | 1TB",
+    "price": 232,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757323369176.webp"
+  },
+  {
+    "slug": "Western-Digital-SSD-WD-Blue-SA510-2-5-2TB",
+    "id": "68bea86607171818d27d453d",
+    "title": "DISQUE DUR Western Digital SSD WD Blue SA510 2.5\" | 2TB",
+    "price": 519,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757325920022.webp"
+  },
+  {
+    "slug": "Disque-SSD-NVMe-WD-Green-SN3000-2TB",
+    "id": "68be9b2107171818d27b6347",
+    "title": "Disque SSD NVMe WD Green SN3000 - 2TB",
+    "price": 486,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757321605578.webp"
+  },
+  {
+    "slug": "Disque-SSD-NVMe-WD-Green-SN3000--500-Go",
+    "id": "68be93a407171818d27a6789",
+    "title": "Disque SSD NVMe WD Green SN3000 - 500 Go",
+    "price": 147,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757320390955.webp"
+  },
+  {
+    "slug": "Disque-SSD-NVMe-WD-Green-SN3000-1TB",
+    "id": "68be96c107171818d27a7270",
+    "title": "Disque SSD NVMe WD Green SN3000 - 1TB",
+    "price": 399,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757321605578.webp"
+  },
+  {
+    "slug": "Disque-SSD-WD-Green-25-SATA-2TB",
+    "id": "68bc386907171818d275d562",
+    "title": "Disque SSD WD Green 2,5\" SATA | 2TB",
+    "price": 508,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757166484174.webp"
+  },
+  {
+    "slug": "Disque-SSD-WD-Green-25-SATA-1TB",
+    "id": "68bc300b07171818d274f8e6",
+    "title": "Disque SSD WD Green 2,5\" SATA | 1TB",
+    "price": 243,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757163913442.webp"
+  },
+  {
+    "slug": "Disque-SSD-WD-Green-2-5-SATA-250GB",
+    "id": "68bc2aac07171818d2741c72",
+    "title": "Disque SSD WD Green 2,5\" SATA | 250GB",
+    "price": 91,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757162419945.webp"
+  },
+  {
+    "slug": "Disque-SSD-WD-Green-2-5-SATA-500GB",
+    "id": "68bc2e1607171818d2741cde",
+    "title": "Disque SSD WD Green 2,5\" SATA | 500GB",
+    "price": 141,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757163289847.webp"
+  },
+  {
+    "slug": "Batti5a-K10-Intel-Core-i5-14400F-RTX-5060-Ti-32GB-Ram-1TB-NVMe",
+    "id": "68bc218007171818d2740819",
+    "title": "Batti5a K10 | Intel Core i5-14400F | RTX 5060 Ti 16GB | 32GB Ram | 1TB NVMe",
+    "price": 3099,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1708775760829.webp"
+  },
+  {
+    "slug": "SPIRIT-U8-Intel-Core-i5-13400F-RTX-3060-12GB-16GB-480GB-SSD",
+    "id": "68bc1d1107171818d273fdad",
+    "title": "SPIRIT U8 | Intel Core i5-13400F | RTX 3060 12GB | 16GB | 480GB SSD",
+    "price": 2221,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1704364649170.webp"
+  },
+  {
+    "slug": "SPIRIT-U7-Intel-Core-i5-12400F-RTX-5050-8GB-500GB-SSD",
+    "id": "68bc121e07171818d273a320",
+    "title": "SPIRIT U7 | Intel Core i5-12400F | RTX 5050 | 8GB | 500GB NVMe",
+    "price": 1980,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1725873968485.webp"
+  },
+  {
+    "slug": "SPIRIT-U6-Intel-Core-i5-12400F-RTX-3050-16GB-480GB-SSD",
+    "id": "68bc0eda07171818d272df82",
+    "title": "SPIRIT U6 | Intel Core i5-12400F | RTX 3050 | 16GB | 480GB SSD",
+    "price": 1786,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1729517374131.webp"
+  },
+  {
+    "slug": "SPIRIT-U5-AMD-Ryzen-5-5500-RTX-3050-16GB-512GB-SSD",
+    "id": "68bc08b307171818d272de41",
+    "title": "SPIRIT U5 | AMD Ryzen 5 5500 | RTX 3050 | 16GB | 512GB SSD",
+    "price": 1568,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1725873968485.webp"
+  },
+  {
+    "slug": "SPIRIT-U4-Intel-Core-i5-13400F-8GB-512GB-SSD",
+    "id": "68bc051807171818d272de0e",
+    "title": "SPIRIT U4 | Intel Core i5-13400 | 8GB | 512GB SSD",
+    "price": 1568,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1737623348196.webp"
+  },
+  {
+    "slug": "SPIRIT-U3-i5-12400-16GB-512GB-SSD",
+    "id": "68bb151607171818d2728d00",
+    "title": "SPIRIT U3 | Intel Core i5-12400 | 16GB | 512GB SSD",
+    "price": 1139,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1737623348196.webp"
+  },
+  {
+    "slug": "SPIRIT-U2-i5-10400-16GB-240GB-SSD",
+    "id": "68bb125207171818d27264d7",
+    "title": "SPIRIT U2 | Intel Core i5-10400 | 16GB | 240GB SSD",
+    "price": 1041,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1732962661573.webp"
+  },
+  {
+    "slug": "SPIRIT-U1-i5-10400F-8GB-240GB-SSD",
+    "id": "68bb0fc507171818d2723c85",
+    "title": "SPIRIT U1 | Intel Core i5-10400F | 8GB | 240GB SSD",
+    "price": 858,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1737623348196.webp"
+  },
+  {
+    "slug": "Lecteur-de-Codes-a-Barres-HONEYWELL-1472-Bluetooth-1D-2D",
+    "id": "68bb0c9607171818d2715e2f",
+    "title": "Lecteur de Codes à Barres HONEYWELL 1472 Bluetooth 1D/2D",
+    "price": 719,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757089093154.jpg"
+  },
+  {
+    "slug": "Imprimante-etiquettes-Honeywell-PC42T-Reseau",
+    "id": "68bb04e807171818d270743b",
+    "title": "Imprimante d’étiquettes Honeywell PC42T Réseau",
+    "price": 669,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757087046432.jpg"
+  },
+  {
+    "slug": "Sac-A-Dos-Gamer-WHITE-SHARK-VANGUARD-16",
+    "id": "68baff5f07171818d2707354",
+    "title": "Sac à Dos Gamer WHITE SHARK VANGUARD 16",
+    "price": 64,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757085662212.jpg"
+  },
+  {
+    "slug": "Ecran-LG-27US500-27-IPS-4K-UHD-60-Hz-5-ms-Hauteur-pivot",
+    "id": "68baf6c207171818d270725a",
+    "title": "Ecran LG 27US500 27\" IPS 4K UHD | 60 Hz - 5 ms | Hauteur / pivot",
+    "price": 1450,
+    "prixEnPromo": 1299,
+    "discount": 10.413793103448276,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757083495058.webp"
+  },
+  {
+    "slug": "Imprimante-de-Ticket-EPSON-TM-T20X-Ethernet-Noir",
+    "id": "68baf1c907171818d27071bb",
+    "title": "Imprimante de Ticket EPSON TM-T20X Ethernet Noir",
+    "price": 449,
+    "prixEnPromo": 339,
+    "discount": 24.4988864142539,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757082153866.jpg"
+  },
+  {
+    "slug": "MSI-MAG-A300N-H-300W-ATX-Noir",
+    "id": "68bab53807171818d269c9a8",
+    "title": "MSI MAG A300N-H 300W ATX Noir",
+    "price": 89,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1757067305758.webp"
+  },
+  {
+    "slug": "Batti5a-K7-AMD-Ryzen-5-5600-RTX-5060-16GB-Ram-512Go-NVMe",
+    "id": "68b9a8e207171818d268aca2",
+    "title": "Batti5a K7 | AMD Ryzen 5 5600 | RTX 5060 | 16GB Ram | 512Go NVMe",
+    "price": 1929,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1686228178192.webp"
+  },
+  {
+    "slug": "Alienware-AW2725QF-27-4K-UHD-IPS-360Hz-05-ms",
+    "id": "68b99f4907171818d2688eea",
+    "title": "Alienware AW2725QF 27\" 4K UHD IPS 360Hz | 0,5 ms",
+    "price": 2349,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756996927143.webp"
+  },
+  {
+    "slug": "Clavier-Gaming-SteelSeries-Apex-9-TKL-USB-Type-C-Linear-OptiPoint-RVB",
+    "id": "68b9639307171818d265d136",
+    "title": "Clavier Gaming SteelSeries Apex 9 TKL USB Type-C Linear OptiPoint RVB",
+    "price": 580,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756980250829.webp"
+  },
+  {
+    "slug": "Smart-TV-Thomson-Google-TV-75-QLED-Pro-4K-UHD-144Hz-Dolby-Atmos-QLED",
+    "id": "68b9566907171818d2643fb0",
+    "title": "Smart TV Thomson Google TV 75\" QLED Pro 4K UHD 144Hz Dolby Atmos QLED",
+    "price": 3999,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756976985718.webp"
+  },
+  {
+    "slug": "Smart-TV-Thomson-Google-TV-75-UHD-4K-Direct-LED-HDR10-Dolby-Audio",
+    "id": "68b850f5c5e5e404e42a4dde",
+    "title": "Smart TV Thomson Google TV 75\" UHD 4K Direct LED HDR10 Dolby Audio",
+    "price": 3749,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756975601272.webp"
+  },
+  {
+    "slug": "Repeteur-Sans-Fil-D-Link-N300",
+    "id": "68b82921c5e5e404e427de88",
+    "title": "Répéteur Sans Fil D-Link N300",
+    "price": 85,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756899858791.jpg"
+  },
+  {
+    "slug": "Smart-TV-Thomson-Google-TV-65-QLED-Pro-4K-UHD-144Hz-Dolby-Vision-Atmos",
+    "id": "68b823a4c5e5e404e427ddd9",
+    "title": "Smart TV Thomson Google TV 65\" QLED Pro 4K UHD 144Hz |  Dolby Vision & Atmos",
+    "price": 3149,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756898567842.webp"
+  },
+  {
+    "slug": "Smart-TV-Thomson-Google-TV-65-QLED-4K-UHD-Dolby-Vision-Atmos",
+    "id": "68b81a19c5e5e404e427c015",
+    "title": "Smart TV Thomson Google TV 65\" QLED 4K UHD Dolby Vision & Atmos",
+    "price": 2429,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756896522577.webp"
+  },
+  {
+    "slug": "Lenovo-LOQ-15IAX9-Intel-Core-i5-12600HX-RTX-3050-24GB-Ram-512GB-NVMe",
+    "id": "68b70e6618a005848ab8e5a0",
+    "title": "Lenovo LOQ 15IAX9 15.6\" FHD IPS | Intel Core i5-12600HX | RTX 3050 | 24GB Ram | 512GB NVMe",
+    "price": 2599,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756827559559.webp"
+  },
+  {
+    "slug": "Smart-TV-Thomson-Google-TV-55-QLED-Pro-4K-UHD-144Hz-Dolby-Vision-Atmos-HDR10-Smart-TV",
+    "id": "68b6d47b18a005848ab736f6",
+    "title": "Smart TV Thomson Google TV 55\" QLED Pro 4K UHD 144Hz Dolby Vision Atmos HDR10",
+    "price": 2449,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756812559521.webp"
+  },
+  {
+    "slug": "Smart-Tv-Thomson-Google-TV-50-QLED-Pro-4K-UHD-144Hz-Dolby-Vision-Atmos-Smart-TV-Android-11",
+    "id": "68b6bfb318a005848ab69f18",
+    "title": "Smart Tv Thomson Google TV 50\" QLED Pro 4K UHD 144Hz Dolby Vision Atmos | Smart TV Android 11",
+    "price": 2199,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756807353812.webp"
+  },
+  {
+    "slug": "Smart-Tv-Thomson-Google-TV-50-QLED-Plus-4K-UHD-Dolby-Vision-Atmos-Android-11",
+    "id": "68b6bd0118a005848ab68bb3",
+    "title": "Smart Tv Thomson Google TV 50\" QLED Plus 4K UHD | Dolby Vision Atmos | Android 11",
+    "price": 1979,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756806561036.webp"
+  },
+  {
+    "slug": "Clavier-Logitech-G-G413-SE",
+    "id": "68b6abd918a005848ab66536",
+    "title": "Clavier Logitech G G413 SE Mécanique Kaihua | Brown Switch AZERTY Français",
+    "price": 239,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756802197113.png"
+  },
+  {
+    "slug": "WaterCooling-DeepCool-MYSTIQUE-360-WH-ARGB-LCD",
+    "id": "68b5a5a518a005848ab46324",
+    "title": "WaterCooling DeepCool MYSTIQUE 360 WH ARGB | LCD Disaplay",
+    "price": 949,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756735251807.webp"
+  },
+  {
+    "slug": "Pack-Checha-V2-Full-Moniteur-Asus-ROG-Strix-XG259CMS-25-FHD-310Hz-ASUS-2-LED-ROG-Strix-XG27AQMR-2K-",
+    "id": "68b5899118a005848ab3ceca",
+    "title": "Pack Chécha V2 Full Moniteur | Asus ROG Strix XG259CMS - 25\" FHD 310Hz / ASUS 27\" LED - ROG Strix XG27AQMR 2K ",
+    "price": 2998,
+    "prixEnPromo": 2399,
+    "discount": 19.979986657771846,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1726650029980.webp"
+  },
+  {
+    "slug": "Pack-Checha-V1-Gigabyte-RX-9070-XT-16Gb-Moniteur-ASUS-XG27AQMR-2K-IPS-300-Hz-1Ms",
+    "id": "68b5818f18a005848ab31e59",
+    "title": "Pack Chécha V1 | Gigabyte RX 9070 XT 16Gb / Moniteur ASUS XG27AQMR 2K IPS-300 Hz-1Ms",
+    "price": 5298,
+    "prixEnPromo": 3999,
+    "discount": 24.518686296715742,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1726650029980.webp"
+  },
+  {
+    "slug": "Batti5a-K6-AMD-Ryzen-7-7800X3D-RX-9070-XT-32GB-Ram-1TB-NVMe",
+    "id": "68b57d3818a005848ab26b0e",
+    "title": "Batti5a K6 | AMD Ryzen 7 7800X3D | RX 9070 XT | 32GB Ram | 1TB NVMe",
+    "price": 6699,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp"
+  },
+  {
+    "slug": "Batti5a-K5-AMD-Ryzen-5-3600-RTX-3050-16GB-Ram-512Go-NVMe",
+    "id": "68b5736a18a005848ab102e0",
+    "title": "Batti5a K5 | AMD Ryzen 5 3600 | RTX 3050 | 16GB Ram | 512Go NVMe",
+    "price": 1699,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1686228178192.webp"
+  },
+  {
+    "slug": "Doule3a-V1-AMD-Ryzen-9-7900X-RTX-5060-Ti-16GB-64GB-Ram-1TB-NVMe",
+    "id": "68b2f67018a005848aab596b",
+    "title": "Doule3a V1 | AMD Ryzen 9 7900X | RTX 5060 Ti 16GB | 64GB Ram | 1TB NVMe",
+    "price": 5629,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1715956564625.webp"
+  },
+  {
+    "slug": "Asus-Vivobook-15-X1504VA-15-6-FHD-Intel-Core-i3-1315U-8-Go-512-Go-SSD",
+    "id": "68b2d37718a005848aa547fd",
+    "title": "Asus Vivobook 15 X1504VA 15.6\" FHD | Intel Core i3-1315U | 8 Go | 512 Go SSD Silver",
+    "price": 1149,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756744305882.webp"
+  },
+  {
+    "slug": "Asus-Vivobook-15-X1504VA-15-6-FHD-Intel-Core-i3-1315U-8-Go-512-Go-SSD-Blue",
+    "id": "68b2dd4418a005848aa5bba9",
+    "title": "Asus Vivobook 15 X1504VA 15.6\" FHD | Intel Core i3-1315U | 8 Go | 512 Go SSD Blue",
+    "price": 1149,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756553069378.webp"
+  },
+  {
+    "slug": "Support-declairage-en-acier-inoxydable-Visico-LS-5027-S",
+    "id": "68b2b68f18a005848aa3c171",
+    "title": "Support d’éclairage en acier inoxydable Visico LS-5027-S",
+    "price": 140,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756547994779.jpg"
+  },
+  {
+    "slug": "Tablette-Lenovo-TB305XU-8-7-HD-IPS-4GB-128GB-Android-14",
+    "id": "68b1bd29e76893eebcc7e530",
+    "title": "Tablette Lenovo TB305XU 8.7\" HD IPS | 4GB | 128GB | Android 14 ",
+    "price": 399,
+    "prixEnPromo": 0,
+    "discount": 25.06265664160401,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756479634350.jpg"
+  },
+  {
+    "slug": "Asus-Vivobook-16X-OLED-K3605VC-16-OLED-WUXGA-144Hz-Intel-Core-i5-13420H--RTX-3050-8-Go-RAM-512-Go-SSD-Black",
+    "id": "68b2ef2918a005848aa9752d",
+    "title": "Asus Vivobook 16X K3605VC 16\" WUXGA 144Hz | Intel Core i5-13420H  | RTX 3050 | 8 Go RAM | 512 Go SSD Black",
+    "price": 2399,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756805740388.webp"
+  },
+  {
+    "slug": "Asus-Vivobook-16X-OLED-K3605VC-16-OLED-WUXGA-144Hz-Intel-Core-i5-13420H-RTX-3050-8-Go-RAM-512-Go-SSD",
+    "id": "68b1aa5be76893eebcc7a25b",
+    "title": "Asus Vivobook 16X K3605VC 16\" WUXGA 144Hz | Intel Core i5-13420H  | RTX 3050 | 8 Go RAM | 512 Go SSD",
+    "price": 2399,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756744959962.webp"
+  },
+  {
+    "slug": "Dell-Vostro-3530-15-6-FHD-120Hz-Intel-Core-i3-1305U-8GB-Ram-512-GB-NVMe",
+    "id": "68b19ec8e76893eebcc7808a",
+    "title": "Dell Vostro 3530 15.6\" FHD 120Hz | Intel Core i3-1305U | 8GB Ram | 512 GB NVMe",
+    "price": 1079,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756472567869.webp"
+  },
+  {
+    "slug": "Alimentation-AORUS-ELITE-P1000W-80+-Platinum-Modular-PCIe-5.0-ICE",
+    "id": "68b19334e76893eebcc70196",
+    "title": "Alimentation AORUS ELITE P1000W 80+ Platinum Modular PCIe 5.0 ICE",
+    "price": 629,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756468117586.webp"
+  },
+  {
+    "slug": "Thomson-Google-TV-50-QLED-4K-UHD-HDR10-Dolby-Vision-Android-11",
+    "id": "68b18e44e76893eebcc6db78",
+    "title": "Thomson Google TV 50\" QLED 4K UHD | HDR10 & Dolby Vision | Android 11 ",
+    "price": 1499,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756467120670.webp"
+  },
+  {
+    "slug": "Smart-TV-Thomson-Google-TV-50-UHD-4K-Direct-LED-Smart-TV-Android-11-Dolby-Audio",
+    "id": "68b1886fe76893eebcc6dab4",
+    "title": "Smart TV Thomson Google TV 50\" UHD 4K Direct LED | Smart TV Android 12 | Dolby Audio",
+    "price": 1299,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756465655191.webp"
+  },
+  {
+    "slug": "Smart-TV-Thomson-Google-TV-43-QLED-Plus-4K-Dolby-Vision-Atmos-Android-11",
+    "id": "68b18061e76893eebcc6af60",
+    "title": "Smart TV Thomson Google TV 43\" QLED Plus 4K | Dolby Vision & Atmos | Android 11",
+    "price": 1649,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756463346328.webp"
+  },
+  {
+    "slug": "Smart-TV-Thomson-Google-TV-43-QLED-4K-Dolby-Vision-Atmos-Android-11",
+    "id": "68b177c5e76893eebcc6724a",
+    "title": "Smart TV Thomson Google TV 43\" QLED 4K | Dolby Vision & Atmos | Android 11",
+    "price": 1549,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756461148420.webp"
+  },
+  {
+    "slug": "Smart-TV-Thomson-Google-TV-43-FHD-Android-11",
+    "id": "68b16e2ee76893eebcc5388c",
+    "title": "Smart TV Thomson Google TV 43\" FHD |  Android 11",
+    "price": 899,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756460001414.webp"
+  },
+  {
+    "slug": "Wacom-Cintiq-22-FHD-476-x-268-mm-Tactile",
+    "id": "68b083b7e76893eebcc4f79c",
+    "title": "Wacom Cintiq 22'' FHD | 476 x 268 mm | Tactile ",
+    "price": 3919,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756398806519.webp"
+  },
+  {
+    "slug": "Wacom-Small-CTL-472-S-Black-and-Red",
+    "id": "68b07ad00ec598024463c7bc",
+    "title": "Wacom Small CTL-472-S  | Black and Red",
+    "price": 169,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756396790670.png"
+  },
+  {
+    "slug": "Wacom-Intuos-Tablette-Graphique-Black-and-Red",
+    "id": "68b06a3f0ec5980244630b45",
+    "title": "Wacom Intuos Tablette Graphique | Black and Red",
+    "price": 249,
+    "prixEnPromo": null,
+    "discount": null,
+    "img": "https://apibackend.megapc.tn/uploads/gallerie/1756392206451.png"
   }
 ]

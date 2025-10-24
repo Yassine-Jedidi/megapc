@@ -1,0 +1,199 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467120670.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467120670.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////T5+/P6/PXm5ABmZXMNFBkfHShwZJsAIis8AAUYAAAeUnmsAOLh4uLm7N/j5OLf2+ReG69Ntr+WAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467125027.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467125027.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////v8+/T29fn5+QBgZF4REg0AAgBZYlkAYmFeBQgSBwAHZmZpAPv5+fP09e7v8ff19+BkHB+U69ZfAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467128050.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467128050.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWP4/ev3r19//4PAP4bn779ntSz2Do25eOsdw9MP3z3imxgYpDYdecLw8vX7uw9ef/zy7ffvXwDmsSVttEvA3wAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467130495.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467130495.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImQ3KIQEAQQgEwHWEuDJUwKwlHYY2eDQhMPyPHuzu3bm7qmJmujsiSKKqMpOkmeG9B0BE/vYBDPoXjNVRr6QAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467133578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467133578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAL0lEQVQImS3HMQEAMAgEsVfJwogBTCAMF+/m2oFsEWB7dwEBEdHdF0mZeamqmfl5t6Yiz0G0LQ4AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467136522.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467136522.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWOIiYlpbW318fERFxdnKCoq/P/vd2hwqKiwCIOPj/fqVasc7JwYGZgZeHh4+HkFPF09pSSkAMG+Dmx/rBdXAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467139997.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467139997.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWO4e+9BUGyGkY33ocMnGP7//6+oYcbAIPP6zScGDw9PeVk5dg7esLBohsykmHAfWxEGBkNNDQBGuhINjccpZAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467143314.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467143314.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWMojnPO89AykxJWE+JnaG1Mn9KUEx/rFZgRzDA9N2VhW01FVoxzjAcDKwOrgYHVi///tq1dCgCh7xJhoet7FwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467145917.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467145917.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APX19tva1+Pl5e/y9ABaU0ITAAA2Mid7fngAbGlkS0dCTklGgHx5AKalp9jU2Pr5/f///+MDHLNJegjsAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467148959.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467148959.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP3//+/79ujw7vj5+gD65fHDVJikJ3jYt80A9eTudgBLSgAY1q7GAPj39p+bkJmRhvbx8tGjIxdJ9+XaAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467152340.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467152340.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AO/v8P///4KBg5SUlgDi4uP7+/4vLi9YWFkA2NfY7e3yDwAAIA8EAL+/wNLR1k5ISh0GAETBG4+5+wnLAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467159257.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756467159257.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImQ3KIQEAQQgEwHWEuDJUwKwlHYY2eDQhMPyPHuzu3bm7qmJmujsiSKKqMpOkmeG9B0BE/vYBDPoXjNVRr6QAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "68b18e44e76893eebcc6db78",
+  "sku": "50QG4S14",
+  "mpn": "50QG4S14",
+  "titleSeo": "Thomson Google TV 50\" QLED 4K UHD | HDR10 & Dolby Vision | Dolby Audio & Atmos | Android 11 | Meilleur prix Tunisie 2025 | MEGA PC | GIGA TECH",
+  "desciprtionSeo": "Découvrez le Thomson Google TV 50\" QLED 4K UHD 📺, une Smart TV haut de gamme qui transforme votre salon en véritable cinéma maison 🎬. Profitez d’images éclatantes grâce à la technologie QLED 10 bits, le HDR10 et le Dolby Vision, offrant des couleurs ultra-réalistes et des contrastes profonds 🌈. Son processeur CA75x2 & CA55x2 garantit une navigation fluide sur Google TV™ (Android 11), tandis que Google Assistant et Chromecast intégré permettent un contrôle vocal 🎤 et le partage instantané de vos contenus depuis smartphone ou tablette 📲.  Côté son, laissez-vous immerger par Dolby Audio & Dolby Atmos 🔊 pour un rendu surround puissant, idéal pour films, séries et jeux vidéo 🎮. Avec sa connectivité complète (Wi-Fi 2.4/5G, Bluetooth 5.0, 4x HDMI dont 2.1 eARC, 3x USB, Ethernet) et ses pieds latéraux élégants, cette TV allie performance, style et polyvalence 🖤.  En 2025, optez pour le Thomson 50\" QLED et profitez du meilleur rapport qualité/prix en Tunisie ✅.",
+  "ratingValue": "4.7",
+  "reviewCount": "49",
+  "priceValidUntil": "2027-04-05",
+  "referenceInterne": "50QG4S14",
+  "title": "Thomson Google TV 50\" QLED 4K UHD | HDR10 & Dolby Vision | Android 11 ",
+  "title_fr": "Thomson Google TV 50\" QLED 4K UHD | HDR10 & Dolby Vision | Android 11",
+  "description_fr": "<h1><span style=\"font-size:22px\">📺 Thomson Google TV 50&quot; QLED Side Feet &ndash; Le choix ultime pour 2025</span></h1>\n\n<p><span style=\"font-size:22px\">Transformez votre salon en v&eacute;ritable cin&eacute;ma avec la <strong>Thomson Google TV 50&quot; QLED Side Feet</strong> 📺. Avec son &eacute;cran <strong>4K UHD (3840x2160)</strong> et sa <strong>technologie QLED 10 bits</strong>, profitez d&rsquo;images &eacute;clatantes aux couleurs ultra-r&eacute;alistes 🌈. Son <strong>angle de vision 178&deg;/178&deg;</strong>, le support <strong>HDR10</strong> et <strong>Dolby Vision</strong> garantissent des contrastes profonds et des d&eacute;tails saisissants, que vous soyez au centre ou sur le c&ocirc;t&eacute; du canap&eacute;. La TV propose &eacute;galement de nombreux <strong>modes d&rsquo;image</strong> (Standard, Dynamisch, Film, &Ouml;KO, Sanft, Lebendig, Sport, Spiel, Pers&ouml;nlich) pour s&rsquo;adapter &agrave; tous vos contenus 🎬.</span></p>\n\n<p><span style=\"font-size:22px\">Sous le capot, le <strong>processeur CA75x2 1.3GHz + CA55x2 1.15GHz</strong> avec <strong>2 Go de RAM et 16 Go de stockage</strong> assure une navigation fluide sur <strong>Google TV&trade; (Android 11)</strong> 🤖. Profitez d&rsquo;un acc&egrave;s direct aux applications incontournables telles que <strong>YouTube, Netflix, Prime Video, Disney+ et Apple TV</strong> gr&acirc;ce &agrave; la t&eacute;l&eacute;commande intelligente avec boutons d&eacute;di&eacute;s 🎮. Le <strong>Google Assistant</strong> et le <strong>Chromecast int&eacute;gr&eacute;</strong> permettent un contr&ocirc;le vocal intuitif 🎤 et le partage instantan&eacute; de vos contenus depuis vos appareils mobiles 📲.</span></p>\n\n<p><span style=\"font-size:22px\">Pour l&rsquo;audio, cette TV embarque <strong>2x10W</strong>, <strong>Dolby Audio</strong>, <strong>Dolby Atmos</strong> et <strong>Digital Surround</strong>, offrant un son immersif et puissant 🔊. C&ocirc;t&eacute; connectivit&eacute;, elle est parfaitement &eacute;quip&eacute;e avec <strong>Wi-Fi double bande 2.4G+5G</strong>, <strong>Bluetooth 5.0</strong>, <strong>4 ports HDMI (2.0 et 2.1 avec eARC)</strong>, <strong>3 ports USB (2.0 + 3.0)</strong>, <strong>Ethernet RJ-45</strong>, <strong>S/PDIF optique</strong> et compatibilit&eacute; <strong>Unicable I / II</strong> 🔌.</span></p>\n\n<p><span style=\"font-size:22px\">Avec son <strong>design sans cadre</strong>, ses <strong>pieds lat&eacute;raux &eacute;l&eacute;gants</strong>, sa t&eacute;l&eacute;commande r&eacute;tro&eacute;clair&eacute;e et sa compatibilit&eacute; <strong>VESA 200x200</strong>, la <strong>Thomson 50&quot; QLED Side Feet</strong> combine performance et style 🖤. Elle est id&eacute;ale pour le <strong>cin&eacute;ma maison</strong>, le <strong>gaming</strong> 🎮 et le <strong>streaming</strong> en 2025, tout en offrant le <strong>meilleur rapport qualit&eacute;/prix en Tunisie</strong> ✅.</span></p>\n\n<p><img src=\"https://tv.mythomson.com/media/3d/77/81/1725885904/01_Hero_Image_QLED_1920x800px_%281%29.jpg?ts=1725885904\" /></p>\n\n<p><img src=\"https://tv.mythomson.com/media/e4/7e/f9/1718804134/02_Quantum_Dots_QLED_1920x800px_FR.jpg?ts=1718804134\" /></p>\n\n<p><img src=\"https://tv.mythomson.com/media/86/5a/e0/1718795598/02_Dolby_Vision_4K_UHD_2000x2000px.jpg?ts=1718795598\" /></p>\n\n<p><img src=\"https://tv.mythomson.com/media/fc/e4/84/1718795611/03_Dolby_Atmos_4K_UHD_2000x2000px.jpg?ts=1718795611\" /></p>\n\n<p><img src=\"https://tv.mythomson.com/media/9b/d9/8c/1718716207/06_Smart_Voice_Control_4K_UHD_2000x2000px_FR.jpg?ts=1718716207\" /></p>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\">✅ <strong>&Eacute;cran :</strong> 50&quot; QLED UHD 4K (3840x2160) 📺<br />\n✅ <strong>Technologie :</strong> HDR10 &amp; Dolby Vision 🌈<br />\n✅ <strong>Processeur :</strong> CA75x2 1.3GHz + CA55x2 1.15GHz ⚡<br />\n✅ <strong>Audio :</strong> 2x10W, Dolby Audio &amp; Atmos 🔊<br />\n✅ <strong>Smart TV :</strong> Google TV&trade; (Android 11), Google Assistant 🎤<br />\n✅ <strong>Connectivit&eacute; :</strong> Wi-Fi 2.4/5G, Bluetooth 5.0, Ethernet 🌐<br />\n✅ <strong>Ports :</strong> 4x HDMI (2.0 &amp; 2.1 eARC), 3x USB, AV IN, sortie optique 🔌<br />\n✅ <strong>Tuner :</strong> DVB-T/T2/C/S/S2 📡<br />\n✅ <strong>Design :</strong> Frameless, Side Feet, t&eacute;l&eacute;commande r&eacute;tro&eacute;clair&eacute;e ✨<br />\n✅ <strong>Dimensions :</strong> 1111x270x677 mm avec pied 📏<br />\n✅ <strong>Poids :</strong> 10,9 kg ⚖️</span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "68b17376e76893eebcc57a5f",
+    "titre": "THOMSON",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-08-29T09:31:34.076Z",
+    "create_date": "2025-08-29T09:31:34.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "609152957c5055fcd99300f0",
+    "order": 18,
+    "titre": "IMAGE & SON",
+    "description": "<p>Découvrez notre large choix de produits audio &amp; vidéo. Retrouvez les produits des plus grandes marques audio et vidéo sur megapc.tn. Que vous cherchez un appareil photo, une télévision, Récepteurs Numériques, Android TV Box, Home cinéma &amp; Hifi, une solution son numérique, un lecteur enregistreur ou même un système Hifi auto voire une solution d'Affichage dynamique et le meuble qui va avec, vous trouverez tout ce dont vous avez besoin sur megapc.tn !</p>",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1715678880698.webp",
+    "create_date": "2021-05-04T13:56:37.000Z",
+    "update_date": "2025-04-28T10:32:47.251Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "62038900c724088d9739faac",
+    "titre": "SMART TV",
+    "visible": true,
+    "order": 2,
+    "categorie": "609152957c5055fcd99300f0",
+    "update_date": "2024-05-14T16:49:24.550Z",
+    "create_date": "2022-02-09T09:27:28.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1715705364442.webp",
+    "urlPhoto": "/uploads/souscateg/1715705359510.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "62038900c724088d9739faac"
+  ],
+  "lien": "Thomson-Google-TV-50-QLED-4K-UHD-HDR10-Dolby-Vision-Android-11",
+  "gallerie": {
+    "_id": "68b18f0ee76893eebcc6db91",
+    "titre": "THOMSON GOOGLE TV 50\" QLED 4K UHD | HDR10 & DOLBY VISION | ANDROID 11",
+    "urlPhoto": [
+      "/uploads/gallerie/1756467120670.webp",
+      "/uploads/gallerie/1756467125027.webp",
+      "/uploads/gallerie/1756467128050.webp",
+      "/uploads/gallerie/1756467130495.webp",
+      "/uploads/gallerie/1756467133578.webp",
+      "/uploads/gallerie/1756467136522.webp",
+      "/uploads/gallerie/1756467139997.webp",
+      "/uploads/gallerie/1756467143314.webp",
+      "/uploads/gallerie/1756467145917.webp",
+      "/uploads/gallerie/1756467148959.webp",
+      "/uploads/gallerie/1756467152340.webp",
+      "/uploads/gallerie/1756467159257.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-08-29T11:32:39.368Z",
+    "create_date": "2025-08-29T11:29:18.000Z",
+    "__v": 12
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 146,
+  "price": 1499,
+  "tagsSearch": [
+    "THOMSON",
+    "IMAGE & SON",
+    "SMART TV",
+    "QLED 4K"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-08-29T11:25:56.183Z",
+  "update_date": "2025-10-24T16:53:12.877Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

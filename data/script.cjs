@@ -142,7 +142,7 @@ async function main() {
   console.log(`Found ${slugs.length} product slugs from sitemap.`);
   
   // Only take the first 10
-  slugs = slugs.slice(0, 10);
+  slugs = slugs.slice(0, 100);
   console.log(`Processing first ${slugs.length} products...`);
   
   const limit = pLimit(CONCURRENCY);
@@ -176,11 +176,19 @@ async function main() {
     if (fs.existsSync(file)) {
       try {
         const p = JSON.parse(fs.readFileSync(file, 'utf8'));
+        // Calculate discount percentage if prixEnPromo exists
+        let discount = p.discount ?? null;
+        if (p.prixEnPromo && p.price && p.price > p.prixEnPromo) {
+          discount = ((p.price - p.prixEnPromo) / p.price) * 100;
+        }
+
         light.push({
           slug,
           id: p._id || null,
           title: p.title || p.title_fr || slug,
           price: p.price ?? null,
+          prixEnPromo: p.prixEnPromo ?? null,
+          discount: discount,
           img: p?.images?.[0]?.thumbnailImageSrc || p?.gallerie?.urlPhoto?.[0] || null
         });
       } catch {}
