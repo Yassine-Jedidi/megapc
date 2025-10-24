@@ -116,7 +116,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 974,
+  "vue": 977,
   "price": 380,
   "tagsSearch": [
     "GANK",
@@ -127,7 +127,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-01-23T10:22:48.246Z",
-  "update_date": "2025-10-23T19:48:32.737Z",
+  "update_date": "2025-10-24T14:35:48.281Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

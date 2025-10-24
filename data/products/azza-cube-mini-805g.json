@@ -165,7 +165,7 @@
   "commande48H": true,
   "enArrivage": true,
   "new": false,
-  "vue": 3691,
+  "vue": 3695,
   "price": 839,
   "tagsSearch": [
     "AZZA",
@@ -176,7 +176,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2020-11-28T15:57:18.550Z",
-  "update_date": "2025-10-23T17:28:39.724Z",
+  "update_date": "2025-10-24T11:57:20.647Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

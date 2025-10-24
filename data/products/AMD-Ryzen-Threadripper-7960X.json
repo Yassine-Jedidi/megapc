@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1212,
+  "vue": 1213,
   "price": 6400,
   "tagsSearch": [
     "AMD",
@@ -120,7 +120,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-04-10T11:47:59.976Z",
-  "update_date": "2025-10-24T12:47:30.919Z",
+  "update_date": "2025-10-24T16:51:37.816Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -122,7 +122,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 460,
+  "vue": 461,
   "price": 233,
   "tagsSearch": [
     "FANXIANG",
@@ -137,7 +137,7 @@
   "stock": 2,
   "displayForPublic": true,
   "create_date": "2025-03-17T10:00:45.623Z",
-  "update_date": "2025-10-23T23:45:02.130Z",
+  "update_date": "2025-10-24T08:18:48.628Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

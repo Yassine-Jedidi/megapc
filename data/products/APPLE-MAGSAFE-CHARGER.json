@@ -107,7 +107,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 808,
+  "vue": 810,
   "price": 240,
   "tagsSearch": [
     "SAPPHIRE",
@@ -118,7 +118,7 @@
   "stock": 9,
   "displayForPublic": true,
   "create_date": "2024-08-31T08:50:39.013Z",
-  "update_date": "2025-10-24T09:30:39.693Z",
+  "update_date": "2025-10-24T16:17:17.209Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

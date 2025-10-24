@@ -132,7 +132,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3703,
+  "vue": 3705,
   "price": 199,
   "tagsSearch": [
     "MARS",
@@ -144,7 +144,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2024-05-18T13:44:09.131Z",
-  "update_date": "2025-10-23T22:08:08.747Z",
+  "update_date": "2025-10-24T17:10:01.363Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

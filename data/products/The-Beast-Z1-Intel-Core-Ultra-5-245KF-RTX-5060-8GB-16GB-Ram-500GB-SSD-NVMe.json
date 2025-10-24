@@ -164,7 +164,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 739,
+  "vue": 742,
   "price": 3359,
   "tagsSearch": [
     "MSI",
@@ -179,7 +179,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-05-14T11:10:53.920Z",
-  "update_date": "2025-10-24T09:02:29.298Z",
+  "update_date": "2025-10-24T16:34:20.766Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

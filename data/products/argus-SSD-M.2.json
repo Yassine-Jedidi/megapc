@@ -3,12 +3,12 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1706187865616.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1706187865616.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWN48fzF9+/f/4MBg62jGwMjV3Nr17t37xm+fvnWP3kaI5ewqIQMw9+///7////585e7d+4DAGX8ISgiMlMGAAAAAElFTkSuQmCC"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1706187865617.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1706187865617.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOvs7Pr6+v////39/QArLTAAAQmoqK37+/sA9/b3lpaZKS0zBQsRAP79/v////b29sjIynfTIatBrOpcAAAAAElFTkSuQmCC"
     }
   ],
   "_id": "65b25c9e0ba0330b653ff814",
@@ -93,7 +93,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3003,
+  "vue": 3006,
   "price": 72,
   "tagsSearch": [
     "RAIJINTEK",
@@ -107,7 +107,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-01-25T13:05:34.879Z",
-  "update_date": "2025-10-23T14:07:48.335Z",
+  "update_date": "2025-10-24T12:20:02.052Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

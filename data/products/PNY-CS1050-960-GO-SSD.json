@@ -100,7 +100,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 1616,
+  "vue": 1619,
   "price": 306,
   "tagsSearch": [
     "PNY",
@@ -110,7 +110,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2021-04-06T09:35:23.251Z",
-  "update_date": "2025-10-24T11:05:53.369Z",
+  "update_date": "2025-10-24T16:43:58.906Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

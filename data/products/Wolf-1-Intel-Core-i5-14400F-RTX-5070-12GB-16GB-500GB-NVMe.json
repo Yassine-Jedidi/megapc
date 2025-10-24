@@ -148,7 +148,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1059,
+  "vue": 1060,
   "price": 3900,
   "tagsSearch": [
     "INTEL",
@@ -161,7 +161,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-05-31T10:29:13.227Z",
-  "update_date": "2025-10-23T19:00:43.189Z",
+  "update_date": "2025-10-24T08:26:30.407Z",
   "case": {
     "_id": "64354a788ac974073d8587a4",
     "title": "MSI MAG FORGE M100R",

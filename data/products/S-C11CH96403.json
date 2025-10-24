@@ -168,7 +168,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2319,
+  "vue": 2320,
   "price": 1989,
   "tagsSearch": [
     "IMPRESSION",
@@ -181,7 +181,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2023-09-28T14:26:31.485Z",
-  "update_date": "2025-10-24T11:18:05.302Z",
+  "update_date": "2025-10-24T13:31:06.114Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

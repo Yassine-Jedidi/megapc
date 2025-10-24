@@ -95,7 +95,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 435,
+  "vue": 436,
   "price": 139,
   "tagsSearch": [
     "HAYLOU",
@@ -105,7 +105,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-07-01T14:29:41.323Z",
-  "update_date": "2025-10-22T17:48:17.865Z",
+  "update_date": "2025-10-23T21:27:01.561Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

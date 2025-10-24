@@ -157,7 +157,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2296,
+  "vue": 2297,
   "price": 289,
   "tagsSearch": [
     "AEROCOOL",
@@ -168,7 +168,7 @@
   "stock": 9,
   "displayForPublic": true,
   "create_date": "2024-07-24T14:37:00.904Z",
-  "update_date": "2025-10-24T01:22:08.884Z",
+  "update_date": "2025-10-24T01:54:07.103Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

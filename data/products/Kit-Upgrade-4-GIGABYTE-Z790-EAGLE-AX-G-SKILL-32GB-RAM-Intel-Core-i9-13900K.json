@@ -89,7 +89,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 706,
+  "vue": 709,
   "price": 2599,
   "tagsSearch": [
     "KIT UPGRADE INTEL",
@@ -100,7 +100,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-11-02T10:34:37.093Z",
-  "update_date": "2025-10-23T14:49:28.977Z",
+  "update_date": "2025-10-24T14:22:22.402Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

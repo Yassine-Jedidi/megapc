@@ -100,7 +100,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 217,
+  "vue": 218,
   "price": 2417,
   "tagsSearch": [
     "NJOY",
@@ -128,7 +128,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-02-26T09:47:49.475Z",
-  "update_date": "2025-10-23T21:25:23.198Z",
+  "update_date": "2025-10-24T12:22:11.354Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

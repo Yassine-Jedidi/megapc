@@ -96,7 +96,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 443,
+  "vue": 445,
   "price": 265,
   "tagsSearch": [
     "Hikvision",
@@ -106,7 +106,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-06-24T09:04:29.707Z",
-  "update_date": "2025-10-23T21:06:50.048Z",
+  "update_date": "2025-10-24T16:45:48.058Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -3,7 +3,7 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729328978798.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729328978798.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ANzl6WeZspnA1P7//wBwlKMAGUgAYo+jxNQAZImbAA49AGCSa6XAAM3a3kWGoG+qxdbn7t3GG8glJYnJAAAAAElFTkSuQmCC"
     }
   ],
   "_id": "6713763a99de58d4f63f209e",
@@ -151,7 +151,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 1520,
+  "vue": 1525,
   "price": 309,
   "tagsSearch": [
     "INTEL",
@@ -161,7 +161,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-10-19T09:04:58.358Z",
-  "update_date": "2025-10-23T15:45:19.001Z",
+  "update_date": "2025-10-24T17:05:37.677Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

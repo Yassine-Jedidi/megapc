@@ -110,7 +110,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 672,
+  "vue": 673,
   "price": 750,
   "tagsSearch": [
     "SSUPD",
@@ -123,7 +123,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2025-05-30T10:06:43.464Z",
-  "update_date": "2025-10-23T18:23:25.287Z",
+  "update_date": "2025-10-24T07:56:22.127Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

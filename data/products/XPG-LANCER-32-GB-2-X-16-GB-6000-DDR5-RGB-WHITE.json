@@ -96,7 +96,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2381,
+  "vue": 2382,
   "price": 453,
   "tagsSearch": [
     "XPG",
@@ -106,7 +106,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-01-30T11:09:47.444Z",
-  "update_date": "2025-10-24T15:58:52.056Z",
+  "update_date": "2025-10-24T17:00:36.475Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

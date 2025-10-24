@@ -102,7 +102,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 858,
+  "vue": 861,
   "price": 699,
   "tagsSearch": [
     "EPSON",
@@ -110,11 +110,11 @@
     "IMPRIMANTE JET D'ENCRE"
   ],
   "discount": 20.028612303290416,
-  "stock": 9,
+  "stock": 8,
   "prixEnPromo": 559,
   "displayForPublic": true,
   "create_date": "2024-09-20T15:02:01.538Z",
-  "update_date": "2025-10-23T11:22:18.391Z",
+  "update_date": "2025-10-24T16:22:29.157Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

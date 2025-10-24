@@ -92,7 +92,7 @@
   "commande48H": true,
   "enArrivage": false,
   "new": true,
-  "vue": 2218,
+  "vue": 2220,
   "price": 2605,
   "tagsSearch": [
     "SONY",
@@ -105,7 +105,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2024-03-29T11:08:04.299Z",
-  "update_date": "2025-10-23T19:25:11.199Z",
+  "update_date": "2025-10-24T05:12:43.544Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

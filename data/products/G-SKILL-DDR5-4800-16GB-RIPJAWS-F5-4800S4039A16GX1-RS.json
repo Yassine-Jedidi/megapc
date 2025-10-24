@@ -121,7 +121,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 798,
+  "vue": 800,
   "price": 170,
   "tagsSearch": [
     "GREE",
@@ -134,7 +134,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2024-09-14T09:13:11.185Z",
-  "update_date": "2025-10-23T21:30:37.196Z",
+  "update_date": "2025-10-24T10:07:16.548Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

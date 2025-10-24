@@ -105,7 +105,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 416,
+  "vue": 420,
   "price": 50,
   "tagsSearch": [
     "G-LAB",
@@ -115,7 +115,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-06-20T14:15:36.289Z",
-  "update_date": "2025-10-23T17:31:26.761Z",
+  "update_date": "2025-10-24T16:55:47.373Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

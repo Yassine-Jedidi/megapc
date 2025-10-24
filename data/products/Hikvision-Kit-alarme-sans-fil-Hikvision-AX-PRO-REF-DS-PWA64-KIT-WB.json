@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 972,
+  "vue": 973,
   "price": 1390,
   "tagsSearch": [
     "HK",
@@ -100,7 +100,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-06-22T10:44:06.138Z",
-  "update_date": "2025-10-24T16:49:22.691Z",
+  "update_date": "2025-10-24T17:19:19.327Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

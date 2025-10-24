@@ -101,7 +101,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 32315,
+  "vue": 32317,
   "price": 299,
   "tagsSearch": [
     "PLAYSTATION",
@@ -113,7 +113,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2021-03-23T10:09:19.231Z",
-  "update_date": "2025-10-24T16:48:12.625Z",
+  "update_date": "2025-10-24T17:47:23.165Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

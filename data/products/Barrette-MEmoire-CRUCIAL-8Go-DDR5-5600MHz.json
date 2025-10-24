@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 385,
+  "vue": 388,
   "price": 89,
   "tagsSearch": [
     "CRUCIAL",
@@ -100,7 +100,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-30T11:20:13.137Z",
-  "update_date": "2025-10-24T04:32:59.036Z",
+  "update_date": "2025-10-24T13:26:22.401Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

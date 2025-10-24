@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 637,
+  "vue": 642,
   "price": 799,
   "tagsSearch": [
     "PHANTEKS",
@@ -122,7 +122,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2025-05-30T09:10:07.844Z",
-  "update_date": "2025-10-22T23:18:17.928Z",
+  "update_date": "2025-10-24T16:49:33.166Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

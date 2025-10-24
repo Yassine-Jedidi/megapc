@@ -105,7 +105,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 197,
+  "vue": 198,
   "price": 599,
   "tagsSearch": [
     "AKG",
@@ -116,7 +116,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-07-18T15:54:46.533Z",
-  "update_date": "2025-10-23T21:20:00.086Z",
+  "update_date": "2025-10-24T17:29:05.151Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

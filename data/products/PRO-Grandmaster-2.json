@@ -138,7 +138,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 753,
+  "vue": 760,
   "price": 3690,
   "priceHt": null,
   "sale": true,
@@ -174,7 +174,7 @@
   "prixEnPromo": 3390,
   "displayForPublic": true,
   "create_date": "2025-05-19T13:43:32.190Z",
-  "update_date": "2025-10-23T17:35:09.256Z",
+  "update_date": "2025-10-24T16:34:23.084Z",
   "gpu": {
     "_id": "5fa175cb73a604299690b770",
     "title": "Sans Graphique",

@@ -100,7 +100,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2491,
+  "vue": 2493,
   "price": 169,
   "tagsSearch": [
     "UNIVIEW",
@@ -112,7 +112,7 @@
   "prixEnPromo": 139,
   "displayForPublic": true,
   "create_date": "2024-05-03T09:26:02.125Z",
-  "update_date": "2025-10-23T18:00:59.834Z",
+  "update_date": "2025-10-24T16:45:46.167Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

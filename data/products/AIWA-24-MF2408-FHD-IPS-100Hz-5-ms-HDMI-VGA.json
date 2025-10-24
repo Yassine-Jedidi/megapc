@@ -93,7 +93,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2410,
+  "vue": 2415,
   "price": 269,
   "tagsSearch": [
     "AIWA",
@@ -102,10 +102,10 @@
     "100Hz",
     "MF2408"
   ],
-  "stock": 92,
+  "stock": 91,
   "displayForPublic": true,
   "create_date": "2025-07-02T16:30:30.565Z",
-  "update_date": "2025-10-24T01:08:20.365Z",
+  "update_date": "2025-10-24T15:40:02.384Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

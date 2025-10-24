@@ -169,7 +169,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 732,
+  "vue": 735,
   "price": 9690,
   "tagsSearch": [
     "PC Gamer",
@@ -195,7 +195,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-03-12T08:50:50.922Z",
-  "update_date": "2025-10-24T10:24:59.274Z",
+  "update_date": "2025-10-24T15:52:47.446Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

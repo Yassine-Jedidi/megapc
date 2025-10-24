@@ -103,7 +103,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 549,
+  "vue": 552,
   "price": 7140,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -133,7 +133,7 @@
   "prixEnPromo": 6649,
   "displayForPublic": true,
   "create_date": "2025-06-13T12:27:54.874Z",
-  "update_date": "2025-10-23T15:58:42.428Z",
+  "update_date": "2025-10-24T15:56:55.177Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

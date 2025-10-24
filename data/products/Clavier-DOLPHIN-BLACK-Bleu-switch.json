@@ -123,7 +123,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1831,
+  "vue": 1833,
   "price": 55,
   "tagsSearch": [
     "BARACUDA",
@@ -134,7 +134,7 @@
   "stock": 97,
   "displayForPublic": true,
   "create_date": "2025-06-05T12:28:05.862Z",
-  "update_date": "2025-10-24T13:04:14.020Z",
+  "update_date": "2025-10-24T16:59:47.353Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

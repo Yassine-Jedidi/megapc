@@ -96,7 +96,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1064,
+  "vue": 1066,
   "price": 189,
   "tagsSearch": [
     "MEGA PC",
@@ -106,7 +106,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-07-01T11:27:24.792Z",
-  "update_date": "2025-10-23T21:32:04.252Z",
+  "update_date": "2025-10-24T17:29:31.112Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

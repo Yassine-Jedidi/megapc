@@ -116,7 +116,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 860,
+  "vue": 862,
   "price": 240,
   "tagsSearch": [
     "SEGOTEP",
@@ -127,7 +127,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-01-25T08:40:04.682Z",
-  "update_date": "2025-10-22T21:02:42.266Z",
+  "update_date": "2025-10-24T09:42:04.277Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

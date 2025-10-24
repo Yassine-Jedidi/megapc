@@ -124,7 +124,7 @@
   "textCommande": "Lenovo Tunisie ♥",
   "enArrivage": false,
   "new": true,
-  "vue": 9276,
+  "vue": 9281,
   "price": 59,
   "tagsSearch": [
     "LENOVO",
@@ -132,10 +132,10 @@
     "TAPIS",
     "Lenovo Tunisie"
   ],
-  "stock": 3,
+  "stock": 2,
   "displayForPublic": true,
   "create_date": "2022-10-18T00:33:56.770Z",
-  "update_date": "2025-10-24T08:12:25.160Z",
+  "update_date": "2025-10-24T17:18:39.987Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -165,7 +165,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 609,
+  "vue": 611,
   "price": 169,
   "tagsSearch": [
     "SHARKOON",
@@ -175,7 +175,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-10-30T10:19:17.804Z",
-  "update_date": "2025-10-23T21:12:22.131Z",
+  "update_date": "2025-10-24T17:21:46.425Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

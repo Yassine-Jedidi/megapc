@@ -3,7 +3,7 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1728998340951.jpg",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1728998340951.jpg",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQY+PjYGZg4HR2dbG1MGYTFxXnEJYsKC9PS4hmQlQEA05gchTOq4asAAAAASUVORK5CYII="
     }
   ],
   "_id": "670e6c1699de58d4f6e39ccf",
@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 816,
+  "vue": 818,
   "price": 286,
   "tagsSearch": [
     "SILICON POWER",
@@ -101,7 +101,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-10-15T13:20:22.940Z",
-  "update_date": "2025-10-23T15:45:53.678Z",
+  "update_date": "2025-10-24T13:18:31.777Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

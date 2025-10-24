@@ -3,7 +3,7 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724437378241.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724437378241.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP9vEf92Fv+gKP/3UAD/eRb/kSn/lCv/nCYAvjIA53lB9olT/20OADwAAIYPAL0xAN0pAKPvFoB2YVdiAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "6850733efd2984d47c316b7f",
@@ -92,7 +92,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 929,
+  "vue": 937,
   "price": 559,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -103,7 +103,7 @@
   "stock": 99,
   "displayForPublic": true,
   "create_date": "2025-06-16T14:44:42.913Z",
-  "update_date": "2025-10-22T21:07:26.736Z",
+  "update_date": "2025-10-24T17:02:08.263Z",
   "gpu": {
     "_id": "5fa175cb73a604299690b770",
     "title": "Sans Graphique",
@@ -1351,7 +1351,7 @@
     },
     {
       "_id": "6818c0c8c75bcce7a268f775",
-      "title": "GOODRAM SSD PX600 2TB M.2 PCIe 3X4 M.2 2280",
+      "title": "GOODRAM SSD PX600 2TB M.2 PCIe4 X4 M.2 2280",
       "gallerie": {
         "_id": "6818932ac75bcce7a2673ea0",
         "titre": "SSD GOODRAM PX600 1 TO NVME PCIE GEN 4",

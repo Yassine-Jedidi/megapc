@@ -100,7 +100,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 5538,
+  "vue": 5539,
   "price": 229,
   "tagsSearch": [
     "Thermal Grizzly",
@@ -113,7 +113,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2022-08-30T12:21:15.201Z",
-  "update_date": "2025-10-24T09:38:36.986Z",
+  "update_date": "2025-10-24T12:20:31.917Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

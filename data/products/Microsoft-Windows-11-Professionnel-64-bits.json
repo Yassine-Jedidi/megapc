@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 28314,
+  "vue": 28315,
   "price": 120,
   "tagsSearch": [
     "MICROSOFT",
@@ -100,7 +100,7 @@
   "stock": 4,
   "displayForPublic": true,
   "create_date": "2021-10-23T13:25:36.158Z",
-  "update_date": "2025-10-24T16:35:02.406Z",
+  "update_date": "2025-10-24T17:12:26.111Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

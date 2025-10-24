@@ -105,7 +105,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 643,
+  "vue": 645,
   "price": 429,
   "tagsSearch": [
     "SAMSUNG",
@@ -115,7 +115,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-10-16T11:45:41.438Z",
-  "update_date": "2025-10-24T11:55:53.142Z",
+  "update_date": "2025-10-24T15:48:46.173Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

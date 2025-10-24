@@ -89,7 +89,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1131,
+  "vue": 1133,
   "price": 12,
   "tagsSearch": [
     "STARWAVE",
@@ -100,7 +100,7 @@
   "stock": 7,
   "displayForPublic": true,
   "create_date": "2024-07-25T09:10:46.274Z",
-  "update_date": "2025-10-24T03:39:17.854Z",
+  "update_date": "2025-10-24T16:25:07.389Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

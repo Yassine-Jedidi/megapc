@@ -119,7 +119,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 566,
+  "vue": 569,
   "price": 2999,
   "tagsSearch": [
     "HP",
@@ -129,7 +129,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-02-03T10:47:19.509Z",
-  "update_date": "2025-10-23T09:28:47.986Z",
+  "update_date": "2025-10-24T16:35:00.937Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

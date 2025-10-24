@@ -170,7 +170,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 615,
+  "vue": 616,
   "price": 3999,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -184,7 +184,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-06-05T08:27:34.477Z",
-  "update_date": "2025-10-22T19:50:59.072Z",
+  "update_date": "2025-10-23T21:32:53.388Z",
   "gpu": {
     "_id": "67ff8d1f322d05b251867ce6",
     "title": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 16G",

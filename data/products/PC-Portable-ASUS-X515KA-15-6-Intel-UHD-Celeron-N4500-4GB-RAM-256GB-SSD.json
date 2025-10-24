@@ -1,24 +1,19 @@
 {
   "images": [
     {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731080513746.png",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731080513746.png",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVQImQE0AMv/APr//87p7q29yrasiQBxrc0AO2oAVXiPu9AAd4ibAAAUHx8miJ2pAJ+dnG9wcnBwcaOhoeKWGXMx07RIAAAAAElFTkSuQmCC"
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761324299575.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761324299575.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP3//9Di5s3S1/f39wBpn7oAEzwAJENulaoAgZGhAAATJSMogJOeAP78++Xk5Nzb3Pbz8wvSHgxXt/EKAAAAAElFTkSuQmCC"
     },
     {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731080520730.jpg",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731080520730.jpg",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPUlEQVQImWM4dPHqqr1Hr95+8P//fwYGZR8GLu2I8k4QR8kmgIuZNzkt6+r16ww/f3w/e/bs0ydPvn79CgDxUB503maPGQAAAABJRU5ErkJggg=="
-    },
-    {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731081145689.webp",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731081145689.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWP4DwZTtxzYeOAkw////8/cfMTArV04aSHD379/N27aEh8ee/HqDYb379+fOXP6+48f////BwDBeCVPukRsgwAAAABJRU5ErkJggg=="
-    },
-    {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731081159451.webp",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731081159451.webp",
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761324311718.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761324311718.webp",
       "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APv8/PH2+fz8/Pr6+QAWZoMAHDhwe4OXlJQAXHGCAAATeX2C0s/RAP79/PHw8fv7+////00KITiGqqSdAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761324317607.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761324317607.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWP4DwZTtxzYeOAkw////8/cfMTArV04aSHD379/N27aEh8ee/HqDYb379+fOXP6+48f////BwDBeCVPukRsgwAAAABJRU5ErkJggg=="
     }
   ],
   "_id": "672e319599de58d4f644f3ff",
@@ -86,17 +81,16 @@
     "_id": "672e312a99de58d4f644f3e2",
     "titre": "PC PORTABLE ASUS X515KA 15''6 |INTEL UHD|CELERON N4500|4GB RAM|256GB SSD ",
     "urlPhoto": [
-      "/uploads/gallerie/1731080513746.png",
-      "/uploads/gallerie/1731080520730.jpg",
-      "/uploads/gallerie/1731081145689.webp",
-      "/uploads/gallerie/1731081159451.webp"
+      "/uploads/gallerie/1761324299575.webp",
+      "/uploads/gallerie/1761324311718.webp",
+      "/uploads/gallerie/1761324317607.webp"
     ],
     "targetMega": true,
     "targetGiga": true,
     "targetMobile": true,
-    "update_date": "2024-11-08T15:52:39.567Z",
+    "update_date": "2025-10-24T16:45:17.721Z",
     "create_date": "2024-11-08T15:41:30.000Z",
-    "__v": 5
+    "__v": 8
   },
   "visibleHorsStock": false,
   "checkStockWhenPurchased": true,
@@ -107,7 +101,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1273,
+  "vue": 1275,
   "price": 884,
   "tagsSearch": [
     "ASUS",
@@ -122,7 +116,7 @@
   "prixEnPromo": 719,
   "displayForPublic": true,
   "create_date": "2024-11-08T15:43:17.338Z",
-  "update_date": "2025-10-24T16:35:13.642Z",
+  "update_date": "2025-10-24T17:27:59.234Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

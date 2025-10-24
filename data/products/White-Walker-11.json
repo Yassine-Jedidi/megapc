@@ -139,7 +139,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 381,
+  "vue": 384,
   "price": 5749,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -152,10 +152,10 @@
     "AMD Ryzen 5 9600X",
     "ASUS PRIME X670-P WIFI"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-03-06T12:50:39.690Z",
-  "update_date": "2025-10-21T18:58:50.237Z",
+  "update_date": "2025-10-23T17:15:38.353Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

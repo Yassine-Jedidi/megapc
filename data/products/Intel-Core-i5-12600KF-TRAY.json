@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 9987,
+  "vue": 9990,
   "price": 619,
   "tagsSearch": [
     "Intel",
@@ -100,12 +100,12 @@
     "intel Core i5-12600K"
   ],
   "discount": null,
-  "stock": 100,
+  "stock": 99,
   "prixEnPromo": null,
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2021-11-16T09:35:25.281Z",
-  "update_date": "2025-10-23T16:19:31.535Z",
+  "update_date": "2025-10-24T17:16:43.874Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

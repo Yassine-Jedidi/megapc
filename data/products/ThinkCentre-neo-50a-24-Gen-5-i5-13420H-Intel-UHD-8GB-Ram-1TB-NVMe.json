@@ -113,7 +113,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 575,
+  "vue": 576,
   "tagsSearch": [
     "LENOVO",
     "ORDINATEURS",
@@ -122,7 +122,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-02-03T10:19:36.689Z",
-  "update_date": "2025-10-23T21:34:27.492Z",
+  "update_date": "2025-10-24T14:11:59.005Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

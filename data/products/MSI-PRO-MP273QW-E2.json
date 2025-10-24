@@ -116,7 +116,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 611,
+  "vue": 612,
   "price": 599,
   "tagsSearch": [
     "ECRANS PRO",
@@ -127,7 +127,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-25T16:36:02.912Z",
-  "update_date": "2025-10-23T03:33:25.233Z",
+  "update_date": "2025-10-23T21:27:48.259Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

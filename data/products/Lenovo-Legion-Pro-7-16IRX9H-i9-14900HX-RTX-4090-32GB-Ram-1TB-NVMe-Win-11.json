@@ -112,7 +112,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2364,
+  "vue": 2367,
   "price": 12729,
   "tagsSearch": [
     "LENOVO",
@@ -126,7 +126,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-02-04T15:14:23.570Z",
-  "update_date": "2025-10-24T08:05:54.062Z",
+  "update_date": "2025-10-24T13:16:32.554Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

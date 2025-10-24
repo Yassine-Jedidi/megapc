@@ -111,7 +111,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 504,
+  "vue": 505,
   "price": 350,
   "tagsSearch": [
     "GLORIOUS",
@@ -121,7 +121,7 @@
   "stock": 99,
   "displayForPublic": true,
   "create_date": "2025-07-15T11:24:50.584Z",
-  "update_date": "2025-10-24T12:27:10.589Z",
+  "update_date": "2025-10-24T14:02:22.515Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

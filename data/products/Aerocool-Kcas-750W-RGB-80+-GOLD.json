@@ -117,7 +117,7 @@
   "textCommande": "Quantité limitée",
   "enArrivage": false,
   "new": false,
-  "vue": 7705,
+  "vue": 7708,
   "price": 265,
   "tagsSearch": [
     "AEROCOOL",
@@ -130,7 +130,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2021-05-26T12:28:27.317Z",
-  "update_date": "2025-10-24T10:34:35.328Z",
+  "update_date": "2025-10-24T17:30:33.696Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -96,7 +96,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 213,
+  "vue": 214,
   "price": 3078,
   "tagsSearch": [
     "WESTERN DIGITAL",
@@ -106,7 +106,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-10T09:37:15.929Z",
-  "update_date": "2025-10-24T17:12:02.234Z",
+  "update_date": "2025-10-24T17:26:53.679Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

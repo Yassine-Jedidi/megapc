@@ -89,7 +89,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 510,
+  "vue": 512,
   "price": 169,
   "tagsSearch": [
     "EVENTS",
@@ -98,7 +98,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-01-14T13:29:37.779Z",
-  "update_date": "2025-10-23T21:30:21.021Z",
+  "update_date": "2025-10-24T02:19:52.294Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

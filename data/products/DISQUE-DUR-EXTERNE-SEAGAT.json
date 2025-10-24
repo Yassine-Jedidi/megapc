@@ -118,7 +118,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2751,
+  "vue": 2752,
   "price": 549,
   "tagsSearch": [
     "SEGATE",
@@ -128,7 +128,7 @@
   "stock": 5,
   "displayForPublic": true,
   "create_date": "2023-05-09T13:50:58.924Z",
-  "update_date": "2025-10-23T21:15:56.882Z",
+  "update_date": "2025-10-24T08:48:15.842Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

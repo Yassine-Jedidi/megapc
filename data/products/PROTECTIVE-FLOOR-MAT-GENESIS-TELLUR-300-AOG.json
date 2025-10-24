@@ -118,7 +118,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 3873,
+  "vue": 3875,
   "price": 79,
   "tagsSearch": [
     "GENESIS",
@@ -128,7 +128,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2020-06-03T18:24:30.476Z",
-  "update_date": "2025-10-23T21:34:01.817Z",
+  "update_date": "2025-10-24T01:02:10.339Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

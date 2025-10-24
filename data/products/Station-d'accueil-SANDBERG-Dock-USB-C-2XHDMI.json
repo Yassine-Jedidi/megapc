@@ -95,7 +95,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 742,
+  "vue": 743,
   "price": 129,
   "tagsSearch": [
     "SANDBERG",
@@ -105,7 +105,7 @@
   "stock": 8,
   "displayForPublic": true,
   "create_date": "2024-06-11T13:57:53.243Z",
-  "update_date": "2025-10-24T08:27:01.463Z",
+  "update_date": "2025-10-24T17:12:19.823Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

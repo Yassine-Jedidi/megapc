@@ -191,7 +191,7 @@
   "textCommande": "En Arrivage",
   "enArrivage": false,
   "new": true,
-  "vue": 10275,
+  "vue": 10276,
   "price": 1939,
   "tagsSearch": [
     "INTEL",
@@ -205,7 +205,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2022-11-11T09:00:13.557Z",
-  "update_date": "2025-10-23T13:52:30.992Z",
+  "update_date": "2025-10-23T23:10:18.304Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -193,7 +193,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 807,
+  "vue": 809,
   "price": 4049,
   "tagsSearch": [
     "INTEL",
@@ -204,7 +204,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-04-28T11:33:28.761Z",
-  "update_date": "2025-10-22T23:49:42.850Z",
+  "update_date": "2025-10-24T16:42:09.363Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

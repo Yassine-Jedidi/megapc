@@ -123,7 +123,7 @@
   "commande48H": true,
   "enArrivage": false,
   "new": false,
-  "vue": 4544,
+  "vue": 4548,
   "price": 342,
   "tagsSearch": [
     "CORSAIR",
@@ -133,7 +133,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2021-07-13T09:50:52.511Z",
-  "update_date": "2025-10-23T15:43:48.160Z",
+  "update_date": "2025-10-24T13:32:07.342Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

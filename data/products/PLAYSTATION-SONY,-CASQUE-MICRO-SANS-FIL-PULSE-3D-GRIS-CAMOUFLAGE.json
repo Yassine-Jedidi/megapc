@@ -95,7 +95,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 438,
+  "vue": 440,
   "price": 449,
   "tagsSearch": [
     "SONY",
@@ -106,7 +106,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-08-08T16:25:51.647Z",
-  "update_date": "2025-10-23T19:14:21.409Z",
+  "update_date": "2025-10-24T16:41:07.761Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

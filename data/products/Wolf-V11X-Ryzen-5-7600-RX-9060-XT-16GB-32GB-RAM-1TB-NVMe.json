@@ -8,22 +8,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998516.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998516.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImQXBMQ0AMAgEwLfBgAjMdcQG1cOCiiYoIEys9A4zc85R1d2FuwNg5vceIoKIRCQzUVX3XjPr7g/fWBzqC4L3pQAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998517.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998517.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///7S0tJSUlPLy8gDPzs40NDQtLS3Dw8MAvr6+AgICAAAAu7u7APb29qysrHl5ee3t7QtSHQwdu4acAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998518.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998518.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8PDw3d3d+vr6wDm5uZXV1cSEhK5ubkA1dXVMDAwAAAAqampAN3d3XNzcz4+Pry8vA3VG23DfJSKAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998519.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998519.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImQXBoQ0AMAgEwN+BTZkCUYvAdwEkM9UQLCH0DrtrZqqamejuey8RuTtm5pwDICJQVSLCzO+9D1ufH8zJRdG0AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "685a8088fd2984d47c73640a",
@@ -170,7 +170,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 325,
+  "vue": 326,
   "price": 4249,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -183,7 +183,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-06-14T13:20:09.705Z",
-  "update_date": "2025-10-23T21:20:18.724Z",
+  "update_date": "2025-10-24T07:08:10.158Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

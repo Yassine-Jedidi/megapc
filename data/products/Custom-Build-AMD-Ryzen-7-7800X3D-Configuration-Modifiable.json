@@ -92,7 +92,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2745,
+  "vue": 2753,
   "price": 2349,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -103,7 +103,7 @@
   "stock": 98,
   "displayForPublic": true,
   "create_date": "2025-06-17T14:38:50.772Z",
-  "update_date": "2025-10-24T07:38:22.412Z",
+  "update_date": "2025-10-24T17:23:09.891Z",
   "gpu": {
     "_id": "5fa175cb73a604299690b770",
     "title": "Sans Graphique",

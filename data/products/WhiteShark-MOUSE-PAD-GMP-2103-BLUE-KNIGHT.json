@@ -119,7 +119,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 7884,
+  "vue": 7890,
   "price": 25,
   "tagsSearch": [
     "GMP-2103",
@@ -131,7 +131,7 @@
   "stock": 98,
   "displayForPublic": true,
   "create_date": "2021-06-26T13:47:58.599Z",
-  "update_date": "2025-10-23T21:06:21.203Z",
+  "update_date": "2025-10-24T16:28:16.750Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

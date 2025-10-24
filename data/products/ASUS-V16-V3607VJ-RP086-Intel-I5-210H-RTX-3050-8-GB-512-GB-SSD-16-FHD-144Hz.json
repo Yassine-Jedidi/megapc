@@ -177,7 +177,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3000,
+  "vue": 3001,
   "price": 2499,
   "tagsSearch": [
     "ASUS",
@@ -194,7 +194,7 @@
   "prixEnPromo": 2379,
   "displayForPublic": true,
   "create_date": "2024-12-19T13:21:06.409Z",
-  "update_date": "2025-10-24T14:11:19.705Z",
+  "update_date": "2025-10-24T17:04:29.075Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

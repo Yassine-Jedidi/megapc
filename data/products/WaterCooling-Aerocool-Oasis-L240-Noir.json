@@ -3,27 +3,27 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636648995.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636648995.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP4/uNXWKDblPrq////M3x595FJUzQsMx3E+fD+MwMng5G58fGjJxnu3b4trquRV1c1a+oMAAEnG5GIebUkAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636652463.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636652463.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////n49/X39f///wBOXFQADACAfXTe3N4ALzs5CRIPU1BScnJyAP////v4+uno6f39/TcAH4q7fEv1AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636655361.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636655361.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWM4d+6cn6/v2bNn////z7B9+3ZZaendu3eDOHv27GFhYGhsaHz+/DnDzp07C/MLpkyZcvrUaQAioB5j2N5qHwAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636658497.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636658497.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImR3BQQ0AMAgDwBqoH0zxQAFCkErTLeEOtnVso7tJAshMVBXJiJgZ7K6kdz4S7h6aOJPEyAAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636660942.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749636660942.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWP4/fv3fxhgaG5qZGJg2L1z9+1btxlmzpxZXpR/+dLl+/fuM8DVAJUBAMqMJls1/lkyAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "6849552bfd2984d47c08f2cc",
@@ -114,7 +114,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 734,
+  "vue": 738,
   "price": 225,
   "tagsSearch": [
     "AEROCOOL",
@@ -124,7 +124,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-06-11T10:06:35.218Z",
-  "update_date": "2025-10-23T21:28:15.419Z",
+  "update_date": "2025-10-24T17:18:02.199Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

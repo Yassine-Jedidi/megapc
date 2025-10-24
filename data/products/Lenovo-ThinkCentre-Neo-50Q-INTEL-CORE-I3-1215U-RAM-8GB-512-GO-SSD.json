@@ -119,7 +119,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 692,
+  "vue": 694,
   "price": 1059,
   "tagsSearch": [
     "BLIZZARD BATTLENET",
@@ -130,7 +130,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-12-12T11:08:38.745Z",
-  "update_date": "2025-10-23T15:49:28.723Z",
+  "update_date": "2025-10-24T16:34:34.841Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 
 interface Product {
@@ -11,6 +11,20 @@ interface Product {
   discount?: number;
   category?: string;
   subcategory?: string;
+  brand?: string;
+  sku?: string;
+  stock?: number;
+  rating?: string;
+  reviewCount?: string;
+  viewCount?: number;
+  createDate?: string;
+  updateDate?: string;
+  isNew?: boolean;
+  isPromo?: boolean;
+  isVisible?: boolean;
+  isInStock?: boolean;
+  tags?: string[];
+  description?: string;
 }
 
 function ProductList() {
@@ -19,6 +33,9 @@ function ProductList() {
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedCategory, setSelectedCategory] = useState<string>('All');
   const [selectedSubcategory, setSelectedSubcategory] = useState<string>('All');
+  const [stockFilter, setStockFilter] = useState<string>('All');
+  const [minPrice, setMinPrice] = useState<number>(0);
+  const [maxPrice, setMaxPrice] = useState<number>(20000);
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [sortBy, setSortBy] = useState<string>('price-low');
   const productsPerPage = 20;
@@ -52,7 +69,7 @@ function ProductList() {
   }, [selectedCategory]);
 
   // Sort products function
-  const sortProducts = (products: Product[]) => {
+  const sortProducts = useCallback((products: Product[]) => {
     const sorted = [...products].sort((a, b) => {
       switch (sortBy) {
         case 'price-low':
@@ -65,12 +82,24 @@ function ProductList() {
           return b.title.localeCompare(a.title);
         case 'discount-high':
           return (b.discount || 0) - (a.discount || 0);
+        case 'date-newest':
+          return new Date(b.updateDate || b.createDate || 0).getTime() - new Date(a.updateDate || a.createDate || 0).getTime();
+        case 'date-oldest':
+          return new Date(a.updateDate || a.createDate || 0).getTime() - new Date(b.updateDate || b.createDate || 0).getTime();
+        case 'create-newest':
+          return new Date(b.createDate || 0).getTime() - new Date(a.createDate || 0).getTime();
+        case 'create-oldest':
+          return new Date(a.createDate || 0).getTime() - new Date(b.createDate || 0).getTime();
+        case 'update-newest':
+          return new Date(b.updateDate || 0).getTime() - new Date(a.updateDate || 0).getTime();
+        case 'update-oldest':
+          return new Date(a.updateDate || 0).getTime() - new Date(b.updateDate || 0).getTime();
         default:
           return 0;
       }
     });
     return sorted;
-  };
+  }, [sortBy]);
 
   // Filter products by category, subcategory and search
   useEffect(() => {
@@ -86,6 +115,21 @@ function ProductList() {
       filtered = filtered.filter(product => product.subcategory === selectedSubcategory);
     }
 
+    // Filter by stock status
+    if (stockFilter !== 'All') {
+      if (stockFilter === 'In Stock') {
+        filtered = filtered.filter(product => (product.stock || 0) > 0);
+      } else if (stockFilter === 'Out of Stock') {
+        filtered = filtered.filter(product => (product.stock || 0) <= 0);
+      }
+    }
+
+    // Filter by price range
+    filtered = filtered.filter(product => {
+      const price = product.price || 0;
+      return price >= minPrice && price <= maxPrice;
+    });
+
     // Filter by search query
     if (searchQuery.trim()) {
       filtered = filtered.filter(product => 
@@ -99,7 +143,7 @@ function ProductList() {
     const sortedFiltered = sortProducts(filtered);
     setFilteredProducts(sortedFiltered);
     setCurrentPage(1); // Reset to first page when filtering
-  }, [selectedCategory, selectedSubcategory, searchQuery, sortBy, allProducts]);
+  }, [selectedCategory, selectedSubcategory, stockFilter, minPrice, maxPrice, searchQuery, sortProducts, allProducts]);
 
   // Calculate pagination
   const totalPages = Math.ceil(filteredProducts.length / productsPerPage);
@@ -129,17 +173,22 @@ function ProductList() {
       {/* Products Section */}
       <div className="max-w-7xl mx-auto px-4 py-12">
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-gray-800 mb-4">Products</h2>
+          <div className="flex items-center justify-center bg-blue-950/90 rounded-full p-2 w-fit mx-auto mb-4">
+            <img 
+              src="https://megapc.tn/_next/image?url=%2Fassets%2Fimages%2Fmega.png&w=640&q=75" 
+              alt="MegaPC Logo" 
+              className="h-8 w-auto mr-4"
+            />
+          </div>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mx-auto rounded-full"></div>
           <p className="text-gray-600 mt-4">
             Page {currentPage} of {totalPages} • Showing {currentProducts.length} of {filteredProducts.length} products
           </p>
         </div>
 
-        {/* Search and Filter */}
+        {/* Search Input */}
         <div className="mb-8">
-          <div className="flex flex-col xl:flex-row gap-4 justify-center items-center">
-            {/* Search Input */}
+          <div className="flex justify-center mb-6">
             <div className="relative">
               <input
                 type="text"
@@ -164,7 +213,61 @@ function ProductList() {
                 </button>
               )}
             </div>
+          </div>
 
+          {/* Price Range Filter */}
+          <div className="flex justify-center mb-6">
+            <div className="flex items-center space-x-4 bg-white border border-gray-300 rounded-xl px-6 py-3 shadow-lg hover:shadow-xl transition-all duration-300">
+              <span className="text-gray-700 font-semibold">💰 Price Range:</span>
+              <div className="flex items-center space-x-2">
+                <input
+                  type="number"
+                  placeholder="Min"
+                  value={minPrice || ''}
+                  onChange={(e) => setMinPrice(Number(e.target.value) || 0)}
+                  className="w-20 px-3 py-1 border border-gray-300 rounded-lg text-sm font-semibold text-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
+                />
+                <span className="text-gray-500">-</span>
+                <input
+                  type="number"
+                  placeholder="Max"
+                  value={maxPrice || ''}
+                  onChange={(e) => setMaxPrice(Number(e.target.value) || 20000)}
+                  className="w-20 px-3 py-1 border border-gray-300 rounded-lg text-sm font-semibold text-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
+                />
+                <span className="text-gray-500 text-sm">DT</span>
+                <button
+                  onClick={() => {
+                    setMinPrice(0);
+                    setMaxPrice(20000);
+                  }}
+                  className="ml-2 px-3 py-1 bg-gray-100 hover:bg-gray-200 text-gray-600 rounded-lg text-sm font-semibold transition-colors duration-200"
+                >
+                  🔄 Reset
+                </button>
+              </div>
+            </div>
+          </div>
+
+          {/* Filter Controls */}
+          <div className="flex flex-col xl:flex-row gap-4 justify-center items-center">
+            {/* Reset All Filters Button */}
+            <div className="flex justify-center xl:justify-start">
+              <button
+                onClick={() => {
+                  setSelectedCategory('All');
+                  setSelectedSubcategory('All');
+                  setStockFilter('All');
+                  setMinPrice(0);
+                  setMaxPrice(20000);
+                  setSearchQuery('');
+                  setSortBy('price-low');
+                }}
+                className="px-4 py-2 rounded-xl font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl text-gray-600 shadow-gray-300"
+              >
+                🔄
+              </button>
+            </div>
             {/* Category Filter */}
             <div className="relative">
               <select
@@ -206,6 +309,25 @@ function ProductList() {
               </div>
             </div>
 
+            {/* Stock Filter */}
+            <div className="relative">
+              <select
+                value={stockFilter}
+                onChange={(e) => setStockFilter(e.target.value)}
+                className="appearance-none bg-white border border-gray-300 rounded-xl px-6 py-3 pr-10 font-semibold text-gray-700 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent shadow-lg hover:shadow-xl transition-all duration-300 min-w-[200px]"
+              >
+                <option value="All">📦 All Stock Status</option>
+                <option value="In Stock">✅ In Stock Only</option>
+                <option value="Out of Stock">❌ Out of Stock Only</option>
+              </select>
+              <div className="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
+                <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </div>
+            </div>
+
+
             {/* Sort Filter */}
             <div className="relative">
               <select
@@ -218,6 +340,12 @@ function ProductList() {
                 <option value="name-a-z">📝 Name: A to Z</option>
                 <option value="name-z-a">📝 Name: Z to A</option>
                 <option value="discount-high">🔥 Best Discounts</option>
+                <option value="date-newest">📅 Date: Newest First (Any)</option>
+                <option value="date-oldest">📅 Date: Oldest First (Any)</option>
+                <option value="create-newest">📅 Created: Newest First</option>
+                <option value="create-oldest">📅 Created: Oldest First</option>
+                <option value="update-newest">🔄 Updated: Newest First</option>
+                <option value="update-oldest">🔄 Updated: Oldest First</option>
               </select>
               <div className="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
                 <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -226,47 +354,63 @@ function ProductList() {
               </div>
             </div>
           </div>
-
-          {/* Search Results Info */}
-          {(searchQuery || selectedCategory !== 'All' || selectedSubcategory !== 'All' || sortBy !== 'price-low') && (
-            <div className="text-center mt-4">
-              <p className="text-sm text-gray-600">
-                {searchQuery && (
-                  <span>
-                    🔍 Searching for "<span className="font-semibold text-blue-600">{searchQuery}</span>"
-                  </span>
-                )}
-                {searchQuery && (selectedCategory !== 'All' || selectedSubcategory !== 'All' || sortBy !== 'price-low') && (
-                  <span className="mx-2">•</span>
-                )}
-                {selectedCategory !== 'All' && (
-                  <span>
-                    📦 In category "<span className="font-semibold text-purple-600">{selectedCategory}</span>"
-                  </span>
-                )}
-                {selectedCategory !== 'All' && selectedSubcategory !== 'All' && (
-                  <span className="mx-2">•</span>
-                )}
-                {selectedSubcategory !== 'All' && (
-                  <span>
-                    🏷️ In subcategory "<span className="font-semibold text-green-600">{selectedSubcategory}</span>"
-                  </span>
-                )}
-                {sortBy !== 'price-low' && (
-                  <span>
-                    {sortBy === 'price-high' && '💰 Sorted by: Price High to Low'}
-                    {sortBy === 'name-a-z' && '📝 Sorted by: Name A to Z'}
-                    {sortBy === 'name-z-a' && '📝 Sorted by: Name Z to A'}
-                    {sortBy === 'discount-high' && '🔥 Sorted by: Best Discounts'}
-                  </span>
-                )}
-                <span className="ml-2">
-                  ({filteredProducts.length} result{filteredProducts.length !== 1 ? 's' : ''})
-                </span>
-              </p>
-            </div>
-          )}
         </div>
+
+        {/* Search Results Info */}
+        {(searchQuery || selectedCategory !== 'All' || selectedSubcategory !== 'All' || stockFilter !== 'All' || minPrice > 0 || maxPrice < 20000 || sortBy !== 'price-low') && (
+          <div className="text-center mt-4">
+            <p className="text-sm text-gray-600">
+              {searchQuery && (
+                <span>
+                  🔍 Searching for "<span className="font-semibold text-blue-600">{searchQuery}</span>"
+                </span>
+              )}
+              {searchQuery && (selectedCategory !== 'All' || selectedSubcategory !== 'All' || stockFilter !== 'All' || minPrice > 0 || maxPrice < 20000 || sortBy !== 'price-low') && (
+                <span className="mx-2">•</span>
+              )}
+              {selectedCategory !== 'All' && (
+                <span>
+                  📦 In category "<span className="font-semibold text-purple-600">{selectedCategory}</span>"
+                </span>
+              )}
+              {selectedCategory !== 'All' && selectedSubcategory !== 'All' && (
+                <span className="mx-2">•</span>
+              )}
+              {selectedSubcategory !== 'All' && (
+                <span>
+                  🏷️ In subcategory "<span className="font-semibold text-green-600">{selectedSubcategory}</span>"
+                </span>
+              )}
+              {stockFilter !== 'All' && (
+                <span>
+                  📦 Stock: "<span className="font-semibold text-orange-600">{stockFilter}</span>"
+                </span>
+              )}
+              {(minPrice > 0 || maxPrice < 20000) && (
+                <span>
+                  💰 Price: "<span className="font-semibold text-indigo-600">{minPrice} - {maxPrice} DT</span>"
+                </span>
+              )}
+              {sortBy !== 'price-low' && (
+                <span>
+                  {sortBy === 'price-high' && '💰 Sorted by: Price High to Low'}
+                  {sortBy === 'name-a-z' && '📝 Sorted by: Name A to Z'}
+                  {sortBy === 'name-z-a' && '📝 Sorted by: Name Z to A'}
+                  {sortBy === 'discount-high' && '🔥 Sorted by: Best Discounts'}
+                  {sortBy === 'date-newest' && '📅 Sorted by: Newest First (Any Date)'}
+                  {sortBy === 'date-oldest' && '📅 Sorted by: Oldest First (Any Date)'}
+                  {sortBy === 'create-newest' && '📅 Sorted by: Created Newest First'}
+                  {sortBy === 'create-oldest' && '📅 Sorted by: Created Oldest First'}
+                  {sortBy === 'update-newest' && '🔄 Sorted by: Updated Newest First'}
+                  {sortBy === 'update-oldest' && '🔄 Sorted by: Updated Oldest First'}
+                </span>
+              )}
+              <span className="ml-2">
+                ({filteredProducts.length} result{filteredProducts.length !== 1 ? 's' : ''})
+              </span>
+            </p>
+          </div>
+        )}
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
           {currentProducts.map((product) => (
@@ -312,11 +456,70 @@ function ProductList() {
                 </div>
               </div>
 
-              {/* Product Info */}
-              <div className="p-6 bg-gradient-to-b from-white to-gray-50">
-                <h2 className="font-bold text-lg text-gray-900 mb-4 line-clamp-2 group-hover:text-blue-600 transition-colors duration-300 leading-tight">
-                  {product.title}
-                </h2>
+               {/* Product Info */}
+               <div className="p-6 bg-gradient-to-b from-white to-gray-50">
+                 {/* Brand and Status Badges */}
+                 <div className="flex items-center justify-between mb-3">
+                   {product.brand && (
+                     <span className="bg-blue-100 text-blue-700 px-2 py-1 rounded-full text-xs font-semibold">
+                       🏷️ {product.brand}
+                     </span>
+                   )}
+                   <div className="flex items-center space-x-2">
+                     {product.isNew && (
+                       <span className="bg-green-100 text-green-700 px-2 py-1 rounded-full text-xs font-semibold">
+                         ✨ New
+                       </span>
+                     )}
+                     {product.isPromo && (
+                       <span className="bg-orange-100 text-orange-700 px-2 py-1 rounded-full text-xs font-semibold">
+                         🔥 Promo
+                       </span>
+                     )}
+                   </div>
+                 </div>
+
+                 <h2 className="font-bold text-lg text-gray-900 mb-4 line-clamp-2 group-hover:text-blue-600 transition-colors duration-300 leading-tight">
+                   {product.title}
+                 </h2>
+
+                  {/* Product Status and Info */}
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="flex flex-col space-y-2">
+                      {/* Date Information */}
+                      <div className="flex flex-col space-y-1">
+                        {/* Creation Date */}
+                        {product.createDate && (
+                          <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full text-xs font-semibold border border-blue-200 w-fit">
+                            📅 Created: {new Date(product.createDate).toLocaleDateString()}
+                          </span>
+                        )}
+                        
+                        {/* Update Date */}
+                        {product.updateDate && (
+                          <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full text-xs font-semibold border border-purple-200 w-fit">
+                            🔄 Updated: {new Date(product.updateDate).toLocaleDateString()}
+                          </span>
+                        )}
+                      </div>
+                      
+                      {/* Stock Status */}
+                      <span className={`px-3 py-1 rounded-full text-xs font-semibold w-fit ${
+                        (product.stock || 0) > 0 
+                          ? 'bg-green-100 text-green-700 border border-green-200' 
+                          : 'bg-red-100 text-red-700 border border-red-200'
+                      }`}>
+                        {(product.stock || 0) > 0 ? '✅ In Stock' : '❌ Out of Stock'}
+                      </span>
+                    </div>
+                    
+                    {/* View Count */}
+                    {product.viewCount && (
+                      <span className="text-gray-500 text-xs bg-gray-50 px-2 py-1 rounded-full">
+                        👁️ {product.viewCount}
+                      </span>
+                    )}
+                  </div>
                 
                 {/* Enhanced Pricing */}
                 <div className="mb-6">

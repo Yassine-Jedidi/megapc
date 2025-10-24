@@ -104,7 +104,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 1340,
+  "vue": 1341,
   "price": 99,
   "tagsSearch": [
     "IMATION",
@@ -115,7 +115,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-02-11T16:32:49.966Z",
-  "update_date": "2025-10-23T21:13:32.133Z",
+  "update_date": "2025-10-24T11:35:14.803Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

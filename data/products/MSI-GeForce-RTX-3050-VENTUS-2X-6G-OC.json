@@ -3,22 +3,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749642469720.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749642469720.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APTy88bDw6alqPb19wCOj4MIAABFUDv3+fIAr8WbSlFESVE5zc/KAP////X09J2andfW2SqOH7DC7f2BAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749642472255.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749642472255.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAQ0lEQVQImWPIy8uTdXJysvTz87PV19fXZkhMSJhibmr239jA8L+RoeE+hpSklHQnS9OdlgbavWpqao4M////Z2ZAAgC2gRJPCpDbHgAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749642474938.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749642474938.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAQ0lEQVQImWP4+vWr8Pr16xUfP36sOGXKFAmG////zzlx4uT/u3fu/X/w4MF+hps3b+YcP3Tg1NULp4+tX78+gQEdAADLaCNSeyrvkgAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749642477640.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749642477640.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAASElEQVQImWPQ0NDgcXV1tYuNjS11c3aLYmhqaOjycHX7b2lm9t/SzGIfw+SJExucnZyOS4mLh0pJSQkzzJ8/X/7///9MDFAAAOPeFOqTuPJWAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68496c3cfd2984d47c0b646d",
@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1194,
+  "vue": 1195,
   "price": 669,
   "tagsSearch": [
     "MSI",
@@ -119,7 +119,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-11T11:45:00.257Z",
-  "update_date": "2025-10-24T12:18:30.938Z",
+  "update_date": "2025-10-24T15:30:37.049Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -145,7 +145,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1350,
+  "vue": 1352,
   "price": 2779,
   "tagsSearch": [
     "INTEL",
@@ -158,7 +158,7 @@
   "prixEnPromo": 2369,
   "displayForPublic": true,
   "create_date": "2025-05-26T09:41:36.918Z",
-  "update_date": "2025-10-24T14:18:35.083Z",
+  "update_date": "2025-10-24T16:46:17.740Z",
   "case": {
     "_id": "652d1ac437e0a9bf8aac128f",
     "title": "Aerocool Talon G",

@@ -97,7 +97,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2360,
+  "vue": 2362,
   "price": 49,
   "tagsSearch": [
     "XTRFY",
@@ -107,7 +107,7 @@
   "stock": 4,
   "displayForPublic": true,
   "create_date": "2021-01-27T11:12:18.803Z",
-  "update_date": "2025-10-22T19:42:01.684Z",
+  "update_date": "2025-10-24T17:11:29.120Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

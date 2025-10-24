@@ -162,7 +162,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3106,
+  "vue": 3117,
   "price": 3410,
   "priceHt": null,
   "sale": false,
@@ -178,7 +178,7 @@
   "prixEnPromo": 2999,
   "displayForPublic": true,
   "create_date": "2025-05-23T10:06:30.858Z",
-  "update_date": "2025-10-22T21:02:08.706Z",
+  "update_date": "2025-10-24T17:20:34.984Z",
   "case": {
     "_id": "6481cdefc026d6db8d85f3d4",
     "title": "Aerocool Hexform V2 ",
@@ -526,7 +526,7 @@
     },
     {
       "_id": "6818c0c8c75bcce7a268f775",
-      "title": "GOODRAM SSD PX600 2TB M.2 PCIe 3X4 M.2 2280",
+      "title": "GOODRAM SSD PX600 2TB M.2 PCIe4 X4 M.2 2280",
       "gallerie": {
         "_id": "6818932ac75bcce7a2673ea0",
         "titre": "SSD GOODRAM PX600 1 TO NVME PCIE GEN 4",

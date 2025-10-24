@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1214,
+  "vue": 1219,
   "price": 550,
   "tagsSearch": [
     "CARTE MÈRE",
@@ -119,7 +119,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2025-06-17T15:21:43.678Z",
-  "update_date": "2025-10-24T16:09:46.716Z",
+  "update_date": "2025-10-24T17:43:54.103Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

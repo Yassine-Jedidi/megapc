@@ -73,22 +73,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656817658.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656817658.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImR3BwQkAMAgDwAzg30dXcDE3cPAgCEIK3kESyZmRhHciIjNhZlUFwN2h0927+wHR/BvE6Is9bAAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656822409.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656822409.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImR3BsQkAQAgDwJSuYOsCzuBC1k4eEIQ8/B0kkdxdSYiIzKyq7oaZzQwAd4c+knf3AOaWHGPrmvXFAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656825743.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656825743.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAL0lEQVQImWP4jwQYLC0tS0tLOzs7mpqaGBgYGPLz83l4eKSlpRkgCr59+/bz508AM4IeqFntWncAAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656829143.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656829143.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWN4+eLF9WvXPn/+/P//f4aszHRWBgZTQ905s2cxbNq0fu/ePfv37VuwYD7DfyQAAFtPIw2V2Hw+AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "66ea9cf7ace82ffc8f009ca8",
@@ -190,7 +190,7 @@
   "textCommande": "Dans 10 Jours",
   "enArrivage": false,
   "new": true,
-  "vue": 21179,
+  "vue": 21180,
   "price": 1528,
   "tagsSearch": [
     "MEGA PC",
@@ -200,7 +200,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2023-06-08T12:19:27.956Z",
-  "update_date": "2025-10-23T21:16:14.977Z",
+  "update_date": "2025-10-24T00:13:29.183Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

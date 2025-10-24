@@ -91,7 +91,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 498,
+  "vue": 499,
   "price": 799,
   "tagsSearch": [
     "DOWINX",
@@ -103,7 +103,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-08-22T09:26:39.414Z",
-  "update_date": "2025-10-24T16:55:41.760Z",
+  "update_date": "2025-10-24T17:27:38.025Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

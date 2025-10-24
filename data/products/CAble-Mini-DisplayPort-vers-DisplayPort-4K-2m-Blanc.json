@@ -89,7 +89,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 649,
+  "vue": 650,
   "price": 32,
   "tagsSearch": [
     "ACCESSOIRES",
@@ -100,7 +100,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-05-14T13:32:36.021Z",
-  "update_date": "2025-10-24T10:32:51.640Z",
+  "update_date": "2025-10-24T17:16:26.554Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

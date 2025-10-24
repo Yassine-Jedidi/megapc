@@ -115,7 +115,7 @@
   "commande48H": true,
   "enArrivage": false,
   "new": true,
-  "vue": 403,
+  "vue": 406,
   "price": 260,
   "tagsSearch": [
     "HYPERX",
@@ -127,7 +127,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-06-18T10:40:37.669Z",
-  "update_date": "2025-10-23T16:17:34.608Z",
+  "update_date": "2025-10-24T16:58:54.433Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

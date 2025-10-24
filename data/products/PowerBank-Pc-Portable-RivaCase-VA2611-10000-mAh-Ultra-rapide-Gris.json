@@ -114,7 +114,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 351,
+  "vue": 353,
   "price": 88,
   "tagsSearch": [
     "RIVACASE",
@@ -124,7 +124,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-05-13T09:24:36.395Z",
-  "update_date": "2025-10-23T03:39:32.974Z",
+  "update_date": "2025-10-24T17:12:45.554Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

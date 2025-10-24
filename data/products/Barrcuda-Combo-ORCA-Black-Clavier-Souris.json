@@ -120,7 +120,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 860,
+  "vue": 862,
   "price": 49,
   "tagsSearch": [
     "WHITE SHARK",
@@ -130,10 +130,10 @@
     "Jusqu’à 7200 DPI",
     "BGC-011"
   ],
-  "stock": 98,
+  "stock": 97,
   "displayForPublic": true,
   "create_date": "2025-04-15T11:00:30.574Z",
-  "update_date": "2025-10-23T20:14:40.533Z",
+  "update_date": "2025-10-24T16:57:35.775Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

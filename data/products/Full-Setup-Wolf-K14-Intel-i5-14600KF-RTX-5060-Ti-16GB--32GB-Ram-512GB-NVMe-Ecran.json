@@ -103,7 +103,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 799,
+  "vue": 800,
   "price": 3889,
   "tagsSearch": [
     "BAC_2K25",
@@ -118,7 +118,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-23T11:38:22.105Z",
-  "update_date": "2025-10-24T05:51:27.605Z",
+  "update_date": "2025-10-24T09:29:51.431Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -38,7 +38,7 @@
   "title": "ASUS V16 V3607VJ-RP086 | Intel 5-210H | RTX 3050 | 32 GB | 512 GB SSD",
   "title_fr": "ASUS V16 V3607VJ-RP086 | Intel 5-210H | RTX 3050 | 32 GB | 512 GB SSD",
   "description_fr": "<h2>ASUS V16 V3607VJ-RP086 | Intel Core 5-210H | RTX 3050 6Go | 32GB RAM | 512Go NVMe | 16&quot; FHD 144Hz</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le ASUS V16 V3607VJ-RP086 est con&ccedil;u pour offrir performance et fluidit&eacute; dans un ch&acirc;ssis polyvalent. Son processeur Intel Core 5-210H de 12&egrave;me g&eacute;n&eacute;ration, coupl&eacute; &agrave; 32 Go de RAM DDR5 et une carte graphique NVIDIA RTX 3050 avec 6 Go de m&eacute;moire d&eacute;di&eacute;e, assure une exp&eacute;rience de jeu et de travail r&eacute;active. Son &eacute;cran 16&quot;WUXGA (1920 x 1200) 16:10 aspect ratio avec un taux de rafra&icirc;chissement de 144Hz garantit une immersion visuelle exceptionnelle. Avec ses 512 Go de stockage SSD, vous b&eacute;n&eacute;ficiez d&rsquo;un syst&egrave;me rapide et d&rsquo;un espace g&eacute;n&eacute;reux. C&ocirc;t&eacute; connectivit&eacute;, il embarque les derni&egrave;res normes : Wi-Fi 6, Bluetooth 5.3, ports USB multiples et HDMI. Livr&eacute; avec un sac &agrave; dos gaming ASUS AP4600, il est pr&ecirc;t &agrave; vous suivre partout. Fonctionne sous FreeDos et b&eacute;n&eacute;ficie d&rsquo;une garantie de 1 an.</span></p>\n",
-  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">✅ <strong>&Eacute;cran :</strong> 16&quot; WUXGA (1920 x 1200) 16:10 aspect ratio 144Hz 300Nits<br />\n\t✅ <strong>Processeur :</strong> Intel Core 5-210H (2.2 GHz jusqu&#39;&agrave; 4.8 GHz, 12MB Cache, 8 c&oelig;urs, 12 threads)<br />\n\t✅ <strong>RAM :</strong> 32 Go DDR5<br />\n\t✅ <strong>Stockage :</strong> 512 Go SSD<br />\n\t✅ <strong>Carte Graphique :</strong> NVIDIA GeForce RTX 3050 (6 Go GDDR6)<br />\n\t✅ <strong>Connectivit&eacute; :</strong> Wi-Fi 6, Bluetooth 5.3<br />\n\t✅ <strong>Ports :</strong> 1x USB 3.2 Gen 1 Type-C, 2x USB 3.2 Gen 1 Type-A, 1x HDMI, 1x prise combo audio 3.5mm, 1x DC-in<br />\n\t✅ <strong>Accessoire inclus :</strong> Sac &agrave; dos Gaming ASUS AP4600<br />\n\t✅ <strong>Syst&egrave;me :</strong> FreeDos<br />\n\t✅ <strong>Garantie :</strong> 1 an</span></li>\n</ul>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">✅ <strong>&Eacute;cran :</strong> 16&quot; WUXGA (1920 x 1200) 16:10 aspect ratio 144Hz 300Nits<br />\n\t✅ <strong>Processeur :</strong> Intel Core 5-210H (2.2 GHz jusqu&#39;&agrave; 4.8 GHz, 12MB Cache, 8 c&oelig;urs, 12 threads)<br />\n\t✅ <strong>RAM :</strong> 32 Go DDR5<br />\n\t✅ <strong>Stockage :</strong> 512 Go SSD<br />\n\t✅ <strong>Carte Graphique :</strong> NVIDIA GeForce RTX 3050 (6 Go GDDR6)<br />\n\t✅ <strong>Connectivit&eacute; :</strong> Wi-Fi 6, Bluetooth 5.3<br />\n\t✅ <strong>Ports :</strong> 1x USB 3.2 Gen 1 Type-C, 2x USB 3.2 Gen 1 Type-A, 1x HDMI, 1x prise combo audio 3.5mm, 1x DC-in<br />\n\t✅ <strong>Accessoire inclus :</strong> Sac &agrave; dos Gaming ASUS AP4600<br />\n\t✅ <strong>Syst&egrave;me :</strong> FreeDos<br />\n\t✅ <strong>Garantie :</strong> 1 an</span></li>\n\t<li><span style=\"color:#ff0000\"><strong><span style=\"font-size:22px\">Souris Logitech G102 LIGHTSYNC - BLACK Gratuit</span></strong></span></li>\n</ul>\n",
   "notreSelection": true,
   "marque": {
     "_id": "5ea23603a4815052c4d1a428",
@@ -177,7 +177,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2231,
+  "vue": 2236,
   "price": 2695,
   "tagsSearch": [
     "ASUS",
@@ -194,7 +194,7 @@
   "prixEnPromo": 2595,
   "displayForPublic": true,
   "create_date": "2024-12-19T13:21:06.409Z",
-  "update_date": "2025-10-24T08:25:41.705Z",
+  "update_date": "2025-10-24T17:26:33.281Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

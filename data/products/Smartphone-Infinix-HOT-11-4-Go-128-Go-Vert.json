@@ -135,7 +135,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 310,
+  "vue": 311,
   "price": 579,
   "tagsSearch": [
     "INFINIX",
@@ -145,7 +145,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-05-29T14:06:21.329Z",
-  "update_date": "2025-10-23T15:17:31.704Z",
+  "update_date": "2025-10-23T21:18:34.526Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -116,7 +116,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2220,
+  "vue": 2221,
   "price": 1650,
   "tagsSearch": [
     "HYTE",
@@ -128,7 +128,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2025-05-28T09:01:36.247Z",
-  "update_date": "2025-10-24T14:36:17.679Z",
+  "update_date": "2025-10-24T15:54:41.162Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

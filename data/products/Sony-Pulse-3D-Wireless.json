@@ -105,7 +105,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 9394,
+  "vue": 9395,
   "price": 449,
   "tagsSearch": [
     "Pulse",
@@ -120,7 +120,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2022-07-30T13:33:33.929Z",
-  "update_date": "2025-10-24T16:37:20.278Z",
+  "update_date": "2025-10-24T17:20:48.648Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

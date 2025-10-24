@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1573,
+  "vue": 1575,
   "price": 117,
   "tagsSearch": [
     "DATO",
@@ -100,7 +100,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-05-15T16:46:40.790Z",
-  "update_date": "2025-10-24T17:08:42.880Z",
+  "update_date": "2025-10-24T17:31:51.467Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

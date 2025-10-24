@@ -41,13 +41,13 @@
   "miniDescription_fr": "<p><span style=\"font-size:22px\">✅ <strong>PC Portable : </strong>ASUS V16 V3607VJ-RP086</span></p>\n\n<p><span style=\"font-size:22px\">✅ <strong>Processeur : </strong>Intel 5-210H</span></p>\n\n<p><span style=\"font-size:22px\">✅ <strong>Carte Graphique : </strong>NVIDIA GeForce RTX 3050</span></p>\n\n<p><span style=\"font-size:22px\">✅ <strong>RAM : </strong>8GB</span></p>\n\n<p><span style=\"font-size:22px\">✅ <strong>Stockage :</strong> 512GB SSD</span></p>\n\n<p><span style=\"font-size:22px\">✅ <strong>Souris : </strong>LOGITECH M240 Bluetooth Mouse - OFF WHITE - SILENT</span></p>\n\n<p><span style=\"font-size:22px\">✅ <strong>Tapis : </strong>AQIRYS WEBB MEDIUM</span></p>\n\n<p><span style=\"font-size:22px\">✅ <strong>Casque-micro </strong>: Logitech H111</span></p>\n",
   "notreSelection": true,
   "marque": {
-    "_id": "5ea236cca4815052c4d1a42e",
-    "titre": "MEGA PC",
+    "_id": "5ea23603a4815052c4d1a428",
+    "titre": "ASUS",
     "__v": 0,
-    "urlPhoto": "/uploads/marque/1604326630886.webp",
+    "urlPhoto": "/uploads/marque/1604326391751.webp",
     "targetGiga": true,
     "targetMega": true,
-    "create_date": "2020-04-24T00:46:04.000Z"
+    "create_date": "2020-04-24T00:42:43.000Z"
   },
   "categorie": {
     "_id": "61bb23c7a14a1b547a40a936",
@@ -177,7 +177,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1400,
+  "vue": 1410,
   "price": 2649,
   "priceHt": null,
   "sale": true,
@@ -200,14 +200,15 @@
     "PC PORTABLE",
     "PC PORTABLE PRO",
     "PC PORTABLE GAMER",
-    "ACCESSOIRES PC PORTABLE"
+    "ACCESSOIRES PC PORTABLE",
+    "ASUS"
   ],
   "discount": null,
   "stock": 100,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-05-21T09:43:09.821Z",
-  "update_date": "2025-10-23T21:34:09.959Z",
+  "update_date": "2025-10-24T17:18:48.720Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

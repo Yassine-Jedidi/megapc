@@ -132,7 +132,7 @@
   "textCommande": "commande 48h",
   "enArrivage": false,
   "new": false,
-  "vue": 5401,
+  "vue": 5404,
   "price": 25,
   "sale": false,
   "tagsSearch": [
@@ -147,7 +147,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2021-02-18T15:08:36.366Z",
-  "update_date": "2025-10-24T00:06:28.187Z",
+  "update_date": "2025-10-24T17:04:15.503Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

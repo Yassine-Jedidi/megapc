@@ -110,7 +110,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 597,
+  "vue": 600,
   "price": 159,
   "tagsSearch": [
     "RUIX",
@@ -125,7 +125,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-03-19T09:00:41.090Z",
-  "update_date": "2025-10-23T20:29:19.858Z",
+  "update_date": "2025-10-24T16:58:00.751Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

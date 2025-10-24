@@ -145,7 +145,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 651,
+  "vue": 653,
   "price": 5549,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -158,10 +158,10 @@
     "AMD Ryzen 5 9600X",
     "MSI B840 GAMING PLUS WIFI"
   ],
-  "stock": 99,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-03-06T12:50:39.690Z",
-  "update_date": "2025-10-23T01:04:20.111Z",
+  "update_date": "2025-10-23T17:16:08.403Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

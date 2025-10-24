@@ -111,7 +111,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 1653,
+  "vue": 1655,
   "price": 689,
   "tagsSearch": [
     "AIWA",
@@ -121,7 +121,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-01-15T15:36:41.235Z",
-  "update_date": "2025-10-24T07:07:04.343Z",
+  "update_date": "2025-10-24T17:20:32.150Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

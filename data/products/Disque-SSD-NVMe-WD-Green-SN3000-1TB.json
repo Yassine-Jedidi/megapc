@@ -98,7 +98,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 116,
+  "vue": 117,
   "price": 399,
   "tagsSearch": [
     "WD GREEN",
@@ -108,7 +108,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-08T08:28:20.848Z",
-  "update_date": "2025-10-24T17:12:13.095Z",
+  "update_date": "2025-10-24T17:26:03.050Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

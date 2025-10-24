@@ -152,7 +152,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 392,
+  "vue": 394,
   "price": 4949,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -167,7 +167,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-06-14T14:28:18.149Z",
-  "update_date": "2025-10-23T19:25:06.465Z",
+  "update_date": "2025-10-24T13:39:39.811Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

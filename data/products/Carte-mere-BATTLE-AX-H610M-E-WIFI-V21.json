@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1649,
+  "vue": 1656,
   "price": 299,
   "tagsSearch": [
     "COLORFUL",
@@ -119,7 +119,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-03-18T08:12:24.131Z",
-  "update_date": "2025-10-23T20:29:04.946Z",
+  "update_date": "2025-10-24T16:54:36.003Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

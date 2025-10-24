@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 4526,
+  "vue": 4530,
   "price": 39,
   "priceHt": null,
   "tagsSearch": [
@@ -118,10 +118,10 @@
     "MICROPHONES",
     "CASQUE"
   ],
-  "stock": 92,
+  "stock": 91,
   "displayForPublic": true,
   "create_date": "2024-05-29T11:06:14.091Z",
-  "update_date": "2025-10-23T20:35:16.060Z",
+  "update_date": "2025-10-24T16:38:28.501Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

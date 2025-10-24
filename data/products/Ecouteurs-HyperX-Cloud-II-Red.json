@@ -116,7 +116,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 368,
+  "vue": 369,
   "price": 260,
   "tagsSearch": [
     "CASQUE",
@@ -128,7 +128,7 @@
   "stock": 99,
   "displayForPublic": true,
   "create_date": "2025-06-18T10:35:06.563Z",
-  "update_date": "2025-10-23T21:19:05.558Z",
+  "update_date": "2025-10-23T23:54:54.846Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 1101,
+  "vue": 1102,
   "price": 749,
   "tagsSearch": [
     "HONOR",
@@ -118,7 +118,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-01-17T15:45:21.991Z",
-  "update_date": "2025-10-24T05:37:21.075Z",
+  "update_date": "2025-10-24T08:51:34.486Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

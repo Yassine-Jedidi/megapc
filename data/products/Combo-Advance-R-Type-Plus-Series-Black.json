@@ -113,7 +113,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 643,
+  "vue": 647,
   "price": 94,
   "tagsSearch": [
     "ADVANCE",
@@ -123,7 +123,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-11-30T11:36:16.981Z",
-  "update_date": "2025-10-23T17:29:41.436Z",
+  "update_date": "2025-10-24T17:09:05.399Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

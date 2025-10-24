@@ -145,7 +145,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 6146,
+  "vue": 6148,
   "price": 75,
   "tagsSearch": [
     "WHITE SHARK",
@@ -155,7 +155,7 @@
   "stock": 93,
   "displayForPublic": true,
   "create_date": "2022-09-16T11:24:52.614Z",
-  "update_date": "2025-10-24T02:02:45.527Z",
+  "update_date": "2025-10-24T17:02:45.611Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

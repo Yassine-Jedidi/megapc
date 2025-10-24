@@ -102,7 +102,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 870,
+  "vue": 872,
   "price": 65,
   "tagsSearch": [
     "INCA",
@@ -112,7 +112,7 @@
   "stock": 7,
   "displayForPublic": true,
   "create_date": "2024-09-11T08:43:07.336Z",
-  "update_date": "2025-10-24T08:23:12.124Z",
+  "update_date": "2025-10-24T17:00:00.237Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

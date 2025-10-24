@@ -143,6 +143,7 @@ async function main() {
   
   const limit = pLimit(CONCURRENCY);
   let saved = 0;
+  let processed = 0;
 
   await Promise.all(
     slugs.map((slug) =>
@@ -158,6 +159,12 @@ async function main() {
           process.stdout.write(`Saved ${slug}\n`);
         } catch (e) {
           // skip item on error
+        } finally {
+          processed += 1;
+          // Show progress every 100 products
+          if (processed % 100 === 0) {
+            console.log(`\n📊 Progress: ${processed}/${slugs.length} products processed, ${saved} saved successfully`);
+          }
         }
       })
     )
@@ -187,14 +194,33 @@ async function main() {
           discount: discount,
           img: p?.images?.[0]?.thumbnailImageSrc || p?.gallerie?.urlPhoto?.[0] || null,
           category: p.categorie?.titre || 'Other',
-          subcategory: p.filscateg?.titre || null
+          subcategory: p.filscateg?.titre || null,
+          brand: p.marque?.titre || null,
+          sku: p.sku || null,
+          stock: p.stock ?? null,
+          rating: p.ratingValue || null,
+          reviewCount: p.reviewCount || null,
+          viewCount: p.vue || null,
+          createDate: p.create_date || null,
+          updateDate: p.update_date || null,
+          isNew: p.new || false,
+          isPromo: p.enPromo || false,
+          isVisible: p.visible || false,
+          isInStock: p.stock > 0 || false,
+          tags: p.tagsSearch || [],
+          description: p.miniDescription_fr || p.description_fr || null
         });
       } catch {}
     }
   }
   writeJson(path.join(OUT_DIR, 'light-index.json'), light);
 
-  console.log(`\nSaved ${saved}/${slugs.length} products to ${PRODUCTS_DIR}`);
+  console.log(`\n✅ Final Results:`);
+  console.log(`📦 Total products found: ${slugs.length}`);
+  console.log(`💾 Successfully saved: ${saved}`);
+  console.log(`❌ Failed to fetch: ${slugs.length - saved}`);
+  console.log(`📁 Products saved to: ${PRODUCTS_DIR}`);
+  console.log(`📊 Success rate: ${((saved / slugs.length) * 100).toFixed(1)}%`);
 }
 
 main().catch((err) => {

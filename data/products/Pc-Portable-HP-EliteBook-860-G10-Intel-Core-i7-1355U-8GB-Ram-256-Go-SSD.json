@@ -38,7 +38,7 @@
   "title": "Pc Portable HP EliteBook 860 G10 | Intel Core  i7-1355U | 8GB Ram | 256 Go SSD ",
   "title_fr": "Pc Portable HP EliteBook 860 G10 | Intel Core  i7-1355U | 8GB Ram | 256 Go SSD ",
   "description_fr": "<h2>Pc Portable HP EliteBook 860 G10 | Intel Core &nbsp;i7-1355U | 8GB Ram | 256 Go SSD&nbsp;</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le <strong>HP EliteBook 860 G10</strong> est un ordinateur portable performant, id&eacute;al pour les professionnels &agrave; la recherche de fiabilit&eacute; et de puissance. Il est &eacute;quip&eacute; d&#39;un &eacute;cran de 16 pouces WUXGA (1920 x 1200) avec technologie IPS et traitement antireflet, offrant une excellente qualit&eacute; d&#39;affichage. Son c&oelig;ur est un processeur Intel Core i7-1355U de 13&egrave;me g&eacute;n&eacute;ration, capable d&#39;atteindre jusqu&#39;&agrave; 5.0 GHz, accompagn&eacute; de 8 Go de m&eacute;moire DDR5 et d&#39;un disque SSD NVMe de 256 Go pour un stockage rapide et efficace. La carte graphique int&eacute;gr&eacute;e Intel Iris Xe assure des performances visuelles optimis&eacute;es. Ce mod&egrave;le est &eacute;galement dot&eacute; de fonctionnalit&eacute;s avanc&eacute;es comme un lecteur Smart Card, une connectivit&eacute; Wi-Fi 6E et Bluetooth 5.3, une cam&eacute;ra IR de 5 Mpx pour la reconnaissance faciale, et un clavier HP Premium r&eacute;tro&eacute;clair&eacute; et &eacute;tanche, parfait pour une utilisation en toutes conditions. Il est livr&eacute; avec Windows 11 Pro pr&eacute;install&eacute; et arbore une &eacute;l&eacute;gante finition Silver.</span></p>\n",
-  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>&Eacute;cran</strong> : 16&quot; WUXGA, IPS, antireflet</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Processeur</strong> : i7-1355U (13&egrave;me g&eacute;n&eacute;ration)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>M&eacute;moire</strong> : 8 Go DDR5</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Stockage</strong> : SSD 256 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Graphique</strong> : Intel Iris Xe</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Connectivit&eacute;</strong> : Wi-Fi 6E, Bluetooth 5.3</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cam&eacute;ra</strong> : IR 5 Mpx</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Clavier</strong> : R&eacute;tro&eacute;clair&eacute;, &eacute;tanche</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Syst&egrave;me</strong> : Windows 11 Pro</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Couleur</strong> : Silver</span></li>\n\t<li><strong><span style=\"font-size:22px\">Garantie : 3 ans</span></strong></li>\n</ul>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>&Eacute;cran</strong> : 16&quot; WUXGA, IPS, antireflet</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Processeur</strong> : i7-1355U (13&egrave;me g&eacute;n&eacute;ration)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>M&eacute;moire</strong> : 8 Go DDR5</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Stockage</strong> : SSD 256 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Graphique</strong> : Intel Iris Xe</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Connectivit&eacute;</strong> : Wi-Fi 6E, Bluetooth 5.3</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cam&eacute;ra</strong> : IR 5 Mpx</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Clavier</strong> : R&eacute;tro&eacute;clair&eacute;, &eacute;tanche</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Syst&egrave;me</strong> : Windows 11 Pro</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Couleur</strong> : Silver</span></li>\n\t<li><strong><span style=\"font-size:22px\">Garantie : 3 ans</span></strong></li>\n\t<li><span style=\"color:#ff0000\"><strong><span style=\"font-size:22px\">Souris Logitech G102 LIGHTSYNC - BLACK Gratuit&nbsp;</span></strong></span><br />\n\t&nbsp;</li>\n</ul>\n",
   "notreSelection": true,
   "marque": {
     "_id": "5ea23596a4815052c4d1a426",
@@ -112,7 +112,7 @@
   "commande48H": true,
   "enArrivage": false,
   "new": true,
-  "vue": 572,
+  "vue": 576,
   "price": 5199,
   "tagsSearch": [
     "HP",
@@ -125,7 +125,7 @@
   "prixEnPromo": 4709,
   "displayForPublic": true,
   "create_date": "2024-08-20T08:36:46.956Z",
-  "update_date": "2025-10-23T10:48:42.661Z",
+  "update_date": "2025-10-24T17:39:51.378Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

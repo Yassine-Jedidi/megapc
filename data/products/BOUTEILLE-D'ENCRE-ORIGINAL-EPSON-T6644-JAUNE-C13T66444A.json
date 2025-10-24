@@ -88,7 +88,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 281,
+  "vue": 282,
   "price": 29,
   "tagsSearch": [
     "EPSON",
@@ -99,7 +99,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-10-18T10:24:58.581Z",
-  "update_date": "2025-10-23T21:24:03.798Z",
+  "update_date": "2025-10-24T08:01:01.698Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

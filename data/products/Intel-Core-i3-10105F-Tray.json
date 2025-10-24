@@ -137,7 +137,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 15384,
+  "vue": 15388,
   "price": 229,
   "tagsSearch": [
     "10105F",
@@ -154,7 +154,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2021-07-19T17:13:44.839Z",
-  "update_date": "2025-10-23T18:18:52.528Z",
+  "update_date": "2025-10-24T16:26:06.664Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

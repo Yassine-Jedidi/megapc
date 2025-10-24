@@ -3,27 +3,27 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044143641.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044143641.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXc2KSQhbamn////wCafmYCAABfZlnu7ewAzdG5o6iYSk1Ij46OAP////j3+Kelp+Pj4x0IH/SQlO05AAAAAElFTkSuQmCC"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044147098.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044147098.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImWP4DwP//v1jOH36tIenj56hyeLFSxgmTJjAyMCoq2uwZcsWhm/fvn3/9v3/v3////0HAHoyIcJLRoYOAAAAAElFTkSuQmCC"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044149954.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044149954.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4jwQYFi9abGxs6uTsNm/efIbJkyYzMjBqaupMnz6D4c/vP39+//7/7x9QGQBhnyD5EJJBewAAAABJRU5ErkJggg=="
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044154076.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044154076.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAL0lEQVQImWP4DwL/wOR/hkmTJgkJCVhaWC5ZvIShv79fTFyCgYGtva2DAaIAohYAREIf8zeR9hMAAAAASUVORK5CYII="
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044156471.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749044156471.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVQImWP4jwQY1q1bx8DAICcre+jQIYYpU6YICwupq6nu2L6DAVkZAFo8IR5SQYVCAAAAAElFTkSuQmCC"
     }
   ],
   "_id": "68404a71fd2984d47cef8c70",
@@ -114,7 +114,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 967,
+  "vue": 968,
   "price": 1149,
   "tagsSearch": [
     "GIGABYTE",
@@ -124,7 +124,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-04T13:30:25.547Z",
-  "update_date": "2025-10-23T16:40:33.367Z",
+  "update_date": "2025-10-23T20:29:04.913Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -105,7 +105,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1627,
+  "vue": 1628,
   "price": 2349,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -116,7 +116,7 @@
   "stock": 94,
   "displayForPublic": true,
   "create_date": "2025-07-24T10:29:57.749Z",
-  "update_date": "2025-10-24T16:06:09.606Z",
+  "update_date": "2025-10-24T17:28:59.002Z",
   "case": {
     "_id": "652d1ac437e0a9bf8aac128f",
     "title": "Aerocool Talon G",

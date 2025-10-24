@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 796,
+  "vue": 798,
   "price": 289,
   "tagsSearch": [
     "SENNHEISER",
@@ -125,7 +125,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-11-04T13:48:48.718Z",
-  "update_date": "2025-10-22T23:47:33.723Z",
+  "update_date": "2025-10-24T17:15:01.472Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],
