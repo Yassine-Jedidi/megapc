@@ -1,0 +1,217 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1759492858517.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1759492858517.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APz//9nf49nj7djRtAC9wsMEAARLNy3e1MsAu7a2JhwXKB0Yr6ioAMDAwKKlqaCjp7S0uCrbHSirj+pBAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1759492864963.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1759492864963.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APT09M7Oz/7+/v///wD///9qam5vcHP///8A4eHikpKUAAAIo6SlAOrr683NzsbGx+7u7tfgJGLpnFs0AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1759492864964.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1759492864964.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APz8/f///vX5/Nrc3QD////19vZNR0aHeXEA3NzdjYyLEgAAjoqJAPHx8crKy9XY3Pf4+dw8JCeVJrfOAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "652fdcbf37e0a9bf8a368d02",
+  "sku": "5530-G15-I5",
+  "mpn": "5530-G15-I5",
+  "titleSeo": "DELL G15 5530 | 15.6\" | i5- 13450HX | RTX 3050 | 16GB RAM | 512GB SSD | Pc Portable Gamer | MEGA PC",
+  "desciprtionSeo": "DELL G15 5530 | 15.6\" | i5- 13450HX | RTX 3050 | 16GB RAM | 512GB SSD | Pc Portable Gamer | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "5530-G15-I5",
+  "title": " DELL G15 5530 | 15.6\" | i5- 13450HX | RTX 3050 | 16GB RAM | 512GB SSD",
+  "title_fr": " DELL G15 5530 | 15.6\" | i5- 13450HX | RTX 3050 | 16GB RAM | 512GB SSD",
+  "description_fr": "<h2>&nbsp;DELL G15 5530 | 15.6&quot; | i5- 13450HX | RTX 3050 | 16GB RAM | 512GB SSD</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le Dell G15 5530 est un ordinateur portable de jeu abordable qui offre de bonnes performances pour son prix. Il est &eacute;quip&eacute; d&#39;un processeur Intel Core i5-13450HX, d&#39;une carte graphique NVIDIA GeForce RTX 3050, de 16 Go de RAM et d&#39;un SSD de 512 Go.</span></p>\n\n<p><span style=\"font-size:22px\">L&#39;&eacute;cran du G15 5530 est un &eacute;cran IPS de 15,6 pouces avec une r&eacute;solution Full HD (1920 x 1080 pixels) et un taux de rafra&icirc;chissement de 165 Hz. Cela signifie que les jeux seront fluides et r&eacute;actifs, m&ecirc;me dans les sc&egrave;nes d&#39;action les plus intenses.</span></p>\n\n<p><span style=\"font-size:22px\">Le G15 5530 est &eacute;galement dot&eacute; d&#39;un clavier r&eacute;tro&eacute;clair&eacute; RGB, d&#39;une webcam HD et d&#39;une batterie de 56 Wh. Il est donc bien &eacute;quip&eacute; pour jouer, travailler et surfer sur le Web toute la journ&eacute;e.</span></p>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\">&bull; Afficheur: 15.6&quot; FHD 120Hz<br />\n&bull; Processeur : Intel i5-13450HX (10 Cores/4.6 GHz Turbo)<br />\n&bull; Chipset Graphique: NVIDIA RTX 3050 6GB GDDR6<br />\n&bull; Ram: 16GB DDR5 4800 MHz<br />\n&bull; Stockage: 512GB SSD<br />\n&bull; Communication: Wifi 6 - Bluetooth<br />\n&bull; Clavier: Clavier R&eacute;tro&eacute;clair&eacute; monochrome (Blanc)<br />\n&bull; Syst&egrave;me d&#39;exploitation: UBUNTU</span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea2359ca4815052c4d1a427",
+    "titre": "DELL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326347940.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:41:00.000Z"
+  },
+  "categorie": {
+    "_id": "61bb23c7a14a1b547a40a936",
+    "titre": "PC PORTABLE",
+    "order": 2,
+    "visible": true,
+    "update_date": "2025-04-28T10:29:51.496Z",
+    "create_date": "2021-12-16T11:32:23.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1639654349693.png",
+    "reference": "externe",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "61bb354da14a1b547a472912",
+    "titre": "PC PORTABLE GAMER",
+    "visible": true,
+    "order": 0,
+    "categorie": "61bb23c7a14a1b547a40a936",
+    "update_date": "2021-12-17T08:54:55.630Z",
+    "create_date": "2021-12-16T12:47:09.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1639731295537.webp",
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Résolution Max",
+      "valeur": "FHD (1920 x 1080)",
+      "enable": true,
+      "_id": "60a8e1ddbf2002152c8c2cd2"
+    },
+    {
+      "cle": "Type de Dalle",
+      "valeur": "IPS",
+      "enable": true,
+      "_id": "60a8e1ddbf2002152c8c2cd4"
+    },
+    {
+      "cle": "Taille de l'écran",
+      "valeur": "16\"",
+      "enable": true,
+      "_id": "60a8e1ddbf2002152c8c2cd5"
+    },
+    {
+      "cle": "Taux de rafraîchissement",
+      "valeur": "120 Hz",
+      "enable": true,
+      "_id": "60a8e1ddbf2002152c8c2cd6"
+    },
+    {
+      "cle": "Processeur",
+      "valeur": "Intel Core i5-13450HX",
+      "enable": true,
+      "_id": "60a8e1ddbf2002152c8c2cd7"
+    },
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.40 GHz",
+      "enable": true,
+      "_id": "612a19e2db39ccf4423c8513"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "16 GB",
+      "enable": true,
+      "_id": "63f9c8128ac974073d595c97"
+    },
+    {
+      "cle": "Chipset Graphique",
+      "valeur": "RTX 3050",
+      "enable": true,
+      "_id": "68cd7138060b6d83e563c846"
+    },
+    {
+      "cle": "Taille de la mémoire vidéo",
+      "valeur": "6 GB",
+      "enable": true,
+      "_id": "68cd7138060b6d83e563c847"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "512 SSD",
+      "enable": true,
+      "_id": "68cd7138060b6d83e563c848"
+    },
+    {
+      "cle": "Système d'exploitation",
+      "valeur": "UBUNTU",
+      "enable": true,
+      "_id": "68cd7138060b6d83e563c849"
+    },
+    {
+      "cle": "Fréquence CPU Turbo",
+      "valeur": "4.60 GHz",
+      "enable": true,
+      "_id": "68cd7138060b6d83e563c84a"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "61bb354da14a1b547a472912"
+  ],
+  "lien": "DELL-G15-5530",
+  "gallerie": {
+    "_id": "652fdc3d37e0a9bf8a35f888",
+    "titre": " DELL G15 5530 | 15.6\" | I5- 13450HX | RTX 3050 | 16GB RAM | 512GB SSD",
+    "urlPhoto": [
+      "/uploads/gallerie/1759492858517.webp",
+      "/uploads/gallerie/1759492864963.webp",
+      "/uploads/gallerie/1759492864964.webp"
+    ],
+    "update_date": "2025-10-03T12:01:08.528Z",
+    "create_date": "2023-10-18T13:23:09.000Z",
+    "__v": 5,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": false,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 6987,
+  "price": 2599,
+  "tagsSearch": [
+    "DELL",
+    "PC PORTABLE",
+    "PC GAMER",
+    "PC PORTABLE GAMER",
+    "G15 5530 Core i5-13450 HX 15,6 FHD 16Go 512Go RTX 3050 6GB Ubuntu 36M"
+  ],
+  "discount": 5.386687187379762,
+  "stock": 96,
+  "prixEnPromo": 2459,
+  "displayForPublic": true,
+  "create_date": "2023-10-18T13:25:19.851Z",
+  "update_date": "2025-10-24T17:12:45.542Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

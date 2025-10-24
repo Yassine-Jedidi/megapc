@@ -1,0 +1,192 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABUUF/4AAAT/R01T/p+z7P8AFhYW/iImIf+CiYX+n7Xb/wBJPzr+AAUH/0ZMTf5lY2b/AJWBav5rY1D/nZF1/v/93v/w+CGyCAVy0QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/j5XViZlpTWNHGxwAvKTYAABGdp6+zu7sAAAAWJCg39v//scTDAG5ma0NESd/n7UBLTGlBF4FrfjiUAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAADBP4SFBT/Vl1d/pCbo/8AYWhm/ujx7v/4///+kZuW/wBXXl7+bnd4/5KUj/6bkoT/AAABAf4ABAT/Q0tN/si+q//F+iSiJaDefQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWNQUlVhYGTjFhYxsLBgkFZSUFFXVVZTZWBhZwjxNGNgZpBRlHG0MWb4/2v3/N4sC0OlfYvKALm1CxWKc9EmAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWNg4ZfiFBSTV1eJy2xmYOCQYOATcfT1bJ99lMHd05OBic3Rzy88KZPh2cVN25Z0lRfG///zCQAcZxBz5a3PzAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPQ0lLT1NEQFBVkYGBgSE1NuHHt3KQp3bZ29gxhYYH//3/buWtTWkYmg6yctJOTQ3pmWmxYMAChhBHjfcvTYgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "imgBlur": "/assets/placeholder/mock-blur.png"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "/assets/placeholder/mock-blur.png"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "/assets/placeholder/mock-blur.png"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "imgBlur": "/assets/placeholder/mock-blur.png"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "imgBlur": "/assets/placeholder/mock-blur.png"
+    }
+  ],
+  "_id": "6884b8df38284c844342f2dc",
+  "sku": "Dracarys V17",
+  "mpn": "Dracarys V17",
+  "titleSeo": "Dracarys V17 | AMD Ryzen 7 7800X3D + RTX 5070 12GB | PC Gamer haut de gamme au meilleur prix en Tunisie 🇹🇳 | MEGA PC | GIGA",
+  "desciprtionSeo": " Dominez vos parties avec le Dracarys V17, un PC gamer ultime assemblé autour du puissant AMD Ryzen 7 7800X3D et de la GIGABYTE RTX 5070 12GB GAMING OC 🎮. Boosté par 32GB de RAM DDR5 6000MHz, un SSD NVMe 500Go Gen 4.0, et un refroidissement DeepCool AK620, ce setup est taillé pour les jeux 2K/4K, le streaming, et le montage vidéo 🔥. Offert au meilleur rapport qualité/prix en Tunisie, disponible chez Mega PC 🇹🇳. #DracarysV17 #PCGamerTunisie #Ryzen7800X3D #RTX5070 #MegaPC",
+  "ratingValue": "4.7",
+  "reviewCount": "49",
+  "priceValidUntil": "2027-04-05",
+  "referenceInterne": "Dracarys V17",
+  "title": "Dracarys V17 | AMD Ryzen 7 7800X3D | RTX 5070 12GB | 32GB Ram | 500GB NVMe  ",
+  "title_fr": "Dracarys V17 | AMD Ryzen 7 7800X3D | RTX 5070 12GB | 32GB Ram | 500GB NVMe  ",
+  "description_fr": "<p><span style=\"font-size:22px\">🔥 <strong>Dracarys V17 &ndash; L&rsquo;&eacute;lite du PC Gamer avec AMD Ryzen 7 7800X3D &amp; RTX 5070 12GB pour une performance ultime en Tunisie</strong> 🎮💻</span></p>\n\n<p><span style=\"font-size:22px\">Le <strong>Dracarys V17</strong> est un monstre de puissance con&ccedil;u pour les gamers exigeants et les cr&eacute;ateurs de contenu &agrave; la recherche d&#39;une configuration de nouvelle g&eacute;n&eacute;ration. 💥 Au c&oelig;ur de cette machine se trouve le redoutable <strong>AMD Ryzen 7 7800X3D</strong> (avec 96MB de cache L3 et boost jusqu&rsquo;&agrave; 5.0 GHz) 🧠, r&eacute;put&eacute; pour sa sup&eacute;riorit&eacute; dans le gaming gr&acirc;ce &agrave; la technologie 3D V-Cache.</span></p>\n\n<p><span style=\"font-size:22px\">Pour le graphisme, la <strong>GIGABYTE GeForce RTX 5070 GAMING OC 12GB</strong> 🎮 assure un rendu visuel &eacute;poustouflant, compatible Ray Tracing et DLSS 3.5, id&eacute;ale pour les jeux AAA en 2K/4K et la production graphique avanc&eacute;e.</span></p>\n\n<p><span style=\"font-size:22px\">Cette b&ecirc;te est soutenue par <strong>32GB de RAM DDR5 G.SKILL Ripjaws M5 NEO cadenc&eacute;e &agrave; 6000MHz</strong> 🧠, garantissant fluidit&eacute; et multit&acirc;che sans faille. Le tout est orchestr&eacute; par la <strong>carte m&egrave;re MSI B650M PROJECT ZERO</strong>, un chef-d&rsquo;&oelig;uvre de design &eacute;pur&eacute; et d&rsquo;optimisation, int&eacute;gr&eacute;e dans le sublime <strong>bo&icirc;tier MSI MAG PANO M100R PZ BLACK</strong> 🖥️ &agrave; architecture Project Zero.</span></p>\n\n<p><span style=\"font-size:22px\">Le stockage rapide est assur&eacute; par un <strong>SSD NVMe Silicon Power SP UD90 de 500GB</strong> 💾 en Gen 4.0, pour des chargements instantan&eacute;s. C&ocirc;t&eacute; refroidissement, le <strong>DeepCool AK620 Zero Dark</strong> ❄️ maintient le syst&egrave;me au frais m&ecirc;me lors des sessions intenses. Le tout aliment&eacute; par une <strong>AeroCool LUX 750W 80+ Bronze RGB</strong> ⚡.</span></p>\n\n<p><span style=\"font-size:22px\">Ce PC est une v&eacute;ritable vitrine technologique 2025 &ndash; parfait pour le gaming ultra fluide, le streaming, ou le montage 4K. Disponible chez Mega PC au <strong>meilleur prix en Tunisie</strong> 🇹🇳. Rejoignez l&rsquo;&eacute;lite et dominez chaque partie avec style. 🚀</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🧠 <strong>Processeur</strong> : AMD Ryzen 7 7800X3D (5.0 GHz max)</span></li>\n\t<li><span style=\"font-size:22px\">🧩 <strong>Carte M&egrave;re</strong> : MSI B650M PROJECT ZERO</span></li>\n\t<li><span style=\"font-size:22px\">🧠 <strong>RAM</strong> : G.SKILL Ripjaws M5 NEO 32GB (2x16GB) DDR5 6000MHz</span></li>\n\t<li><span style=\"font-size:22px\">💾 <strong>Stockage</strong> : Silicon Power SP UD90 NVMe 500Go Gen 4.0</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte Graphique</strong> : GIGABYTE GeForce RTX 5070 GAMING OC 12GB</span></li>\n\t<li><span style=\"font-size:22px\">⚡ <strong>Alimentation</strong> : AeroCool LUX 750W 80+ Bronze RGB</span></li>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>Bo&icirc;tier</strong> : MSI MAG PANO M100R PZ BLACK</span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#ff0000\">❄️ <strong>Refroidissement</strong> : DeepCool AK620 Zero Dark</span></span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#ff0000\">Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Dracarys-V17-AMD-Ryzen-7-7800X3D-RTX-5070-12GB-32GB-Ram-500GB-NVMe",
+  "gallerie": {
+    "_id": "664f5766dbc8064136ad940e",
+    "titre": "MSI MAG PANO M100R PZ NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1718808335563.webp",
+      "/uploads/gallerie/1718808335578.webp",
+      "/uploads/gallerie/1718808335582.webp",
+      "/uploads/gallerie/1718808341921.webp",
+      "/uploads/gallerie/1718808341923.webp",
+      "/uploads/gallerie/1718808341924.webp",
+      "/uploads/gallerie/1718808345577.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345579.webp",
+      "/uploads/gallerie/1718808345582.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-06-19T14:45:45.707Z",
+    "create_date": "2024-05-23T14:49:10.000Z",
+    "__v": 5
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 209,
+  "price": 5599,
+  "tagsSearch": [
+    "CONFIG PC AMD",
+    "ORDINATEURS",
+    "PC GAMER"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-07-26T11:15:43.396Z",
+  "update_date": "2025-10-24T10:23:45.555Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

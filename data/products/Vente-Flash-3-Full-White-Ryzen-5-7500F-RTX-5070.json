@@ -1,0 +1,192 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752233140063.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752233140063.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ACoAAFUAAF4MACgAAACOGwf/rW7/vZyhQxIAeyIJ/963+f//x4FnAFYzLqufmJ99fMpxULBvFMY+KuYNAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6852d729fd2984d47c3fa33e",
+  "sku": "Vente_Flash_3_25",
+  "mpn": "Vente_Flash_3_25",
+  "titleSeo": "Vente Flash 3 Full White | Ryzen 5 7500F + RTX 5070 12 GB + 32 GB DDR5 + 500 GB NVMe | MEGA PC | GIGA TECH | TUNISIE",
+  "desciprtionSeo": "Profitez de la Vente Flash 3 Full White : Ryzen 5 7500F, RTX 5070 12 GB, 32 GB DDR5 6000, SSD 500 GB NVMe, boîtier et cooling full white — solution gaming prête à l’emploi. Disponible chez MEGA PC | GIGA TECH | TUNISIE.",
+  "ratingValue": "4.7",
+  "reviewCount": "49",
+  "priceValidUntil": "2027-09-08 ",
+  "referenceInterne": "Vente_Flash_3_25",
+  "title": "Vente Flash 3 Full White | Ryzen 5 7500F | RTX 5070 | 32GB DDR5 | 500GB NVMe",
+  "title_fr": "Vente Flash 3 Full White | Ryzen 5 7500F | RTX 5070 | 32GB DDR5 | 500GB NVMe",
+  "description_fr": "<p><span style=\"font-size:22px\">D&eacute;couvrez la <strong>Vente Flash 3 Full White</strong>, une tour gaming 100 % blanche au style impeccable et aux performances de pointe. Elle associe un <strong>AMD Ryzen 5 7500F</strong> cadenc&eacute; jusqu&rsquo;&agrave; 5 GHz &agrave; une <strong>GIGABYTE RTX 5070 Eagle OC ICE 12 GB</strong> ultra performante, parfaite pour jouer en haute r&eacute;solution. Les <strong>32 GB de RAM DDR5 6000 MHz ARGB</strong> garantissent une r&eacute;activit&eacute; exemplaire, tandis que le <strong>SSD MSI SPATIUM 500 GB NVMe Gen 4</strong> assure des chargements express.</span></p>\n\n<p><span style=\"font-size:22px\">Attention, cette machine est <strong>pr&ecirc;te &agrave; l&rsquo;emploi</strong>, sans possibilit&eacute; de modification : bo&icirc;tier full white, alimentation Bronze, refroidissement DeepCool noir discret &mdash; tout a &eacute;t&eacute; finement s&eacute;lectionn&eacute; pour un &eacute;quilibre parfait entre esth&eacute;tique et performance.</span></p>\n\n<p><span style=\"font-size:22px\">Parfaite pour les gamers exigeants qui souhaitent une configuration harmonieuse, performante, esth&eacute;tique, sans compromis.</span></p>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\"><strong>🧠 Processeur : </strong>AMD Ryzen 5 7500F (3,7 GHz / 5,0 GHz)<br />\n<strong>🖥️ Carte m&egrave;re : </strong>Asus TUF GAMING A620M-PLUS WIFI DDR5<br />\n<strong>🎮 Carte graphique : </strong>GIGABYTE GeForce RTX 5070 EAGLE OC ICE 12Gb<br />\n<strong>⚡ RAM : </strong>Kingbank KRRW 32Gb (2x16Gb) DDR5 6000MHz ARGB - WHITE<br />\n<strong>💾 Stockage :</strong> MSI SPATIUM M450 SSD M.2 Gen 4.0 NVMe 500GB<br />\n<strong>🔌 Alimentation :</strong> MSI MAG A650BN 80+ BRONZE<br />\n<strong>🌬️ Refroidissement : </strong>DeepCool AK500S DIGITAL - White<br />\n<strong>🖤 Bo&icirc;tier :</strong> MARS GAMING MC-NEOW 4Fans ARGB - White</span></p>\n\n<p><span style=\"color:#ff0000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": "AMD Ryzen 5 7500F",
+      "enable": true,
+      "_id": "6878e10638284c844311a408"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "5GHz",
+      "enable": true,
+      "_id": "6878e10638284c844311a409"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "A620M WIFI",
+      "enable": true,
+      "_id": "6878e10638284c844311a40a"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RTX 5070 12GB",
+      "enable": true,
+      "_id": "6878e10638284c844311a40b"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "32GB DDR5 6000MHz",
+      "enable": true,
+      "_id": "6878e10638284c844311a40c"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "500GB NVMe",
+      "enable": true,
+      "_id": "6878e10638284c844311a40d"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "650W 80+ Bronze",
+      "enable": true,
+      "_id": "6878e10638284c844311a40e"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "Mars Gaming MC-NEO PREMIUM GAMING TOWER",
+      "enable": true,
+      "_id": "6878e10638284c844311a40f"
+    },
+    {
+      "cle": "Type de refroidissement",
+      "valeur": "Aircooling",
+      "enable": true,
+      "_id": "6878e10638284c844311a410"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415",
+    "681ce4f0c75bcce7a27d6891"
+  ],
+  "lien": "Vente-Flash-3-Full-White-Ryzen-5-7500F-RTX-5070",
+  "gallerie": {
+    "_id": "6852df47fd2984d47c3fb6dd",
+    "titre": "VENTE FLASH 3 FULL WHITE | RYZEN 5 7500F | RTX 5070 | 32GB DDR5 | 500GB NVME",
+    "urlPhoto": [
+      "/uploads/gallerie/1752233140063.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-07-11T11:25:41.505Z",
+    "create_date": "2025-06-18T15:46:15.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 643,
+  "price": 4769,
+  "sale": true,
+  "tagsSearch": [
+    "CONFIG PC AMD",
+    "ORDINATEURS",
+    "PC GAMER",
+    "BAC_2K25"
+  ],
+  "discount": 6.710002096875655,
+  "stock": 2,
+  "prixEnPromo": 4449,
+  "displayForPublic": true,
+  "create_date": "2025-06-18T15:11:37.023Z",
+  "update_date": "2025-10-24T01:26:50.130Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

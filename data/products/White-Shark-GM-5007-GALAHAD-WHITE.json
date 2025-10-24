@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624362724071.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624362724071.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWP4////tevXnjx58v//f4b///+nZaTm5eZBORUVlQxMLK9evwZxLl68WFFV+/nzZwDfEiSEniI2ywAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624362734727.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624362734727.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4jwQYfv76OWf+HAYGxsLCQobDhw9r62qLiYmtX7+e4ffv3+/fv//9+zdQGQCgiyLTM5ImUgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624362746859.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624362746859.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWP4////nz9//oMBw779+2xsbXLy8j98/MTw5s2bgvx8BgaWpuY2BoiyI4cPP3jwAAC+bSN0st+xagAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624362753522.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624362753522.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVQImWP4jwQY3rx5M3Xq1Nra2jdv3jBs3LSRkYWBhYFh1cpVDMjKANrlJMFt3L42AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "5fb3e4c52ad25d0424bc023f",
+  "sku": "GM-5007-W",
+  "mpn": "GM-5007-W",
+  "titleSeo": "White Shark GM-5007 GALAHAD WHITE - Mega Pc",
+  "desciprtionSeo": "White Shark GM-5007 GALAHAD WHITE | RÉSOLUTION OPTIQUE : 6400 DPI LONGUEUR DU CÂBLE : 1.8 M NOMBRE DE BOUTONS : 6 RÉTRO-ÉCLAIRAGE : RGB | MEGA TUNISIE",
+  "ratingValue": "3.5",
+  "reviewCount": "33",
+  "priceValidUntil": "2022-05-07",
+  "referenceInterne": "GM-5007-W",
+  "title": "White Shark GM-5007 GALAHAD WHITE",
+  "title_fr": "White Shark GM-5007 GALAHAD WHITE",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>White Shark MOUSE GM-5007 GALAHAD WHITE</h2>\n\n<hr />\n<p><a href=\"https://megapc.tn/shop/ACCESSOIRES/SOURIS\" target=\"_blank\">Souris</a> Gamer WHITE SHARK&nbsp;GALAHAD - Technologie de Connectivit&eacute;:&nbsp;Filaire&nbsp;- Interface:&nbsp;USB 2.0&nbsp;- Type de capteur:&nbsp;Optique&nbsp;-&nbsp;R&eacute;solution:&nbsp;6400&nbsp;Dpi&nbsp;-&nbsp;Type de souris:&nbsp;Gaming 6D&nbsp;6 boutons&nbsp;-&nbsp;&Eacute;clairage:&nbsp;RVB&nbsp;16,8 millions de couleurs -&nbsp;Compatibilit&eacute;:&nbsp;Windows 7/8/10 et Mac OS -&nbsp;Longueur de c&acirc;ble:&nbsp;1,8 m&nbsp;-&nbsp;Dimensions:&nbsp;125 mm x 65 mm x 37 mm -&nbsp;Couleur: Blanc.</p>\n\n<p><img alt=\"White Shark MOUSE GM-5007 GALAHAD WHITE prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1605624953656.webp\" /></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">R&Eacute;SOLUTION OPTIQUE : 6400 DPI</span></li>\n\t<li><span style=\"font-size:22px\">LONGUEUR DU C&Acirc;BLE : 1.8 M</span></li>\n\t<li><span style=\"font-size:22px\">NOMBRE DE BOUTONS : 6</span></li>\n\t<li><span style=\"font-size:22px\">R&Eacute;TRO-&Eacute;CLAIRAGE : RGB</span></li>\n\t<li><span style=\"font-size:22px\">DIMENSION : 125 X 65 X 37</span></li>\n\t<li><span style=\"font-size:22px\">POIDS : 72 G</span></li>\n\t<li><span style=\"font-size:22px\">MARQUE : White Shark</span></li>\n</ul>\n",
+  "facilite_fr": "<p><img src=\"https://apibackend.mega-pc.net///uploads/gallerie/1647998183195.png\" /></p>\n",
+  "notreSelection": false,
+  "marque": {
+    "_id": "5f886a2f3a4d1b058a8fc012",
+    "titre": "WHITE SHARK",
+    "description": "WHITE SHARK",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327730130.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-10-15T15:26:39.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233bfa4815052c4d1a423",
+    "titre": "SOURIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206287980.webp",
+    "order": 1,
+    "descriptionSEO": "<p>Souris Pc gamer Tunisie&nbsp;optique Sans fil -&nbsp;Achat Souris Ordinateur bureau, souris Pc portable gaming RGB - Aorus, Razer, Logitech, Corsair, Steelseries</p>",
+    "titreSEO": "Souris PC gamer | sans fil pour ordinateur Pc portable | Mega PC",
+    "create_date": "2020-04-24T00:33:03.000Z",
+    "reference": "SOURIS",
+    "update_date": "2021-12-04T08:54:08.545Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "TYPE DE CAPTEUR",
+      "valeur": "OPTIQUE",
+      "enable": true,
+      "_id": "5fb3e4c52ad25d0424bc0240"
+    },
+    {
+      "cle": "RÉSOLUTION OPTIQUE",
+      "valeur": "6400 DPI",
+      "enable": true,
+      "_id": "5fb3e4c52ad25d0424bc0241"
+    },
+    {
+      "cle": "LONGUEUR DU CÂBLE",
+      "valeur": "1.80 M",
+      "enable": true,
+      "_id": "5fb3e4c52ad25d0424bc0242"
+    },
+    {
+      "cle": "NOMBRE DE BOUTONS",
+      "valeur": "6",
+      "enable": true,
+      "_id": "5fb3e4c52ad25d0424bc0243"
+    },
+    {
+      "cle": "RÉTRO-ÉCLAIRAGE",
+      "valeur": "RGB",
+      "enable": true,
+      "_id": "5fb3e4c52ad25d0424bc0244"
+    },
+    {
+      "cle": "DIMENSIONS",
+      "valeur": "125 X 65 X 37",
+      "enable": true,
+      "_id": "5fb3e4c52ad25d0424bc0245"
+    },
+    {
+      "cle": "POIDS",
+      "valeur": "72 G",
+      "enable": true,
+      "_id": "5fb3e4c52ad25d0424bc0246"
+    },
+    {
+      "cle": "ACCÉLÉRATION",
+      "valeur": "22.5 G",
+      "enable": true,
+      "_id": "5fb3e4c52ad25d0424bc0247"
+    }
+  ],
+  "tag": [],
+  "compatibility": [
+    "60d5e877c9da4121686b20b5",
+    "5ece527c6735df04ea3da007",
+    "5fb3e2202ad25d0424bc0228",
+    "6023a8c75a363f3e59971674",
+    "6023aac15a363f3e59971685",
+    "611145ec27499ec15bd1208b"
+  ],
+  "nFilsCategs": [
+    "5ea233bfa4815052c4d1a423",
+    "6230cab36010f19d11dbea23"
+  ],
+  "lien": "White-Shark-GM-5007-GALAHAD-WHITE",
+  "gallerie": {
+    "_id": "5fb3e3512ad25d0424bc023d",
+    "urlPhoto": [
+      "/uploads/gallerie/1624362724071.webp",
+      "/uploads/gallerie/1624362734727.webp",
+      "/uploads/gallerie/1624362746859.webp",
+      "/uploads/gallerie/1624362753522.webp"
+    ],
+    "titre": "SOURIS GAMER WHITE SHARK GM-5007 GALAHAD - BLANC",
+    "__v": 18,
+    "create_date": "2020-11-17T14:50:57.000Z"
+  },
+  "visibleHorsStock": true,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 16209,
+  "price": 53,
+  "sale": false,
+  "tagsSearch": [
+    "WHITE SHARK",
+    "ACCESSOIRES",
+    "SOURIS",
+    "FOIRE"
+  ],
+  "discount": null,
+  "stock": 98,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2020-11-17T14:57:09.363Z",
+  "update_date": "2025-10-24T14:09:25.823Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

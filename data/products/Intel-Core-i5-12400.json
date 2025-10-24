@@ -1,0 +1,242 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642609164998.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642609164998.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AO///02Ar0d7rdHr/wCkw+YAPIAAHmYHZZ0AgqfOACRpACFqAF2XAJSy1gAGSgATVWCKuo6SFaX6UWCvAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642609175560.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642609175560.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AK3L6ABOhV2Lue///wCUveIASYgAL25ej7oAg67WAEGEACZpP3+uAImx1gAkYwAITGqVvYZFFnhzmMsjAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642609179203.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642609179203.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOT//1SY0Ya47eX9/wByo9gARIwALXV3r+MAY5LMADmAAAVQUpTOAKnL9gBBhAAaXYKq3ODMGUU919buAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "61e839e9d814c2f325218282",
+  "sku": "BX8071512400",
+  "mpn": "5032037237741",
+  "titleSeo": "Intel Core i5-12400 (2.5 GHz / 4.4 GHz) - PROCESSEUR 12eme Gen | MEGA PC",
+  "desciprtionSeo": "Intel Core i5-12400 (2.5 GHz / 4.4 GHz) - rocesseur 6-Core (6 Performance-Cores) 12-Threads Socket 1700 Cache L3 18 Mo Intel UHD Graphics 730 | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "68",
+  "priceValidUntil": "2022-05-08",
+  "referenceInterne": "BX8071512400SRL5Y",
+  "title": "Intel Core i5-12400 (2.5 GHz / 4.4 GHz)",
+  "title_fr": "Intel Core i5-12400 (2.5 GHz / 4.4 GHz)",
+  "description_fr": "<h2>Intel Core i5-12400 (2.5 GHz / 4.4 GHz)</h2>\n\n<hr />\n<h2><img alt=\"Intel Core i5-12400 tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1643103549467.webp\" /></h2>\n\n<p><span style=\"font-size:22px\">Le processeur <em><strong>Intel Core i5 12400</strong></em> est bas&eacute; sur les avanc&eacute;es les plus r&eacute;centes de la 12&egrave;me g&eacute;n&eacute;ration de processeurs Intel, Alder Lake, sans modifier sa configuration hybride.</span></p>\n\n<p><span style=\"font-size:22px\">Ce mod&egrave;le s&rsquo;appuie uniquement sur des C&oelig;urs de performance d&eacute;di&eacute;s aux t&acirc;ches gourmandes en ressources, ainsi que sur l&rsquo;Hyper-Threading, pour am&eacute;liorer les performances de la 11e g&eacute;n&eacute;ration, ainsi qu&rsquo;une efficacit&eacute; &eacute;nerg&eacute;tique exceptionnelle.<br />\nAlder Lake prend en charge la norme PCIe 5.0 pour la connexion aux cartes graphiques (les SSD utilisent des lignes PCIe 4.0) ainsi que la m&eacute;moire DDR5 (4800 MHz natif). La double compatibilit&eacute; avec DDR4 est toujours possible (DDR4-3200).<br />\nPositionn&eacute; au milieu de la gamme de l&rsquo;architecture Alder Lake sur socket 1700, le processeur Intel Core i5 12400 est tr&egrave;s puissant pour les jeux 1080p, avec un excellent rapport performance-prix-efficacit&eacute; &eacute;nerg&eacute;tique !<br />\nIl dispose d&rsquo;un processeur avec 6 c&oelig;urs et 12 threads, ainsi que d&rsquo;une fr&eacute;quence allant jusqu&rsquo;&agrave; 4,4 GHz.</span></p>\n\n<p>&nbsp;</p>\n\n<p><img alt=\"Intel Core i5-12400 tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1643103748151.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Processeur&nbsp;<strong>6 Cores</strong>&nbsp;/ 12 Threads</span></li>\n\t<li><span style=\"font-size:22px\"><strong>6 Performance-Cores</strong>&nbsp;(2.5 GHz - 4.4 GHz)</span></li>\n\t<li><span style=\"font-size:22px\">Cache&nbsp;<strong>L3 18 Mo</strong>&nbsp;+ Cache L2 7.5 Mo</span></li>\n\t<li><span style=\"font-size:22px\">IGP : Intel UHD Graphics 730</span></li>\n\t<li><span style=\"font-size:22px\">Contr&ocirc;leur m&eacute;moire : DDR4 /&nbsp;<strong>DDR5</strong></span></li>\n\t<li><span style=\"font-size:22px\">Compatible&nbsp;<strong>PCI-E 5.0</strong></span></li>\n\t<li><span style=\"font-size:22px\">TDP&nbsp;: 65W</span></li>\n\t<li><span style=\"font-size:22px\">TDP max. (Turbo Power) : 117W</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Ventilateur Intel Laminar RM1 inclus</strong></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb18ed34a2e400482a012c9",
+    "titre": "INTEL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326790165.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:05:39.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "2.50 GHz",
+      "enable": true,
+      "_id": "61767be177e19ef9d010123f"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "4.40 GHz",
+      "enable": true,
+      "_id": "61767be177e19ef9d0101240"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "6",
+      "enable": true,
+      "_id": "61767be177e19ef9d0101241"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "12",
+      "enable": true,
+      "_id": "61767be177e19ef9d0101242"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "61767be177e19ef9d0101243"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "18 Mo",
+      "enable": true,
+      "_id": "61767be177e19ef9d0101244"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR5 4800MHz",
+      "enable": true,
+      "_id": "65f17b114af670c71f06baa9"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "7.5 Mo",
+      "enable": true,
+      "_id": "65f17b484af670c71f06bb53"
+    },
+    {
+      "cle": "TDP",
+      "valeur": "65W",
+      "enable": true,
+      "_id": "65f17b694af670c71f06bb6d"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "Intel B660 Express",
+      "enable": true,
+      "_id": "65f17c044af670c71f06bc8c"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "Intel H610 Express",
+      "enable": true,
+      "_id": "65f17c044af670c71f06bc8d"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "Intel H670 Express",
+      "enable": true,
+      "_id": "65f17c044af670c71f06bc8e"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "Intel Z690 Express",
+      "enable": true,
+      "_id": "65f17c044af670c71f06bc8f"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "Intel Z790 Express",
+      "enable": true,
+      "_id": "65f17c044af670c71f06bc90"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "Intel B760 Express",
+      "enable": true,
+      "_id": "65f17c044af670c71f06bc91"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "Intel H770 Express",
+      "enable": true,
+      "_id": "65f17c044af670c71f06bc92"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "Intel-Core-i5-12400",
+  "gallerie": {
+    "_id": "61e83a01d814c2f32521cdfb",
+    "titre": "INTEL CORE I5-12400 - PROCESSEUR TUNISIE",
+    "urlPhoto": [
+      "/uploads/gallerie/1642609164998.webp",
+      "/uploads/gallerie/1642609175560.webp",
+      "/uploads/gallerie/1642609179203.webp"
+    ],
+    "update_date": "2022-01-19T16:19:39.337Z",
+    "create_date": "2022-01-19T16:19:13.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 11234,
+  "price": 649,
+  "tagsSearch": [
+    "INTEL",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "promo pross"
+  ],
+  "discount": 20.03081664098613,
+  "stock": 997,
+  "prixEnPromo": 519,
+  "forConfig": true,
+  "displayForPublic": true,
+  "create_date": "2022-01-19T16:18:49.369Z",
+  "update_date": "2025-10-24T16:14:03.901Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

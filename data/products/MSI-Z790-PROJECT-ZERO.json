@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805700400.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805700400.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWP4Dwb379+/fPkyw8HDx89fvCouLm6kb8CQllUcEBrDxMDa2d7J8Pv3n+vXb509febz588ATSgfQp9CHjwAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805714319.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805714319.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8fHx5uZmevq6gDu7u5jYmMFAALHx8cA3NvcSkhLVlNW0M7RAPT09HBucIqIiuno6VGgH4uWGcXaAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805718274.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805718274.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImR3KsQ0AIAgEwLfUvVRGJezECnTYKEHj1Yf8IiIzYWZE1GoVETBzQZl9qCrOPsuXu792AY8cIr7rvr9qAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805723616.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805723616.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8PDw39/f9zc3ADq6upKSUkEAADIx8cAzc3NLi0ubGhp1dXVAOTk5HV0dJ+en+bl5SiXHo21ErCxAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805727283.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718805727283.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AN7d3qemp8C+wP///wDV1dQ8OTsDAAP39/cA5OTkLCosOTY56OjoAP39/FRQUllWWeXl5jLIHhTPLfu8AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "664f5df6dbc8064136afb25c",
+  "sku": "Z790",
+  "mpn": "Z790",
+  "titleSeo": "MSI-Z790-PROJECT-ZERO | MEGA ",
+  "desciprtionSeo": "Carte Mère MSI Z790 PROJECT ZERO ATX Socket 1700 Intel Z790 Express Motherboard - 4x DDR5 - M.2 PCIe 4.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 2.5 GbE - Wi-Fi 7/Bluetooth 5.4",
+  "ratingValue": "4",
+  "reviewCount": "42",
+  "priceValidUntil": "2024-09-08",
+  "referenceInterne": "Z790",
+  "title": "MSI Z790 PROJECT ZERO",
+  "title_fr": "MSI Z790 PROJECT ZERO",
+  "description_fr": "<h2>MSI Z790 PROJECT ZERO</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La carte m&egrave;re Z790 PROJECT ZERO propose un design back-connect unique qui facilite grandement la gestion des c&acirc;bles et permet de disposer d&#39;un syst&egrave;me plus organis&eacute; et plus &eacute;l&eacute;gant. Cette carte m&egrave;re est compatible aux processeurs Intel Core&nbsp;&nbsp;de 12e, 13e et 14 g&eacute;n&eacute;ration, supporte la m&eacute;moire DDR5 et est &eacute;quip&eacute;e des solutions de connexion Wi-Fi 7 et 2,5G LAN. Toutes ces caract&eacute;ristiques en font un excellent choix pour les personnes &agrave; la recherche d&#39;une carte m&egrave;re ATX.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1716477616154.JPG\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re : ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket : Intel&nbsp;1700</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;Intel Z790 Express</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 192&nbsp;Go&nbsp;DDR5 7200 MHz ( 4 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 : 2</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c005"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "Intel Z790 Express",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c006"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c007"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c008"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "4",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c009"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "192 GB",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c00a"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "48 GB",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c00b"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "DDR5 7200MHz",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c00c"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c",
+    "681ce4f0c75bcce7a27d6891"
+  ],
+  "lien": "MSI-Z790-PROJECT-ZERO",
+  "gallerie": {
+    "_id": "6672e32499521ba83d5fe3fc",
+    "titre": "MSI Z790 PROJECT ZERO",
+    "urlPhoto": [
+      "/uploads/gallerie/1718805700400.webp",
+      "/uploads/gallerie/1718805714319.webp",
+      "/uploads/gallerie/1718805718274.webp",
+      "/uploads/gallerie/1718805723616.webp",
+      "/uploads/gallerie/1718805727283.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-06-19T14:02:07.409Z",
+    "create_date": "2024-06-19T13:54:44.000Z",
+    "__v": 5
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2237,
+  "price": 909,
+  "tagsSearch": [
+    "MSI",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "BAC_2K25"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2024-05-23T13:26:38.611Z",
+  "update_date": "2025-10-24T15:14:39.942Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

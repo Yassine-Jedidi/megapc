@@ -1,0 +1,204 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750696215199.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750696215199.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQYqqurVVVVTU1Nk5KSGMrKSuXl5BgYGPT09BiQlQEAFhQd1J9EE0cAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750696217421.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750696217421.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQY5syZExMTw8DA4ObmxhATE2NiYuzo6Njb28uArAwAOkwfvI5Mjt4AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750696219843.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750696219843.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQYysrKbGxsrW1sfHx8GQICAllZ2RgYmBUVlRiQlQEABc8dAFlB1qoAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "68597d6099437548fd87c30a",
+  "sku": "DES-1024D-MT",
+  "mpn": "DES-1024D-MT",
+  "titleSeo": "Switch D-Link 24 ports 10/100Base-T non géré | MEGA PC | MEILLEUR PRIX TUNISIE",
+  "ratingValue": "4.8",
+  "reviewCount": "46",
+  "priceValidUntil": "2028-06-23",
+  "referenceInterne": "DES-1024D-MT",
+  "title": "Switch D-Link 24 ports 10/100Base-T non géré",
+  "title_fr": "Switch D-Link 24 ports 10/100Base-T non géré",
+  "description_fr": "<div style=\"font-size:22px\">\n<p><span style=\"color:#000000\"><span style=\"font-size:22px\"><strong>Switch D-LINK DES-1024D&nbsp;- </strong>Nombre de Ports:<strong> 24 Ports</strong> Mbps Base-T - Normes R&eacute;seau: <strong>10/100 Mbps</strong> - <strong>Auto MDI / MDIX&nbsp;</strong>pour tous les ports - Vitesses allant<strong> jusqu&#39;&agrave; 200 Mbps</strong> par port <strong>en mode full-duplex</strong> - Full/half-duplex pour les vitesses Ethernet/Fast Ethernet - <strong>Contr&ocirc;le de flux IEEE 802.3x</strong> - Capacit&eacute; de commutation: <strong>4,8 Gbit/s</strong> - Certifi&eacute; EnergyStar Niveau V - Conforme RoHS - Brancher et utiliser - Consommation d&#39;&eacute;nergie en veille: 1.17W - Consommation &eacute;lectrique maximale: 2.8 W - Taille de la table d&#39;adresses MAC: <strong>8K</strong> - Taille du tampon de paquets: 2 Mo - Dimensions: 282 x 150 x 44 mm - Couleur: Noir.</span></span></p>\n</div>\n",
+  "miniDescription": "<div style=\"font-size:22px\">\n<p>&nbsp;</p>\n</div>\n",
+  "miniDescription_fr": "<p><span style=\"color:#000000\"><span style=\"font-size:22px\"><strong>Switch D-LINK DES-1024D&nbsp;- </strong>Nombre de Ports:<strong> 24 Ports</strong> Mbps Base-T - Normes R&eacute;seau: <strong>10/100 Mbps</strong> - <strong>Auto MDI / MDIX&nbsp;</strong>pour tous les ports - Vitesses allant<strong> jusqu&#39;&agrave; 200 Mbps</strong> par port <strong>en mode full-duplex</strong> - Full/half-duplex pour les vitesses Ethernet/Fast Ethernet - <strong>Contr&ocirc;le de flux IEEE 802.3x</strong> - Capacit&eacute; de commutation: <strong>4,8 Gbit/s</strong> - Certifi&eacute; EnergyStar Niveau V - Conforme RoHS - Brancher et utiliser - Consommation d&#39;&eacute;nergie en veille: 1.17W - Consommation &eacute;lectrique maximale: 2.8 W - Taille de la table d&#39;adresses MAC: <strong>8K</strong> - Taille du tampon de paquets: 2 Mo - Dimensions: 282 x 150 x 44 mm - Couleur: Noir.</span></span><br />\n&nbsp;</p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "68597d18fd2984d47c666123",
+    "titre": "D-LINK",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:13:12.243Z",
+    "create_date": "2025-06-23T16:13:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "6676a6a5670b0ae15899d459",
+    "titre": "SÉCURITÉ & PROTECTION",
+    "order": 21,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:33:08.972Z",
+    "create_date": "2024-06-22T10:25:41.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1719396231511.webp",
+    "urlPhoto2": "/uploads/categorie/1720013029366.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "68597cd1fd2984d47c66611d",
+    "titre": "RESEAUX SECURITE",
+    "marge": null,
+    "tva": null,
+    "visible": true,
+    "order": 4,
+    "categorie": "6676a6a5670b0ae15899d459",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:19:53.025Z",
+    "create_date": "2025-06-23T16:12:01.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1750695588029.webp",
+    "urlPhoto2": "/uploads/souscateg/1750695592930.webp"
+  },
+  "qte": 99,
+  "attributes": [
+    {
+      "cle": "gtin",
+      "valeur": "DES-1024D",
+      "enable": true,
+      "_id": "68597d6099437548fd87c30b"
+    },
+    {
+      "cle": "Marque",
+      "valeur": "DLINK",
+      "enable": true,
+      "_id": "68597d6099437548fd87c30c"
+    },
+    {
+      "cle": "Nombre de Ports",
+      "valeur": "24 Ports",
+      "enable": true,
+      "_id": "68597d6099437548fd87c30d"
+    },
+    {
+      "cle": "Normes réseau",
+      "valeur": "10/100 Mbps",
+      "enable": true,
+      "_id": "68597d6099437548fd87c30e"
+    },
+    {
+      "cle": "Administrable",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "68597d6099437548fd87c30f"
+    },
+    {
+      "cle": "Gigabit",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "68597d6099437548fd87c310"
+    },
+    {
+      "cle": "Compatibilité POE",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "68597d6099437548fd87c311"
+    },
+    {
+      "cle": "Poids",
+      "valeur": "1,14 kg",
+      "enable": true,
+      "_id": "68597d6099437548fd87c312"
+    },
+    {
+      "cle": "Couleur",
+      "valeur": "Noir",
+      "enable": true,
+      "_id": "68597d6099437548fd87c313"
+    },
+    {
+      "cle": "Dimensions",
+      "valeur": "282 x 150 x 44 mm",
+      "enable": true,
+      "_id": "68597d6099437548fd87c314"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "68597cd1fd2984d47c66611d"
+  ],
+  "lien": "SWITCH-D-LINK-24-PORTS-10-100BASE-T-NON-GERE",
+  "gallerie": {
+    "_id": "6859810efd2984d47c666697",
+    "titre": "SWITCH D-LINK 24 PORTS 10/100BASE-T NON GÉRÉ",
+    "urlPhoto": [
+      "/uploads/gallerie/1750696215199.jpg",
+      "/uploads/gallerie/1750696217421.jpg",
+      "/uploads/gallerie/1750696219843.jpg"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:30:19.942Z",
+    "create_date": "2025-06-23T16:30:06.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 103,
+  "price": 179,
+  "tagsSearch": [],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2025-06-23T16:14:24.681Z",
+  "update_date": "2025-10-23T15:15:31.216Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

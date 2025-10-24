@@ -1,0 +1,165 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623417404912.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623417404912.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8rLzd7f3v7+/wBTU1QXFhcfISXLzc4ANzY1BgAAHyAjoKGjAP7+/sfFxdXV1dra2ubeHEXtuNCnAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623417410133.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623417410133.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8vLzZOTlaWnqAC2trYdHyYABA8CCA8Azc3OFhgcAAALAAAKAPf3+H1+gmprb3x9gXkAFagooivBAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623417415508.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623417415508.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////z8/vr6+vf39wBAQEEnKCslJikgISMAKSkqAAAAExQXFRYaAN/f4NnZ2dfX2NXV1bQ7GQeQKfggAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623417421400.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623417421400.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////Hw7/Lv7P369gBDPj8iGBU7MSk5LCQAHhgYDwAAHxQOHRcVANTS1MrJydDNzNTU1KVjGFfDTEYEAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "60c3642571cea264579faf62",
+  "sku": "GP-P650B",
+  "mpn": "GP-P650B",
+  "titleSeo": "Alimentation PC Gigabyte GP-P650B - 650w - MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "65",
+  "priceValidUntil": "2022-05-08",
+  "referenceInterne": "GP-P650B",
+  "title": "Gigabyte GP-P650B 650W 80+ BRONZE",
+  "title_fr": "Gigabyte GP-P650B 650W 80+ BRONZE",
+  "description_fr": "<h2>ALIMENTATION GIGABYTE ATX 650W 80+ BRONZE</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">L&#39;alimentation Gigabyte P650B est une alimentation non modulaire de 650 watts certifi&eacute;e 80+ Bronze. Elle est con&ccedil;ue pour fournir une alimentation stable et fiable &agrave; un PC de jeu ou de bureau de milieu de gamme.</span></p>\n\n<p><span style=\"font-size:22px\">La P650B est &eacute;quip&eacute;e d&#39;un ventilateur HYB 120mm (Roulement Hydraulique) qui assure un refroidissement silencieux. Le ventilateur est r&eacute;gul&eacute; thermiquement et ne tourne qu&#39;en cas de besoin.</span></p>\n\n<p><span style=\"font-size:22px\">L&#39;alimentation est &eacute;quip&eacute;e d&#39;un rail unique +12V qui fournit une puissance constante &agrave; tous les composants du PC. Elle est &eacute;galement &eacute;quip&eacute;e de protections compl&egrave;tes contre les surtensions, les surcharges, les courts-circuits et les surchauffes.</span></p>\n\n<p><img alt=\"Gigabyte GP-P650B - 650W - Bronze\" src=\"https://api.megapc.tn//uploads/gallerie/1623774794153.webp\" title=\"Gigabyte GP-P650B - 650W - Bronze\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Puissance : 650 watts</span></li>\n\t<li><span style=\"font-size:22px\">Certification : 80+ Bronze</span></li>\n\t<li><span style=\"font-size:22px\">Type de connexion : Non modulaire</span></li>\n\t<li><span style=\"font-size:22px\">Format alimentation PC : ATX</span></li>\n\t<li><span style=\"font-size:22px\">LED : Non RGB</span></li>\n\t<li><span style=\"font-size:22px\">ATX 3.0 : Non</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2327aa4815052c4d1a418",
+    "titre": "ALIMENTATION",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205726337.webp",
+    "order": 5,
+    "descriptionSEO": "<p>Alimentation Pc gamer Pc&nbsp;Bureau, au meilleurs prix en Tunisie. Alimentation Gigabyte, Corsair, Aerocool, Aorus, Antec 80+ Gold 1200w, 850w, 750w, 550w</p>",
+    "titreSEO": "Alimentation PC Tunisie - Achat Alimentation pc gamer pas cher",
+    "create_date": "2020-04-24T00:27:38.000Z",
+    "reference": "ALIMENTATION",
+    "update_date": "2022-01-19T16:49:06.035Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "PUISSANCE",
+      "valeur": "650 W",
+      "enable": true,
+      "_id": "60c3681271cea264579faf65"
+    },
+    {
+      "cle": "CERTIFICATION 80 PLUS",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "60c3681271cea264579faf66"
+    },
+    {
+      "cle": "NORME 80 PLUS",
+      "valeur": "80 PLUS BRONZE",
+      "enable": true,
+      "_id": "60c3681271cea264579faf67"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2327aa4815052c4d1a418"
+  ],
+  "lien": "Gigabyte-GP-P650B-650W-80+-BRONZE",
+  "gallerie": {
+    "_id": "60c3623571cea264579faf61",
+    "urlPhoto": [
+      "/uploads/gallerie/1623417404912.webp",
+      "/uploads/gallerie/1623417410133.webp",
+      "/uploads/gallerie/1623417415508.webp",
+      "/uploads/gallerie/1623417421400.webp"
+    ],
+    "titre": "ALIMENTATION PC GIGABYTE GP-P650B",
+    "__v": 4,
+    "create_date": "2021-06-11T13:16:37.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 4310,
+  "price": 211,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "ALIMENTATION",
+    "P650B/650W/80+B_ST"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2021-06-11T13:24:53.845Z",
+  "update_date": "2025-10-23T03:39:50.446Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": true,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

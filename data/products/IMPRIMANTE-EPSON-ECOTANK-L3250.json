@@ -1,0 +1,194 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1695911119257.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1695911119257.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImWP4jwQYDhw40N7ePmnS1DNnzjJU19QyMDCoqsiGBAUxPHn8ZM/evdcunbp9/SoAmrYglGil+kQAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1695911119259.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1695911119259.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP4DwZ//v5+8fEhQ1trW25O7oo1yw/f2cegqavNwMhgY2bx5NFLht+/f//////Z48f3798HAIQTIeoSBC5uAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "65158d1737e0a9bf8a4483da",
+  "sku": "C11CJ67408",
+  "mpn": "C11CJ67408",
+  "titleSeo": "IMPRIMANTE EPSON ECOTANK L3250 | MEGA TUNISIE",
+  "desciprtionSeo": "IMPRIMANTE EPSON ECOTANK L3250 Vitesse d'impression: Noir - 33 ppm, Couleur - 15 ppm (5 ppm en couleur selon la norme ISO) Qualité d'impression: 5,760 x 1,440 DPI Recto/Verso: Manuel Encre: 4 bouteilles individuelles (103) | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "C11CJ67408",
+  "title": "IMPRIMANTE EPSON ECOTANK L3250 WiFi",
+  "title_fr": "IMPRIMANTE EPSON ECOTANK L3250 WiFi",
+  "description_fr": "<h2>IMPRIMANTE EPSON ECOTANK L3250&nbsp;<span style=\"font-size:22px\">WiFi</span></h2>\n\n<hr />\n<p><span style=\"font-size:22px\">L&#39;imprimante Epson EcoTank L3250 est une imprimante multifonction 3 en 1 &agrave; r&eacute;servoirs d&#39;encre, id&eacute;ale pour les particuliers et les petits bureaux. Elle offre une impression, une copie et une num&eacute;risation de qualit&eacute; &agrave; un co&ucirc;t par page tr&egrave;s abordable.</span></p>\n\n<p><img alt=\"Imprimante à réservoir integré EcoTank EPSON L3250 3en1 Wifi noir - Planète  Informatique\" src=\"https://www.planete-informatique.tn/planet-neox/wp-content/uploads/2023/03/imprimante-epson-ecotank-l3250-multifonction-3en1-a-reservoir-integre-couleur-a4-wifi-c11cj67408-1.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Fonctions: </strong>Impression, Num&eacute;risation, Copie</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Capacit&eacute; d&#39;encre:</strong> Noir - 8,100 pages, Couleur - 6,500 pages par couleur</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Vitesse d&#39;impression:</strong> Noir - 33 ppm, Couleur - 15 ppm (5 ppm en couleur selon la norme ISO)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Qualit&eacute; d&#39;impression:</strong> 5,760 x 1,440 DPI</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Recto/Verso:</strong> Manuel</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Encre:</strong> 4 bouteilles individuelles (103)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Connectivit&eacute;:</strong> USB, WiFi</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Poids:</strong> 3.9 kg</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Dimensions:</strong> 375 x 347 x 179 mm</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea236cca4815052c4d1a42e",
+    "titre": "MEGA PC",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326630886.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:46:04.000Z"
+  },
+  "categorie": {
+    "_id": "5f60ba4f01f417289807e75b",
+    "order": 19,
+    "titre": "IMPRESSION",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1715428998314.webp",
+    "create_date": "2020-09-15T12:57:51.000Z",
+    "update_date": "2025-04-28T10:32:54.398Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false,
+    "urlPhoto": "/uploads/categorie/1715429007654.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "662cfafcf0d88c8c60df2eec",
+    "titre": "IMPRIMANTE JET D'ENCRE",
+    "marge": null,
+    "tva": null,
+    "visible": true,
+    "order": null,
+    "categorie": "5f60ba4f01f417289807e75b",
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-05-11T12:04:39.338Z",
+    "create_date": "2024-04-27T13:17:48.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1715429069609.webp",
+    "urlPhoto2": "/uploads/souscateg/1715429079217.webp",
+    "targetMobile": true
+  },
+  "attributes": [
+    {
+      "cle": "Type d'Imprimante",
+      "valeur": "Jet d'encre",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e96138"
+    },
+    {
+      "cle": "Format",
+      "valeur": "A4",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e96139"
+    },
+    {
+      "cle": "Couleur",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e9613a"
+    },
+    {
+      "cle": "Résolution De Numérisation, Optique",
+      "valeur": "1200 X 2400 Ppp",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e9613b"
+    },
+    {
+      "cle": "Résolution D'impression Maximale",
+      "valeur": "Jusqu'à 5 760 X 1 440 Ppp (Mono) / Jusqu'à 5 760 X 1 440 Ppp (Couleur)",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e9613c"
+    },
+    {
+      "cle": "Fonctions",
+      "valeur": "Multifonction",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e9613f"
+    },
+    {
+      "cle": "Capacité papier",
+      "valeur": "100 feuilles",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e96140"
+    },
+    {
+      "cle": "CONNECTIQUE",
+      "valeur": "USB",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e96142"
+    },
+    {
+      "cle": "CONNECTIQUE",
+      "valeur": "Wifi",
+      "enable": true,
+      "_id": "662fc7f9f0d88c8c60eab588"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "662cfafcf0d88c8c60df2eec"
+  ],
+  "lien": "IMPRIMANTE-EPSON-ECOTANK-L3250",
+  "gallerie": {
+    "_id": "65158cb637e0a9bf8a43f76b",
+    "titre": " IMPRIMANTE EPSON ECOTANK L3250",
+    "urlPhoto": [
+      "/uploads/gallerie/1695911119257.webp",
+      "/uploads/gallerie/1695911119259.webp"
+    ],
+    "update_date": "2023-09-28T14:25:19.357Z",
+    "create_date": "2023-09-28T14:24:54.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 3376,
+  "price": 679,
+  "tagsSearch": [
+    "MEGA PC COIN",
+    "MEGA PC",
+    "IMPRESSION",
+    "IMPRIMANTE",
+    "IMPRIMANTE JET D'ENCRE"
+  ],
+  "discount": 0,
+  "stock": 9,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2023-09-28T14:26:31.485Z",
+  "update_date": "2025-10-24T09:45:16.662Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

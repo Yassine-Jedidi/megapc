@@ -1,0 +1,174 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1703500145731.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1703500145731.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///729vbm5ufHz8QDm4uMwKSguKCm7ubYA0IqIWQAATgAAwW5uAPLRzrFpaaxiYunAwBnuHB2iGdM3AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1703500148670.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1703500148670.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////f399PS0v///wC2trQHBAAHBAbu7u4APTo5AwAAW1dWRkZCANPS0/Dv8P////Lx8RrCHf7NeA0pAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1703500158720.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1703500158720.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImWP4DwN///5lePfu3ezZc7w8PWfPnMmQkpzMwsDQ1d7+9tVrhq9fvv7+/Rus7h8Av8UkgikXahcAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1703500158721.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1703500158721.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYvLw8+Xh5mBgYrCwtGHy8vMSE+TmYGe1srBmQlQEAyxgbc16vBKMAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "658956bc52b5a275b6b9d0d2",
+  "sku": "AX5U5600C4616G-DTLABBK",
+  "mpn": "4711085936776",
+  "titleSeo": "RAM Pc : \tXPG LANCER BLADE 32GB (2x16GB) 5600MHz DDR5 | MEGA PC ",
+  "desciprtionSeo": "XPG LANCER - Ram PC Gamer Tunisie - 32 GB (2X16GB) - Frequence : 5600MHz DDR5 Rétroéclairage : RGB - ref : AX5U5600C4616G-DTLABBK - Taille de la mémoire vive : 32 Go - Nombre de barettes : 2x16 - MEGA PC",
+  "ratingValue": "3",
+  "reviewCount": "35",
+  "priceValidUntil": "2023-02-02",
+  "referenceInterne": "AX5U5600C4616G-DTLABBK",
+  "title": "XPG LANCER BLADE 32GB (2x16GB) 5600MHz DDR5",
+  "title_fr": "XPG LANCER BLADE 32GB (2x16GB) 5600MHz DDR5",
+  "description_fr": "<h2>XPG LANCER BLADE 32GB (2x16GB) 5600MHz DDR5</h2>\n\n<hr />\n<p><span style=\"font-size:22px\"><strong>La m&eacute;moire XPG LANCER BLADE DDR5</strong> est con&ccedil;ue pour les joueurs et les passionn&eacute;s qui souhaitent les meilleures performances possibles. Avec une vitesse de 5600 MHz et une capacit&eacute; de 32 Go (2 x 16 Go), ce kit de m&eacute;moire offre une bande passante et une capacit&eacute; de m&eacute;moire &eacute;lev&eacute;es pour g&eacute;rer les jeux et les applications les plus exigeants.</span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de m&eacute;moire :&nbsp;DIMM</span></li>\n\t<li><span style=\"font-size:22px\">Capacit&eacute; :&nbsp;32 GB</span></li>\n\t<li><span style=\"font-size:22px\">Type de m&eacute;moire : DDR5</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence(s) M&eacute;moire : 5600</span></li>\n\t<li><span style=\"font-size:22px\">LED RGB : Non</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "61e6b396d814c2f325033d43",
+    "titre": "XPG",
+    "update_date": "2022-01-18T12:33:26.018Z",
+    "create_date": "2022-01-18T12:33:26.000Z",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2328ca4815052c4d1a419",
+    "titre": "BARETTE MÉMOIRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205649078.webp",
+    "order": 3,
+    "descriptionSEO": "<p>RAM PC gamer, Barrettes mémoires | Ram ordinateur bureau - Ram PC portable prix Tunisie - barrette mémoire ddr4. Mémoire Gigabyte, Adata, pny, Corsair</p>",
+    "titreSEO": "Ram pc gamer Tunisie - Achat Ram pc portable 8go - BARRETTE MÉMOIRE",
+    "create_date": "2020-04-24T00:27:56.000Z",
+    "reference": "RAM",
+    "update_date": "2021-12-04T08:54:47.010Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "NOMBRE DE BARRETTES",
+      "valeur": "2",
+      "enable": true,
+      "_id": "628771876010f19d110c373f"
+    },
+    {
+      "cle": "CAPACITÉ PAR BARRETTE",
+      "valeur": "16 GB",
+      "enable": true,
+      "_id": "628771876010f19d110c3740"
+    },
+    {
+      "cle": "FRÉQUENCE MÉMOIRE",
+      "valeur": "DDR5 5600 MHZ",
+      "enable": true,
+      "_id": "628771876010f19d110c3741"
+    },
+    {
+      "cle": "RGB",
+      "valeur": "NON",
+      "enable": true,
+      "_id": "628771876010f19d110c3742"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2328ca4815052c4d1a419"
+  ],
+  "lien": "XPG-LANCER-BLADE-32GB",
+  "gallerie": {
+    "_id": "6589596652b5a275b6bb9de7",
+    "titre": "XPG LANCER BLADE 32 GB ( 2 X 16 GB ) 5600 DDR5",
+    "urlPhoto": [
+      "/uploads/gallerie/1703500145731.webp",
+      "/uploads/gallerie/1703500148670.webp",
+      "/uploads/gallerie/1703500158720.webp",
+      "/uploads/gallerie/1703500158721.webp"
+    ],
+    "update_date": "2023-12-25T10:29:18.827Z",
+    "create_date": "2023-12-25T10:28:54.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 8750,
+  "price": 376,
+  "tagsSearch": [
+    "XPG",
+    "COMPOSANTS",
+    "BARETTE MÉMOIRE",
+    "PROMO-MSI"
+  ],
+  "stock": 0,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2022-05-20T10:27:06.947Z",
+  "update_date": "2025-10-24T12:09:25.263Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

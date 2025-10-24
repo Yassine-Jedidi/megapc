@@ -1,0 +1,185 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531855074.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531855074.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALklEQVQImWP4////nDlz5s+f////f4b///8zMzAIcPNBOUICAuIiIlDOITAAcgBBViDDxiFBFwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531855075.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531855075.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALklEQVQImWP4//9/aUnJpUuX/v//z/D//39mBobgwCAoJ8Df38vDA8o5AwZADgB6ciNFCguUGQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531858948.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531858948.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWN4cP/+7Nmz/////+fPH4ZPnz5FhIdv2rTp////DCDMwCArLQPldHV1T540GcgBAKwaIu8XoqU4AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531858949.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531858949.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWOwt7ZxdHIqLy/Pzs5meH3pmqasQlZebmlpKcODG7eM5ZSdXV2LiooY/vz/z8fAoCwtGxYeDgACPhNPNTrjCQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531862349.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531862349.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImS3HQQ0AQQgEwXlgAlWIwCEiMIGVSXpzyf2qBHT3zAACIiIz/1SV9EG27253bT8+CyE9eXsAbgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531862350.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531862350.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWPgYmYzVtVTltZiZmBnUFNVK8or1dTQVVZSYcjMzPz3///jZy+1tXQYBAQEEhMTQ0NDmRhYACzMDXucLihvAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531865867.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531865867.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AEw0UGdTmbr2/5f//wAAACMyKFWHk7/H//8AQAw5ORQ+V0Fpq7nlAGM3XBcAHSsXJJmAhEYcFF/gvwf9AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531865874.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531865874.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPgYGJVl1KWFFZgZGBhUFFS2bJ205pVa9VU1RlSUtL//vv3//9/E2MzBklJSXd3D2trayF+IQBrow9+12DbYAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531865878.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725531865878.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPgYGRREJEV5ZNmZGBhcHZ0iouMSYhJtLd1YPj////JU6fWrlt7/PhxhpCQkIzMDCNDI19PXwBvhRG4VGXUPQAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "67878e0632ff5581452a09c5",
+  "sku": "MGCERGOВРК",
+  "mpn": "MGCERGOВРК",
+  "titleSeo": "CHAISE MARS GAMING MGCERGOВРК | MEGA TUNISIE",
+  "desciprtionSeo": "CHAISE MARS GAMING MGCERGOВРК Dimensions: 570x610x1240 mm Poids: 12 kg Matériaux: Maille textile, polyuréthane, nylon, cuir artificiel PU, PVC  | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "45",
+  "priceValidUntil": "2024-09-08 ",
+  "referenceInterne": "MGCERGOВРК",
+  "title": "Chaise MARS GAMING MGC-ERGO MGCERGOВ РINK",
+  "title_fr": "Chaise MARS GAMING MGC-ERGO MGCERGOВ РINK",
+  "description_fr": "<h2>CHAISE MARS GAMING MGC-ERGO&nbsp;MGCERGOВРК</h2>\n\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/5Na_8e6FFcs?si=lP6vIEpmvvPocn_H\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n\n<hr />\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1725525080438.JPG\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1725525080406.JPG\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1725525080405.JPG\" /></p>\n\n<p><span style=\"font-size:22px\">La chaise de bureau ergonomique est con&ccedil;ue pour offrir un confort optimal gr&acirc;ce &agrave; ses dimensions g&eacute;n&eacute;reuses de 570x610x1240 mm et son poids l&eacute;ger de 12 kg. Fabriqu&eacute;e avec des mat&eacute;riaux de haute qualit&eacute; tels que la maille textile, le polyur&eacute;thane, le nylon, le cuir artificiel PU et le PVC, elle assure une durabilit&eacute; et un style sophistiqu&eacute;.</span></p>\n\n<p><span style=\"font-size:22px\">&Eacute;quip&eacute;e d&#39;un piston &agrave; gaz de classe 4 r&eacute;glable sur 100 mm, cette chaise offre un m&eacute;canisme d&#39;inclinaison du si&egrave;ge de 3&ordm; &agrave; 18&ordm; pour une position assise id&eacute;ale. Les accoudoirs 1D et les coussins r&eacute;glables pour l&#39;appuie-t&ecirc;te et le support lombaire ajoutent un niveau suppl&eacute;mentaire de personnalisation et de soutien.</span></p>\n\n<p><span style=\"font-size:22px\">La base robuste &agrave; 5 roues de 5 cm de diam&egrave;tre, mont&eacute;e sur une &eacute;toile en nylon de 320 mm, garantit une stabilit&eacute; et une mobilit&eacute; sans effort. Avec une capacit&eacute; de poids maximale de 150 kg, elle convient &agrave; une large gamme d&#39;utilisateurs. La densit&eacute; de la mousse de l&#39;assise et du dossier est de 24 kg/m&sup3;, assurant un confort prolong&eacute;.</span></p>\n\n<p><span style=\"font-size:22px\">Disponible en 8 couleurs, cette chaise ergonomique offre &eacute;galement une hauteur r&eacute;glable de 8 cm et est recommand&eacute;e pour une hauteur maximale de 190 cm.</span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Dimensions</strong>: 570x610x1240 mm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Poids</strong>: 12 kg</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Mat&eacute;riaux</strong>: Maille textile, polyur&eacute;thane, nylon, cuir artificiel PU, PVC</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Type de piston</strong>: Gaz / Classe 4 / 100 mm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>M&eacute;canisme d&#39;inclinaison</strong>: Si&egrave;ge (3&ordm; - 18&ordm;)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Accoudoir</strong>: 1D</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Coussin</strong>: Appuie-t&ecirc;te et support lombaire r&eacute;glables</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Base</strong>: 5 roues et &eacute;toile en nylon de 320 mm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Roues</strong>: 5 cm de diam&egrave;tre</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Poids maximum</strong>: 150 kg</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Densit&eacute; de la mousse</strong>: Assise et dossier 24 kg/m&sup3;</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Couleur</strong>: 8 couleurs disponibles</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Hauteur r&eacute;glable</strong>: Oui, 8 cm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Hauteur maximale recommand&eacute;e</strong>: 190 cm</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "61697a5b74a6dc8ab60ba36c",
+    "titre": "MARS",
+    "description": "Mars Gaming Tunisie",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-10-15T12:55:55.000Z"
+  },
+  "categorie": {
+    "_id": "675311184583082f207d5d03",
+    "titre": "EVENTS",
+    "reference": "",
+    "order": 7,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:31:12.208Z",
+    "create_date": "2024-12-06T14:58:32.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1733559629835.webp",
+    "urlPhoto": "/uploads/categorie/1733559616584.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "6777bda21bc678ff213f8a89",
+    "titre": "HELLO WINTER",
+    "visible": true,
+    "order": 1,
+    "categorie": "675311184583082f207d5d03",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-03-17T09:50:39.695Z",
+    "create_date": "2025-01-03T10:36:18.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1735900587241.webp",
+    "urlPhoto2": "/uploads/souscateg/1735900594568.webp"
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "6777bda21bc678ff213f8a89"
+  ],
+  "lien": "Chaise-MARS-GAMING",
+  "gallerie": {
+    "_id": "66857a06ded88b5e10de4c64",
+    "titre": "MGC-PRO GAMING CHAIR MGCERGOВРК",
+    "urlPhoto": [
+      "/uploads/gallerie/1725531855074.webp",
+      "/uploads/gallerie/1725531855075.webp",
+      "/uploads/gallerie/1725531858948.webp",
+      "/uploads/gallerie/1725531858949.webp",
+      "/uploads/gallerie/1725531862349.webp",
+      "/uploads/gallerie/1725531862350.webp",
+      "/uploads/gallerie/1725531865867.webp",
+      "/uploads/gallerie/1725531865874.webp",
+      "/uploads/gallerie/1725531865878.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-09-05T10:24:26.004Z",
+    "create_date": "2024-07-03T16:19:18.000Z",
+    "__v": 9
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1149,
+  "price": 779,
+  "tagsSearch": [
+    "MARS",
+    "COMPOSANTS",
+    "CHAISE GAMING",
+    "MGCPRO",
+    "ROSE",
+    "EVENTS",
+    "HELLO WINTER"
+  ],
+  "discount": 25.673940949935815,
+  "stock": 0,
+  "prixEnPromo": 579,
+  "displayForPublic": true,
+  "create_date": "2024-07-03T13:51:53.991Z",
+  "update_date": "2025-10-23T03:58:36.877Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

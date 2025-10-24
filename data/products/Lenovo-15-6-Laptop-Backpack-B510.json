@@ -1,0 +1,158 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677339455031.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677339455031.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///9PT08PDw//+/gDy8vI6OTkvKyvp6OkA6OnpEg0QDgAA2dnaAPn5+ZKSkoOAg/b19myyIAcTX0BlAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677339458684.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677339458684.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8zLy8jIyP39/QD9/f1BPz8qKCnS0dIA+vr6IyAhAwAAyMfHAP///5+dno6Mje7s7XCLIEVif8+AAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677339470354.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677339470354.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///+Pk5cvNzv///wDQ1NhYX2UxLi7Y2NkA+/z+UE5TDgAA1NPUAP///9XU1Z6bnv39/ZXtInOiot11AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "63fa2c328ac974073d6f266c",
+  "sku": "GX40Q75214",
+  "mpn": "GX40Q75214",
+  "titleSeo": "SAC A DOS Lenovo 15.6 Laptop Backpack B510 - MEGA PC ",
+  "desciprtionSeo": "SAC A DOS Lenovo 15.6 Laptop Backpack B510 - MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GX40Q75214",
+  "title": "Lenovo 15.6 Laptop Backpack B510",
+  "title_fr": "Lenovo 15.6 Laptop Backpack B510",
+  "description_fr": "<h2>Lenovo 15.6 Laptop Backpack B510</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Fabriqu&eacute; &agrave; partir de mat&eacute;riaux hydrofuges et r&eacute;sistants aux d&eacute;chirures de haute qualit&eacute;, le sac &agrave; dos pour ordinateur portable Lenovo 15,6&quot; B510 est con&ccedil;u pour le quotidien. Il peut accueillir des ordinateurs portables jusqu&#39;&agrave; 15,6&quot; avec un compartiment principal suffisamment spacieux pour transporter des effets personnels pour la salle de sport, un travail voyage ou la vie de tous les jours.&nbsp;<br />\nIl dispose &eacute;galement d&#39;une poche &agrave; acc&egrave;s rapide et de deux poches lat&eacute;rales pour un espace de stockage suppl&eacute;mentaire.</span></p>\n\n<p><img alt=\"Lenovo 15.6 Laptop Backpack B510 | MEGA PC \" src=\"https://apibackend.megapc.tn///uploads/gallerie/1677339565310.webp\" /><br />\n&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:20px\">Tissu de haute qualit&eacute;, durable et hydrofuge</span></li>\n\t<li><span style=\"font-size:20px\">Compartiments spacieux avec poches bien plac&eacute;es</span></li>\n\t<li><span style=\"font-size:20px\">Compartiments antivol pour garder vos objets de valeur en s&eacute;curit&eacute;</span></li>\n\t<li><span style=\"font-size:20px\">Rembourrage &eacute;pais en maille respirante pour un confort amorti</span></li>\n\t<li><span style=\"font-size:20px\">Dimension : 375,6 x 253,4 x 22,7 mm</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "601d6f15051d693aa4208ca1",
+    "order": 9,
+    "titre": "SAC À DOS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1612541733987.webp",
+    "create_date": "2021-02-05T16:15:17.000Z",
+    "reference": "SACADOS",
+    "update_date": "2022-01-04T14:06:13.573Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "COULEUR DU PRODUIT",
+      "valeur": "NOIR",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb0f"
+    },
+    {
+      "cle": "DIMENSIONS (MM)\t",
+      "valeur": "375.6 x 253.4 x 22.7 mm",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb10"
+    },
+    {
+      "cle": "CAPACITÉ",
+      "valeur": "15,6\"",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb11"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "601d6f15051d693aa4208ca1"
+  ],
+  "lien": "Lenovo-15-6-Laptop-Backpack-B510",
+  "gallerie": {
+    "_id": "63fa2b338ac974073d6eb754",
+    "titre": "LENOVO 15.6\"LAPTOP BACKPACK B510 ",
+    "urlPhoto": [
+      "/uploads/gallerie/1677339455031.webp",
+      "/uploads/gallerie/1677339458684.webp",
+      "/uploads/gallerie/1677339470354.webp"
+    ],
+    "update_date": "2023-02-25T15:37:50.456Z",
+    "create_date": "2023-02-25T15:37:23.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 3993,
+  "price": 95,
+  "tagsSearch": [
+    "LENOVO",
+    "MEGAPC",
+    "ACCESSOIRES",
+    "SAC À DOS"
+  ],
+  "stock": 1,
+  "displayForPublic": true,
+  "create_date": "2023-02-25T15:41:38.731Z",
+  "update_date": "2025-10-24T08:49:32.707Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,171 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1690463058804.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1690463058804.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8LAxWFiY9bW1wCqqqpQT1I4OUGytLYAnJycCgoKPT1IvbvBAKSkpgEABg4NFKmpqswSF7iWUZT2AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1690470668741.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1690470668741.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AKysrAcHCWRlZejo6ACSk5QREBYKChCio6QAvr+/AAkdAAAWwcHGAP///2lnagsIEe7t7hq7FeP9fP/6AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1690470668742.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1690470668742.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APf39lZbXm1vePz8/AD39/YgJClOUV77+/sA+fv5GxofMjE99/f2AP///gEAAwsLEf7+/gu/HGEJrduYAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "64c26a98d86a54d556f8afcb",
+  "sku": "ARKG025",
+  "mpn": "ARKG025",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "ARKG025",
+  "title": "ARKTEK G025 CASE",
+  "title_fr": "ARKTEK G025 CASE",
+  "description_fr": "<h2>ARKTEK G025 CASE</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le bo&icirc;tier ARKTEK G025 est un excellent choix pour tous ceux qui recherchent un bo&icirc;tier de haute qualit&eacute;&nbsp;<br />\nIl est bien fait, durable et dispose d&#39;un certain nombre de fonctionnalit&eacute;s .</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1690471066437.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format du boitier&nbsp; : Moyen Tour</span></li>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re : ATX/ Micro-ATX /ITX</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de Ventilateurs : 0</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "6480565fc026d6db8d5474e5",
+    "titre": "ARKTEK",
+    "visible": false,
+    "update_date": "2023-06-07T10:05:49.234Z",
+    "create_date": "2023-06-07T10:05:19.000Z",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232a5a4815052c4d1a41a",
+    "titre": "BOITIER",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205933117.webp",
+    "order": 7,
+    "descriptionSEO": "<p>Boitier PC Gamer - Case pc gamer RGB prix Tunisie - Vente Composant pc - Achat en ligne de Boîtiers PC dans un vaste choix ( Gigabyte, Antec, Thermaltake.. )</p>",
+    "titreSEO": "Boitier PC Gamer - Case pc gamer RGB prix Tunisie - Vente Composant pc",
+    "create_date": "2020-04-24T00:28:21.000Z",
+    "reference": "BOITIER",
+    "update_date": "2021-12-21T12:33:12.175Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Format du boitier",
+      "valeur": "Moyen Tour",
+      "enable": true,
+      "_id": "602142b05a363f3e5997151e"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Micro ATX",
+      "enable": true,
+      "_id": "602142b05a363f3e5997151f"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Mini ITX",
+      "enable": true,
+      "_id": "602142b05a363f3e59971521"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "ATX",
+      "enable": false,
+      "_id": "602142b05a363f3e59971522"
+    },
+    {
+      "cle": "Nombre de Ventilateurs",
+      "valeur": "0",
+      "enable": true,
+      "_id": "64a96342ccf4e733907d7c93"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232a5a4815052c4d1a41a"
+  ],
+  "lien": "ARKTEK-G025-CASE",
+  "gallerie": {
+    "_id": "64c26b07d86a54d556f93304",
+    "titre": "ARKTEK G025 CASE",
+    "urlPhoto": [
+      "/uploads/gallerie/1690463058804.webp",
+      "/uploads/gallerie/1690470668741.webp",
+      "/uploads/gallerie/1690470668742.webp"
+    ],
+    "update_date": "2023-07-27T15:11:08.904Z",
+    "create_date": "2023-07-27T13:03:03.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 2959,
+  "price": 113,
+  "tagsSearch": [
+    "ARKTEK",
+    "COMPOSANTS",
+    "BOITIER"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2023-07-27T13:01:12.503Z",
+  "update_date": "2025-10-24T08:24:20.350Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

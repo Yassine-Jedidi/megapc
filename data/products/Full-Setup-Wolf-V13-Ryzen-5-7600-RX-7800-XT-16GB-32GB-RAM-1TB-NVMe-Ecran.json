@@ -1,0 +1,205 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749570422781.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749570422781.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/+/4J+fktFRODe3wDX09U9NTsyISfLxcoAube7AAEAKxsiysTKAO3t7VhYWFhVXebl579JGmP+TOanAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749570426047.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749570426047.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImS3HwQkAQAjEwK1BBLEF/4L9NxZPuEcgI2BmuhsQ4O5m9pGZ0s1VVRHxsMIAGrBe3P6yAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749570428593.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749570428593.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWP4//+/h6tHbEzs////Gf7//8/MwKwsqwjlyMqrmWraQDnu7v4xIclADgDwWB0n6Gj6PgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "684fe621fd2984d47c255707",
+  "sku": "Full-Setup-Wolf-V13",
+  "mpn": "Full-Setup-Wolf-V13",
+  "titleSeo": "Full Setup Wolf V13 | Ryzen 5 7600 | RX 7800 XT 16GB | 32GB DDR5 | 1TB NVMe | Écran 27” QHD 180Hz | MEGA PC | GIGA TECH",
+  "desciprtionSeo": "Le Wolf V13 est un PC Gamer ultra-performant doté d’un Ryzen 5 7600, d’une carte graphique RX 7800 XT 16GB, de 32GB DDR5 6000 MHz, et d’un SSD NVMe Gen4 de 1TB. Ce setup est accompagné d’un écran Gigabyte 27\" incurvé QHD 180Hz, idéal pour jouer en 2K avec fluidité. Avec une alimentation 850W GOLD modulaire, un refroidisseur ARGB digital, et une carte mère B650, il est prêt pour toutes les batailles, gaming comme créatives.",
+  "ratingValue": "4.7",
+  "reviewCount": "49",
+  "priceValidUntil": "2027-04-05",
+  "referenceInterne": "Full-Setup-Wolf-V13",
+  "title": "Full Setup Wolf V13 | Ryzen 5 7600 | RX 7800 XT 16GB | 32GB RAM | 1TB NVMe + Ecran",
+  "title_fr": "Full Setup Wolf V13 | Ryzen 5 7600 | RX 7800 XT 16GB | 32GB RAM | 1TB NVMe + Ecran",
+  "description_fr": "<p><span style=\"font-size:22px\">Le <strong>Full Setup Wolf V13</strong> est une machine taill&eacute;e pour les gamers et cr&eacute;ateurs les plus exigeants. Il embarque un <strong>processeur AMD Ryzen 5 7600</strong> ultra-performant capable de monter jusqu&rsquo;&agrave; <strong>5.1 GHz</strong>, coupl&eacute; &agrave; une <strong>RX 7800 XT 16GB Gaming OC</strong>, une carte graphique de derni&egrave;re g&eacute;n&eacute;ration taill&eacute;e pour le <strong>QHD / 2K</strong> et m&ecirc;me au-del&agrave;.</span></p>\n\n<p><span style=\"font-size:22px\">Avec ses <strong>32GB de RAM DDR5 G.Skill Ripjaws &agrave; 6000 MHz</strong>, ce setup garantit une fluidit&eacute; totale en jeu comme en multit&acirc;che, et son <strong>SSD NVMe Gen4 de 1TB</strong> assure des vitesses de lecture et d&rsquo;&eacute;criture foudroyantes. Le tout est parfaitement aliment&eacute; par une <strong>alimentation 850W 80+ GOLD modulaire PCIE5</strong>, refroidi efficacement par le <strong>DeepCool AG400 Digital ARGB</strong>, et mont&eacute; dans un <strong>bo&icirc;tier Aerocool Designer V2</strong> au design sobre et moderne.</span></p>\n\n<p><span style=\"font-size:22px\">Le setup inclut un &eacute;cran <strong>Gigabyte 27&quot; QHD incurv&eacute;</strong>, avec un taux de rafra&icirc;chissement de <strong>180Hz</strong> et un temps de r&eacute;ponse de <strong>1ms</strong>, parfait pour l&rsquo;esport, l&rsquo;immersion et la productivit&eacute; visuelle.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🧠 <strong>Processeur :</strong> AMD Ryzen 5 7600 (3.8 &ndash; 5.1 GHz)</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte graphique :&nbsp;</strong>Gigabyte Radeon RX 7800 XT 16GB Gaming OC</span></li>\n\t<li><span style=\"font-size:22px\">💾 <strong>RAM :</strong> G.Skill Ripjaws RGB 32GB DDR5 6000 MHz</span></li>\n\t<li><span style=\"font-size:22px\">⚡ <strong>Stockage :</strong> MSI SPATIUM M450 SSD M.2 Gen 4.0 NVMe 1Tb</span></li>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>Carte m&egrave;re :</strong> GIGABYTE B650 UD AX</span></li>\n\t<li><span style=\"font-size:22px\">🔌 <strong>Alimentation :</strong> Gigabyte GP-UD850GM 850W 80+ GOLD Modulaire PCIE5</span></li>\n\t<li><span style=\"font-size:22px\">🧊 <strong>Refroidissement :</strong> DeepCool AG400 Digital ARGB</span></li>\n\t<li><span style=\"font-size:22px\">🧱 <strong>Bo&icirc;tier :</strong> Aerocool Designer V2</span></li>\n\t<li><span style=\"color:#ff0000\"><span style=\"font-size:22px\">🖼️ <strong>&Eacute;cran :</strong> Gigabyte 27&quot; GS27QCA | QHD 2K Curved VA | 180 Hz | 1 ms</span></span></li>\n\t<li><span style=\"color:#ff0000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": "AMD Ryzen 5 7600",
+      "enable": true,
+      "_id": "6879043838284c8443148d42"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "5.10GHz",
+      "enable": true,
+      "_id": "6879043838284c8443148d43"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "B650",
+      "enable": true,
+      "_id": "6879043838284c8443148d44"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RX 7800 XT 16GB",
+      "enable": true,
+      "_id": "6879043838284c8443148d45"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "32GB DDR5 6000MHz",
+      "enable": true,
+      "_id": "6879043838284c8443148d46"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "1TB NVMe",
+      "enable": true,
+      "_id": "6879043838284c8443148d47"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "850W 80+ Gold",
+      "enable": true,
+      "_id": "6879043838284c8443148d48"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "Aerocool Designer V2",
+      "enable": true,
+      "_id": "6879043838284c8443148d49"
+    },
+    {
+      "cle": "Type de refroidissement",
+      "valeur": "Airccoling",
+      "enable": true,
+      "_id": "6879043838284c8443148d4a"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415",
+    "681ce4f0c75bcce7a27d6891"
+  ],
+  "lien": "Full-Setup-Wolf-V13-Ryzen-5-7600-RX-7800-XT-16GB-32GB-RAM-1TB-NVMe-Ecran",
+  "gallerie": {
+    "_id": "6848536efd2984d47c06c7cf",
+    "titre": "BOITIER AEROCOOL DESIGNER V2",
+    "urlPhoto": [
+      "/uploads/gallerie/1749570422781.webp",
+      "/uploads/gallerie/1749570426047.webp",
+      "/uploads/gallerie/1749570428593.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-10T15:47:08.690Z",
+    "create_date": "2025-06-10T15:46:54.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 305,
+  "price": 5049,
+  "tagsSearch": [
+    "CONFIG PC AMD",
+    "ORDINATEURS",
+    "PC GAMER",
+    "RX 7800 XT",
+    "B650 UD AX",
+    "AMD Ryzen 5 7600",
+    "GS27QCA",
+    "BAC_2K25"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-06-14T14:28:18.149Z",
+  "update_date": "2025-10-21T04:52:57.236Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

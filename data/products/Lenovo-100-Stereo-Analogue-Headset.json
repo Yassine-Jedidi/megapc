@@ -1,0 +1,171 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677494220688.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677494220688.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAL0lEQVQImWP4////p0+frl679v//f4b////39vVraet++vQJxLGysmZgYIHKwAEA2uYl8mK5R+wAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677494220689.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677494220689.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMklEQVQImWP4////16/f7t279///f4b///+rqKolJieDOL///GZgYOnq7oHKQMCP7z8A3UAmd8v7P0MAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677494220690.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677494220690.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAJ0lEQVQImWP4////SzD4//8/w////zMzs1xc3aAcNTU1BgYmKAcOANnFJdit30KUAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677494220691.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677494220691.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImRXJQQ3AIBREwa0Q0FfsAMaogRVQkn8gnB9hriNgjM82oH/O2vpbim0BKWfpuQNEhO299gHMgCT32FWWaQAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "63fc89a88ac974073d87745b",
+  "sku": "GXD1E71386",
+  "mpn": "GXD1E71386",
+  "titleSeo": "CASQUE Lenovo 100 Stereo Analogue Headset | MEGA PC ",
+  "desciprtionSeo": "CASQUE Lenovo 100 Stereo Analogue Headset - Oreillette confortable - Bandeau et perche réglables - Microphone à 180 degrés | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GXD1E71386",
+  "title": "Lenovo 100 Stereo Analogue Headset",
+  "title_fr": "Lenovo 100 Stereo Analogue Headset ",
+  "description_fr": "<h2>Lenovo 100 Stereo Analogue Headset</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">L&#39;utilisation de casques au bureau est un &eacute;l&eacute;ment cl&eacute; de la journ&eacute;e de travail moderne. Les appels VOIP remplacent rapidement les services t&eacute;l&eacute;phoniques traditionnels et aident les entreprises &agrave; &eacute;conomiser sur les gros co&ucirc;ts de t&eacute;l&eacute;communications. Le casque st&eacute;r&eacute;o analogique Lenovo Essential est con&ccedil;u pour la VOIP, offre une perche de micro facile &agrave; pivoter, des oreillettes confortables et une connexion plug-and-play avec la plupart des PC Lenovo</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1677494279871.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Gamme de fr&eacute;quence : 100 Hz ~ 10 kHz | Connectivit&eacute; 3,5 mm</span></li>\n\t<li><span style=\"font-size:22px\">Sensibilit&eacute; : 98 dB +/- 3 dB @ 1 kHz</span></li>\n\t<li><span style=\"font-size:22px\">Oreillette confortable</span></li>\n\t<li><span style=\"font-size:22px\">Bandeau et perche r&eacute;glables</span></li>\n\t<li><span style=\"font-size:22px\">Microphone &agrave; 180 degr&eacute;s</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23366a4815052c4d1a420",
+    "titre": "CASQUE",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206307664.webp",
+    "order": 3,
+    "descriptionSEO": "<p>Micro Casque Gamer à prix pas cher en Tunisie. Casque microphone gaming Pc, Ps4, XBOX.&nbsp;Casque micro sans fil professionnel USB, Logitech, Msi, Razer</p>",
+    "titreSEO": "Micro Casque Gamer à prix pas cher en Tunisie | casque microphone",
+    "create_date": "2020-04-24T00:31:34.000Z",
+    "reference": "CASQUE",
+    "update_date": "2021-12-04T08:54:24.050Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Utilisation",
+      "valeur": "Téléphonie",
+      "enable": false,
+      "_id": "6278e5f86010f19d11cac571"
+    },
+    {
+      "cle": "COULEUR",
+      "valeur": "Gris",
+      "enable": true,
+      "_id": "6278e5f86010f19d11cac577"
+    },
+    {
+      "cle": "LED",
+      "valeur": "non",
+      "enable": true,
+      "_id": "6278e5f86010f19d11cac578"
+    },
+    {
+      "cle": "Connecteur(s)",
+      "valeur": "Jack 3,5mm Mâle Stéréo",
+      "enable": true,
+      "_id": "6278e5f86010f19d11cac579"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23366a4815052c4d1a420"
+  ],
+  "lien": "Lenovo-100-Stereo-Analogue-Headset",
+  "gallerie": {
+    "_id": "63fc87a78ac974073d8626f2",
+    "titre": "LENOVO 100 STEREO ANALOGUE HEADSET",
+    "urlPhoto": [
+      "/uploads/gallerie/1677494220688.webp",
+      "/uploads/gallerie/1677494220689.webp",
+      "/uploads/gallerie/1677494220690.webp",
+      "/uploads/gallerie/1677494220691.webp"
+    ],
+    "update_date": "2023-02-27T10:37:00.806Z",
+    "create_date": "2023-02-27T10:36:23.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2651,
+  "price": 87,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "CASQUE"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-02-27T10:44:56.926Z",
+  "update_date": "2025-10-23T10:21:35.114Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

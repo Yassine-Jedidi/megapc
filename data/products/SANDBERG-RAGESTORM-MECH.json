@@ -1,0 +1,178 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613659496534.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613659496534.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APv5+dbS0trY2v///wDo5uUCAAgtMjv///8A////p6qvAAINpqamAP/+/v///6OkpMrKy5QEIoWk52fNAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613659502000.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613659502000.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImQ3KQQ0AMQgEwK0VkNLaxkNPAS5IyJJsb94DSSS7WxJm5uxjZpmJqlqAu5OEpIj47v3bA7ZBI3gn/+V0AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613659507709.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613659507709.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWN48+b17p1bV61aceXKZYb379/5eHsxMDB0tLcw/P//PyE+Xk5W7vTpUyBOVlautJT8q1evABmWHMgvcbFZAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "602e7f3a72a5e1d1ef869774",
+  "sku": "cl-sb-ragestorm",
+  "mpn": "640-18",
+  "titleSeo": "CLAVIER GAMING SANDBERG RAGESTORM MECHGAMER - Achat Clavier gamer Tunisie",
+  "ratingValue": "4",
+  "reviewCount": "42",
+  "priceValidUntil": "2022-05-05",
+  "title": "SANDBERG RAGESTORM MECH",
+  "title_fr": "SANDBERG RAGESTORM MECH",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>CLAVIER GAMING SANDBERG RAGESTORM MECHGAMER</h2>\n\n<p><span style=\"font-size:22px\">Le Sandberg RageStorm Mech est un pav&eacute; tactile de jeu m&eacute;canique qui offre une exp&eacute;rience de jeu immersive et pr&eacute;cise. Il est &eacute;quip&eacute; de 27 touches m&eacute;caniques Outemu Blue, qui offrent une sensation tactile et un clic audible. Les touches sont &eacute;galement r&eacute;tro&eacute;clair&eacute;es RGB, pour une personnalisation compl&egrave;te.</span></p>\n\n<blockquote><br />\n<br />\n<img alt=\"SANDBERG CLAVIER RAGESTORM MECH DS\" src=\"https://api.megapc.tn//uploads/gallerie/1626278953307.webp\" /><br />\n&nbsp;\n<p>&nbsp;</p>\n</blockquote>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">27 touches m&eacute;caniques Outemu Blue</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro&eacute;clairage RGB</span></li>\n\t<li><span style=\"font-size:22px\">Repose-poignet int&eacute;gr&eacute;</span></li>\n\t<li><span style=\"font-size:22px\">Touches m&eacute;caniques Outemu Blue pr&eacute;cises</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro&eacute;clairage RGB personnalisable</span></li>\n\t<li><span style=\"font-size:22px\">Repose-poignet int&eacute;gr&eacute; confortable</span></li>\n\t<li><span style=\"font-size:22px\">C&acirc;ble USB facile &agrave; connecter</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "601aa290560a75bf85052ef0",
+    "titre": "SANDBERG",
+    "description": "SANDBERG",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1612358293011.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-02-03T13:18:08.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23388a4815052c4d1a421",
+    "titre": "CLAVIER",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206277489.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Clavier Pc gamer Filaire USB, clavier pc bureau, clavier mécanique Tunisie, accessoires gaming, Aorus, HyperX, Spirit of Gamer, Corsair, Razer, Msi.</p>",
+    "titreSEO": "Clavier pc gamer Tunisie | clavier azerty ordinateur sans fil RGB",
+    "create_date": "2020-04-24T00:32:08.000Z",
+    "reference": "CLAVIER",
+    "update_date": "2021-12-04T09:59:08.867Z",
+    "visible": true,
+    "marge": 1.12,
+    "tva": 1.07,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "TYPE DE CLAVIER",
+      "valeur": "MÉCANIQUE",
+      "enable": true,
+      "_id": "60eff0053ad8ba4cd25c3597"
+    },
+    {
+      "cle": "RÉTROÉCLAIRAGE",
+      "valeur": "RGB",
+      "enable": true,
+      "_id": "60eff0053ad8ba4cd25c3598"
+    },
+    {
+      "cle": "LONGUEUR DE CÂBLE",
+      "valeur": "1.5 M",
+      "enable": true,
+      "_id": "60eff0053ad8ba4cd25c3599"
+    },
+    {
+      "cle": "NOMBRE DE BOUTONS",
+      "valeur": "27",
+      "enable": true,
+      "_id": "60eff0053ad8ba4cd25c359a"
+    },
+    {
+      "cle": "POIDS",
+      "valeur": "332 G",
+      "enable": true,
+      "_id": "60eff0053ad8ba4cd25c359b"
+    }
+  ],
+  "tag": [],
+  "compatibility": [
+    "5ecd307009e438ed3486eb1c",
+    "6012d7c9747b3a2eb5337491",
+    "5fd32a746c4a9703cc6cbe96",
+    "6027daa55a363f3e59971ace",
+    "602e8cd672a5e1d1ef8697dc",
+    "60d60cb1c9da4121686c0aa8"
+  ],
+  "nFilsCategs": [
+    "5ea23388a4815052c4d1a421"
+  ],
+  "lien": "SANDBERG-RAGESTORM-MECH",
+  "gallerie": {
+    "_id": "602e7d1872a5e1d1ef869751",
+    "urlPhoto": [
+      "/uploads/gallerie/1613659496534.webp",
+      "/uploads/gallerie/1613659502000.webp",
+      "/uploads/gallerie/1613659507709.webp"
+    ],
+    "titre": "SANDBERG RAGESTORM MECH",
+    "__v": 3,
+    "create_date": "2021-02-18T14:43:36.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 6915,
+  "price": 112,
+  "tagsSearch": [
+    "SANDBERG",
+    "ACCESSOIRES",
+    "CLAVIER"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2021-02-18T14:52:42.497Z",
+  "update_date": "2025-10-23T00:08:20.815Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

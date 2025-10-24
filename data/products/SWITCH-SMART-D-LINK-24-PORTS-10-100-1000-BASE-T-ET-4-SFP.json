@@ -1,0 +1,192 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772569687.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772569687.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQY6uvr9fX0GBkYgoMCGRgZGIT4+X19vGfPmMWArAwAAZ0dym1lVHEAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772572844.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772572844.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYCgsLIyMjQ0PDoqKiGTQ1NVlZWRkZGDnZuRiQlQEADXQc/HUF3HsAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "68597e5999437548fd87c424",
+  "sku": "DGS-1210-28E-MT",
+  "mpn": "DGS-1210-28E-MT",
+  "titleSeo": "Switch SMART D-LINK 24 ports 10/100/1000 BASE/T et 4 SFP | MEGA PC | MEILLEUR PRIX TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "46",
+  "priceValidUntil": "2028-06-23",
+  "referenceInterne": "DGS-1210-28E-MT",
+  "title": "Switch SMART D-LINK 24 ports 10/100/1000 BASE/T et 4 SFP",
+  "title_fr": "Switch SMART D-LINK 24 ports 10/100/1000 BASE/T et 4 SFP",
+  "description_fr": "<div style=\"font-size:22px\">\n<p>Switch SMART D-LINK - Ports : <strong>24 ports 10/100/1000BASE-T, 4 ports combin&eacute;s Gigabit RJ45/SFP </strong>- Fonctionnalit&eacute;s L2 : <strong>Routage statique L2+, mise en miroir des ports, surveillance IGMP, STP, LACP</strong> - Gestion PoE : <strong>Prend en charge Power-over-Ethernet, normes IEEE 802.3af/at, contr&ocirc;le &agrave; distance des appareils aliment&eacute;s </strong>- VLAN vocal et mode Surveillance :<strong> Identification automatique du trafic VoIP et des cam&eacute;ras ONVIF, gestion simplifi&eacute;e</strong> - Interface de gestion : Modes standard et surveillance, interface utilisateur web - S&eacute;curit&eacute; : <strong>Protection contre les inondations, authentification 802.1X, ACL pour la s&eacute;curit&eacute; du r&eacute;seau</strong> - Dimensions: 440x 140x 44 mm -&nbsp;</p>\n</div>\n",
+  "miniDescription": "<div style=\"font-size: 22px\"><p>Switch SMART D-LINK - Ports : <span style=\"color: #fd0505;\"><strong>24 ports 10/100/1000BASE-T, 4 ports combinés Gigabit RJ45/SFP </strong></span>- Fonctionnalités L2 : <strong>Routage statique L2+, mise en miroir des ports, surveillance IGMP, STP, LACP</strong> - Gestion PoE : <strong>Prend en charge Power-over-Ethernet, normes IEEE 802.3af/at, contrôle à distance des appareils alimentés </strong>- VLAN vocal et mode Surveillance :<strong> Identification automatique du trafic VoIP et des caméras ONVIF, gestion simplifiée</strong> - Interface de gestion : Modes standard et surveillance, interface utilisateur web - Sécurité : <strong>Protection contre les inondations, authentification 802.1X, ACL pour la sécurité du réseau</strong> - Dimensions: 440x 140x 44 mm -&nbsp;</p>\n<div style=\"background: #E3E0E3; width: 100%; font-size: 11px; font-weight: bold; padding: 10px 0 10px 0px;\"><span style=\"color: #000000;\"> Retrait en Magasin ou Livraison</span> <span style=\"color: #d0121a; font-size: 13px;\">Gratuite</span> <span style=\"color: #000000;\">pour Cet Article</span></div></div>",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\">Switch SMART D-LINK - Ports : <strong>24 ports 10/100/1000BASE-T, 4 ports combin&eacute;s Gigabit RJ45/SFP </strong>- Fonctionnalit&eacute;s L2 : <strong>Routage statique L2+, mise en miroir des ports, surveillance IGMP, STP, LACP</strong> - Gestion PoE : <strong>Prend en charge Power-over-Ethernet, normes IEEE 802.3af/at, contr&ocirc;le &agrave; distance des appareils aliment&eacute;s </strong>- VLAN vocal et mode Surveillance :<strong> Identification automatique du trafic VoIP et des cam&eacute;ras ONVIF, gestion simplifi&eacute;e</strong> - Interface de gestion : Modes standard et surveillance, interface utilisateur web - S&eacute;curit&eacute; : <strong>Protection contre les inondations, authentification 802.1X, ACL pour la s&eacute;curit&eacute; du r&eacute;seau</strong> - Dimensions: 440x 140x 44 mm -&nbsp;</span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "68597d18fd2984d47c666123",
+    "titre": "D-LINK",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:13:12.243Z",
+    "create_date": "2025-06-23T16:13:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "6676a6a5670b0ae15899d459",
+    "titre": "SÉCURITÉ & PROTECTION",
+    "order": 21,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:33:08.972Z",
+    "create_date": "2024-06-22T10:25:41.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1719396231511.webp",
+    "urlPhoto2": "/uploads/categorie/1720013029366.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "68597cd1fd2984d47c66611d",
+    "titre": "RESEAUX SECURITE",
+    "marge": null,
+    "tva": null,
+    "visible": true,
+    "order": 4,
+    "categorie": "6676a6a5670b0ae15899d459",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:19:53.025Z",
+    "create_date": "2025-06-23T16:12:01.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1750695588029.webp",
+    "urlPhoto2": "/uploads/souscateg/1750695592930.webp"
+  },
+  "qte": 0,
+  "attributes": [
+    {
+      "cle": "gtin",
+      "valeur": "DGS-1210-28E",
+      "enable": true,
+      "_id": "68597e5999437548fd87c425"
+    },
+    {
+      "cle": "Marque",
+      "valeur": "DLINK",
+      "enable": true,
+      "_id": "68597e5999437548fd87c426"
+    },
+    {
+      "cle": "Nombre de Ports",
+      "valeur": "28 Ports",
+      "enable": true,
+      "_id": "68597e5999437548fd87c427"
+    },
+    {
+      "cle": "Normes réseau",
+      "valeur": "24 x 10/100/1000BASE-T ports",
+      "enable": true,
+      "_id": "68597e5999437548fd87c428"
+    },
+    {
+      "cle": "Administrable",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597e5999437548fd87c429"
+    },
+    {
+      "cle": "Gigabit",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597e5999437548fd87c42a"
+    },
+    {
+      "cle": "Compatibilité POE",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "68597e5999437548fd87c42b"
+    },
+    {
+      "cle": "Poids",
+      "valeur": "2.15 kg",
+      "enable": true,
+      "_id": "68597e5999437548fd87c42c"
+    },
+    {
+      "cle": "Dimensions",
+      "valeur": "Dimensions: 440x 140x 44 mm",
+      "enable": true,
+      "_id": "68597e5999437548fd87c42d"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "68597cd1fd2984d47c66611d"
+  ],
+  "lien": "SWITCH-SMART-D-LINK-24-PORTS-10-100-1000-BASE-T-ET-4-SFP",
+  "gallerie": {
+    "_id": "685aab37fd2984d47c74e493",
+    "titre": "SWITCH SMART D-LINK 24 PORTS 10/100/1000 BASE/T ET 4 SFP",
+    "urlPhoto": [
+      "/uploads/gallerie/1750772569687.webp",
+      "/uploads/gallerie/1750772572844.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-24T13:42:52.936Z",
+    "create_date": "2025-06-24T13:42:15.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 94,
+  "price": 779,
+  "tagsSearch": [],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-06-23T16:18:33.178Z",
+  "update_date": "2025-10-23T13:23:37.339Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

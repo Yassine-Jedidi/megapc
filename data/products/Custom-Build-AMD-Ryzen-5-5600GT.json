@@ -1,0 +1,1408 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724440379112.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724440379112.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP9vEf92Fv+gKP/3UAD/ehb/kSf/lCv/nCYAvjQA631F9olT/20OADwAAIgPAL0xAN0pAKUQFo/kXCjmAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "685071d8fd2984d47c30969c",
+  "sku": "CB-5600GT",
+  "mpn": "CB-5600GT",
+  "titleSeo": "Custom PC AMD Ryzen 5 5600GT | 8GB RAM & 500W PSU Modifiables | PC Personnalisable | MEGA PC | GIGA TECH",
+  "desciprtionSeo": "Assemblez votre PC idéal avec le processeur AMD Ryzen 5 5600GT comme base solide. Ce Custom Build inclut par défaut 8 Go de RAM DDR4 et une alimentation MSI 500W, tous deux modifiables selon vos besoins. Grâce à notre configurateur, personnalisez facilement la carte graphique, le stockage, la carte mère, le boîtier et le refroidissement pour créer un PC qui vous ressemble. Performant, accessible, et 100% adaptable — votre configuration sur-mesure commence ici.",
+  "ratingValue": "4.8",
+  "reviewCount": "51",
+  "priceValidUntil": "2027-09-08 ",
+  "referenceInterne": "CB-5600GT",
+  "title": "Custom Build AMD Ryzen 5 5600GT | 8 Go DDR4 3200 MHz | Alimentation MSI 500W | Configuration Modifiable",
+  "title_fr": "Custom Build AMD Ryzen 5 5600GT | 8 Go DDR4 3200 MHz | Alimentation MSI 500W | Configuration Modifiable",
+  "description_fr": "<p><span style=\"font-size:22px\">Ce PC Custom Build commence avec le processeur <strong>AMD Ryzen 5 5600GT</strong>, un choix &eacute;quilibr&eacute; pour la bureautique avanc&eacute;e, le multim&eacute;dia, et m&ecirc;me les jeux l&eacute;gers gr&acirc;ce &agrave; ses <strong>graphiques Radeon Vega int&eacute;gr&eacute;s</strong>. Il est livr&eacute; avec <strong>8 Go de m&eacute;moire DDR4 3200 MHz</strong> (modifiables selon vos besoins) ainsi qu&#39;une alimentation fiable <strong>MSI MAG A500DN 500W 80+ Standard</strong>, &eacute;galement modifiable.</span></p>\n\n<p><span style=\"font-size:22px\">Vous pouvez ensuite personnaliser <strong>tous les autres composants</strong> via notre configurateur : carte graphique, SSD ou HDD, carte m&egrave;re, refroidissement et bo&icirc;tier. Cette formule vous permet de construire un PC totalement adapt&eacute; &agrave; votre utilisation et votre budget, avec une base solide et &eacute;volutive.</span></p>\n\n<p><span style=\"font-size:22px\">Con&ccedil;u pour ceux qui veulent garder le contr&ocirc;le de leur configuration sans compromis sur la qualit&eacute; ou la simplicit&eacute;. Que vous cherchiez un PC pour travailler, &eacute;tudier ou vous divertir, ce Custom Build est fait pour vous.</span></p>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\"><strong>🧠 Processeur fixe :</strong> AMD Ryzen 5 5600GT (3.6 GHz / 4.6 GHz)<br />\n<strong>🧬 M&eacute;moire RAM :</strong> 8 Go DDR4 3200 MHz (1 x 8 Go AERO) &ndash; modifiable<br />\n<strong>🔌 Alimentation : </strong>MSI MAG A500DN 500W 80+ Standard &ndash; modifiable<br />\n✅ Tous les autres composants personnalisables (GPU, stockage, carte m&egrave;re, bo&icirc;tier, refroidissement)<br />\n✅ Formule &eacute;volutive et accessible pour tous les besoins<br />\n✅ Id&eacute;al pour bureautique, multim&eacute;dia, et gaming l&eacute;ger</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"color:#ff0000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "67472c9b91e54111256c51c1",
+    "titre": "CUSTOM BUILD",
+    "tva": null,
+    "visible": true,
+    "order": 1,
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-11-27T14:29:03.087Z",
+    "create_date": "2024-11-27T14:28:43.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1732717738267.webp",
+    "urlPhoto2": "/uploads/souscateg/1732717742976.webp"
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "67472c9b91e54111256c51c1",
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Custom-Build-AMD-Ryzen-5-5600GT",
+  "gallerie": {
+    "_id": "66c8df2961897527ab55cea9",
+    "titre": "CUSTOM BUILD 3 | RYZEN 5 5600GT | 16GB RAM | 240 GB | MSI 120A",
+    "urlPhoto": [
+      "/uploads/gallerie/1724440379112.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-08-23T19:12:59.244Z",
+    "create_date": "2024-08-23T19:12:41.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1102,
+  "price": 662,
+  "tagsSearch": [
+    "CONFIG PC AMD",
+    "ORDINATEURS",
+    "CUSTOM BUILD",
+    "PC GAMER"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-06-16T14:44:42.913Z",
+  "update_date": "2025-10-23T20:42:58.744Z",
+  "gpu": {
+    "_id": "5fa175cb73a604299690b770",
+    "title": "Sans Graphique",
+    "gallerie": {
+      "_id": "68540ef0fd2984d47c467343",
+      "titre": "SANS GRAPHIQUE",
+      "urlPhoto": [
+        "/uploads/gallerie/1750339324167.webp"
+      ],
+      "targetMega": true,
+      "targetGiga": true,
+      "targetMobile": true,
+      "update_date": "2025-06-19T13:22:04.268Z",
+      "create_date": "2025-06-19T13:21:52.000Z",
+      "__v": 1
+    },
+    "price": 0,
+    "create_date": "2020-11-03T15:22:51.000Z"
+  },
+  "case": {
+    "_id": "635187ec09142933212236ac",
+    "title": "Sans Boitier",
+    "gallerie": {
+      "_id": "6854159dfd2984d47c470b2e",
+      "titre": "SANS BOITIER",
+      "urlPhoto": [
+        "/uploads/gallerie/1750341028033.webp"
+      ],
+      "targetMega": true,
+      "targetGiga": true,
+      "targetMobile": true,
+      "update_date": "2025-06-19T13:50:28.134Z",
+      "create_date": "2025-06-19T13:50:21.000Z",
+      "__v": 1
+    },
+    "price": 0,
+    "create_date": "2022-10-20T17:39:56.000Z"
+  },
+  "ram": {
+    "_id": "66c894987b8886183c7d2eff",
+    "title": "BARETTE AERO  8GB (1X8GB) DDR4 3200MHz LODIMM",
+    "gallerie": {
+      "_id": "66c8958b7b8886183c7de7fc",
+      "titre": "BARETTE AERO  8GB (1X8GB) DDR4 3200MHZ LODIMM",
+      "urlPhoto": [
+        "/uploads/gallerie/1724423164525.webp"
+      ],
+      "targetMega": true,
+      "targetGiga": true,
+      "targetMobile": true,
+      "update_date": "2024-08-23T14:26:08.923Z",
+      "create_date": "2024-08-23T13:58:35.000Z",
+      "__v": 2
+    },
+    "price": 49,
+    "create_date": "2024-08-23T13:54:32.000Z"
+  },
+  "cpuColler": {
+    "_id": "5faead9c2ad25d0424bbfe61",
+    "title": "Sans Cooler",
+    "price": 0,
+    "create_date": "2020-11-13T16:00:28.000Z"
+  },
+  "carteMere": {
+    "_id": "685033dbfd2984d47c2cac82",
+    "title": "Sans Carte mère",
+    "price": 0,
+    "create_date": "2025-06-16T15:10:19.000Z"
+  },
+  "alim": {
+    "_id": "64dcbefbd86a54d556227c38",
+    "title": "MSI MAG A500DN 500W ATX 80 PLUS STANDARD",
+    "gallerie": {
+      "_id": "64dcbc50d86a54d55620e78b",
+      "titre": "MSI MAG A500DN ",
+      "urlPhoto": [
+        "/uploads/gallerie/1692187736839.webp",
+        "/uploads/gallerie/1692187748595.webp",
+        "/uploads/gallerie/1692187748616.webp"
+      ],
+      "update_date": "2023-08-16T12:09:19.877Z",
+      "create_date": "2023-08-16T12:08:48.000Z",
+      "__v": 2
+    },
+    "price": 129,
+    "create_date": "2023-08-16T12:20:11.000Z"
+  },
+  "ssd": {
+    "_id": "5ff81732c6b5421ed1d1e2c1",
+    "title": "Sans SSD",
+    "price": 0,
+    "create_date": "2021-01-08T08:26:26.000Z"
+  },
+  "carteReseau": {
+    "_id": "66c8a9364be90f7c7ba16392",
+    "title": "Sans Carte Réseau",
+    "gallerie": {
+      "_id": "68541776fd2984d47c477317",
+      "titre": "SANS CARTE RÉSEAU",
+      "urlPhoto": [
+        "/uploads/gallerie/1750341503777.webp"
+      ],
+      "targetMega": true,
+      "targetGiga": true,
+      "targetMobile": true,
+      "update_date": "2025-06-19T13:58:23.876Z",
+      "create_date": "2025-06-19T13:58:14.000Z",
+      "__v": 1
+    },
+    "price": 0,
+    "create_date": "2024-08-23T15:22:30.000Z"
+  },
+  "nvme": {
+    "_id": "5ff81719c6b5421ed1d1e2c0",
+    "title": "Sans NVMe",
+    "gallerie": {
+      "_id": "6854105efd2984d47c467ca8",
+      "titre": "SANS NVME",
+      "urlPhoto": [
+        "/uploads/gallerie/1750339803519.webp"
+      ],
+      "targetMega": true,
+      "targetGiga": true,
+      "targetMobile": true,
+      "update_date": "2025-06-19T13:30:04.761Z",
+      "create_date": "2025-06-19T13:27:58.000Z",
+      "__v": 2
+    },
+    "price": 0,
+    "create_date": "2021-01-08T08:26:01.000Z"
+  },
+  "windows": {
+    "_id": "66c8a7db4be90f7c7b9ff0bd",
+    "title": "Microsoft Windows 11 Professionnel sans license 64 bits",
+    "gallerie": {
+      "_id": "61740c6677e19ef9d006b9ba",
+      "urlPhoto": [
+        "/uploads/gallerie/1634995317758.webp",
+        "/uploads/gallerie/1634999866332.webp"
+      ],
+      "titre": "WINDOWS 11 ",
+      "__v": 2,
+      "create_date": "2021-10-23T13:21:42.000Z"
+    },
+    "price": 0,
+    "create_date": "2024-08-23T15:16:43.000Z"
+  },
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [
+    {
+      "_id": "5fa175cb73a604299690b770",
+      "title": "Sans Graphique",
+      "gallerie": {
+        "_id": "68540ef0fd2984d47c467343",
+        "titre": "SANS GRAPHIQUE",
+        "urlPhoto": [
+          "/uploads/gallerie/1750339324167.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-19T13:22:04.268Z",
+        "create_date": "2025-06-19T13:21:52.000Z",
+        "__v": 1
+      },
+      "price": 0,
+      "create_date": "2020-11-03T15:22:51.000Z"
+    },
+    {
+      "_id": "670946e6ddc2b50ca045a671",
+      "title": "MSI GeForce RTX 3050 VENTUS 2X XS 8G OC",
+      "gallerie": {
+        "_id": "67094578ddc2b50ca045a647",
+        "titre": " MSI GEFORCE RTX 3050 VENTUS 2X XS 8G OC",
+        "urlPhoto": [
+          "/uploads/gallerie/1728660956863.jpg",
+          "/uploads/gallerie/1728660981195.jpg",
+          "/uploads/gallerie/1728660981196.jpg",
+          "/uploads/gallerie/1728660981197.jpg",
+          "/uploads/gallerie/1728661025380.jpg"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-10-11T15:37:05.488Z",
+        "create_date": "2024-10-11T15:34:16.000Z",
+        "__v": 3
+      },
+      "price": 799,
+      "create_date": "2024-10-11T15:40:22.000Z"
+    },
+    {
+      "_id": "64941001ccf4e7339046be59",
+      "title": "Gigabyte GeForce RTX 4060 WINDFORCE OC 8G",
+      "gallerie": {
+        "_id": "64941456ccf4e73390484024",
+        "titre": "GIGABYTE GEFORCE RTX­­ 4060 GAMING OC 8G ",
+        "urlPhoto": [
+          "/uploads/gallerie/1689001846976.webp",
+          "/uploads/gallerie/1689001852824.webp",
+          "/uploads/gallerie/1689001867801.webp",
+          "/uploads/gallerie/1689001867805.webp",
+          "/uploads/gallerie/1689001876398.webp",
+          "/uploads/gallerie/1689001876399.webp"
+        ],
+        "update_date": "2023-07-10T15:11:16.528Z",
+        "create_date": "2023-06-22T09:28:54.000Z",
+        "__v": 6
+      },
+      "price": 1149,
+      "create_date": "2023-06-22T09:10:25.000Z"
+    },
+    {
+      "_id": "67caafa0711a4ce5a484971d",
+      "title": "Gigabyte AMD Radeon RX 7600 XT GAMING OC 16G",
+      "gallerie": {
+        "_id": "67cab0a7711a4ce5a484977a",
+        "titre": "GIGABYTE AMD RADEON RX 7600 XT GAMING OC 16G",
+        "urlPhoto": [
+          "/uploads/gallerie/1741336754965.webp",
+          "/uploads/gallerie/1741336758865.webp",
+          "/uploads/gallerie/1741336761667.webp",
+          "/uploads/gallerie/1741336764423.webp",
+          "/uploads/gallerie/1741336766938.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-03-07T08:39:27.039Z",
+        "create_date": "2025-03-07T08:39:03.000Z",
+        "__v": 5
+      },
+      "price": 1299,
+      "create_date": "2025-03-07T08:34:40.000Z"
+    },
+    {
+      "_id": "6824b439c75bcce7a2961e36",
+      "title": "ASRock AMD Radeon RX 6600 Challenger Black 8GB GDDR6",
+      "gallerie": {
+        "_id": "6824b606c75bcce7a296f140",
+        "titre": "ASROCK AMD RADEON RX 6600 CHALLENGER BLACK 8GB GDDR6",
+        "urlPhoto": [
+          "/uploads/gallerie/1747236377085.webp",
+          "/uploads/gallerie/1747236385485.webp",
+          "/uploads/gallerie/1747236389392.webp",
+          "/uploads/gallerie/1747236406169.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-14T15:26:46.270Z",
+        "create_date": "2025-05-14T15:25:58.000Z",
+        "__v": 5
+      },
+      "price": 829,
+      "create_date": "2025-05-14T15:18:17.000Z"
+    },
+    {
+      "_id": "6824a912c75bcce7a2961941",
+      "title": "ASRock AMD Radeon RX 6600 Challenger White 8GB GDDR6",
+      "gallerie": {
+        "_id": "6824aa99c75bcce7a2961dbf",
+        "titre": "ASROCK AMD RADEON RX 6600 CHALLENGER WHITE 8GB GDDR6",
+        "urlPhoto": [
+          "/uploads/gallerie/1747233445248.webp",
+          "/uploads/gallerie/1747233447889.webp",
+          "/uploads/gallerie/1747233451372.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-14T14:37:31.510Z",
+        "create_date": "2025-05-14T14:37:13.000Z",
+        "__v": 3
+      },
+      "price": 829,
+      "create_date": "2025-05-14T14:30:42.000Z"
+    }
+  ],
+  "ccase": [
+    {
+      "_id": "635187ec09142933212236ac",
+      "title": "Sans Boitier",
+      "gallerie": {
+        "_id": "6854159dfd2984d47c470b2e",
+        "titre": "SANS BOITIER",
+        "urlPhoto": [
+          "/uploads/gallerie/1750341028033.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-19T13:50:28.134Z",
+        "create_date": "2025-06-19T13:50:21.000Z",
+        "__v": 1
+      },
+      "price": 0,
+      "create_date": "2022-10-20T17:39:56.000Z"
+    },
+    {
+      "_id": "652d1ac437e0a9bf8aac128f",
+      "title": "Aerocool Talon G",
+      "gallerie": {
+        "_id": "652d1a3837e0a9bf8aab83e7",
+        "titre": "AEROCOOL TALON G",
+        "urlPhoto": [
+          "/uploads/gallerie/1697454669735.webp",
+          "/uploads/gallerie/1697454741914.webp",
+          "/uploads/gallerie/1697454741916.webp",
+          "/uploads/gallerie/1697454741917.webp"
+        ],
+        "update_date": "2023-10-16T11:12:22.064Z",
+        "create_date": "2023-10-16T11:10:48.000Z",
+        "__v": 2
+      },
+      "price": 125,
+      "create_date": "2023-10-16T11:13:08.000Z"
+    },
+    {
+      "_id": "6524079037e0a9bf8a773dc6",
+      "title": "MSI MAG FORCE M100A ",
+      "gallerie": {
+        "_id": "652405e737e0a9bf8a773dbe",
+        "titre": "MSI MAG FORCE M100A",
+        "urlPhoto": [
+          "/uploads/gallerie/1748248800942.webp",
+          "/uploads/gallerie/1748248804947.webp",
+          "/uploads/gallerie/1748248809564.webp"
+        ],
+        "update_date": "2025-05-26T08:40:09.669Z",
+        "create_date": "2023-10-09T13:53:43.000Z",
+        "__v": 4,
+        "targetGiga": true,
+        "targetMega": true,
+        "targetMobile": true
+      },
+      "price": 120,
+      "create_date": "2023-10-09T14:00:48.000Z"
+    },
+    {
+      "_id": "64354a788ac974073d8587a4",
+      "title": "MSI MAG FORGE M100R",
+      "gallerie": {
+        "_id": "643548e48ac974073d8510f8",
+        "titre": "MSI MAG FORGE M100R",
+        "urlPhoto": [
+          "/uploads/gallerie/1681213716685.webp",
+          "/uploads/gallerie/1681213716686.webp",
+          "/uploads/gallerie/1681213716720.webp"
+        ],
+        "update_date": "2023-04-11T11:48:36.830Z",
+        "create_date": "2023-04-11T11:47:48.000Z",
+        "__v": 1
+      },
+      "price": 159,
+      "create_date": "2023-04-11T11:54:32.000Z"
+    },
+    {
+      "_id": "6808c184c75bcce7a207ce0b",
+      "title": "MSI MAG FORGE M100R WHITE",
+      "gallerie": {
+        "_id": "6808c28fc75bcce7a208ecab",
+        "titre": "MSI MAG FORGE M100R WHITE",
+        "urlPhoto": [
+          "/uploads/gallerie/1745404649918.webp",
+          "/uploads/gallerie/1745404652257.webp",
+          "/uploads/gallerie/1745404654502.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-04-23T10:37:34.611Z",
+        "create_date": "2025-04-23T10:35:59.000Z",
+        "__v": 4
+      },
+      "price": 189,
+      "create_date": "2025-04-23T10:31:32.000Z"
+    },
+    {
+      "_id": "68485300fd2984d47c06c7b4",
+      "title": "Boitier Aerocool Designer V2",
+      "gallerie": {
+        "_id": "6848536efd2984d47c06c7cf",
+        "titre": "BOITIER AEROCOOL DESIGNER V2",
+        "urlPhoto": [
+          "/uploads/gallerie/1749570422781.webp",
+          "/uploads/gallerie/1749570426047.webp",
+          "/uploads/gallerie/1749570428593.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-10T15:47:08.690Z",
+        "create_date": "2025-06-10T15:46:54.000Z",
+        "__v": 3
+      },
+      "price": 195,
+      "create_date": "2025-06-10T15:45:04.000Z"
+    },
+    {
+      "_id": "64e9f030d86a54d55662217d",
+      "title": "MARS GAMING MC-C BLACK ",
+      "gallerie": {
+        "_id": "64e9ef89d86a54d556619864",
+        "titre": "MARS GAMING MC-C BLACK ",
+        "urlPhoto": [
+          "/uploads/gallerie/1693052882660.webp"
+        ],
+        "update_date": "2023-08-26T12:28:02.794Z",
+        "create_date": "2023-08-26T12:26:49.000Z",
+        "__v": 1
+      },
+      "price": 169,
+      "create_date": "2023-08-26T12:29:36.000Z"
+    },
+    {
+      "_id": "673336cc99de58d4f6682311",
+      "title": "MARS GAMING MC-C MID TOWER WHITE METAL-MESH",
+      "gallerie": {
+        "_id": "6733377699de58d4f668e30b",
+        "titre": "MARS GAMING MC-C MID TOWER WHITE METAL-MESH",
+        "urlPhoto": [
+          "/uploads/gallerie/1731410392547.webp",
+          "/uploads/gallerie/1731410392549.webp",
+          "/uploads/gallerie/1731410392551.webp",
+          "/uploads/gallerie/1731410392562.webp",
+          "/uploads/gallerie/1731410392564.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-11-12T11:19:52.688Z",
+        "create_date": "2024-11-12T11:09:42.000Z",
+        "__v": 1
+      },
+      "price": 189,
+      "create_date": "2024-11-12T11:06:52.000Z"
+    },
+    {
+      "_id": "66e4218dace82ffc8fe47d60",
+      "title": "Msi MAG FORGE 320R AIRFLOW WHITE",
+      "gallerie": {
+        "_id": "66e4227eace82ffc8fe53728",
+        "titre": "MSI MAG FORGE 320R AIRFLOW WHITE ",
+        "urlPhoto": [
+          "/uploads/gallerie/1726227167177.webp",
+          "/uploads/gallerie/1726227167182.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-09-13T11:32:47.300Z",
+        "create_date": "2024-09-13T11:31:10.000Z",
+        "__v": 1
+      },
+      "price": 219,
+      "create_date": "2024-09-13T11:27:09.000Z"
+    }
+  ],
+  "cram": [
+    {
+      "_id": "66c894987b8886183c7d2eff",
+      "title": "BARETTE AERO  8GB (1X8GB) DDR4 3200MHz LODIMM",
+      "gallerie": {
+        "_id": "66c8958b7b8886183c7de7fc",
+        "titre": "BARETTE AERO  8GB (1X8GB) DDR4 3200MHZ LODIMM",
+        "urlPhoto": [
+          "/uploads/gallerie/1724423164525.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-08-23T14:26:08.923Z",
+        "create_date": "2024-08-23T13:58:35.000Z",
+        "__v": 2
+      },
+      "price": 49,
+      "create_date": "2024-08-23T13:54:32.000Z"
+    },
+    {
+      "_id": "675d5e681bc678ff21931b50",
+      "title": "GOODRAM DDR4 32GB PC4-25600 (3200MHZ) CL22",
+      "gallerie": {
+        "_id": "675d5de11bc678ff21931b34",
+        "titre": "GOODRAM DDR4 32GB PC4-25600 (3200MHZ) CL22",
+        "urlPhoto": [
+          "/uploads/gallerie/1736597001489.jpg",
+          "/uploads/gallerie/1736597024443.jpg"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-01-11T12:03:44.548Z",
+        "create_date": "2024-12-14T10:28:49.000Z",
+        "__v": 7
+      },
+      "price": 199,
+      "create_date": "2024-12-14T10:31:04.000Z"
+    },
+    {
+      "_id": "6850406bfd2984d47c2f489b",
+      "title": "GOODRAM DDR4 64GB (2 X 32GB) PC4-25600 (3200MHZ) CL22",
+      "gallerie": {
+        "_id": "6850425bfd2984d47c302562",
+        "titre": "GR3200D464L22/32GX2",
+        "urlPhoto": [
+          "/uploads/gallerie/1750090337556.webp",
+          "/uploads/gallerie/1750090339608.png"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-16T16:12:19.707Z",
+        "create_date": "2025-06-16T16:12:11.000Z",
+        "__v": 2
+      },
+      "price": 398,
+      "create_date": "2025-06-16T16:03:55.000Z"
+    },
+    {
+      "_id": "6850385bfd2984d47c2e60fb",
+      "title": "BARETTE PNY 32GB (2X16GB) DDR4 3200MHz BULK",
+      "gallerie": {
+        "_id": "685039e7fd2984d47c2f34e5",
+        "titre": "MD16GSD43200-TB-SIX2",
+        "urlPhoto": [
+          "/uploads/gallerie/1750088174362.webp",
+          "/uploads/gallerie/1750088177027.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-16T15:36:17.126Z",
+        "create_date": "2025-06-16T15:36:07.000Z",
+        "__v": 2
+      },
+      "price": 178,
+      "create_date": "2025-06-16T15:29:31.000Z"
+    },
+    {
+      "_id": "685035e8fd2984d47c2d82ea",
+      "title": "BARETTE PNY 16GB (1X16GB) DDR4 3200MHz BULK",
+      "gallerie": {
+        "_id": "685036ecfd2984d47c2e572f",
+        "titre": "MD16GSD43200-TB-SI",
+        "urlPhoto": [
+          "/uploads/gallerie/1750087417896.webp",
+          "/uploads/gallerie/1750087419999.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-16T15:23:40.099Z",
+        "create_date": "2025-06-16T15:23:24.000Z",
+        "__v": 2
+      },
+      "price": 89,
+      "create_date": "2025-06-16T15:19:04.000Z"
+    },
+    {
+      "_id": "68503513fd2984d47c2cad70",
+      "title": "BARETTE AERO 16GB (2X8GB) DDR4 3200MHz LODIMM",
+      "gallerie": {
+        "_id": "68503841fd2984d47c2e6097",
+        "titre": "F090326X2",
+        "urlPhoto": [
+          "/uploads/gallerie/1750087753320.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-16T15:29:13.422Z",
+        "create_date": "2025-06-16T15:29:05.000Z",
+        "__v": 1
+      },
+      "price": 98,
+      "create_date": "2025-06-16T15:15:31.000Z"
+    }
+  ],
+  "ccpuColler": [
+    {
+      "_id": "5faead9c2ad25d0424bbfe61",
+      "title": "Sans Cooler",
+      "price": 0,
+      "create_date": "2020-11-13T16:00:28.000Z"
+    },
+    {
+      "_id": "682b5f783c1480cd35c96883",
+      "title": "AirCooling ARGUS SU-800",
+      "gallerie": {
+        "_id": "682b603a3c1480cd35c9689c",
+        "titre": "REFROIDISSEUR PC ARGUS SU-800 RGB NOIR",
+        "urlPhoto": [
+          "/uploads/gallerie/1747673214782.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-19T16:46:54.892Z",
+        "create_date": "2025-05-19T16:45:46.000Z",
+        "__v": 1
+      },
+      "price": 46,
+      "create_date": "2025-05-19T16:42:32.000Z"
+    },
+    {
+      "_id": "6834227414116846dd3d6a97",
+      "title": "AirCooling InterTech 4P90",
+      "gallerie": {
+        "_id": "683422f114116846dd3d6ab0",
+        "titre": "AIRCOOLING INTERTECH 4P90",
+        "urlPhoto": [
+          "/uploads/gallerie/1748247309539.webp",
+          "/uploads/gallerie/1748247313174.webp",
+          "/uploads/gallerie/1748247316609.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-26T08:15:16.717Z",
+        "create_date": "2025-05-26T08:14:41.000Z",
+        "__v": 3
+      },
+      "price": 99,
+      "create_date": "2025-05-26T08:12:36.000Z"
+    },
+    {
+      "_id": "664b13cf41f2ac88715d1ae6",
+      "title": "MARS GAMING MCPU-XT CPU COOLER, ARGB, DUAL TOWER, 2X 12C",
+      "gallerie": {
+        "_id": "664b158441f2ac88715dca97",
+        "titre": "COOLER MARS GAMING MCPU-XT NOIR",
+        "urlPhoto": [
+          "/uploads/gallerie/1738866920115.webp",
+          "/uploads/gallerie/1738866927056.jpg",
+          "/uploads/gallerie/1738866932862.jpg",
+          "/uploads/gallerie/1738866955586.jpg"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-02-06T18:35:58.432Z",
+        "create_date": "2024-05-20T09:19:00.000Z",
+        "__v": 11
+      },
+      "price": 149,
+      "create_date": "2024-05-20T09:11:43.000Z"
+    },
+    {
+      "_id": "66cefa3c863e6cd9365abf7c",
+      "title": "Air Cooling DEEPCOOL AG400 DIGITAL",
+      "gallerie": {
+        "_id": "66cef9e3863e6cd9365abf59",
+        "titre": "DEEPCOOL AG400 DIGITAL",
+        "urlPhoto": [
+          "/uploads/gallerie/1724840432404.webp",
+          "/uploads/gallerie/1724840436500.webp",
+          "/uploads/gallerie/1724840436501.webp",
+          "/uploads/gallerie/1724840436512.webp",
+          "/uploads/gallerie/1724840436513.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-08-28T10:20:36.668Z",
+        "create_date": "2024-08-28T10:20:19.000Z",
+        "__v": 2
+      },
+      "price": 159,
+      "create_date": "2024-08-28T10:21:48.000Z"
+    },
+    {
+      "_id": "664b12cf41f2ac88715d1a95",
+      "title": "Cooler MARS GAMING MCPU-XT WHITE CPU COOLER, ARGB, DUAL TOWER, 2X 12C",
+      "gallerie": {
+        "_id": "664b127541f2ac88715d1a82",
+        "titre": "COOLER MARS GAMING MCPU-XT WHITE",
+        "urlPhoto": [
+          "/uploads/gallerie/1716288859826.webp",
+          "/uploads/gallerie/1716288859828.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-05-21T10:54:19.937Z",
+        "create_date": "2024-05-20T09:05:57.000Z",
+        "__v": 3
+      },
+      "price": 189,
+      "create_date": "2024-05-20T09:07:27.000Z"
+    },
+    {
+      "_id": "672c9a7999de58d4f61de624",
+      "title": "MARS GAMING MCPU-XU9, CPU COOLER, DUAL TOWER, 2X F",
+      "gallerie": {
+        "_id": "672ca4db99de58d4f620dd56",
+        "titre": "MARS GAMING MCPU-XU9, CPU COOLER, DUAL TOWER, 2X F",
+        "urlPhoto": [
+          "/uploads/gallerie/1730979046405.webp",
+          "/uploads/gallerie/1730979049493.webp",
+          "/uploads/gallerie/1730979052474.webp",
+          "/uploads/gallerie/1730979052475.webp",
+          "/uploads/gallerie/1730979057063.webp",
+          "/uploads/gallerie/1730979057064.webp",
+          "/uploads/gallerie/1730979057065.webp",
+          "/uploads/gallerie/1730979060801.webp",
+          "/uploads/gallerie/1730979060804.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-11-07T11:31:00.918Z",
+        "create_date": "2024-11-07T11:30:35.000Z",
+        "__v": 5
+      },
+      "price": 199,
+      "create_date": "2024-11-07T10:46:17.000Z"
+    },
+    {
+      "_id": "66cf1f5bf5aa6732a03a9d30",
+      "title": "Air Cooling DEEPCOOL AK620 ZERO DARK",
+      "gallerie": {
+        "_id": "66cf1f07f5aa6732a03a9d1d",
+        "titre": "DEEPCOOL AK620 ZERO DARK",
+        "urlPhoto": [
+          "/uploads/gallerie/1724849949713.webp",
+          "/uploads/gallerie/1724849954425.webp",
+          "/uploads/gallerie/1724849954426.webp",
+          "/uploads/gallerie/1724849954429.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-08-28T12:59:14.554Z",
+        "create_date": "2024-08-28T12:58:47.000Z",
+        "__v": 2
+      },
+      "price": 249,
+      "create_date": "2024-08-28T13:00:11.000Z"
+    }
+  ],
+  "cventilateur": [],
+  "ccarteMere": [
+    {
+      "_id": "685033dbfd2984d47c2cac82",
+      "title": "Sans Carte mère",
+      "price": 0,
+      "create_date": "2025-06-16T15:10:19.000Z"
+    },
+    {
+      "_id": "6808a9f8c75bcce7a2066fc0",
+      "title": "MSI B450M-A PRO MAX II",
+      "gallerie": {
+        "_id": "681de9f0c75bcce7a2802930",
+        "titre": "911-7C52-044",
+        "urlPhoto": [
+          "/uploads/gallerie/1746790902491.webp",
+          "/uploads/gallerie/1746790904540.webp",
+          "/uploads/gallerie/1746790906285.webp",
+          "/uploads/gallerie/1746790910449.webp",
+          "/uploads/gallerie/1746790912634.webp",
+          "/uploads/gallerie/1746790914392.webp",
+          "/uploads/gallerie/1746790916276.webp",
+          "/uploads/gallerie/1746790918089.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-09T11:41:58.191Z",
+        "create_date": "2025-05-09T11:41:36.000Z",
+        "__v": 8
+      },
+      "price": 199,
+      "create_date": "2025-04-23T08:51:04.000Z"
+    },
+    {
+      "_id": "62f1445bbda2745e99ae5dca",
+      "title": "MSI B550M PRO-VDH WIFI",
+      "gallerie": {
+        "_id": "62fe0fae16d1b1874642718d",
+        "titre": "MSI B550M PRO-VDH WIFI",
+        "urlPhoto": [
+          "/uploads/gallerie/1699021611095.webp",
+          "/uploads/gallerie/1699021621831.webp",
+          "/uploads/gallerie/1699021621944.webp",
+          "/uploads/gallerie/1699021622039.webp"
+        ],
+        "update_date": "2023-11-03T14:27:02.177Z",
+        "create_date": "2022-08-18T10:08:46.000Z",
+        "__v": 4
+      },
+      "price": 319,
+      "create_date": "2022-08-08T17:14:03.000Z"
+    },
+    {
+      "_id": "68502050fd2984d47c2c85d6",
+      "title": "Gigabyte B550M AORUS ELITE AX | AM4 | mATX | DDR4 | Wi-Fi 6E | RGB Fusion",
+      "gallerie": {
+        "_id": "6850237cfd2984d47c2c97b7",
+        "titre": "GIGABYTE B550M AORUS ELITE AX | AM4 | MATX | DDR4 | WI-FI 6E | RGB FUSION",
+        "urlPhoto": [
+          "/uploads/gallerie/1750082437226.webp",
+          "/uploads/gallerie/1750082439580.webp",
+          "/uploads/gallerie/1750082441518.webp",
+          "/uploads/gallerie/1750082443568.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-16T14:00:43.666Z",
+        "create_date": "2025-06-16T14:00:28.000Z",
+        "__v": 4
+      },
+      "price": 399,
+      "create_date": "2025-06-16T13:46:56.000Z"
+    },
+    {
+      "_id": "68502682fd2984d47c2ca9de",
+      "title": "Gigabyte B550M AORUS ELITE | AM4 | mATX | DDR4 | PCIe 4.0 | RGB Fusion",
+      "gallerie": {
+        "_id": "6012cf0d1d72472ba311d2a0",
+        "urlPhoto": [
+          "/uploads/gallerie/1611845396848.webp"
+        ],
+        "titre": "GIGABYTE B550M AORUS ELITE",
+        "__v": 1,
+        "create_date": "2021-01-28T14:49:49.000Z"
+      },
+      "price": 329,
+      "create_date": "2025-06-16T14:13:22.000Z"
+    },
+    {
+      "_id": "685029c3fd2984d47c2caa70",
+      "title": "Gigabyte B550M GAMING X WIFI6 | AM4 | DDR4 | PCIe 4.0 | Micro ATX | RGB Fusion",
+      "gallerie": {
+        "_id": "68502bdcfd2984d47c2caa91",
+        "titre": "GIGABYTE B550M GAMING X WIFI6 | AM4 | DDR4 | PCIE 4.0 | MICRO ATX | RGB FUSION",
+        "urlPhoto": [
+          "/uploads/gallerie/1750084577105.webp",
+          "/uploads/gallerie/1750084579421.webp",
+          "/uploads/gallerie/1750084581664.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-16T14:36:21.761Z",
+        "create_date": "2025-06-16T14:36:12.000Z",
+        "__v": 3
+      },
+      "price": 399,
+      "create_date": "2025-06-16T14:27:15.000Z"
+    }
+  ],
+  "calim": [
+    {
+      "_id": "64dcbefbd86a54d556227c38",
+      "title": "MSI MAG A500DN 500W ATX 80 PLUS STANDARD",
+      "gallerie": {
+        "_id": "64dcbc50d86a54d55620e78b",
+        "titre": "MSI MAG A500DN ",
+        "urlPhoto": [
+          "/uploads/gallerie/1692187736839.webp",
+          "/uploads/gallerie/1692187748595.webp",
+          "/uploads/gallerie/1692187748616.webp"
+        ],
+        "update_date": "2023-08-16T12:09:19.877Z",
+        "create_date": "2023-08-16T12:08:48.000Z",
+        "__v": 2
+      },
+      "price": 129,
+      "create_date": "2023-08-16T12:20:11.000Z"
+    },
+    {
+      "_id": "64dcb8f2d86a54d556205ccb",
+      "title": "MSI MAG A650BN",
+      "gallerie": {
+        "_id": "64dcb846d86a54d5561fd2f9",
+        "titre": "MAG A650BN-650W BRONZE",
+        "urlPhoto": [
+          "/uploads/gallerie/1692186708002.webp",
+          "/uploads/gallerie/1692186708023.webp",
+          "/uploads/gallerie/1692186790723.webp"
+        ],
+        "update_date": "2023-08-16T11:53:10.860Z",
+        "create_date": "2023-08-16T11:51:34.000Z",
+        "__v": 2
+      },
+      "price": 155,
+      "create_date": "2023-08-16T11:54:26.000Z"
+    },
+    {
+      "_id": "673750ba99de58d4f69cc2e8",
+      "title": "MARS GAMING PSU MPIII550 550W, 85% EF, SMD, BLACK CAB",
+      "gallerie": {
+        "_id": "6737526b99de58d4f69d8283",
+        "titre": "MARS GAMING PSU MPIII550 550W, 85% EF, SMD, BLACK CAB",
+        "urlPhoto": [
+          "/uploads/gallerie/1731679035017.webp",
+          "/uploads/gallerie/1731679035019.webp",
+          "/uploads/gallerie/1731679039767.webp",
+          "/uploads/gallerie/1731679043674.webp",
+          "/uploads/gallerie/1731679048708.webp",
+          "/uploads/gallerie/1731679048709.webp",
+          "/uploads/gallerie/1731679048711.webp",
+          "/uploads/gallerie/1731679052919.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-11-15T13:57:33.082Z",
+        "create_date": "2024-11-15T13:53:47.000Z",
+        "__v": 5
+      },
+      "price": 119,
+      "create_date": "2024-11-15T13:46:34.000Z"
+    }
+  ],
+  "chdd": [],
+  "cssd": [
+    {
+      "_id": "5ff81732c6b5421ed1d1e2c1",
+      "title": "Sans SSD",
+      "price": 0,
+      "create_date": "2021-01-08T08:26:26.000Z"
+    },
+    {
+      "_id": "683481f114116846dd4ee264",
+      "title": "Disque Dur Interne SSD 2.5″ Intenso 240GB",
+      "gallerie": {
+        "_id": "6834827914116846dd4ee2bd",
+        "titre": "DISQUE DUR INTERNE SSD 2.5″ INTENSO 240GB",
+        "urlPhoto": [
+          "/uploads/gallerie/1748271881050.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-26T15:04:41.175Z",
+        "create_date": "2025-05-26T15:02:17.000Z",
+        "__v": 1
+      },
+      "price": 60,
+      "create_date": "2025-05-26T15:00:01.000Z"
+    },
+    {
+      "_id": "647b20249d2ea5dacd12be7c",
+      "title": "MSI SPATIUM S270 480 GB",
+      "gallerie": {
+        "_id": "643151a18ac974073d63a334",
+        "titre": "MSI SPATIUM S270 240 GB",
+        "urlPhoto": [
+          "/uploads/gallerie/1680953833746.webp",
+          "/uploads/gallerie/1680953833746.webp",
+          "/uploads/gallerie/1680953833747.webp"
+        ],
+        "update_date": "2023-04-08T11:37:13.854Z",
+        "create_date": "2023-04-08T11:36:01.000Z",
+        "__v": 1
+      },
+      "price": 118,
+      "create_date": "2023-06-03T11:12:36.000Z"
+    },
+    {
+      "_id": "6728e26c99de58d4f6eb0336",
+      "title": "DISQUE DUR INTERNE SSD ADATA 1 TO 2.5\"",
+      "gallerie": {
+        "_id": "6728e23299de58d4f6eb02fe",
+        "titre": "DISQUE DUR INTERNE SSD ADATA 1 TO 2.5\"",
+        "urlPhoto": [
+          "/uploads/gallerie/1730732616068.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2024-11-04T15:03:36.177Z",
+        "create_date": "2024-11-04T15:03:14.000Z",
+        "__v": 1
+      },
+      "price": 199,
+      "create_date": "2024-11-04T15:04:12.000Z"
+    }
+  ],
+  "cheadphone": [],
+  "ccarteReseau": [
+    {
+      "_id": "66c8a9364be90f7c7ba16392",
+      "title": "Sans Carte Réseau",
+      "gallerie": {
+        "_id": "68541776fd2984d47c477317",
+        "titre": "SANS CARTE RÉSEAU",
+        "urlPhoto": [
+          "/uploads/gallerie/1750341503777.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-19T13:58:23.876Z",
+        "create_date": "2025-06-19T13:58:14.000Z",
+        "__v": 1
+      },
+      "price": 0,
+      "create_date": "2024-08-23T15:22:30.000Z"
+    },
+    {
+      "_id": "63b83cdc8ac974073da9bb02",
+      "title": "Inter-Tech DMG-08 WLAN / Bluetooth  - 150 Mbit/s",
+      "gallerie": {
+        "_id": "63b83d778ac974073daa258b",
+        "titre": "INTER-TECH DMG-08 WLAN / BLUETOOTH 150 MBIT/S",
+        "urlPhoto": [
+          "/uploads/gallerie/1673018811378.webp",
+          "/uploads/gallerie/1673018818599.webp",
+          "/uploads/gallerie/1673018818601.webp",
+          "/uploads/gallerie/1673018818657.webp"
+        ],
+        "update_date": "2023-01-06T15:26:58.793Z",
+        "create_date": "2023-01-06T15:25:43.000Z",
+        "__v": 2
+      },
+      "price": 39,
+      "create_date": "2023-01-06T15:23:08.000Z"
+    },
+    {
+      "_id": "63b8402f8ac974073daafa96",
+      "title": "Inter-Tech DMG-02 WLAN 150 Mbit/s",
+      "gallerie": {
+        "_id": "63b841cc8ac974073dab651e",
+        "titre": "INTER-TECH DMG-02 WLAN 150 MBIT/S",
+        "urlPhoto": [
+          "/uploads/gallerie/1673019885339.webp",
+          "/uploads/gallerie/1673019918970.webp",
+          "/uploads/gallerie/1673019918972.webp",
+          "/uploads/gallerie/1673019919116.webp"
+        ],
+        "update_date": "2023-01-06T15:45:19.220Z",
+        "create_date": "2023-01-06T15:44:12.000Z",
+        "__v": 2
+      },
+      "price": 25,
+      "create_date": "2023-01-06T15:37:19.000Z"
+    },
+    {
+      "_id": "601a60d8c4a4f85d180030a7",
+      "title": "INTERTECH DMG-32 DUAL BAND WIFI",
+      "gallerie": {
+        "_id": "601a601ec4a4f85d180030a5",
+        "urlPhoto": [
+          "/uploads/gallerie/1612341283752.webp",
+          "/uploads/gallerie/1612341289057.webp",
+          "/uploads/gallerie/1612341298382.webp",
+          "/uploads/gallerie/1612341303858.webp"
+        ],
+        "titre": "INTERTECH DMG-32 CARTE WI-FI",
+        "__v": 4,
+        "create_date": "2021-02-03T08:34:38.000Z"
+      },
+      "price": 69,
+      "create_date": "2021-02-03T08:37:44.000Z"
+    },
+    {
+      "_id": "621f71426010f19d11b7f8f9",
+      "title": "Inter-Tech DMG-33 - Adaptateur WLAN 1300 Mbit/s",
+      "gallerie": {
+        "_id": "621f715b6010f19d11b84c76",
+        "titre": "INTER-TECH DMG-33 - ADAPTATEUR WLAN 1300 MBIT/S",
+        "urlPhoto": [
+          "/uploads/gallerie/1646227841044.webp",
+          "/uploads/gallerie/1646227841046.webp"
+        ],
+        "update_date": "2022-03-02T13:30:41.188Z",
+        "create_date": "2022-03-02T13:30:03.000Z",
+        "__v": 1
+      },
+      "price": 79,
+      "create_date": "2022-03-02T13:29:38.000Z"
+    }
+  ],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [
+    {
+      "_id": "5ff81719c6b5421ed1d1e2c0",
+      "title": "Sans NVMe",
+      "gallerie": {
+        "_id": "6854105efd2984d47c467ca8",
+        "titre": "SANS NVME",
+        "urlPhoto": [
+          "/uploads/gallerie/1750339803519.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-06-19T13:30:04.761Z",
+        "create_date": "2025-06-19T13:27:58.000Z",
+        "__v": 2
+      },
+      "price": 0,
+      "create_date": "2021-01-08T08:26:01.000Z"
+    },
+    {
+      "_id": "682b41d3c75bcce7a2a83b14",
+      "title": "Silicon Power UD90 500 Go NVMe PCIe Gen4",
+      "gallerie": {
+        "_id": "682b436c3c1480cd35c6a89c",
+        "titre": "SILICON POWER UD90 500 GO NVME PCIE GEN4",
+        "urlPhoto": [
+          "/uploads/gallerie/1747665877769.webp",
+          "/uploads/gallerie/1747665891431.webp",
+          "/uploads/gallerie/1747665904602.webp",
+          "/uploads/gallerie/1747666011552.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-19T14:46:51.670Z",
+        "create_date": "2025-05-19T14:42:52.000Z",
+        "__v": 4
+      },
+      "price": 149,
+      "create_date": "2025-05-19T14:36:03.000Z"
+    },
+    {
+      "_id": "683084e650d353970e4baa4b",
+      "title": "Disque Dur IMATION NVMe SSD X732 512 GB",
+      "gallerie": {
+        "_id": "683085aa50d353970e4c7d7a",
+        "titre": "DISQUE DUR IMATION NVME SSD X732 512 GB",
+        "urlPhoto": [
+          "/uploads/gallerie/1748010427317.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-23T14:27:07.419Z",
+        "create_date": "2025-05-23T14:26:50.000Z",
+        "__v": 1
+      },
+      "price": 119,
+      "create_date": "2025-05-23T14:23:34.000Z"
+    },
+    {
+      "_id": "6810e7d8c75bcce7a2499167",
+      "title": "Silicon Power A60 – 512 Go NVMe",
+      "gallerie": {
+        "_id": "6810e858c75bcce7a2499190",
+        "titre": "SILICON POWER A60 – 512 GO NVME",
+        "urlPhoto": [
+          "/uploads/gallerie/1745938532873.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-04-29T14:55:32.970Z",
+        "create_date": "2025-04-29T14:55:20.000Z",
+        "__v": 1
+      },
+      "price": 134,
+      "create_date": "2025-04-29T14:53:12.000Z"
+    },
+    {
+      "_id": "62cd9c200e5e0cd4c1ac623f",
+      "title": "MSI SPATIUM M450 500GO SSD M.2",
+      "gallerie": {
+        "_id": "62cd9c4c0e5e0cd4c1acc068",
+        "titre": "MSI SPATIUM M450 500GO SSD M.2",
+        "urlPhoto": [
+          "/uploads/gallerie/1657642480316.webp",
+          "/uploads/gallerie/1657642507240.webp",
+          "/uploads/gallerie/1657642507242.webp",
+          "/uploads/gallerie/1657642507244.webp"
+        ],
+        "update_date": "2022-07-12T16:15:07.381Z",
+        "create_date": "2022-07-12T16:07:40.000Z",
+        "__v": 3
+      },
+      "price": 129,
+      "create_date": "2022-07-12T16:06:56.000Z"
+    },
+    {
+      "_id": "6826155cc75bcce7a29a59de",
+      "title": "Disque Dur Kingston SSD NV3 1 TB",
+      "gallerie": {
+        "_id": "682615d8c75bcce7a29b2d1c",
+        "titre": "DISQUE DUR KINGSTON SSD NV3 1 TB",
+        "urlPhoto": [
+          "/uploads/gallerie/1747326465625.webp",
+          "/uploads/gallerie/1747326470616.webp",
+          "/uploads/gallerie/1747326473905.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-15T16:27:53.997Z",
+        "create_date": "2025-05-15T16:27:04.000Z",
+        "__v": 3
+      },
+      "price": 269,
+      "create_date": "2025-05-15T16:25:00.000Z"
+    },
+    {
+      "_id": "67c6bba1711a4ce5a4499bc2",
+      "title": "Disque Dur Kingston SSD NV3 2 TB",
+      "gallerie": {
+        "_id": "67c6be30711a4ce5a4499c23",
+        "titre": "DISQUE DUR KINGSTON SSD NV3 2 TB",
+        "urlPhoto": [
+          "/uploads/gallerie/1741078107829.webp",
+          "/uploads/gallerie/1741078110668.webp",
+          "/uploads/gallerie/1741078113587.webp"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-03-04T08:48:33.711Z",
+        "create_date": "2025-03-04T08:47:44.000Z",
+        "__v": 3
+      },
+      "price": 459,
+      "create_date": "2025-03-04T08:36:49.000Z"
+    },
+    {
+      "_id": "6818c0c8c75bcce7a268f775",
+      "title": "GOODRAM SSD PX600 2TB M.2 PCIe4 X4 M.2 2280",
+      "gallerie": {
+        "_id": "6818932ac75bcce7a2673ea0",
+        "titre": "SSD GOODRAM PX600 1 TO NVME PCIE GEN 4",
+        "urlPhoto": [
+          "/uploads/gallerie/1746441016435.jpg"
+        ],
+        "targetMega": true,
+        "targetGiga": true,
+        "targetMobile": true,
+        "update_date": "2025-05-05T10:30:16.541Z",
+        "create_date": "2025-05-05T10:30:02.000Z",
+        "__v": 1
+      },
+      "price": 430,
+      "create_date": "2025-05-05T13:44:40.000Z"
+    }
+  ],
+  "cwindows": [
+    {
+      "_id": "66c8a7db4be90f7c7b9ff0bd",
+      "title": "Microsoft Windows 11 Professionnel sans license 64 bits",
+      "gallerie": {
+        "_id": "61740c6677e19ef9d006b9ba",
+        "urlPhoto": [
+          "/uploads/gallerie/1634995317758.webp",
+          "/uploads/gallerie/1634999866332.webp"
+        ],
+        "titre": "WINDOWS 11 ",
+        "__v": 2,
+        "create_date": "2021-10-23T13:21:42.000Z"
+      },
+      "price": 0,
+      "create_date": "2024-08-23T15:16:43.000Z"
+    },
+    {
+      "_id": "66c8a7ea4be90f7c7ba0a96d",
+      "title": "Microsoft Windows 10 Professionnel Sans License 64 bits",
+      "gallerie": {
+        "_id": "5ed928184ab2c80b462cb0a2",
+        "urlPhoto": [
+          "/uploads/gallerie/webp/1591289888195.webp"
+        ],
+        "titre": "MICROSOFT WINDOWS AVEC LICENCE",
+        "__v": 1,
+        "create_date": "2020-06-04T16:58:00.000Z"
+      },
+      "price": 0,
+      "create_date": "2024-08-23T15:16:58.000Z"
+    },
+    {
+      "_id": "61740d5077e19ef9d006bd2a",
+      "title": "Microsoft Windows 11 Professionnel 64 bits ",
+      "gallerie": {
+        "_id": "61740c6677e19ef9d006b9ba",
+        "urlPhoto": [
+          "/uploads/gallerie/1634995317758.webp",
+          "/uploads/gallerie/1634999866332.webp"
+        ],
+        "titre": "WINDOWS 11 ",
+        "__v": 2,
+        "create_date": "2021-10-23T13:21:42.000Z"
+      },
+      "price": 120,
+      "create_date": "2021-10-23T13:25:36.000Z"
+    }
+  ],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

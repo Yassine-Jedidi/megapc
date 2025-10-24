@@ -1,0 +1,159 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677497928765.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677497928765.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWP4jwQYrl69KiIiGh0d8+vXL4Y/f/5MmTKFkYGlrbWNAaLg169fnz5+AgDIISS0dnYt6QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677497928766.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677497928766.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOElEQVQImWP4+/fvfxhguHXzZlh4hLq6loKCEkN9Xb2MjDwvryADAzvD+/fv//z68+nDp+dPXgIAMUAdpoqrDtcAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "63fc98248ac974073d8e1fd4",
+  "sku": "GX30P17949",
+  "mpn": "GX30P17949",
+  "titleSeo": "CLAVIER & SOURIS LENOVO 510 SANS FIL NOIR | MEGA PC ",
+  "desciprtionSeo": "CLAVIER & SOURIS LENOVO 510 SANS FIL NOIR echnologie de connectivité : Sans fil - Interface avec l'ordinateur : USB - Nombre de boutons : 3 boutons - Résolution optique: 1200 Dpi - Norme clavier: AZERTY - Nombre de touches 189 - Arabisée - Clavier résistant aux éclaboussures | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GX30P17949",
+  "title": "CLAVIER & SOURIS LENOVO 510 SANS FIL NOIR",
+  "title_fr": "CLAVIER & SOURIS LENOVO 510 SANS FIL NOIR",
+  "description_fr": "<h2>CLAVIER &amp; SOURIS LENOVO 510 SANS FIL NOIR</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le clavier combin&eacute; sans fil Lenovo 510 &amp; La souris compl&egrave;te votre bureau avec un design simple mais &eacute;l&eacute;gant. Se connecte facilement et sans fil aux ordinateurs &agrave; l&rsquo;aide d&rsquo;un r&eacute;cepteur Nano USB. Le clavier est dot&eacute; d&#39;un bo&icirc;tier r&eacute;sistant &agrave; l&#39;eau et durable, parfaitement &eacute;quip&eacute; pour faire face aux d&eacute;versements occasionnels. Les cl&eacute;s d&#39;&icirc;lot con&ccedil;ues augmentent la pr&eacute;cision et le confort de frappe. La souris sans fil associ&eacute;e a un design ambidextre et dispose d&rsquo;un capteur optique de 1 200 ppp et d&rsquo;une autonomie de 12 mois avec une seule pile AA. Inutile de dire que vos jours d&rsquo;accord seront bient&ocirc;t derri&egrave;re vous.</span></p>\n\n<p><img alt=\"CLAVIER &amp; SOURIS LENOVO 510 SANS FIL NOIR | mega pc \" src=\"https://apibackend.megapc.tn///uploads/gallerie/1677498169163.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li>Connectivit&eacute; sans fil 2,4 GHz</li>\n\t<li>Souris optique 1200 dpi</li>\n\t<li>Clavier Azerty&nbsp;</li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ed6291b6735df04ea3dad9d",
+    "titre": "COMBO",
+    "__v": 0,
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "urlPhoto2": "/uploads/souscateg/1620206319036.webp",
+    "order": 4,
+    "descriptionSEO": "<p>Pack clavier souris gamer - Combo Souris clavier casque micro tapis gamer RGB Tunisie sans fil, logitech, MSi, Razer, Genesis, hyperx, Spirit of Gamer</p>",
+    "titreSEO": "Pack clavier souris gamer - Ensemble Clavier et Souris Sans fil Tunisie ",
+    "create_date": "2020-06-02T10:25:31.000Z",
+    "reference": "COMBO",
+    "update_date": "2021-12-04T08:53:56.621Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "TYPE DE SOURIS",
+      "valeur": "optique",
+      "enable": true,
+      "_id": "63fc9a798ac974073d8f0b4c"
+    },
+    {
+      "cle": "Résolution optique",
+      "valeur": "1200 Dpi",
+      "enable": true,
+      "_id": "63fc9a798ac974073d8f0b4d"
+    },
+    {
+      "cle": "Norme clavier",
+      "valeur": " AZERTY",
+      "enable": true,
+      "_id": "63fc9a798ac974073d8f0b4e"
+    },
+    {
+      "cle": "Nombre de boutons",
+      "valeur": "3 boutons",
+      "enable": true,
+      "_id": "63fc9a798ac974073d8f0b4f"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ed6291b6735df04ea3dad9d"
+  ],
+  "lien": "CLAVIER-SOURIS-LENOVO-510-SANS-FIL-NOIR",
+  "gallerie": {
+    "_id": "63fc95d88ac974073d8d345b",
+    "titre": "CLAVIER & SOURIS LENOVO 510 SANS FIL NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1677497928765.webp",
+      "/uploads/gallerie/1677497928766.webp"
+    ],
+    "update_date": "2023-02-27T11:41:34.933Z",
+    "create_date": "2023-02-27T11:36:56.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 4533,
+  "price": 105,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "COMBO"
+  ],
+  "stock": 7,
+  "displayForPublic": true,
+  "create_date": "2023-02-27T11:46:44.264Z",
+  "update_date": "2025-10-23T20:34:37.828Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

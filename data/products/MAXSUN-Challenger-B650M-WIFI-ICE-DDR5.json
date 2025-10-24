@@ -1,0 +1,182 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631290477.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631290477.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ACIiIf5ERUT+Hx8e/hcXFv4A2trT/v7/+f94eHT/QUI+/gCEhoP++//8/6mnn/8tJCD+AEFCQf6fopz+WlhT/gQAAP6s+SPmgkRAYgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631292798.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631292798.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AFxcWv5qbWr/Njc2/xcXF/4A+vry/+Hm3/+lp6P/VVdT/wCNkI3/+//7/6eoov88Min/ADQ1Nf53eHT/RkZC/wsAAP4oKCWjFQ0b4wAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631295023.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631295023.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AIuLhf6dn53/VlZS/xUVFf4Al5qU/9jb1P+Li4X/HBwZ/wBXWVb/+//7/4qEfv8EAAD/AEhJSP52d3X/Kion/wYFBf737iMnctcJcAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631298845.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631298845.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWMwNzfz8nKbPKnXw8uDQVJSUlNL8///n81tzQzCwsIBgb4vXj6xtrFhYGBgSE9PvXr9io2tLQDEDRJNfZ9nsAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631301136.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631301136.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4+fPnt2/f/oIBg5+fPwMjU0Nj46o1axnCwiKFhYSaWluPnTjF8BMEfvwHAwBHdyEeVq3pKwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631303313.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631303313.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8PCyaenq+3t7gDu7vRfXmoAAA+tra8A4eHmODZEGholx8bLAO/v8YeFjKKhqvLx80dVH1HxG4pOAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631305280.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631305280.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVQImWP4jwQYtm7ZdPHixdDQsClTpzLMnDE9NS2dgYF10sSJDMjKALyjI+jIQf0oAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631307534.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631307534.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKElEQVQImWP4DwZ/wYABwoEAEOf9+/dtrd03btwGcZqbOhgY+OXl1ACWOSbE68Uf4QAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "67d94939711a4ce5a43812c3",
+  "sku": "B650M-WIFI-ICE",
+  "mpn": "B650M-WIFI-ICE",
+  "titleSeo": "Carte Mère MAXSUN Challenger B650M WIFI ICE DDR5 - AMD pour Gaming & Création en Tunisie | MEGA PC | GIGA TECH | PC GAMER ",
+  "desciprtionSeo": "La MAXSUN Challenger B650M WIFI ICE DDR5 est la carte mère idéale pour un PC performant en Tunisie, conçue pour les gamers et créateurs exigeants. Elle supporte les processeurs AMD Ryzen 7000 & 8000 Series et offre une connectivité de pointe avec Wi-Fi 6E et des options graphiques en HDMI 4K. Profitez d’une mémoire DDR5, de slots d’expansion PCIe 4.0 et de stockage rapide M.2 PCIe 4.0. Son format M-ATX et ses multiples options d’extension vous garantissent une installation rapide et flexible, idéale pour les utilisateurs recherchant à maximiser les performances de leur PC. Disponible en Tunisie, cette carte mère est l'élément clé pour un système haute performance et durable.",
+  "ratingValue": "4.7",
+  "reviewCount": "55",
+  "priceValidUntil": "2027-07-09",
+  "referenceInterne": "B650M-WIFI-ICE",
+  "title": "MAXSUN Challenger B650M WIFI ICE DDR5",
+  "title_fr": "MAXSUN Challenger B650M WIFI ICE DDR5",
+  "description_fr": "<h3><span style=\"font-size:22px\"><strong>MAXSUN Challenger B650M WIFI ICE DDR5 : Une carte m&egrave;re au top pour vos performances gaming ! 🚀</strong></span></h3>\n\n<hr />\n<p><span style=\"font-size:22px\">Si vous &ecirc;tes &agrave; la recherche d&rsquo;une carte m&egrave;re capable de tirer pleinement parti de vos processeurs <strong>AMD Ryzen 7000</strong> et <strong>Ryzen 8000</strong>, la <strong>MAXSUN Challenger B650M WIFI ICE DDR5</strong> est un excellent choix pour une machine de jeu ou de cr&eacute;ation performante. 🔥 Avec son chipset <strong>AMD B650</strong>, elle offre une stabilit&eacute; et des performances in&eacute;gal&eacute;es, tout en int&eacute;grant des technologies avanc&eacute;es pour booster votre exp&eacute;rience utilisateur ! 💻</span></p>\n\n<h4><span style=\"font-size:22px\"><strong>Des performances exceptionnelles pour vos projets les plus gourmands 💥</strong></span></h4>\n\n<p><span style=\"font-size:22px\">Cette carte m&egrave;re supporte jusqu&#39;&agrave; <strong>155W TDP</strong> pour les processeurs <strong>AMD Ryzen</strong> avec un socket <strong>LGA1718</strong>. Id&eacute;ale pour les gamers et cr&eacute;ateurs de contenu, elle vous permet de profiter de la puissance brute des derni&egrave;res g&eacute;n&eacute;rations de processeurs <strong>AMD</strong>. Avec <strong>2 slots DDR5</strong>, vous pouvez booster votre PC avec des vitesses de m&eacute;moire allant jusqu&#39;&agrave; <strong>5200 MHz en mode OC</strong>, pour des performances ultra-rapides. 🚀</span></p>\n\n<h4><span style=\"font-size:22px\"><strong>Une connectivit&eacute; de pointe avec le Wi-Fi 6E 📶</strong></span></h4>\n\n<p><span style=\"font-size:22px\">Fini les connexions lentes ! Profitez de la technologie <strong>Wi-Fi 6E</strong> ultra-rapide, id&eacute;ale pour les jeux en ligne sans latence et le streaming en haute d&eacute;finition. Que ce soit pour jouer &agrave; vos jeux pr&eacute;f&eacute;r&eacute;s ou pour travailler en ligne, cette carte m&egrave;re vous offre la vitesse et la stabilit&eacute; dont vous avez besoin. 🌐</span></p>\n\n<h4><span style=\"font-size:22px\"><strong>Des graphismes ultra-clairs pour des visuels impressionnants 🎮</strong></span></h4>\n\n<p><span style=\"font-size:22px\">Que vous soyez un gamer ou un cr&eacute;ateur de contenu, la <strong>MAXSUN Challenger B650M</strong> vous permet de profiter d&rsquo;une r&eacute;solution jusqu&rsquo;&agrave; <strong>4K@30Hz via HDMI&trade;</strong>. Vous aurez des graphismes nets et fluides gr&acirc;ce &agrave; sa prise en charge <strong>HDMI</strong> et <strong>VGA</strong>. Que vous connectiez un moniteur 4K ou un ancien &eacute;cran VGA, cette carte m&egrave;re vous garantit une exp&eacute;rience visuelle optimale. 👀🎥</span></p>\n\n<h4><span style=\"font-size:22px\"><strong>Expansion et stockage flexibles pour tous vos besoins 📦</strong></span></h4>\n\n<p><span style=\"font-size:22px\">Avec un <strong>slot PCIe 4.0 x16</strong>, plusieurs <strong>slots M.2</strong> et <strong>SATA 6Gb/s</strong> &agrave; votre disposition, vous avez tout l&rsquo;espace n&eacute;cessaire pour installer plusieurs SSD rapides et des cartes graphiques haut de gamme. De plus, son <strong>M.2 PCIe 4.0 x4</strong> permet une vitesse de lecture/&eacute;criture impressionnante pour des chargements ultra-rapides ! 🔧💾</span></p>\n\n<h4><span style=\"font-size:22px\"><strong>Design et installation facile dans votre bo&icirc;tier M-ATX 🖥️</strong></span></h4>\n\n<p><span style=\"font-size:22px\">Avec un format <strong>M-ATX</strong> compact (245mm x 210mm), la <strong>MAXSUN Challenger B650M</strong> est parfaite pour ceux qui recherchent un PC puissant sans prendre trop de place. Que vous soyez un passionn&eacute; de PC ou un utilisateur novice, son installation reste simple et rapide ! 🔨</span></p>\n\n<h4><span style=\"font-size:22px\"><strong>Compatibilit&eacute; et durabilit&eacute; 🛡️</strong></span></h4>\n\n<p><span style=\"font-size:22px\">La <strong>MAXSUN Challenger B650M WIFI ICE DDR5</strong> est compatible avec les syst&egrave;mes <strong>Windows&nbsp;11 et Windows&nbsp;10</strong>, vous offrant une flexibilit&eacute; optimale pour le choix de votre syst&egrave;me d&#39;exploitation. Sa durabilit&eacute; et son design &eacute;l&eacute;gant garantissent un investissement &agrave; long terme pour vos futures mises &agrave; niveau. 🎯</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Chipset</strong> : AMD B650</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Support CPU</strong> : AMD Ryzen 7000 &amp; Ryzen 8000 Series (LGA1718)</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>M&eacute;moire</strong> : 2x DIMM DDR5 (4800/5200 MHz/OC)</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Graphiques int&eacute;gr&eacute;s</strong> : 1x VGA (max. r&eacute;solution 2048x1536 &agrave; 50Hz), 1x HDMI&trade; 4K@30Hz</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Slots d&#39;expansion</strong> : 1x PCIe 4.0 x16, 1x PCIe 3.0 x4, 1x PCIe 3.0 x1</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Stockage</strong> : 1x M.2 PCIe 4.0 x4, 4x SATA 6Gb/s</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>USB</strong> : 4x USB3.2 Gen1, 2x USB2.0 (rear), 2x USB pins</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>R&eacute;seau</strong> : Realtek&nbsp;RTL8111H 1x LAN</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Audio</strong> : Realtek&nbsp;ALC897, 5.1-Channel HD Audio</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Connecteurs internes</strong> : 1x 24-pin, 1x 8-pin CPU_PWR, 2x System Fan, 1x M.2 Key-M</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Syst&egrave;me d&#39;exploitation support&eacute;</strong> : Windows 11/10 64-bit</span></li>\n\t<li><span style=\"font-size:22px\">✅<strong>Format</strong> : M-ATX (245mm x 210mm)</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "67d93f40711a4ce5a4359cfe",
+    "titre": "MAXSUN",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-03-18T09:39:12.536Z",
+    "create_date": "2025-03-18T09:39:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "MAXSUN-Challenger-B650M-WIFI-ICE-DDR5",
+  "gallerie": {
+    "_id": "681b7a73c75bcce7a2794770",
+    "titre": "B650M-WIFI-ICE",
+    "urlPhoto": [
+      "/uploads/gallerie/1746631290477.webp",
+      "/uploads/gallerie/1746631292798.webp",
+      "/uploads/gallerie/1746631295023.webp",
+      "/uploads/gallerie/1746631298845.webp",
+      "/uploads/gallerie/1746631301136.webp",
+      "/uploads/gallerie/1746631303313.webp",
+      "/uploads/gallerie/1746631305280.webp",
+      "/uploads/gallerie/1746631307534.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-05-07T15:21:47.643Z",
+    "create_date": "2025-05-07T15:21:23.000Z",
+    "__v": 8
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1951,
+  "price": 419,
+  "tagsSearch": [
+    "MAXSUN",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "Ryzen 8000",
+    "Ryzen 7000",
+    "carte mère M-ATX",
+    "DDR5",
+    "fx1",
+    "realap"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2025-03-18T10:21:45.962Z",
+  "update_date": "2025-10-23T21:17:26.966Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,166 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680252808038.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680252808038.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQY+mf2ifMzq2nIRXr6MDT19bMxCEnIqYU4hzAgKwMAFu0eIBHTa3QAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680252808040.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680252808040.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP4jwQYWrrrK4uLJ82Y5OvsyKBrZWaorFfU3szJwMPw9/ffH99//P39F6gMAFbXH+2vHXLgAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680252824708.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680252824708.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWP4jwQYLl290Nten52d5O/qxLBq63oGBjY1DUMf7zCGb99/PH7yHKIMAID5IRqHJ81eAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "64269fee8ac974073ddc4aef",
+  "sku": "MSCUBEW",
+  "mpn": "00000000",
+  "titleSeo": "Haut parleur :  Kit d'enceintes 2.0 - puissance 8W RMS - rétroéclairage RGB - Jack 3.5 mm | MEGA PC ",
+  "desciprtionSeo": "Haut parleur :  Kit d'enceintes 2.0 - puissance 8W RMS - rétroéclairage RGB - Jack 3.5 mm | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "MSCUBEW",
+  "title": "MARS GAMING MSCUBE SPEAKERS 8W ARGB FLOW - WHITE",
+  "title_fr": "MARS GAMING MSCUBE SPEAKERS 8W ARGB FLOW - WHITE",
+  "description_fr": "<h2>MARS GAMING MSCUBE SPEAKERS 8W ARGB FLOW - WHITE</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Avec le kit d&#39;enceintes 2.0&nbsp;Mars Gaming MSCUBE, profitez d&#39;une qualit&eacute; sonore exceptionnelle dans le plus petit format possible tout en jouant &agrave; des jeux, en regardant des films, des s&eacute;ries ou en &eacute;coutant de la musique. Simple &agrave; installer, elle se connecte via un port Jack 3.5 mm et s&#39;alimente via un port USB.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680252864485.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680252864484.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680252864518.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Syst&egrave;me 2.0</span></li>\n\t<li><span style=\"font-size:22px\">Qualit&eacute; sonore DSP</span></li>\n\t<li><span style=\"font-size:22px\">Puissance en sortie (RMS) : 8W</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro&eacute;clairage RGB Active-Flow</span></li>\n\t<li><span style=\"font-size:22px\">T&eacute;l&eacute;commande sur le fil</span></li>\n\t<li><span style=\"font-size:22px\">Connectique : Jack 3.5 mm</span></li>\n\t<li><span style=\"font-size:22px\">Alimentation par USB</span></li>\n\t<li><span style=\"font-size:22px\">Longueur du c&acirc;ble : 110 cm</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions : 73 x 73 x 66 mm</span></li>\n\t<li><span style=\"font-size:22px\">Poids : 274&nbsp;g</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "61697a5b74a6dc8ab60ba36c",
+    "titre": "MARS",
+    "description": "Mars Gaming Tunisie",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-10-15T12:55:55.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "608576abed5edabde750ab17",
+    "order": 8,
+    "titre": "HAUT PARLEURS",
+    "titreSEO": "Haut Parleurs Tunisie - Achat haut-parleur jbl - bluetooth - PC Gaming",
+    "descriptionSEO": "<p>Achat&nbsp;haut-parleur&nbsp;sur MegaPC,&nbsp;Enceinte PC logitech, JBL,&nbsp;sans fil,&nbsp;enceinte&nbsp;pc&nbsp;gamer -&nbsp;Haut-parleurs d'ordinateur Chez MEGA PC</p>",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1619359420844.webp",
+    "create_date": "2021-04-25T14:03:23.000Z",
+    "reference": "HAUTPARLEURS",
+    "update_date": "2022-01-04T14:05:31.868Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "UTILISATION TYPE",
+      "valeur": "ORDINATEUR PORTABLE,ORDINATEUR DE BUREAU",
+      "enable": true,
+      "_id": "61532397d5110bc64ec2f35b"
+    },
+    {
+      "cle": "PUISSANCE (RMS)",
+      "valeur": "8 W",
+      "enable": true,
+      "_id": "61532397d5110bc64ec2f35c"
+    },
+    {
+      "cle": "INTERFACE AVEC L'ORDINATEUR",
+      "valeur": "JACK 3,5MM MÂLE STÉRÉO",
+      "enable": true,
+      "_id": "61532397d5110bc64ec2f35d"
+    },
+    {
+      "cle": "INTERFACE AVEC L'ORDINATEUR",
+      "valeur": "USB",
+      "enable": true,
+      "_id": "642597e88ac974073dd440d6"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "608576abed5edabde750ab17"
+  ],
+  "lien": "MARS-GAMING-MSCUBE",
+  "gallerie": {
+    "_id": "64269f7a8ac974073ddc4ada",
+    "titre": "MARS GAMING MSCUBE (BLANC)",
+    "urlPhoto": [
+      "/uploads/gallerie/1680252808038.webp",
+      "/uploads/gallerie/1680252808040.webp",
+      "/uploads/gallerie/1680252824708.webp"
+    ],
+    "update_date": "2023-03-31T08:53:44.807Z",
+    "create_date": "2023-03-31T08:53:14.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": true,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 3753,
+  "price": 59,
+  "tagsSearch": [
+    "MARS",
+    "ACCESSOIRES",
+    "HAUT PARLEURS",
+    "haut parleur gamer"
+  ],
+  "stock": 16,
+  "displayForPublic": true,
+  "create_date": "2023-03-31T08:55:10.368Z",
+  "update_date": "2025-10-24T10:04:11.644Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

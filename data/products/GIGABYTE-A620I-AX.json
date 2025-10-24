@@ -1,0 +1,225 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790452178.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790452178.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAwMDv4fISH+AAAA/gQGBv4A4uLc/v//+f9vbGT/GhoY/gCRkYz+uLu2/1RRTP8gHBn+ALSyq/5zdG/+PDs4/isqKf4xYiFPLSFpqAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790454285.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790454285.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAABAf4vMC7/UlJM/2BhXf4Ao6Sf////9/6joJX+Ojo2/wBxcWr/w8S9/oyLgv4nJCD/AFdXU/59f3r/XV1Z/zk3NP6hniOlDILhHgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790456326.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790456326.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWMQl5T09vdqbKmvq69hWLl2+f//X69ePpqVm8lg52Df1demqaWqb6DLIC0rKy0ry8DAqKooBwAfJBE2RHALjAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790458186.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790458186.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWMQ5GEQEeAUF+RqaKplYGBkEBTiV9dR+/3/KwMrG6uNjUVOXkZzax0DLz+Xl6e9ioa6obEhAAUJCx9m8MaKAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790460717.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790460717.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////7+/vT09Pv7+wBwb25mZGBIR0dXVlcADgkICAAANC8vMC4wANjX1+Xl5djX1t3e3v9jG7B/Z6WbAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790462541.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790462541.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APj4+Lm5ubm3uOLi4gC7u7sGBgYkIiSFgoQAwcDBBgAFDQAMbGltAP///7WztKqoqs3MzdqyGz0HVRkqAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790464687.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790464687.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APPz862trcXFxv727gDV1NQcGxsWExbAwMAA5uLfIB0cBQAFuba5AP///6moqLCur/f39yBlHnvAjGUWAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790466761.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746790466761.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYDhw4sHffAR83F0szMwZXF2cGBhZhXl4pcVEGZGUAU8YfIo9zr30AAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "6619150f5633eb2439667c22",
+  "sku": "A620I",
+  "mpn": "889523038376",
+  "titleSeo": "GIGABYTE A620I AX | MEGA PC ",
+  "desciprtionSeo": "CARTE mére GIGABYTE A620I AX  | MEGA PC ",
+  "ratingValue": "4.7",
+  "reviewCount": "95",
+  "priceValidUntil": "2027-09-08",
+  "referenceInterne": "A620I",
+  "title": "GIGABYTE A620I AX",
+  "title_fr": "GIGABYTE A620I AX",
+  "description_fr": "<h2>GIGABYTE A620I AX</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le GIGABYTE A620I AX pour AMD Socket AM5 est une carte m&egrave;re haut de gamme con&ccedil;ue pour offrir des performances exceptionnelles et une connectivit&eacute; avanc&eacute;e pour les utilisateurs exigeants. Voici une description d&eacute;taill&eacute;e de ses caract&eacute;ristiques :</span></p>\n\n<p><span style=\"font-size:22px\"><strong>Compatibilit&eacute; avec les processeurs AMD Ryzen s&eacute;rie 7000</strong> : Cette carte m&egrave;re est con&ccedil;ue pour prendre en charge les processeurs AMD Ryzen s&eacute;rie 7000, offrant ainsi des performances de pointe pour une vari&eacute;t&eacute; d&#39;applications, du jeu au multit&acirc;che intensif.</span></p>\n\n<p><span style=\"font-size:22px\"><strong>Solution VRM num&eacute;rique 5+2+1 phases</strong> : Avec une solution d&#39;alimentation num&eacute;rique de qualit&eacute;, cette carte m&egrave;re assure une alimentation stable et efficace pour le processeur, permettant ainsi des performances optimales m&ecirc;me dans les charges de travail les plus exigeantes.</span></p>\n\n<p><span style=\"font-size:22px\"><strong>DDR5 double canal</strong> : &Eacute;quip&eacute;e de deux DIMM SMD, cette carte m&egrave;re prend en charge la m&eacute;moire DDR5 en mode double canal, offrant des vitesses de transfert de donn&eacute;es plus rapides et une meilleure efficacit&eacute; &eacute;nerg&eacute;tique. Elle est compatible avec les modules de m&eacute;moire AMD EXPO et Intel XMP pour une personnalisation avanc&eacute;e.</span></p>\n\n<p><span style=\"font-size:22px\"><strong>Stockage SuperSpeed</strong> : Avec un connecteur M.2 PCIe 4.0 x4, cette carte m&egrave;re offre un stockage ultra-rapide pour vos donn&eacute;es, vous permettant de profiter de temps de chargement r&eacute;duits et de performances am&eacute;lior&eacute;es pour les applications gourmandes en donn&eacute;es.</span></p>\n\n<p><span style=\"font-size:22px\"><strong>Connectivit&eacute; avanc&eacute;e</strong> : Cette carte m&egrave;re est &eacute;quip&eacute;e de Wi-Fi 6E 802.11ax et d&#39;un LAN 2,5GbE, offrant ainsi une connectivit&eacute; r&eacute;seau ultra-rapide et fiable pour une exp&eacute;rience en ligne fluide et sans interruption. De plus, elle dispose de ports DP et HDMI pour la sortie vid&eacute;o, vous permettant de connecter facilement des &eacute;crans haute r&eacute;solution.</span></p>\n\n<p><span style=\"font-size:22px\"><strong>Conception intelligente du syst&egrave;me de refroidissement</strong> : La fonction Smart Fan 6 comprend plusieurs capteurs de temp&eacute;rature et des connecteurs de ventilateur hybrides avec FAN STOP, permettant un contr&ocirc;le pr&eacute;cis de la temp&eacute;rature du syst&egrave;me et un fonctionnement silencieux lorsque la charge est l&eacute;g&egrave;re.</span></p>\n\n<p><span style=\"font-size:22px\"><strong>Q-Flash Plus</strong> : Cette fonctionnalit&eacute; innovante permet de mettre &agrave; jour le BIOS sans avoir besoin d&#39;installer le processeur, la m&eacute;moire et la carte graphique, ce qui simplifie et acc&eacute;l&egrave;re le processus de mise &agrave; jour du syst&egrave;me.</span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re : M-ITX</span></li>\n\t<li><span style=\"font-size:22px\">Socket :&nbsp;&nbsp;AMD AM5</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;A620</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 96 Go&nbsp;DDR5&nbsp;6400 MHz ( 2 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 :1&nbsp;</span></li>\n</ul>\n",
+  "facilite_fr": "",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "AMD AM5",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0c"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "A620",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0d"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "M-ITX",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0e"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0f"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "2",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b10"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "96 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b11"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "48 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b12"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "DDR5 6400MHz",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b13"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "GIGABYTE-A620I-AX",
+  "gallerie": {
+    "_id": "681de82bc75bcce7a280273f",
+    "titre": "A620I",
+    "urlPhoto": [
+      "/uploads/gallerie/1746790452178.webp",
+      "/uploads/gallerie/1746790454285.webp",
+      "/uploads/gallerie/1746790456326.webp",
+      "/uploads/gallerie/1746790458186.webp",
+      "/uploads/gallerie/1746790460717.webp",
+      "/uploads/gallerie/1746790462541.webp",
+      "/uploads/gallerie/1746790464687.webp",
+      "/uploads/gallerie/1746790466761.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-05-09T11:34:26.863Z",
+    "create_date": "2025-05-09T11:34:03.000Z",
+    "__v": 8
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": true,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1831,
+  "price": 614,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "realap"
+  ],
+  "stock": 9,
+  "displayForPublic": true,
+  "create_date": "2024-04-12T11:03:43.105Z",
+  "update_date": "2025-10-24T09:06:55.820Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,142 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699438133896.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699438133896.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///7W7u0ldY4WMkQDp6u1gYm8ABBtZZnAAaG1zHBUsAhgso6mtAPj495udoICOm/T2+aQGGkL2xkAuAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699438139363.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699438139363.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////b29vb4+P///wBSdosAOXAAO3CTqrsAdoqYAAw8AB08fpGfAP///u3r6vn39v///z+dH+plrly1AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699438139401.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699438139401.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APD09/r8/P////z8/ABDTlUAJzenu8j///8AW1tcP0JFAAQTWWRtAPX19f////Px8dzb3GHQIIcANm7FAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699438139412.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699438139412.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOElEQVQImWP4DwPff/9mOHn+cv7ibSZTt9nE5TJ0L1hplVnDwCLeUF/P8P//v7+/f7969vTP3z8ApPciw7C/rfkAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "654b5f2a37e0a9bf8afa7a52",
+  "sku": "SOG-VE100BL",
+  "mpn": "SOG-VE100BL",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "SOG-VE100BL",
+  "title": "Spirit of Gamer Airblade 100 (Bleu)",
+  "title_fr": "Spirit of Gamer Airblade 100 (Bleu)",
+  "description_fr": "<h2>Spirit of Gamer Airblade 100 (Bleu)</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le support&nbsp;<strong>Airblade 100</strong>&nbsp;sign&eacute;&nbsp;<strong>Spirit of Gamer</strong>&nbsp;prendra soin de votre ordinateur portable gr&acirc;ce &agrave; un flux d&#39;air propos&eacute; par deux ventilateurs de 120 mm. Ce mod&egrave;le est adapt&eacute; pour les ordinateurs jusqu&#39;&agrave; 15.6&quot; et se r&egrave;gle sur cinq positions (6 &agrave; 28&deg;). Il embarque &eacute;galement un double port USB 2.0, le premier servira pour l&#39;alimentation alors que le second pourra accueillir une souris ou un clavier.</span><br />\n<br />\n&nbsp;</p>\n\n<ul>\n</ul>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Compatibilit&eacute; :&nbsp;<strong>PC portables jusqu&#39;&agrave; 15.6&#39;&#39;</strong></span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;glage en hauteur sur 5 positions</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Mat&eacute;riaux</strong>&nbsp;: plastique</span></li>\n\t<li><span style=\"font-size:22px\"><strong>R&eacute;tro-&eacute;clairage bleu</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>2 ventilateurs de 120 mm + variateur</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>Niveau sonore</strong>&nbsp;: 25 dBA</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Dimensions</strong>&nbsp;: 335 x 265 x 42 mm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Poids</strong>&nbsp;: 620 g</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eab45cc1c53430470a67932",
+    "titre": "SPIRIT",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326695675.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-30T21:40:28.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "606bfd99e8ff02f7796cb01a",
+    "order": 9,
+    "titre": "ACCESSOIRES PC PORTABLE",
+    "titreSEO": "Achat Accessoires PC portable Gamer - MEGA PC",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1617690464917.webp",
+    "create_date": "2021-04-06T06:20:09.000Z",
+    "reference": "ACCESSOIRESPCPORTABLE",
+    "update_date": "2021-12-04T08:51:35.989Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "606bfd99e8ff02f7796cb01a"
+  ],
+  "lien": "Spirit-of-Gamer-BLEU",
+  "gallerie": {
+    "_id": "654b5e1037e0a9bf8af9e726",
+    "titre": "SPIRIT OF GAMER AIRBLADE 100 (BLEU)",
+    "urlPhoto": [
+      "/uploads/gallerie/1699438133896.webp",
+      "/uploads/gallerie/1699438139363.webp",
+      "/uploads/gallerie/1699438139401.webp",
+      "/uploads/gallerie/1699438139412.webp"
+    ],
+    "update_date": "2023-11-08T10:08:59.542Z",
+    "create_date": "2023-11-08T10:08:16.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 3504,
+  "price": 55,
+  "tagsSearch": [
+    "SPIRIT",
+    "ACCESSOIRES",
+    "ACCESSOIRES PC PORTABLE"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-11-08T10:12:58.871Z",
+  "update_date": "2025-10-23T21:07:18.257Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

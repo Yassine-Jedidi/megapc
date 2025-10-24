@@ -1,0 +1,141 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1626955303739.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1626955303739.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APz8/MTExNzc3P///wDOzs4bGxsoKCiTk5MAxcXFAAAACQkJeHh4AOzs7JiYmLe3t+Xl5RnzHPBmzEpFAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "60f95fa596b10467408714ea",
+  "sku": "STEB3000200",
+  "mpn": "STEB3000200",
+  "titleSeo": "DISQUE DUR EXTERNE SEAGATE 3T 3.5 USB 3.0 STEB3000200 | MEGA TUNISIE",
+  "desciprtionSeo": "DISQUE DUR EXTERNE SEAGATE 3T 3.5 USB 3.0 STEB3000200 | Capacité :3 TB Format De Disque :3.5\". Dimensions :17.6 x 12.06 cm. Poids :950g. Type De Disque :HDD. Interface :USB 3.0. | MEGA TUNISIE",
+  "ratingValue": "3.6",
+  "reviewCount": "51",
+  "priceValidUntil": "2022-09-09",
+  "referenceInterne": "STEB3000200",
+  "title": "DISQUE DUR EXTERNE SEAGATE 3T 3.5 USB 3.0",
+  "title_fr": "DISQUE DUR EXTERNE SEAGATE 3T 3.5 USB 3.0",
+  "description_fr": "<h2>DISQUE DUR EXTERNE SEAGATE 3T 3.5 USB 3.0</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le disque dur externe <strong>Seagate STEB3000200</strong> est une solution id&eacute;ale pour le stockage de vos fichiers personnels et professionnels. Avec une capacit&eacute; de 3 To, il offre un espace g&eacute;n&eacute;reux pour conserver vos documents, vid&eacute;os, photos et autres donn&eacute;es essentielles. Dot&eacute; d&#39;une interface USB 3.0, il garantit des vitesses de transfert rapides tout en restant compatible avec les ports USB 2.0. Con&ccedil;u au format 3.5&quot;, ce disque dur est parfait pour une utilisation sur bureau. Compact avec des dimensions de 17,6 x 12,06 cm et un poids de 950 g, il allie robustesse et praticit&eacute;. Plug-and-play, il est facile &agrave; utiliser sans n&eacute;cessiter d&rsquo;installation pr&eacute;alable de logiciel, et il fonctionne aussi bien sous Windows que macOS (un reformatage peut &ecirc;tre n&eacute;cessaire pour ce dernier). Le <strong>Seagate STEB3000200</strong> est une option fiable et performante pour sauvegarder et g&eacute;rer efficacement vos donn&eacute;es.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Capacit&eacute;&nbsp;<strong>:3 TB</strong></span></li>\n\t<li><span style=\"font-size:22px\">Format De Disque :<strong>3.5&quot;.</strong></span></li>\n\t<li><span style=\"font-size:22px\">Dimensions :<strong>17.6 x 12.06 cm.</strong></span></li>\n\t<li><span style=\"font-size:22px\">Poids :<strong>950g.</strong></span></li>\n\t<li><span style=\"font-size:22px\">Type De Disque :<strong>HDD.</strong></span></li>\n\t<li><span style=\"font-size:22px\">Interface :<strong>USB 3.0.</strong></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ec173fe4a2e400482a013f5",
+    "titre": "SEGATE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327370956.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-17T17:27:26.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5f5fc86dc0300232c01fb0ec",
+    "titre": "DISQUE-HDD",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205919916.webp",
+    "order": 8,
+    "descriptionSEO": "<p>Disque dur HDD Tunisie | Disque dur interne Western Digital, Seagate Technology, Toshiba, Sauvegardez vos données grâce à nos disques durs internes.</p>",
+    "titreSEO": "Disque dur HDD Tunisie | Disque Dur Interne pc gamer - Mega pc",
+    "create_date": "2020-09-14T19:45:49.000Z",
+    "reference": "HDD",
+    "update_date": "2021-12-16T10:58:30.220Z",
+    "visible": false,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "FORMAT DE DISQUE",
+      "valeur": "3.5 POUCES",
+      "enable": true,
+      "_id": "60f95fa596b10467408714eb"
+    },
+    {
+      "cle": "CAPACITÉ DE STOCKAGE",
+      "valeur": "3 TB",
+      "enable": true,
+      "_id": "60f95fa596b10467408714ec"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f5fc86dc0300232c01fb0ec"
+  ],
+  "lien": "DISQUE-DUR-EXTERNE-SEAGATE-3T-3.5-USB-3.0",
+  "gallerie": {
+    "_id": "60f95e1496b1046740870b0c",
+    "urlPhoto": [
+      "/uploads/gallerie/1626955303739.webp"
+    ],
+    "titre": "DISQUE DUR EXTERNE SEAGATE 3T 3.5 USB 3.0",
+    "__v": 1,
+    "create_date": "2021-07-22T12:01:24.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 3795,
+  "price": 335,
+  "tagsSearch": [
+    "SEGATE",
+    "COMPOSANTS",
+    "DISQUE-HDD"
+  ],
+  "stock": 9,
+  "displayForPublic": true,
+  "create_date": "2021-07-22T12:08:05.882Z",
+  "update_date": "2025-10-23T15:28:23.295Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

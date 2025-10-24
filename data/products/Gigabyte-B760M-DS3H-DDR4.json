@@ -1,0 +1,286 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680609870117.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680609870117.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////7+/vv7+////wCamJiHhoFRT09xcXEANTQzAgAAJycnNzU2AN7e39vb3NXU1OTj5DpFHYo7swShAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680609929823.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680609929823.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///46OjYWGhNfX1gDr6uojIB8FAACUk5MA7u7tLi4tDAYGoJ+fAPb29llZWUxMS8TEws//Gfyfka4cAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680609929869.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680609929869.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APf29o2NjbS0tP///gDy8fErJiYSDg7S0tIA7u/uKisoAQAAxMTEAO3t7CkqKS4vL87OzRJHG16rf0v3AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680609972523.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1680609972523.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP4jwQYioqKTp06tWnTprCwMAZra6vSkhIvD3dmBgaG//////71+/ev30BlAIisIYTdgFt/AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "642c152a8ac974073d2ca0ec",
+  "sku": "B760M_DS3H_DDR4",
+  "mpn": "00000000",
+  "titleSeo": "Carte mère : Micro ATX Socket 1700 Intel B760 Express - 4x DDR4 - M.2 PCIe 4.0 - USB 3.1 - PCI-Express 4.0 16x - LAN 2.5 GbE | MEGA PC ",
+  "desciprtionSeo": "Carte mère : Micro ATX Socket 1700 Intel B760 Express - 4x DDR4 - M.2 PCIe 4.0 - USB 3.1 - PCI-Express 4.0 16x - LAN 2.5 GbE | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "B760M-DS3H",
+  "title": "Gigabyte B760M DS3H DDR4",
+  "title_fr": "Gigabyte B760M DS3H DDR4",
+  "description_fr": "<h2>Gigabyte B760M DS3H DDR4</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La&nbsp;carte m&egrave;re Gigabyte B760M DS3H DDR4&nbsp;con&ccedil;ue pour les processeurs Intel Core hybrides de 12&egrave;me et 13&egrave;me g&eacute;n&eacute;ration est id&eacute;ale pour l&#39;assemblage d&#39;une configuration puissante au co&ucirc;t maitris&eacute;.&nbsp;Elle prend en charge les processeurs Intel Core 12&egrave;me et 13&egrave;me g&eacute;n&eacute;ration, les cartes graphiques PCI-Express 4.0 16x, les SSD M.2 PCIe 4.0, la RAM DDR4 ainsi que les p&eacute;riph&eacute;riques USB 3.0 et USB 3.1.&nbsp;</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680610526123.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680610526181.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680610372604.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680610372584.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680610372504.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Support des processeurs Intel Core de 12&egrave;me et 13&egrave;me g&eacute;n&eacute;ration sur socket LGA 1700</span></li>\n\t<li><span style=\"font-size:22px\">Support de la m&eacute;moire DDR4</span></li>\n\t<li><span style=\"font-size:22px\">2 emplacements M.2 PCIe 4.0 4x + 4 ports SATA 6 Gbps</span></li>\n\t<li><span style=\"font-size:22px\">Port PCI-Express 4.0 16x</span></li>\n\t<li><span style=\"font-size:22px\">LAN 2.5 GbE</span></li>\n\t<li><span style=\"font-size:22px\">Format Micro ATX</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "CHIPSET",
+      "valeur": "Intel B760 Express",
+      "enable": true,
+      "_id": "6083fddbed5edabde750a16f"
+    },
+    {
+      "cle": "FORMAT DE CARTE MÈRE",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "6083fddbed5edabde750a170"
+    },
+    {
+      "cle": "FRÉQUENCE(S) MÉMOIRE",
+      "valeur": "DDR4 3200 MHz",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a171"
+    },
+    {
+      "cle": "FRÉQUENCE(S) MÉMOIRE",
+      "valeur": "DDR4 2133 MHz",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a172"
+    },
+    {
+      "cle": "FRÉQUENCE(S) MÉMOIRE",
+      "valeur": "DDR4 2400 MHz",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a173"
+    },
+    {
+      "cle": "FRÉQUENCE(S) MÉMOIRE",
+      "valeur": "DDR4 2666 MHz",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a174"
+    },
+    {
+      "cle": "FRÉQUENCE(S) MÉMOIRE",
+      "valeur": "DDR4 2800 MHz",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a175"
+    },
+    {
+      "cle": "FRÉQUENCE(S) MÉMOIRE",
+      "valeur": "DDR4 2933 MHz",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a176"
+    },
+    {
+      "cle": "FRÉQUENCE(S) MÉMOIRE",
+      "valeur": " DDR4 3000 MHz",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a177"
+    },
+    {
+      "cle": "CAPACITÉ MAXIMALE DE RAM",
+      "valeur": "128 GB",
+      "enable": true,
+      "_id": "6083fddbed5edabde750a17f"
+    },
+    {
+      "cle": "CONNECTEURS PANNEAU ARRIÈRE",
+      "valeur": "3 X Jack 3,5mm Femelle Stéréo",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a180"
+    },
+    {
+      "cle": "CONNECTEURS PANNEAU ARRIÈRE",
+      "valeur": "1 X RJ45 Femelle",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a181"
+    },
+    {
+      "cle": "CONNECTEURS PANNEAU ARRIÈRE",
+      "valeur": "2 X USB 2.0",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a182"
+    },
+    {
+      "cle": "CONNECTEURS PANNEAU ARRIÈRE",
+      "valeur": "3 X USB 3.0",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a183"
+    },
+    {
+      "cle": "CONNECTEURS PANNEAU ARRIÈRE",
+      "valeur": "2 X DisplayPort Femelle",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a184"
+    },
+    {
+      "cle": "CONNECTEURS PANNEAU ARRIÈRE",
+      "valeur": "1 X HDMI Femelle",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a185"
+    },
+    {
+      "cle": "CONNECTEURS PANNEAU ARRIÈRE",
+      "valeur": "1 X MiniDin 6 Femelle (PS/2)",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a186"
+    },
+    {
+      "cle": "CONNECTEURS ADDITIONNELS",
+      "valeur": "1 X +12V (Alimentation P8)",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a196"
+    },
+    {
+      "cle": "CONNECTEURS ADDITIONNELS",
+      "valeur": "1 X ATX 24 Broches",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a197"
+    },
+    {
+      "cle": "CONNECTEURS ADDITIONNELS",
+      "valeur": "4 X USB 3.0 interne",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a198"
+    },
+    {
+      "cle": "CONNECTEURS ADDITIONNELS",
+      "valeur": "4 X USB 2.0 interne",
+      "enable": false,
+      "_id": "6083fddbed5edabde750a199"
+    },
+    {
+      "cle": "CONNECTEURS ADDITIONNELS",
+      "valeur": "2 X USB 3.0 interne",
+      "enable": false,
+      "_id": "611526acd8f73104c23c87ad"
+    },
+    {
+      "cle": "CONNECTEURS ADDITIONNELS",
+      "valeur": "1 X TPM",
+      "enable": true,
+      "_id": "63a432a48ac974073d4e8475"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "Gigabyte-B760M-DS3H-DDR4",
+  "gallerie": {
+    "_id": "642c12428ac974073d2ca000",
+    "titre": "GIGABYTE B760M DS3H DDR4",
+    "urlPhoto": [
+      "/uploads/gallerie/1680609870117.webp",
+      "/uploads/gallerie/1680609929823.webp",
+      "/uploads/gallerie/1680609929869.webp",
+      "/uploads/gallerie/1680609972523.webp"
+    ],
+    "update_date": "2023-04-04T12:06:12.622Z",
+    "create_date": "2023-04-04T12:04:18.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": true,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": true,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": true,
+  "new": false,
+  "vue": 1189,
+  "price": 369,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE MÈRE"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2023-04-04T12:16:42.379Z",
+  "update_date": "2025-10-24T07:11:46.442Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,197 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464188558.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464188558.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAAAAP4XFxf+IR8e/i0mJv4Azs/N/v//+v8/ODf/YUpK/gBvb23+pqel/3t5dv8qICD+ACYmI/5ra2b+aGVj/hkTE/4nKSAxGNbh4QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464191167.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464191167.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AEpKSf6bnZr/T0VD/zUjJP4Ak5WR///+9/82Mi7/LiQk/wAiIh//mZmU/2xoY/8ZDwv/AAIBAP4oKCX/JyYj/wMAAP5k6h4mYMBSLQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464193242.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464193242.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AFpWUoOCfBgYFwAABAC4vbicmJJOSEdERkUAqaunlJaQPj8+///5ACcoJk1OSWJlX1NVUuXVE07RSAAnAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464196233.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464196233.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWPg5+O3tbWuq68x0TdkYGRg1NLS/PX/Z29dDQMXF1dsXPTtW1dkxMQZhIUEa2vLS8tKFMTFAXqeD0EwyqPsAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464198301.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464198301.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWNITUsWEBAI9PH0NNBnMDUzSstIc7ExDTFQZ4iPj/nz/4emspysIA+DqZlJdHQ4AwMDMyMjAGHEDIDmokUzAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464201506.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464201506.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ALKuq1pRUK94eP///wBNR0IAAAB8Y2X59fUAkIuKR0ZHQkVKiIeKAP///8XFxoyLj+bm5o5QGyho2yxPAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464204060.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464204060.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AP///6y7vMTvYWJoyA8PE0QA4uLtwbKxuf9CQkf/AAAGlAAcHB67TU1U/1VVW/9mZm28AAsICKIbGyDcLi40ulRWW4eQ6B3pwU/MHQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464206814.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464206814.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/APr6/12kpKzBUlJY1xARF68A/P//3X9/hf9bW1//AAAF0gB/fYS+SUlO/3V2ff9dXWHYADc3OYU1NTvWX2Bm3E9QVMe2hCDdftLgEgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464209215.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464209215.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AJ2fqrSnp6/lbm5y3gMDCsQA/f7/53d3ff86Oj7/AAAH8gCmpa3WTE1U/0pLUv9ZWWDxAFNSVqczNDjkOzxB2nFxedChJCD3BmwyYAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464211309.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464211309.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWNgQAcHDlwQSEwtsvHyC7L///d/HMOiRUsjCstqM5NSC6PfPnpSiqEDADvWESCsSMiuAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464213427.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746464213427.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AJOUn9/Hx9Dyr6+28JGRmuYAZWhy8P/////Gxcn/WFhg9wA0NDrvUVFV/1hYXv83Njb2ABASEuYAAAD3EhQU9RgXFOxtrSK93hHEXAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "67d934a9711a4ce5a43406b1",
+  "sku": "BATTLE-AX-B650M-PLUS",
+  "mpn": "BATTLE-AX-B650M-PLUS",
+  "titleSeo": "Carte Mère COLORFUL BATTLE-AX B650M-PLUS V14 - AM5 | DDR5 | PCIe 5.0 | Micro-ATX | MEGA PC | GAMING TUNISIE | GIGA TECH",
+  "desciprtionSeo": "Carte Mère  Découvrez la COLORFUL BATTLE-AX B650M-PLUS V14, une carte mère Micro-ATX avec chipset AMD B650, idéale pour les processeurs Ryzen 7000/8000/9000. Avec 4 slots DDR5 (jusqu'à 192 Go, DDR5-7600 OC), 2x M.2 PCIe 5.0/4.0, un slot PCIe 5.0 x16, USB 3.2 Gen 2 Type-C, et un réseau 2.5G, elle offre des performances exceptionnelles pour le gaming et la productivité.| Meilleure carte mère AM5 en Tunisie 2025",
+  "ratingValue": "4.7",
+  "reviewCount": "55",
+  "priceValidUntil": "2027-07-09",
+  "referenceInterne": "BATTLE-AX-B650M-PLUS",
+  "title": "COLORFUL BATTLE-AX B650M-PLUS V14",
+  "title_fr": "COLORFUL BATTLE-AX B650M-PLUS V14",
+  "description_fr": "<h1><span style=\"font-size:22px\">🎮🔥 <strong>COLORFUL BATTLE-AX B650M-PLUS V14 : La carte m&egrave;re AM5 ultime pour les gamers et overclockers !</strong></span></h1>\n\n<p><span style=\"font-size:22px\">Si vous cherchez une carte m&egrave;re performante et pr&ecirc;te pour les nouvelles g&eacute;n&eacute;rations de processeurs AMD Ryzen, la <strong>COLORFUL BATTLE-AX B650M-PLUS V14</strong> est faite pour vous ! 🏆 Avec son <strong>chipset B650</strong>, sa <strong>compatibilit&eacute; avec les Ryzen 7000, 8000 et 9000</strong> et son <strong>support DDR5</strong>, elle est parfaite pour construire un PC puissant et &eacute;volutif. 🚀</span></p>\n\n<hr />\n<h2><span style=\"font-size:22px\">💾 <strong>Des performances de pointe avec la DDR5 et PCIe 5.0</strong></span></h2>\n\n<p><span style=\"font-size:22px\">Avec <strong>4 slots DDR5</strong>, cette carte m&egrave;re prend en charge jusqu&#39;&agrave; <strong>192 Go de m&eacute;moire ultra-rapide</strong> (jusqu&#39;&agrave; <strong>DDR5-7600 OC</strong>). 🎯 Que vous soyez un gamer, un cr&eacute;ateur de contenu ou un overclockeur, profitez d&rsquo;une fluidit&eacute; maximale gr&acirc;ce aux technologies <strong>XMP et EXPO</strong> qui optimisent les performances de la RAM.</span></p>\n\n<p><span style=\"font-size:22px\">Et pour les cartes graphiques nouvelle g&eacute;n&eacute;ration ? 🖥️💨 La <strong>BATTLE-AX B650M-PLUS V14</strong> embarque un <strong>slot PCIe 5.0 x16</strong> pour des GPU toujours plus performants et un <strong>slot PCIe 4.0 x4</strong> pour l&rsquo;extension.</span></p>\n\n<hr />\n<h2><span style=\"font-size:22px\">⚡ <strong>Stockage ultra-rapide avec M.2 PCIe 5.0</strong></span></h2>\n\n<p><span style=\"font-size:22px\">Fini les temps de chargement interminables ! 💾💨 La carte offre <strong>2 slots M.2 PCIe 5.0/4.0</strong> et <strong>4 ports SATA 6Gb/s</strong>, permettant de combiner <strong>SSD NVMe ultra-rapides</strong> et <strong>HDD classiques</strong> pour un maximum d&rsquo;espace et de vitesse. <strong>RAID 0/1/10</strong> est &eacute;galement pris en charge pour booster la s&eacute;curit&eacute; et la rapidit&eacute; des donn&eacute;es.</span></p>\n\n<hr />\n<h2><span style=\"font-size:22px\">🔌 <strong>Une connectique ultra-compl&egrave;te</strong></span></h2>\n\n<p><span style=\"font-size:22px\">Avec son <strong>r&eacute;seau 2.5G</strong> 🛜, la <strong>BATTLE-AX B650M-PLUS V14</strong> assure une connexion ultra-rapide et stable, que ce soit pour le gaming en ligne, le streaming ou les t&eacute;l&eacute;chargements massifs. C&ocirc;t&eacute; connectivit&eacute; :</span></p>\n\n<p><span style=\"font-size:22px\">🔹 <strong>USB 3.2 Gen 2 Type-C</strong> et <strong>USB 3.2 Gen 2 Type-A</strong> ⚡<br />\n🔹 <strong>USB 3.2 Gen 1</strong> et <strong>USB 2.0</strong> pour brancher tous vos p&eacute;riph&eacute;riques 🖱️⌨️<br />\n🔹 <strong>HDMI 1.4 et DisplayPort 1.2</strong> pour des r&eacute;solutions allant jusqu&#39;&agrave; <strong>4K</strong> 🎬</span></p>\n\n<p><span style=\"font-size:22px\">Et pour les amateurs de personnalisation RGB, <strong>des headers ARGB 5V et RGB 12V</strong> sont int&eacute;gr&eacute;s pour illuminer votre setup. 🌈</span></p>\n\n<hr />\n<h2><span style=\"font-size:22px\">🎧 <strong>Un son immersif et un BIOS intuitif</strong></span></h2>\n\n<p><span style=\"font-size:22px\">Plongez dans une exp&eacute;rience audio de qualit&eacute; avec <strong>la puce Realtek ALC897 7.1 canaux</strong> 🎶. Que vous jouiez avec un casque ou des enceintes, le rendu sonore est net et immersif.</span></p>\n\n<p><span style=\"font-size:22px\">De plus, le <strong>BIOS UEFI 128M</strong> simplifie l&#39;overclocking et la gestion du mat&eacute;riel avec une interface fluide et multilingue. 🖥️🔧</span></p>\n\n<hr />\n<h2><span style=\"font-size:22px\">🎯 <strong>Pourquoi choisir la COLORFUL BATTLE-AX B650M-PLUS V14 ?</strong></span></h2>\n\n<p><span style=\"font-size:22px\">✅ <strong>Compatibilit&eacute; avec Ryzen 7000/8000/9000</strong> 🏆<br />\n✅ <strong>Support DDR5 jusqu&rsquo;&agrave; 192 Go &ndash; DDR5-7600 OC</strong> 🔥<br />\n✅ <strong>PCIe 5.0 pour carte graphique et SSD M.2 ultra-rapides</strong> 🚀<br />\n✅ <strong>R&eacute;seau 2.5G et USB 3.2 Gen 2 Type-C</strong> 🌐<br />\n✅ <strong>RGB personnalisable et son haute fid&eacute;lit&eacute;</strong> 🎧🌈</span></p>\n\n<p><span style=\"font-size:22px\">Cette carte m&egrave;re <strong>Micro-ATX (245 x 245 mm)</strong> est un excellent choix pour les gamers et les passionn&eacute;s de hardware souhaitant une base solide et &eacute;volutive.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Chipset :</strong> AMD B650</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Socket :</strong> AM5 (compatible Ryzen 7000/8000/9000)</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>M&eacute;moire :</strong> 4 slots DDR5 (jusqu&#39;&agrave; 192 Go, DDR5-7600 OC, XMP &amp; EXPO)</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Stockage :</strong> 2x M.2 PCIe 5.0/4.0 + 4x SATA 6Gb/s (RAID 0/1/10)</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Graphisme :</strong> 1x PCIe 5.0 x16, 1x PCIe 4.0 x4, 1x PCIe 4.0 x1</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Connectique :</strong> 6x USB arri&egrave;re, USB 3.2 Gen 2 Type-C, HDMI 1.4, DP 1.2</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>R&eacute;seau :</strong> 2.5G Ethernet (Realtek RTL8125BG)</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Audio :</strong> Realtek ALC897 (7.1 canaux HD)</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Facteur de forme :</strong> Micro-ATX (245 x 245 mm)</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "65cf3d310ba0330b65f2641d",
+    "titre": "COLORFUL",
+    "update_date": "2024-02-16T10:47:13.566Z",
+    "create_date": "2024-02-16T10:47:13.000Z",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "COLORFUL-BATTLE-AX-B650M-PLUS-V14",
+  "gallerie": {
+    "_id": "6818edacc75bcce7a26d9552",
+    "titre": "BATTLE-AX-B650M-PLUS",
+    "urlPhoto": [
+      "/uploads/gallerie/1746464188558.webp",
+      "/uploads/gallerie/1746464191167.webp",
+      "/uploads/gallerie/1746464193242.webp",
+      "/uploads/gallerie/1746464196233.webp",
+      "/uploads/gallerie/1746464198301.webp",
+      "/uploads/gallerie/1746464201506.webp",
+      "/uploads/gallerie/1746464204060.webp",
+      "/uploads/gallerie/1746464206814.webp",
+      "/uploads/gallerie/1746464209215.webp",
+      "/uploads/gallerie/1746464211309.webp",
+      "/uploads/gallerie/1746464213427.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-05-05T16:56:53.543Z",
+    "create_date": "2025-05-05T16:56:12.000Z",
+    "__v": 11
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2133,
+  "price": 467,
+  "tagsSearch": [
+    "COLORFUL",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "B650M-PLUS V14",
+    "DDR5 7600 OC",
+    "Carte mère overclocking",
+    "fx1",
+    "realap"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2025-03-18T08:54:01.512Z",
+  "update_date": "2025-10-24T15:48:30.992Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

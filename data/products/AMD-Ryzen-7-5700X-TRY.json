@@ -1,0 +1,199 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1719660824562.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1719660824562.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AODg36KbnMC7uf///wDe3doTAAoQAAHr6uoA6enpHiAlPzpD0c7QAPX19ZGVmr7Axff29iItHzrpkQpmAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "667feddaded88b5e10ca8d18",
+  "sku": "100-100000926WOF",
+  "mpn": "100-100000926WOF",
+  "titleSeo": "Processeur AMD Ryzen 7 5700X Octa-core [8 Core] 3.40 GHz | MEGA ",
+  "desciprtionSeo": "Processeur AMD Ryzen 7 5700X Octa-core [8 Core] 3.40 GHz | MEGA ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "100-100000926WOF",
+  "title": "AMD Ryzen 7 5700X (3.4 GHz / 4.6 GHz) TRY",
+  "title_fr": "AMD Ryzen 7 5700X (3.4 GHz / 4.6 GHz) TRY",
+  "description_fr": "<h2>AMD Ryzen 7 5700X (3.4 GHz / 4.6 GHz) TRY</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le&nbsp;<strong>processeur AMD Ryzen 7 5700X</strong>&nbsp;est optimis&eacute; pour les jeux :&nbsp;<strong>8 Cores</strong>&nbsp;,&nbsp;<strong>16 Threads</strong>&nbsp;et&nbsp;<strong>36 Mo GameCache</strong>&nbsp;. Sans oublier les fr&eacute;quences natives et boost&eacute;es qui permettent de profiter de vos jeux pr&eacute;f&eacute;r&eacute;s dans les meilleures conditions. Combinez-le avec une carte graphique hautes performances et vous pourrez jouer &agrave; n&#39;importe quel jeu en toute fluidit&eacute;.</span></p>\n\n<p><img alt=\"Grab the powerful AMD Ryzen 7 5700X from Amazon for just £168 |  Eurogamer.net\" src=\"https://assetsio.gnwcdn.com/ryzen-7-5700x-df-deal.psd?width=414&amp;quality=70&amp;format=jpg&amp;auto=webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence CPU :&nbsp;3.4 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence en mode Turbo :&nbsp;4.6 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de core :&nbsp; 8</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de Threads : 16</span></li>\n\t<li><span style=\"font-size:22px\">Chipset graphique :&nbsp;Aucun</span></li>\n\t<li><span style=\"font-size:22px\">Contr&ocirc;leur m&eacute;moire :&nbsp;DDR4</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb192424a2e400482a012cd",
+    "titre": "AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326818201.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:20:18.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.40 GHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a00"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "4.60 GHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a01"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "8",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a02"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "16",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a03"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "4 MB",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a04"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "32 MB",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a05"
+    },
+    {
+      "cle": "Puissance de base du processeur",
+      "valeur": "65 W",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a06"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "AMD AM4",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a08"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR4 3200 MHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a0a"
+    },
+    {
+      "cle": "Cache L1",
+      "valeur": "512 Ko",
+      "enable": true,
+      "_id": "67487da44583082f202d4691"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "AMD-Ryzen-7-5700X-TRY",
+  "gallerie": {
+    "_id": "667ff0e7ded88b5e10cb4694",
+    "titre": "AMD RYZEN 7 5700X (3.4 GHZ / 4.6 GHZ) TRY",
+    "urlPhoto": [
+      "/uploads/gallerie/1719660824562.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-06-29T11:33:44.718Z",
+    "create_date": "2024-06-29T11:32:55.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 5790,
+  "price": 479,
+  "tagsSearch": [
+    "MEGA PC",
+    "COMPOSANTS",
+    "KIT UPGRADE PC",
+    "MSI",
+    "booostx",
+    "PROCESSEUR",
+    "AMD"
+  ],
+  "discount": null,
+  "stock": 8,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2024-01-17T08:51:04.913Z",
+  "update_date": "2025-10-24T15:12:36.645Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

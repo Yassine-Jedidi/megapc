@@ -1,0 +1,182 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624105393564.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624105393564.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ANzi2unp3f/49f///wAjPB4hKQBKJx4YBx8AXGRaAAkALiklNDI0APXy9QAAABQVFDg4NX6BErx7H4VsAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624105402604.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624105402604.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWP4jwQYsgqz/PxcPR2dXN28GWzcbIQEGQQYGLi4RRj+//v/989fsKp/AAL8HMI8wbvmAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624105410365.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624105410365.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWP4////v3//5syZs23bNob////fuHHDztYuLysHxJk5YyYDA5OffwDDjRs31q5d4+frfeTIfgB4dx7hq3YzFAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624105420155.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624105420155.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP4////9evXjxw58v//f4b////HJyYKCIt/+/oVxPHydGNgZPz48SOIc+rU8QWL5wOVAQCfZCLm8qYDHAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "60cde2ece1183604d82951f0",
+  "sku": "CLS-PMKH5",
+  "mpn": "CLS-PMKH5",
+  "titleSeo": "Combo Spirit of Gamer PRO-MKH5 | MEGA PC",
+  "desciprtionSeo": "Combo Spirit of Gamer PRO-MKH5 | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "71",
+  "priceValidUntil": "2022-08-08",
+  "referenceInterne": "CLS-PMKH5",
+  "title": "Combo Spirit of Gamer PRO-MKH5",
+  "title_fr": "Combo Spirit of Gamer PRO-MKH5",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>Combo Spirit of Gamer PRO-MKH5</h2>\n\n<hr />\n<p><img alt=\"Combo Spirit of Gamer PRO-MKH5 prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1624106412836.webp\" /></p>\n\n<hr />\n<p>L&#39;ensemble clavier/souris Spirit of Gamer PRO-MKH5 sera un alli&eacute; de poids pour que vous puissiez enchainer les victoires gr&acirc;ce &agrave; une efficacit&eacute; redoutable et des performances sup&eacute;rieures. Ce pack se compose d&#39;une souris filaire r&eacute;tro-&eacute;clair&eacute;e, d&#39;un casque gaming et d&#39;un tapis de souris.</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Type de souris : Optique</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;solution optique : 6400 dpi</span></li>\n\t<li><span style=\"font-size:22px\">Type de Roulette : Bidirectionnelle</span></li>\n\t<li><span style=\"font-size:22px\">Type de du clavier : AZERTY&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Type de touches : M&eacute;ca-membrane&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de Touches : 105</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eab45cc1c53430470a67932",
+    "titre": "SPIRIT",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326695675.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-30T21:40:28.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ed6291b6735df04ea3dad9d",
+    "titre": "COMBO",
+    "__v": 0,
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "urlPhoto2": "/uploads/souscateg/1620206319036.webp",
+    "order": 4,
+    "descriptionSEO": "<p>Pack clavier souris gamer - Combo Souris clavier casque micro tapis gamer RGB Tunisie sans fil, logitech, MSi, Razer, Genesis, hyperx, Spirit of Gamer</p>",
+    "titreSEO": "Pack clavier souris gamer - Ensemble Clavier et Souris Sans fil Tunisie ",
+    "create_date": "2020-06-02T10:25:31.000Z",
+    "reference": "COMBO",
+    "update_date": "2021-12-04T08:53:56.621Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Type de souris ",
+      "valeur": "Optique",
+      "enable": true,
+      "_id": "61c9806faa748d6af93a0a30"
+    },
+    {
+      "cle": "Résolution optique",
+      "valeur": "6400 dpi",
+      "enable": true,
+      "_id": "61c9806faa748d6af93a0a31"
+    },
+    {
+      "cle": "Type de Roulette",
+      "valeur": "Bidirectionnelle",
+      "enable": true,
+      "_id": "61c9806faa748d6af93a0a32"
+    },
+    {
+      "cle": "Type de du clavier",
+      "valeur": "AZERTY",
+      "enable": true,
+      "_id": "61c9806faa748d6af93a0a33"
+    },
+    {
+      "cle": "Type de touches",
+      "valeur": "Méca-membrane",
+      "enable": true,
+      "_id": "61c9806faa748d6af93a0a34"
+    },
+    {
+      "cle": "Nombre de Touches",
+      "valeur": "105",
+      "enable": true,
+      "_id": "61c9806faa748d6af93a0a35"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ed6291b6735df04ea3dad9d"
+  ],
+  "lien": "Combo-Spirit-of-Gamer-PRO-MKH5",
+  "gallerie": {
+    "_id": "60cde156e1183604d82951ef",
+    "urlPhoto": [
+      "/uploads/gallerie/1624105393564.webp",
+      "/uploads/gallerie/1624105402604.webp",
+      "/uploads/gallerie/1624105410365.webp",
+      "/uploads/gallerie/1624105420155.webp"
+    ],
+    "titre": "SPIRIT OF GAMER PRO-MKH5",
+    "__v": 4,
+    "create_date": "2021-06-19T12:21:42.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 10644,
+  "price": 166,
+  "tagsSearch": [
+    "SPIRIT",
+    "ACCESSOIRES",
+    "COMBO"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2021-06-19T12:28:28.626Z",
+  "update_date": "2025-10-24T10:40:02.699Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 3
+}

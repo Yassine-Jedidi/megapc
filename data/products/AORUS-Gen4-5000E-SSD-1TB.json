@@ -1,0 +1,175 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1673016130935.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1673016130935.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAATUlEQVQImWPQ01CN09VW2yktxDvNSlcji0FTTqLJzdnxv421xfOywtwqBjkxkUYxYf7/MZGRz//+/1/JwMPBkcrGwLAnLsy3b9fWdbkApLgWrfQw0Y8AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1673016136218.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1673016136218.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWNgQAcOlsbrIkOCTt+9f//okb3bVjPY6ChMyY70XfX3///FVy+c7MLQAQBkCBLUMYtV1AAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1673016136237.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1673016136237.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAR0lEQVQImWOw1lUqFBHgTmFgYGD4f/IEM4MMJ0toW33F/937DseABMHg1r17/v////u/ad3KTIb169czgwTXrFwUs3Z+Xw0A8BsZv/8jgB4AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1673016136281.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1673016136281.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWNgYGBg0JcT8rI01o0FscGguSInIjMzrQAu8Of//4hzFy4gBHZuWOuyaP6UaBAHALkaD8E7k65jAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "63b831ea8ac974073da79e4a",
+  "sku": "aorus-5000e-500gb-gen4",
+  "mpn": "889523033685",
+  "titleSeo": "DISQUE DUR AORUS Gen4 5000E SSD 1TB [ MEGA PC ",
+  "desciprtionSeo": "DISQUE DUR AORUS Gen4 5000E SSD 1TB [ MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "58",
+  "priceValidUntil": "2023-09-09",
+  "referenceInterne": "aorus-5000e-500gb-gen4",
+  "title": "AORUS Gen4 5000E SSD 1TB",
+  "title_fr": "AORUS Gen4 5000E SSD 1TB",
+  "description_fr": "<h2>AORUS Gen4 5000E SSD 1TB</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Construit avec un contr&ocirc;leur de haute qualit&eacute; et un flash 3D TLC NAND, le SSD AORUS Gen4 5000E offre jusqu&#39;&agrave; 5 000 Mo/s en lecture s&eacute;quentielle et 4 600 Mo/s en &eacute;criture s&eacute;quentielle. En utilisant la technologie Host Memory Buffer, le contr&ocirc;leur SSD peut acc&eacute;der &agrave; la DRAM h&ocirc;te sans perte de performances. En ce qui concerne les fonctionnalit&eacute;s, le SSD AORUS Gen4 5000E prend en charge les technologies TRIM, SMART et Over-Provision pour am&eacute;liorer la fiabilit&eacute; et la durabilit&eacute; des SSD.<br />\nLe SSD AORUS Gen4 5000E permet aux utilisateurs de profiter d&#39;une exp&eacute;rience de jeu plus fluide et plus rapide avec une plus grande efficacit&eacute; &eacute;nerg&eacute;tique.</span></p>\n\n<p><img alt=\"AORUS Gen4 5000E SSD 1TB | mega pc\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1677765020383.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Capacit&eacute; : 1 To</span></li>\n\t<li><span style=\"font-size:22px\">Facteur de forme : M.2</span></li>\n\t<li><span style=\"font-size:22px\">Interface : PCI-Express 4.0x4, NVMe 1.4</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse de lecture : 5000 Mo/s</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse d&#39;&eacute;criture : 4600 Mo/s</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "61bb17af4439e59bf2d60ac7",
+    "titre": "STOCKAGE",
+    "visible": true,
+    "order": 6,
+    "update_date": "2021-12-21T12:32:51.096Z",
+    "create_date": "2021-12-16T10:40:47.000Z",
+    "__v": 0,
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "urlPhoto2": "/uploads/souscateg/1639735720230.webp",
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "secondFilsCateg": "61bb18134439e59bf2d60ad3",
+  "attributes": [
+    {
+      "cle": "FORMAT DE DISQUE",
+      "valeur": "M.2",
+      "enable": true,
+      "_id": "5f8d6f6c3e9bde457030bea3"
+    },
+    {
+      "cle": "CAPACITÉ DE STOCKAGE",
+      "valeur": "1 To",
+      "enable": true,
+      "_id": "5f8d6f6c3e9bde457030bea4"
+    },
+    {
+      "cle": "VITESSE EN ÉCRITURE",
+      "valeur": "4600 MB/S",
+      "enable": true,
+      "_id": "5f8d6f6c3e9bde457030bea5"
+    },
+    {
+      "cle": "VITESSE EN LECTURE",
+      "valeur": "5000 MB/S",
+      "enable": true,
+      "_id": "5f8d6f6c3e9bde457030bea6"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f5fc891c0300232c01fb0ee"
+  ],
+  "lien": "AORUS-Gen4-5000E-SSD-1TB",
+  "gallerie": {
+    "_id": "63b832248ac974073da808bc",
+    "titre": "AORUS GEN4 5000E SSD 1TB",
+    "urlPhoto": [
+      "/uploads/gallerie/1673016130935.webp",
+      "/uploads/gallerie/1673016136218.webp",
+      "/uploads/gallerie/1673016136237.webp",
+      "/uploads/gallerie/1673016136281.webp"
+    ],
+    "update_date": "2023-01-06T14:42:16.391Z",
+    "create_date": "2023-01-06T14:37:24.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "textCommande": "Quantité limitée",
+  "enArrivage": false,
+  "new": true,
+  "vue": 9886,
+  "price": 299,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "STOCKAGE",
+    "DISQUE-NVME"
+  ],
+  "discount": null,
+  "stock": 2,
+  "prixEnPromo": null,
+  "forConfig": true,
+  "displayForPublic": true,
+  "create_date": "2023-01-06T14:36:26.059Z",
+  "update_date": "2025-10-24T09:35:44.999Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

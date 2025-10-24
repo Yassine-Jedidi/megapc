@@ -1,0 +1,185 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364711023.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364711023.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP4////u7fvLly48P//f4b////X1jV4BAWBOH/+/GVgYFLWNPzy9QdIprW1tbS88tOnzwDEkCKysVSZVQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364719044.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364719044.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMklEQVQImWP4////4SNHtmzZ+v//f4b///+7+3jLKStDOcbmVgyMnFDO9Okzq6rqgBwAg8MhegyvwYoAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364719046.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364719046.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP4////xk2b7ty58///f4b////bOLjqGhk/e/YcxGlobGFg5nj56hWI8/jxk7lzFwGVAQCf2yNxScfvjAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364719047.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364719047.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///6OkpZ+hofb29gDg4OEtMjUaHyS6vL4A0dHRFhgcAAAJqqqrAPPz9IKCg319gN/f3w5MHLDjGFA0AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364719048.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1692364719048.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP7//7GztMXGx/Dw8ADc3d4oLjN8gITCwsQA1dbXAAEJGRsfvLy+APHx8nZ3eaGjpOzs7U72HxuwZzpHAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "64df70a6d86a54d5564c2697",
+  "sku": "BOITIER-MIZAR",
+  "mpn": "BOITIER-MIZAR",
+  "titleSeo": "BOITIER GAMER AQIRYS MIZAR MOYEN TOUR – NOIR | MEGA PC ",
+  "desciprtionSeo": "BOITIER GAMER AQIRYS MIZAR MOYEN TOUR – NOIR | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08 ",
+  "referenceInterne": "BOITIER-MIZAR",
+  "title": "GAMER AQIRYS MIZAR MOYEN TOUR – NOIR",
+  "title_fr": "GAMER AQIRYS MIZAR MOYEN TOUR – NOIR",
+  "description_fr": "<h2 dir=\"ltr\">GAMER AQIRYS MIZAR MOYEN TOUR &ndash; NOIR</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le GAMER AQIRYS MIZAR MOYEN TOUR &ndash; NOIR est un bo&icirc;tier PC moyen tour de haute qualit&eacute; qui offre un excellent rapport qualit&eacute;-prix. Il est construit en acier et en verre tremp&eacute;, ce qui lui conf&egrave;re une grande robustesse et une excellente protection pour vos composants. Il dispose de nombreuses baies pour disques durs et SSD, ainsi que de supports pour radiateurs de CPU et de GPU. Il est &eacute;galement compatible avec les cartes m&egrave;res ATX et Micro ATX.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1692365190539.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Dimensions : 384 x 190 x 457 mm</span></li>\n\t<li><span style=\"font-size:22px\">Poids : 4.7 KG</span></li>\n\t<li><span style=\"font-size:22px\">Supports radiateurs : CPU : 160 mm, GPU : 360 mm</span></li>\n\t<li><span style=\"font-size:22px\">Compatibilit&eacute; carte m&egrave;re : ATX, Micro ATX</span></li>\n\t<li><span style=\"font-size:22px\">Connecteurs :&nbsp;1x USB 3.0, 2x USB 2.0, HD Audio, bouton LED</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "64df6d82d86a54d5564a0a20",
+    "titre": "AQIRYS",
+    "visible": true,
+    "update_date": "2023-08-18T13:09:42.944Z",
+    "create_date": "2023-08-18T13:09:22.000Z",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232a5a4815052c4d1a41a",
+    "titre": "BOITIER",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205933117.webp",
+    "order": 7,
+    "descriptionSEO": "<p>Boitier PC Gamer - Case pc gamer RGB prix Tunisie - Vente Composant pc - Achat en ligne de Boîtiers PC dans un vaste choix ( Gigabyte, Antec, Thermaltake.. )</p>",
+    "titreSEO": "Boitier PC Gamer - Case pc gamer RGB prix Tunisie - Vente Composant pc",
+    "create_date": "2020-04-24T00:28:21.000Z",
+    "reference": "BOITIER",
+    "update_date": "2021-12-21T12:33:12.175Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Format du boitier",
+      "valeur": "Moyen Tour",
+      "enable": true,
+      "_id": "602142b05a363f3e5997151e"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Micro ATX",
+      "enable": true,
+      "_id": "602142b05a363f3e5997151f"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Mini ITX",
+      "enable": true,
+      "_id": "602142b05a363f3e59971521"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "ATX",
+      "enable": false,
+      "_id": "602142b05a363f3e59971522"
+    },
+    {
+      "cle": "Nombre de Ventilateurs",
+      "valeur": "2",
+      "enable": true,
+      "_id": "64df72ced86a54d5564d34ae"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232a5a4815052c4d1a41a"
+  ],
+  "lien": "GAMER-AQIRYS-MIZAR-MOYEN",
+  "gallerie": {
+    "_id": "64df6f9cd86a54d5564a9166",
+    "titre": "BOITIER GAMER AQIRYS MIZAR MOYEN TOUR – NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1692364711023.webp",
+      "/uploads/gallerie/1692364719044.webp",
+      "/uploads/gallerie/1692364719046.webp",
+      "/uploads/gallerie/1692364719047.webp",
+      "/uploads/gallerie/1692364719048.webp"
+    ],
+    "update_date": "2023-08-18T13:18:39.153Z",
+    "create_date": "2023-08-18T13:18:20.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 2682,
+  "price": 145,
+  "tagsSearch": [
+    "AQIRYS",
+    "COMPOSANTS",
+    "BOITIER"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-08-18T13:22:46.937Z",
+  "update_date": "2025-10-23T20:14:21.583Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

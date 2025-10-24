@@ -1,0 +1,215 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1721643017822.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1721643017822.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOvs65+lpMzR0f7//wDEx8Q9QEGSk5bn5+gAx8rHAAEDMS8z2tvbAOPl5GRoaH+BgvDw8Fa7H0SJKMLeAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "64709aae8dd3d4fb53269bb4",
+  "sku": "100-100000909WOF",
+  "mpn": "0730143314916",
+  "titleSeo": "PROCESSEUR : AMD-Ryzen-9-7900X3D-TRAY | MEGA PC ",
+  "desciprtionSeo": "PROCESSEUR : AMD-Ryzen-9-7900X3D-TRAY  de fréquences de 4.4 GHz à 5.6 GHz - Nombre de Threads : 24 | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "100-100000909WOF",
+  "title": "AMD Ryzen 9 7900X3D TRAY",
+  "title_fr": "AMD Ryzen 9 7900X3D TRAY ",
+  "description_fr": "<h2>AMD Ryzen 9 7900X3D : Am&eacute;liorez votre exp&eacute;rience informatique avec un pur plaisir</h2>\n\n<p><span style=\"font-size:22px\">Laissez-moi vous pr&eacute;senter l&rsquo;AMD Ryzen 9 7900X3D, un processeur qui brise les barri&egrave;res pour r&eacute;v&eacute;ler tout le potentiel de l&rsquo;informatique heureuse. Ce miracle de l&rsquo;architecture Zen 4 d&rsquo;AMD, avec une fr&eacute;quence de base de 4,4 GHz et un turbocompress&eacute; de 5,6 GHz, promet une exp&eacute;rience informatique o&ugrave; la puissance et le bonheur vont de pair.</span></p>\n\n<h2>Zen 4 Brilliance : une symphonie de puissance et de joie</h2>\n\n<p><span style=\"font-size:22px\">L&rsquo;architecture Zen 4, qui combine une symphonie de 12 c&oelig;urs et 24 threads pour produire une puissance de traitement in&eacute;gal&eacute;e, est au c&oelig;ur du Ryzen 9 7900X3D. Ce processeur veille &agrave; ce que chaque moment de l&rsquo;ordinateur soit une expression de plaisir, que vous soyez un professionnel &agrave; la recherche de performances optimales ou un joueur passionn&eacute;.</span></p>\n\n<h2>Ma&icirc;trise graphique : AMD Radeon Graphics Unleashed</h2>\n\n<p><span style=\"font-size:22px\">Le Ryzen 9 7900X3D n&rsquo;est pas seulement un mastodonte du processeur ; il dispose &eacute;galement d&rsquo;une unit&eacute; graphique AMD Radeon int&eacute;gr&eacute;e, qui am&eacute;liore visuellement ses performances. Avec un chipset graphique qui optimise chaque pixel, vous pouvez vous perdre dans des exp&eacute;riences de jeu et multim&eacute;dia qui sont non seulement puissantes mais aussi extr&ecirc;mement joyeuses.</span></p>\n\n<h2>DDR5 Dual Channel Euphoria : &agrave; toute vitesse vers le bonheur</h2>\n\n<p><span style=\"font-size:22px\">Profitez de temps de r&eacute;ponse ultra-rapides gr&acirc;ce &agrave; la capacit&eacute; de m&eacute;moire DDR5 &agrave; double canal fonctionnant &agrave; 5200 MHz. Votre syst&egrave;me r&eacute;agira rapidement gr&acirc;ce au Ryzen 9 7900X3D, vous offrant un environnement informatique agr&eacute;able qui fait de la cr&eacute;ation et du multit&acirc;che une exp&eacute;rience agr&eacute;able.</span></p>\n\n<h2>AMD Ryzen 9 7900X3D : quand le plaisir rencontre la performance</h2>\n\n<p><span style=\"font-size:22px\">Acceptez l&rsquo;AMD Ryzen 9 7900X3D dans votre configuration de bureau, o&ugrave; le pur plaisir de l&rsquo;informatique et la puissance de traitement brute se rencontrent. Con&ccedil;u pour les joueurs et les technophiles, ce processeur place non seulement la barre plus haut en mati&egrave;re de performances, mais apporte &eacute;galement de la joie &agrave; chaque moment informatique, faisant de votre exp&eacute;rience de bureau une c&eacute;l&eacute;bration continue.</span></p>\n\n<h2>&nbsp;</h2>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence CPU :&nbsp;4.4 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence en mode Turbo :&nbsp;5.6 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de core :&nbsp; 12</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de Threads : 24</span></li>\n\t<li><span style=\"font-size:22px\">Chipset graphique :&nbsp;AMD Radeon Graphics</span></li>\n\t<li><span style=\"font-size:22px\">Contr&ocirc;leur m&eacute;moire :&nbsp;DDR5</span><br />\n\t&nbsp;</li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb192424a2e400482a012cd",
+    "titre": "AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326818201.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:20:18.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "4.40 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cc"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "5.60 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cd"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "12",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cf"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "24",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23d0"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR5 5200MHz",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e3"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "12 Mo",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e4"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "128 Mo",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e5"
+    },
+    {
+      "cle": "TDP",
+      "valeur": "120W",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e6"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "AMD AM5",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e7"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD B650",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e6421e"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD B650E",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e6421f"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD X670",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e64220"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD X670E",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e64221"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "AMD-Ryzen-9-7900X3D-TRAY",
+  "gallerie": {
+    "_id": "64709ae28dd3d4fb53271881",
+    "titre": "AMD RYZEN 9 7900X3D TRAY ",
+    "urlPhoto": [
+      "/uploads/gallerie/1721643017822.webp"
+    ],
+    "update_date": "2024-07-22T10:10:17.968Z",
+    "create_date": "2023-05-26T11:41:22.000Z",
+    "__v": 2,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 3189,
+  "price": 2495,
+  "tagsSearch": [
+    "AMD",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "CPU RYZEN R9-7900X3D",
+    "CPU RYZEN9-7900X3D"
+  ],
+  "discount": null,
+  "stock": 100,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2023-05-26T11:40:30.880Z",
+  "update_date": "2025-10-23T09:21:31.083Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

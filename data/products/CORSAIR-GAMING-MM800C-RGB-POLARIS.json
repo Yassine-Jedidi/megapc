@@ -1,0 +1,162 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1626165390090.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1626165390090.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///+Xl5cjIy/39/QCOi4wuKi4GAAt0c3YAm5ubFxIYT0pNo6WmAPn5+sPCx/j4+f///xEFHpzwIb8YAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1626165397847.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1626165397847.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWP4////5YsXzp45/fHDe4bYIB9JQV4BblYlSXEGezsbUQ5WPjZmDgYGht7WaWUZWVnZCWmZRQBZkRKqUAGRZwAAAABJRU5ErkJggg=="
+    }
+  ],
+  "productpriv": false,
+  "specialproduct": false,
+  "_id": "60ed61fc3ad8ba4cd24f9762",
+  "sku": "CH-9440021-EU",
+  "mpn": "CH-9440021-EU",
+  "titleSeo": "TAPIS DE SOURIS GAMING RGB CORSAIR GAMING MM800C POLARIS - Mega Pc",
+  "ratingValue": "3.9",
+  "reviewCount": "47",
+  "priceValidUntil": "2022-09-09",
+  "title": "CORSAIR GAMING MM800C RGB POLARIS",
+  "title_fr": "CORSAIR GAMING MM800C RGB POLARIS",
+  "description_fr": "<h2>&nbsp;</h2>\n\n<h2>TAPIS DE SOURIS GAMING RGB CORSAIR GAMING MM800C POLARIS</h2>\n\n<hr />\n<p><img alt=\"TAPIS DE SOURIS GAMING RGB CORSAIR GAMING MM800C POLARIS prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1626169353218.webp\" /></p>\n\n<hr />\n<p>Affichez clairement vos intentions avec le tapis de souris Corsair MM800C Polaris.</p>\n\n<p>Un mod&egrave;le avec r&eacute;tro-&eacute;clairage multicolore personnalisable et surface textile tiss&eacute; pour une grande pr&eacute;cision, m&ecirc;me &agrave; pleine vitesse.</p>\n\n<p>Ce tapis dispose &eacute;galement d&#39;une base antid&eacute;rapante et de son propre port USB.</p>\n\n<p>-Mat&eacute;riaux :<strong>Plastique , Caoutchouc.</strong></p>\n\n<p>-Structure :<strong>Rigide.</strong></p>\n\n<p>-<strong>R&eacute;tro&eacute;clairage RGB.</strong></p>\n\n<p>-Largeur :<strong>350 mm.</strong></p>\n\n<p>-Longueurb :<strong>260 mm.</strong></p>\n\n<p>-Epaisseur :<strong>5 mm.</strong></p>\n",
+  "miniDescription_fr": "<p>TAPIS DE SOURIS GAMING RGB CORSAIR GAMING MM800C POLARIS -&nbsp;surface optimisée pour la précision - format moyen (350 x 260 x 5 mm)</p>",
+  "notreSelection": false,
+  "marque": {
+    "_id": "5eb19e094a2e400482a012ed",
+    "titre": "CORSAIR",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326943547.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T17:10:33.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233d4a4815052c4d1a424",
+    "titre": "TAPIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206298045.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Tapis souris PC gamer | Vente Tapis de Souris Pour PC Portable et PC de Bureau à prix pas cher - Tapis de souris pour Pc bureau professionnels.</p>",
+    "titreSEO": "Tapis souris PC gamer | Tapis souris Tunisie au meilleurs prix",
+    "create_date": "2020-04-24T00:33:24.000Z",
+    "reference": "TAPIS",
+    "update_date": "2021-12-04T08:54:04.361Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "TYPE MATÉRIAUX",
+      "valeur": "CAOUTCHOUC",
+      "enable": true,
+      "_id": "60ed61fc3ad8ba4cd24f9763"
+    },
+    {
+      "cle": "TYPE MATÉRIAUX",
+      "valeur": "PLASTIQUE",
+      "enable": true,
+      "_id": "60ed61fc3ad8ba4cd24f9764"
+    },
+    {
+      "cle": "RÉTROÉCLAIRAGE",
+      "valeur": "RGB",
+      "enable": true,
+      "_id": "60ed61fc3ad8ba4cd24f9765"
+    },
+    {
+      "cle": "DIMENSIONS",
+      "valeur": "350 X 260 X 5 MM",
+      "enable": true,
+      "_id": "60ed61fc3ad8ba4cd24f9766"
+    }
+  ],
+  "tag": [],
+  "compatibility": [
+    "5fb510cd2ad25d0424bc0298",
+    "6023b39e5a363f3e599716d2",
+    "5ed7ebb04ab2c80b462cb03f",
+    "5ed7eade4ab2c80b462cb03d",
+    "602e62fb72a5e1d1ef8696f5",
+    "5ffd6d549504b9a0f1d9ddf4"
+  ],
+  "nFilsCategs": [
+    "5ea233d4a4815052c4d1a424"
+  ],
+  "lien": "CORSAIR-GAMING-MM800C-RGB-POLARIS",
+  "gallerie": {
+    "_id": "60ed50393ad8ba4cd24f4b8f",
+    "urlPhoto": [
+      "/uploads/gallerie/1626165390090.webp",
+      "/uploads/gallerie/1626165397847.webp"
+    ],
+    "titre": "CORSAIR GAMING MM800C RGB POLARIS",
+    "__v": 2,
+    "create_date": "2021-07-13T08:35:05.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "enArrivage": false,
+  "new": false,
+  "vue": 4544,
+  "price": 342,
+  "tagsSearch": [
+    "CORSAIR",
+    "ACCESSOIRES",
+    "TAPIS"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2021-07-13T09:50:52.511Z",
+  "update_date": "2025-10-23T15:43:48.160Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

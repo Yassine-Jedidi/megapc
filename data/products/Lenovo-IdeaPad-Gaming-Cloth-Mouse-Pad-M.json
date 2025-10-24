@@ -1,0 +1,165 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685099605693.png",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685099605693.png",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOklEQVQImWOombVjJgMDA8Ox/+uZQDRDdnn56rTMspNVtV0fomOzTjJkZaU6RkSlNaZlVU4MjUzrAgDjjRPXdb4WYwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685099612004.png",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685099612004.png",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPklEQVQImQEzAMz/AP/+///O0eb/s7K8q3x8hxwAu7m+0vv4//++wM//p6azrQAAAAAUcm5yu4qKl3wMFDcGe2cdeld2CCMAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685099624527.png",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685099624527.png",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAPklEQVQImQEzAMz/ANf//wTY2OElxL/KYHFxcRMAgoKKl6upuf+qqr3/c3N7jgA9OUQwX1xnkVBLVjUAABgK0CsXuPHcGk8AAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "647094c78dd3d4fb53252367",
+  "sku": "GXH1C97873",
+  "mpn": "GXH1C97873",
+  "titleSeo": "Tapis Lenovo-IdeaPad-Gaming-Cloth-Mouse-Pad-M | MEGA ",
+  "desciprtionSeo": "Tapis Lenovo-IdeaPad-Gaming-Cloth-Mouse-Pad-M | MEGA ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GXH1C97873",
+  "title": "Lenovo IdeaPad Gaming Cloth Mouse Pad M",
+  "title_fr": "Lenovo IdeaPad Gaming Cloth Mouse Pad M",
+  "description_fr": "<h2>Lenovo IdeaPad Gaming Cloth Mouse Pad M</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Les tapis de souris en tissu de jeu Lenovo IdeaPad sont un ensemble de tapis de souris de jeu qui offrent une exp&eacute;rience de jeu sans entrave avec une surface lisse et r&eacute;sistante &agrave; l&#39;eau et une base en caoutchouc antid&eacute;rapante. Minces et l&eacute;gers, ils sont des compagnons de jeu fiables et aident &agrave; d&eacute;clencher les stations de combat des joueurs lors de leurs d&eacute;placements.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1685100838018.webp\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Surface en tissu de haute qualit&eacute; pour un balayage fluide et un suivi pr&eacute;cis</span></li>\n\t<li><span style=\"font-size:22px\">Base en caoutchouc antid&eacute;rapant qui maintient le coussin fermement en place</span></li>\n\t<li><span style=\"font-size:22px\">Tailles moyennes et grandes pour parfait pour tous les joueurs</span></li>\n\t<li><span style=\"font-size:22px\">Seulement 2 mm d&#39;&eacute;paisseur pour maintenir votre souris au niveau de votre bureau</span></li>\n\t<li><span style=\"font-size:22px\">Surface hydrofuge et r&eacute;sistante aux d&eacute;chirures pour une utilisation &agrave; long terme</span></li>\n\t<li><span style=\"font-size:22px\">Lavable et doux pour le nettoyage et le stockage</span></li>\n\t<li><span style=\"font-size:22px\">Taille : L*W*H : 360 * 275 * 2 millim&egrave;tres</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233d4a4815052c4d1a424",
+    "titre": "TAPIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206298045.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Tapis souris PC gamer | Vente Tapis de Souris Pour PC Portable et PC de Bureau à prix pas cher - Tapis de souris pour Pc bureau professionnels.</p>",
+    "titreSEO": "Tapis souris PC gamer | Tapis souris Tunisie au meilleurs prix",
+    "create_date": "2020-04-24T00:33:24.000Z",
+    "reference": "TAPIS",
+    "update_date": "2021-12-04T08:54:04.361Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Couleur",
+      "valeur": "Bleu Foncé",
+      "enable": true,
+      "_id": "647097348dd3d4fb53261d01"
+    },
+    {
+      "cle": "Poids",
+      "valeur": "121G",
+      "enable": true,
+      "_id": "647097348dd3d4fb53261d02"
+    },
+    {
+      "cle": "Poids",
+      "valeur": "164G",
+      "enable": true,
+      "_id": "647097348dd3d4fb53261d03"
+    },
+    {
+      "cle": "",
+      "valeur": "",
+      "enable": true,
+      "_id": "647097348dd3d4fb53261d04"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea233d4a4815052c4d1a424"
+  ],
+  "lien": "Lenovo-IdeaPad-Gaming-Cloth-Mouse-Pad-M",
+  "gallerie": {
+    "_id": "6470943b8dd3d4fb53252359",
+    "titre": "LENOVO IDEAPAD GAMING CLOTH MOUSE PAD M",
+    "urlPhoto": [
+      "/uploads/gallerie/1685099605693.png",
+      "/uploads/gallerie/1685099612004.png",
+      "/uploads/gallerie/1685099624527.png"
+    ],
+    "update_date": "2023-05-26T11:13:44.664Z",
+    "create_date": "2023-05-26T11:12:59.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 3287,
+  "price": 30,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "TAPIS"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2023-05-26T11:15:19.677Z",
+  "update_date": "2025-10-24T08:13:43.323Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

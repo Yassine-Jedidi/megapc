@@ -1,0 +1,187 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683732379398.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683732379398.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImR3BwREAEAwEwHvphY5SREqjCV4pIx70kOHM2IWZuTs/iIiqjj5qbSB5z8m5AAkRQXL63Gs/nUYjaDmBEzcAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683732379411.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683732379411.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWO4eunK+bPnrly6dPXKFQY7SytxAQFOBgZ5CSkGTRUVV1u7TavXbFq7luHY/v13rl//DwYAi18bK2LRzRwAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683732379527.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683732379527.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWO4ffv2s2fP/oMBg62trYSEVGlp2bFjxxlevXrd3NzKwMBmYWHJAFHw4CEIAABFJyAqMyou/gAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "645bb6288dd3d4fb53342829",
+  "sku": "40B00135EU",
+  "mpn": "40B00135EU",
+  "titleSeo": "Station d'accueil pour ordinateur portable Lenovo ThinkPad Universal Thunderbolt 4 Dock | MEGA PC ",
+  "desciprtionSeo": "Station d'accueil pour ordinateur portable Lenovo ThinkPad Universal Thunderbolt 4 Dock | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "referenceInterne": "40B00135EU",
+  "title": "Lenovo ThinkPad Universal Thunderbolt 4 Dock",
+  "title_fr": "Lenovo ThinkPad Universal Thunderbolt 4 Dock",
+  "description_fr": "<h2>Lenovo ThinkPad Universal Thunderbolt 4 Dock</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Optimisez votre confort et votre productivit&eacute; avec la station d&#39;accueil Lenovo ThinkPad Thunderbolt 4 ! Performante et polyvalente, elle vous permettra de connecter jusqu&#39;&agrave; 4 &eacute;crans 4K et de transf&eacute;rer des fichiers &agrave; une vitesse record.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1683732182994.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Station d&#39;accueil / r&eacute;plicateur de ports de format compact et l&eacute;ger</span></li>\n\t<li><span style=\"font-size:22px\">1 port Thunderbolt 4 (format USB-C) + 4 ports USB&nbsp;3.1 + 1 port USB 3.1 Type C</span></li>\n\t<li><span style=\"font-size:22px\">2 sorties DisplayPort + 1 sortie HDMI</span></li>\n\t<li><span style=\"font-size:22px\">Jusqu&#39;&agrave; 4 &eacute;crans Ultra HD @60 Hz ou 1 &eacute;cran 8K @30 Hz</span></li>\n\t<li><span style=\"font-size:22px\">1 connecteur LAN Gigabit Ethernet</span></li>\n\t<li><span style=\"font-size:22px\">1 port audio st&eacute;r&eacute;o jack 3.5 mm (combo st&eacute;r&eacute;o/microphone)</span></li>\n\t<li><span style=\"font-size:22px\">Puissance de sortie maximum : 100 Watts</span></li>\n\t<li><span style=\"font-size:22px\">N&eacute;cessite un PC portable &eacute;quip&eacute; d&#39;un connecteur USB 3.1 Type C ou Thunderbolt 4 + Windows 10/11</span></li>\n\t<li><span style=\"font-size:22px\">Adaptateur secteur 135 Watts</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "606bfd99e8ff02f7796cb01a",
+    "order": 9,
+    "titre": "ACCESSOIRES PC PORTABLE",
+    "titreSEO": "Achat Accessoires PC portable Gamer - MEGA PC",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1617690464917.webp",
+    "create_date": "2021-04-06T06:20:09.000Z",
+    "reference": "ACCESSOIRESPCPORTABLE",
+    "update_date": "2021-12-04T08:51:35.989Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "CONNECTEUR(S) DISPONIBLE(S)\t",
+      "valeur": "1 X Port pour clef Kensington",
+      "enable": true,
+      "_id": "645bb8cf8dd3d4fb53351f6b"
+    },
+    {
+      "cle": "CONNECTEUR(S) DISPONIBLE(S)",
+      "valeur": "1 X Jack 3,5mm Femelle Stéréo",
+      "enable": true,
+      "_id": "645bb8cf8dd3d4fb53351f6c"
+    },
+    {
+      "cle": "Connecteur(s) disponible(s)",
+      "valeur": "1 X RJ45 Femelle",
+      "enable": true,
+      "_id": "645bb8cf8dd3d4fb53351f6d"
+    },
+    {
+      "cle": "Connecteur(s) disponible(s)",
+      "valeur": "4 X USB 3.1",
+      "enable": true,
+      "_id": "645bb8cf8dd3d4fb53351f6e"
+    },
+    {
+      "cle": "Connecteur(s) disponible(s)",
+      "valeur": "1 X HDMI Femelle",
+      "enable": true,
+      "_id": "645bb8cf8dd3d4fb53351f6f"
+    },
+    {
+      "cle": "Connecteur(s) disponible(s)",
+      "valeur": "1 X USB 3.1 Type C",
+      "enable": true,
+      "_id": "645bb8cf8dd3d4fb53351f70"
+    },
+    {
+      "cle": "Connecteur(s) disponible(s)",
+      "valeur": "1 X Thunderbolt 4/USB-C",
+      "enable": true,
+      "_id": "645bb8cf8dd3d4fb53351f71"
+    },
+    {
+      "cle": "Interface avec l'ordinateur",
+      "valeur": "1 X USB 3.1 Type C",
+      "enable": true,
+      "_id": "645bb8cf8dd3d4fb53351f72"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "606bfd99e8ff02f7796cb01a"
+  ],
+  "lien": "Lenovo-ThinkPad-Universal-Thunderbolt-4-Dock",
+  "gallerie": {
+    "_id": "645bb5d48dd3d4fb53342810",
+    "titre": "LENOVO THINKPAD UNIVERSAL THUNDERBOLT 4 DOCK",
+    "urlPhoto": [
+      "/uploads/gallerie/1683732379398.webp",
+      "/uploads/gallerie/1683732379411.webp",
+      "/uploads/gallerie/1683732379527.webp"
+    ],
+    "update_date": "2023-05-10T15:26:19.657Z",
+    "create_date": "2023-05-10T15:18:44.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2690,
+  "price": 1038,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "ACCESSOIRES RGB ",
+    "ACCESSOIRES PC PORTABLE"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-05-10T15:20:08.335Z",
+  "update_date": "2025-10-24T10:15:00.826Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

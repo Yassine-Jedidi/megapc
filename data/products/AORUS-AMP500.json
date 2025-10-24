@@ -1,0 +1,172 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1610443881766.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1610443881766.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWP4Dwa/fv368+cPw86dO/38fExMjXfv2cNQXJTPzMzAwMgQ5eXGcOf27TNnz1y6cOHRqUMASqMd238AIJ0AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1610443894629.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1610443894629.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ANje4+mqhvrRtv///wBKVV2bCADweAD89+0AZWxyDQAA2zYA85A7AJubmTlHT8ibefXHpv0AGxPMwFigAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "5ffd6d549504b9a0f1d9ddf4",
+  "sku": "AMP500",
+  "mpn": "GP-AMP500",
+  "titleSeo": "TAPIS DE SOURIS Aorus AMP500 | MEGA TUNISIE",
+  "desciprtionSeo": "TAPIS DE SOURIS Aorus AMP500 | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "39",
+  "priceValidUntil": "2022-08-07",
+  "referenceInterne": "AMP500",
+  "title": "Gigabyte AORUS AMP500 Hybrid Silicon",
+  "title_fr": "Gigabyte AORUS AMP500 Hybrid Silicon",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>TAPIS DE SOURIS&nbsp;Aorus AMP500</h2>\n\n<hr />\n<blockquote><strong><span style=\"color:#1155cc\">Tapis de souris Aorus AMP500</span></strong> - Mod&egrave;le <span style=\"color:#1155cc\"><strong>GP-AMP500</strong></span> - Utilisation <span style=\"color:#1155cc\"><strong>Gamer</strong></span> - Antid&eacute;rapant <span style=\"color:#1155cc\"><strong>Oui </strong></span>- Mat&eacute;riau(x) <span style=\"color:#1155cc\"><strong>Silicone </strong></span>- Structure Souple - Repose-poignet <span style=\"color:#1155cc\"><strong>Non</strong></span> - R&eacute;tro&eacute;clairage RGB <strong><span style=\"color:#1155cc\">Non </span></strong>- Couleur <span style=\"color:#1155cc\"><strong>Noir </strong></span>- Taille XXL <span style=\"color:#1155cc\"><strong>Non </strong></span>-Dimension <span style=\"color:#1155cc\"><strong>430 x 370 x 1.8 mm&nbsp;</strong></span></blockquote>\n\n<hr />\n<p><img alt=\"TAPIS DE SOURIS Aorus AMP500 prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1610443942986.webp\" /></p>\n\n<p><img alt=\"TAPIS DE SOURIS Aorus AMP500 prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1611136161827.webp\" /></p>\n\n<p><img alt=\"TAPIS DE SOURIS Aorus AMP500 prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1611136161829.webp\" /></p>\n\n<p><img alt=\"TAPIS DE SOURIS Aorus AMP500 prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1611136161830.webp\" /></p>\n\n<p><img alt=\"TAPIS DE SOURIS Aorus AMP500 prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1611136175365.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">TYPE MAT&Eacute;RIAUX : FABRIC&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">TYPE MAT&Eacute;RIAUX : SILICON&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">DIMENSIONS : 430 X 370 X 1.8 MM&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro&eacute;clairage RGB : Non</span></li>\n</ul>\n",
+  "facilite_fr": "<p><img src=\"https://apibackend.mega-pc.net///uploads/gallerie/1647998183195.png\" /></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233d4a4815052c4d1a424",
+    "titre": "TAPIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206298045.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Tapis souris PC gamer | Vente Tapis de Souris Pour PC Portable et PC de Bureau à prix pas cher - Tapis de souris pour Pc bureau professionnels.</p>",
+    "titreSEO": "Tapis souris PC gamer | Tapis souris Tunisie au meilleurs prix",
+    "create_date": "2020-04-24T00:33:24.000Z",
+    "reference": "TAPIS",
+    "update_date": "2021-12-04T08:54:04.361Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "TYPE MATÉRIAUX",
+      "valeur": "FABRIC",
+      "enable": true,
+      "_id": "5ffdcc509504b9a0f1d9df9d"
+    },
+    {
+      "cle": "TYPE MATÉRIAUX",
+      "valeur": "SILICON",
+      "enable": true,
+      "_id": "5ffdcc509504b9a0f1d9df9e"
+    },
+    {
+      "cle": "DIMENSIONS",
+      "valeur": "430 X 370 X 1.8 MM",
+      "enable": true,
+      "_id": "5ffdcc509504b9a0f1d9df9f"
+    },
+    {
+      "cle": "Rétroéclairage RGB",
+      "valeur": "NON",
+      "enable": true,
+      "_id": "61c71dfbaa748d6af939697a"
+    }
+  ],
+  "tag": [],
+  "compatibility": [
+    "5fb510cd2ad25d0424bc0298",
+    "6023b39e5a363f3e599716d2",
+    "5ed7ebb04ab2c80b462cb03f",
+    "5ed7eade4ab2c80b462cb03d",
+    "602e62fb72a5e1d1ef8696f5",
+    "60ed61fc3ad8ba4cd24f9762"
+  ],
+  "nFilsCategs": [
+    "5ea233d4a4815052c4d1a424",
+    "6230cab36010f19d11dbea23"
+  ],
+  "lien": "AORUS-AMP500",
+  "gallerie": {
+    "_id": "5ffd60c59504b9a0f1d9dde6",
+    "urlPhoto": [
+      "/uploads/gallerie/webp/1610443881766.webp",
+      "/uploads/gallerie/webp/1610443894629.webp"
+    ],
+    "titre": "AORUS AMP500 430 430X370X1.8MM",
+    "__v": 6,
+    "create_date": "2021-01-12T08:41:41.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 15356,
+  "price": 85,
+  "sale": false,
+  "tagsSearch": [
+    "GIGABYTE",
+    "ACCESSOIRES",
+    "TAPIS",
+    "FOIRE",
+    "AORUSXMEGA"
+  ],
+  "discount": null,
+  "stock": 97,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2021-01-12T09:35:16.075Z",
+  "update_date": "2025-10-24T08:43:12.233Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

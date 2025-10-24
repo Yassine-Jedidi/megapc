@@ -1,0 +1,195 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613661182198.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613661182198.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMzMztXU1+Hi4vn5+QBKSkwPDxYAAAmNj5IAi4uOODk9bW1xg4aJAPr6+vv7+/////39/uISHkW/62SgAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613661188249.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613661188249.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYUlJT7B3sHRwdUtNSGaxsbBkYGGTkZFzdPRiQlQEADocdopLXc+4AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613661193839.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613661193839.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQY3r59GxERxccvkpmZy7Br125xcWkGBg59fWMGZGUAZDIgO18KtNYAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "602e846d72a5e1d1ef8697a5",
+  "sku": "920-002539",
+  "mpn": "5099206020474",
+  "titleSeo": "Ensemble souris + clavier Logitech Desktop MK120 - MEGA PC",
+  "desciprtionSeo": "Ensemble souris + clavier Logitech Desktop MK120 - Souris optique de 1000 dpiConfort garanti avec ce clavier à touches ultraplatesDesign étanche afin de ne pas endommager le clavier - MEGA  PC",
+  "ratingValue": "4.2",
+  "reviewCount": "56",
+  "priceValidUntil": "2027-04-05",
+  "referenceInterne": "920-002539",
+  "title": "Logitech MK120 COMBO WIRED",
+  "title_fr": "Logitech MK120 COMBO WIRED",
+  "description_fr": "<h1>Pack clavier souris Logitech Desktop MK120</h1>\n\n<h1><span style=\"font-size:20px\">Dites adieu &agrave; votre clavier ennuyeux et encombrant et &agrave; votre souris m&eacute;diocre. L&#39;ensemble Logitech Desktop MK120 permet &agrave; votre bureau une mise &agrave; niveau &agrave; un prix abordable. Avec sa frappe confortable et silencieuse et &agrave; sa conception robuste mais &eacute;l&eacute;gante le clavier satisfera le plus grand nombre. De plus il poss&egrave;de des touches durables et faciles &agrave; lire afin que rien ne vous &eacute;chappe, mais ce n&#39;est pas tout puisqu&#39;il r&eacute;siste aussi aux &eacute;claboussures de caf&eacute; et autres accidents impliquants des boissons.</span></h1>\n\n<hr />\n<p><span style=\"font-size:20px\">Le Logitech Desktop MK120 vous garantit un confort sans pareil gr&acirc;ce au clavier &agrave; touches ultra-plates et silencieuse. Son agencement avec des touches pleine taille et un pav&eacute; num&eacute;rique en font un p&eacute;riph&eacute;rique id&eacute;al pour le traitement de texte. De plus, son design &eacute;tanche vous permet m&ecirc;me quelques accidents de caf&eacute; le matin !Ultra-r&eacute;sistant, le clavier peut &eacute;galement encaisser jusqu&#39;&agrave; 10 millions de frappes soit bien plus que la majorit&eacute; des claviers.</span></p>\n\n<hr />\n<p><span style=\"font-size:22px\">Quant &agrave; la souris optique haute-d&eacute;finition elle procure un suivi souple et pr&eacute;cis, confortable pour les droitiers comme pour les gauchers. Dot&eacute;e de trois boutons cette souris est simple &agrave; utiliser puisque tout comme le clavier il suffit de disposer d&#39;un port USB, pas besoin de logiciel &agrave; installer pour l&#39;utiliser.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Souris optique de 1000 dpi</span></li>\n\t<li><span style=\"font-size:22px\">Confort garanti avec ce&nbsp;clavier &agrave; touches ultraplates</span></li>\n\t<li><span style=\"font-size:22px\">Design &eacute;tanche&nbsp;afin de ne pas endommager le clavier</span></li>\n\t<li><span style=\"font-size:22px\">Pattes r&eacute;glables et robustes</span></li>\n\t<li><span style=\"font-size:22px\">Touches faciles &agrave; lire gr&acirc;ce aux caract&egrave;res gras et blanc</span></li>\n\t<li><span style=\"font-size:22px\">Connexion USB pr&ecirc;tes &agrave; l&#39;emploi</span></li>\n\t<li><span style=\"font-size:22px\">Compatible Windows 10</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ed6153e6735df04ea3dad84",
+    "titre": "LOGITECH",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327524058.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-06-02T09:00:46.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ed6291b6735df04ea3dad9d",
+    "titre": "COMBO",
+    "__v": 0,
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "urlPhoto2": "/uploads/souscateg/1620206319036.webp",
+    "order": 4,
+    "descriptionSEO": "<p>Pack clavier souris gamer - Combo Souris clavier casque micro tapis gamer RGB Tunisie sans fil, logitech, MSi, Razer, Genesis, hyperx, Spirit of Gamer</p>",
+    "titreSEO": "Pack clavier souris gamer - Ensemble Clavier et Souris Sans fil Tunisie ",
+    "create_date": "2020-06-02T10:25:31.000Z",
+    "reference": "COMBO",
+    "update_date": "2021-12-04T08:53:56.621Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "TYPE DE CLAVIER",
+      "valeur": "AZERTY",
+      "enable": true,
+      "_id": "6076f1ce2af2ad8bfb0136d2"
+    },
+    {
+      "cle": "Type de souris",
+      "valeur": "Optique",
+      "enable": true,
+      "_id": "61c97a13aa748d6af93a0228"
+    },
+    {
+      "cle": "Résolution optique",
+      "valeur": "1000 dpi ",
+      "enable": true,
+      "_id": "61c97a13aa748d6af93a0229"
+    },
+    {
+      "cle": "Souris",
+      "valeur": "filaire",
+      "enable": true,
+      "_id": "61c97a13aa748d6af93a022a"
+    },
+    {
+      "cle": "Type de Roulette",
+      "valeur": "Bidirectionnelle",
+      "enable": true,
+      "_id": "61c97a13aa748d6af93a022b"
+    },
+    {
+      "cle": "Pavé",
+      "valeur": "numérique",
+      "enable": true,
+      "_id": "61c97a13aa748d6af93a022c"
+    },
+    {
+      "cle": "Type de touches",
+      "valeur": "membrane",
+      "enable": true,
+      "_id": "61c97a13aa748d6af93a022d"
+    }
+  ],
+  "tag": [],
+  "compatibility": [
+    "60d7300ec9da41216870f67d",
+    "601e77705a363f3e59971395",
+    "5fb549b52ad25d0424bc02e4",
+    "5f886a533a4d1b058a8fc013",
+    "60aba6cdbf2002152c8c2e0c",
+    "60d0910ce1183604d829552d"
+  ],
+  "nFilsCategs": [
+    "5ed6291b6735df04ea3dad9d"
+  ],
+  "lien": "Logitech-Desktop-MK120",
+  "gallerie": {
+    "_id": "602e83af72a5e1d1ef8697a4",
+    "urlPhoto": [
+      "/uploads/gallerie/1613661182198.webp",
+      "/uploads/gallerie/1613661188249.webp",
+      "/uploads/gallerie/1613661193839.webp"
+    ],
+    "titre": "LOGITECH DESKTOP MK120",
+    "__v": 3,
+    "create_date": "2021-02-18T15:11:43.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 5870,
+  "price": 39,
+  "tagsSearch": [
+    "Logitech",
+    "MK120",
+    "LOGITECH",
+    "ACCESSOIRES",
+    "COMBO",
+    "Logitech Desktop MK120 - N/A - FRA - USB",
+    "lastlist"
+  ],
+  "discount": null,
+  "stock": 100,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2021-02-18T15:14:53.639Z",
+  "update_date": "2025-10-23T17:17:18.117Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699453482968.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1699453482968.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APX29snLy8vKyeTu9QD5+fpraWsCAADj4+MA8PDwTktLTkxO4uPjAP///4KAgH18ffb29oNPIVdow305AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "653b8a7a37e0a9bf8a93c413",
+  "sku": "Z790 AORUS PRO X",
+  "mpn": "Z790 AORUS PRO X",
+  "titleSeo": "Gigabyte Z790 AORUS PRO X | MEGA PC ",
+  "desciprtionSeo": "Carte mère ATX Socket 1700 Intel Z790 Express - 4x DDR5 - M.2 PCIe 5.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 5 GbE - Wi-Fi 7/Bluetooth 5.3 | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08 ",
+  "referenceInterne": "Z790 AORUS PRO X",
+  "title": "Gigabyte Z790 AORUS PRO X",
+  "title_fr": "Gigabyte Z790 AORUS PRO X",
+  "description_fr": "<h1>Gigabyte Z790 AORUS PRO X :</h1>\n\n<h2><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1700562632892.webp\" /></h2>\n\n<h2>Lib&eacute;rez des performances in&eacute;gal&eacute;es avec la MSI Z790 AORUS PRO X :&nbsp;</h2>\n\n<p><span style=\"font-size:22px\">Avec la carte m&egrave;re MSI Z790 AORUS PRO X, vous pouvez atteindre de nouveaux niveaux de performances informatiques. Cette carte m&egrave;re vous garantit la puissance dont vous avez besoin en prenant en charge les processeurs Intel Core, Pentium Gold et Celeron des 14e, 13e et 12e g&eacute;n&eacute;rations. Cela ouvre un monde de possibilit&eacute;s.</span></p>\n\n<h2>Ma&icirc;tresses de la m&eacute;moire la DDR5 &agrave; port&eacute;e de main&nbsp;:<span style=\"font-size:22px\"> </span></h2>\n\n<p><span style=\"font-size:22px\">Avec la prise en charge de la DDR5 8266 MHz (O.C.), la m&eacute;moire offre des d&eacute;bits ultra-rapides qui red&eacute;finissent les performances. Faites l&rsquo;exp&eacute;rience de la m&eacute;moire comme jamais auparavant. Vous serez pr&ecirc;t &agrave; relever tous les d&eacute;fis gr&acirc;ce aux profils de m&eacute;moire avanc&eacute;s tels que XMP et &agrave; la possibilit&eacute; d&rsquo;utiliser jusqu&rsquo;&agrave; 192 Go de m&eacute;moire syst&egrave;me.</span></p>\n\n<h2>Connectivit&eacute; transparente et fonctionnalit&eacute;s de pointe :</h2>\n\n<p><span style=\"font-size:22px\">Avec des fonctionnalit&eacute;s telles que le CODEC Realtek&nbsp;ALC1220-VB pour l&rsquo;audio haute d&eacute;finition et la compatibilit&eacute; Intel&nbsp;HD Graphics, la MSI Z790 AORUS PRO X a tout ce dont vous avez besoin pour r&eacute;pondre &agrave; vos exigences. Gr&acirc;ce &agrave; une large compatibilit&eacute; USB et &agrave; la technologie Wi-Fi 7 de pointe, vos possibilit&eacute;s de connectivit&eacute; sont pratiquement illimit&eacute;es.</span></p>\n\n<h2>Con&ccedil;u pour le passionn&eacute; qui sommeille en vous :</h2>\n\n<p><span style=\"font-size:22px\">Cette carte m&egrave;re est un compagnon de voyage plut&ocirc;t qu&rsquo;un simple composant. Avec des emplacements PCIe, des solutions de refroidissement de pointe et les meilleures interfaces de stockage disponibles, vous serez pr&ecirc;t pour les jeux, la cr&eacute;ation de contenu et bien plus encore. Passez &agrave; la MSI Z790 AORUS PRO X et d&eacute;couvrez des possibilit&eacute;s infinies dans le monde de l&rsquo;informatique. Cela vous apportera une joie pure.</span></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re : ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket :&nbsp;Intel 1700</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;Intel Z790 Express</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 192 Go&nbsp;DDR5 8266 MHz ( 4 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 : 5</span></li>\n</ul>\n",
+  "facilite_fr": "<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1700562185289.webp\" /></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0c"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "Intel Z790",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0d"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0e"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0f"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "4",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b10"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "192 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b11"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "48 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b12"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "8266 MHz",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b13"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "Gigabyte-Z790-AORUS-PRO-X",
+  "gallerie": {
+    "_id": "653b89aa37e0a9bf8a932f58",
+    "titre": "GIGABYTE Z790 AORUS PRO X",
+    "urlPhoto": [
+      "/uploads/gallerie/1699453482968.webp"
+    ],
+    "update_date": "2023-11-08T14:24:43.125Z",
+    "create_date": "2023-10-27T09:58:02.000Z",
+    "__v": 4
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": true,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "enArrivage": false,
+  "new": true,
+  "vue": 3435,
+  "price": 1409,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "AORUSXMEGA"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-10-27T10:01:30.601Z",
+  "update_date": "2025-10-23T17:13:24.205Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

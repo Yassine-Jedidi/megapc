@@ -1,0 +1,181 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1716197602857.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1716197602857.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///9HS17S5vv///wDr6+tVQW8/SnLu7/IAxcXHDwcWEAAey8vRAN3d3HV1dVhXWNXV1W05Hr1rS7WeAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "664b199d41f2ac88715e7b37",
+  "sku": "MC-ULT",
+  "mpn": "MC-ULT",
+  "titleSeo": "BOITIER MARS GAMING MC-ULT BLACK | MEGA",
+  "desciprtionSeo": "BOITIER MARS GAMING MC-ULT BLACK Dimensions du colis : 53,8 x 51,5 x 30,7 cm Poids : 7,7 kg Nombre de ports USB 2.0 : 2 | MEGA",
+  "ratingValue": "4",
+  "reviewCount": "4",
+  "priceValidUntil": "2024-09-08",
+  "referenceInterne": "MC-ULT",
+  "title": "BOITIER MARS GAMING MC-ULT BLACK",
+  "title_fr": "BOITIER MARS GAMING MC-ULT BLACK",
+  "description_fr": "<h2>BOITIER MARS GAMING MC-ULT BLACK</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le bo&icirc;tier MC-ULT Black de Mars Gaming est con&ccedil;u pour offrir un &eacute;quilibre entre esth&eacute;tique et fonctionnalit&eacute;. Sa couleur noire lui donne un aspect sobre et professionnel, id&eacute;al pour les configurations de gaming ou de bureau. Les dimensions g&eacute;n&eacute;reuses permettent d&rsquo;accueillir des composants de grande taille tout en assurant une bonne circulation de l&#39;air pour le refroidissement.</span></p>\n\n<h2>Utilisation et Compatibilit&eacute;</h2>\n\n<p><span style=\"font-size:22px\">Ce bo&icirc;tier est adapt&eacute; pour les utilisateurs cherchant &agrave; monter une configuration personnalis&eacute;e, que ce soit pour le gaming, le travail ou le multim&eacute;dia. Les dimensions et le poids indiquent une construction robuste, capable de supporter des composants lourds et performants.</span></p>\n\n<p><img alt=\"Vue panoramique avec verre trempé\" src=\"https://www.marsgaming.eu/uploads/_thumnails/mc-ult-detail_960x480.png\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Marque</strong> : Mars Gaming</span></li>\n\t<li><span style=\"font-size:22px\"><strong>S&eacute;rie</strong> : MCULT</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Num&eacute;ro de mod&egrave;le</strong> : MCULT</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Couleur</strong> : Noir</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Dimensions du colis</strong> : 53,8 x 51,5 x 30,7 cm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Poids</strong> : 7,7 kg</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Nombre de ports USB 2.0</strong> : 2</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Mises &agrave; jour logicielles garanties jusqu&#39;&agrave;</strong> : Inconnu</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "61697a5b74a6dc8ab60ba36c",
+    "titre": "MARS",
+    "description": "Mars Gaming Tunisie",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-10-15T12:55:55.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232a5a4815052c4d1a41a",
+    "titre": "BOITIER",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205933117.webp",
+    "order": 7,
+    "descriptionSEO": "<p>Boitier PC Gamer - Case pc gamer RGB prix Tunisie - Vente Composant pc - Achat en ligne de Boîtiers PC dans un vaste choix ( Gigabyte, Antec, Thermaltake.. )</p>",
+    "titreSEO": "Boitier PC Gamer - Case pc gamer RGB prix Tunisie - Vente Composant pc",
+    "create_date": "2020-04-24T00:28:21.000Z",
+    "reference": "BOITIER",
+    "update_date": "2021-12-21T12:33:12.175Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Format du boitier",
+      "valeur": "Moyen Tour",
+      "enable": true,
+      "_id": "6724974b99de58d4f6d0b5f0"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Micro ATX",
+      "enable": true,
+      "_id": "6724974b99de58d4f6d0b5f1"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Mini ITX",
+      "enable": true,
+      "_id": "6724974b99de58d4f6d0b5f2"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "6724a3aa99de58d4f6d528fe"
+    },
+    {
+      "cle": "Hauteur maximale du ventilateur CPU",
+      "valeur": "185 mm",
+      "enable": true,
+      "_id": "6728b0ac99de58d4f6e5be7f"
+    },
+    {
+      "cle": "Longueur maximale de la carte graphique",
+      "valeur": "390 mm",
+      "enable": true,
+      "_id": "6728b0ac99de58d4f6e5be80"
+    },
+    {
+      "cle": "Nombre de ventilateurs",
+      "valeur": "0",
+      "enable": true,
+      "_id": "6728b0ac99de58d4f6e5be81"
+    },
+    {
+      "cle": "Compatible Watercooling",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "6728b0ac99de58d4f6e5be82"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232a5a4815052c4d1a41a"
+  ],
+  "lien": "BOITIER-MARS-GAMING-MC-ULT-BLACK",
+  "gallerie": {
+    "_id": "664b18d941f2ac88715e7b11",
+    "titre": "BOITIER MARS GAMING MC-ULT BLACK",
+    "urlPhoto": [
+      "/uploads/gallerie/1716197602857.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-05-20T09:33:22.961Z",
+    "create_date": "2024-05-20T09:33:13.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 4223,
+  "price": 399,
+  "tagsSearch": [
+    "MARS",
+    "COMPOSANTS",
+    "BOITIER"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2024-05-20T09:36:29.836Z",
+  "update_date": "2025-10-23T21:09:10.889Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,212 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750771778268.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750771778268.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQYkpOTlZWUmRgYUpOTGSQlJTjY2NPSUufPn8eArAwAAaceEzPX504AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750771782030.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750771782030.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQYUlJSPDw8XF1dPTw8GHR0dLi5uRkYGNjY2BiQlQEA9sIcS9BNQ6AAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750771784616.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750771784616.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQYwkJDGRgYtLQ0YyIjGCIjI9TVVLW1tNxcXRiQlQEA9tYdPZbzlBkAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "68597e6899437548fd87c43a",
+  "sku": "DGS-1210-10MP-MT",
+  "mpn": "DGS-1210-10MP-MT",
+  "titleSeo": "Smart Switch D-Link 8 gigabit POE + 2SFP ports | MEGA PC | MEILLEUR PRIX TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "46",
+  "priceValidUntil": "2028-06-23",
+  "referenceInterne": "DGS-1210-10MP-MT",
+  "title": "Smart Switch D-Link 8 gigabit POE + 2SFP ports",
+  "title_fr": "Smart Switch D-Link 8 gigabit POE + 2SFP ports",
+  "description_fr": "<div style=\"font-size:22px\">\n<p><span style=\"color:#000000\">Smart Switch D-Link -<strong>&nbsp;</strong>Interface: <strong>8 x 10/100/1000BASE-T PoE , 2 x 100/1000 Mbps SFP </strong>- Capacit&eacute; de commutation : <strong>20 Gbps</strong> - M&eacute;moire CPU : <strong>256 Mo DDR3 </strong>- Table MAC : <strong>8K entr&eacute;es, 256 MAC statiques </strong>- Consommation &eacute;lectrique : <strong>152,3 W (PoE activ&eacute;) , 9,4 W (PoE d&eacute;sactiv&eacute;)</strong> - Temp&eacute;rature de fonctionnement : <strong>-5 &agrave; 50 &deg;C </strong>- Humidit&eacute; de fonctionnement : 10% &agrave; 90% non condens&eacute;e - Protection contre les surtensions : 6 kV -&nbsp;Dimensions : 280 x 126 x 44 mm - Poids : 1,77 kg .&nbsp;</span></p>\n</div>\n",
+  "miniDescription": "<div style=\"font-size:22px\">\n<p>&nbsp;</p>\n</div>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\"><span style=\"color:#000000\">Smart Switch D-Link -<strong>&nbsp;</strong>Interface: <strong>8 x 10/100/1000BASE-T PoE , 2 x 100/1000 Mbps SFP </strong>- Capacit&eacute; de commutation : <strong>20 Gbps</strong> - M&eacute;moire CPU : <strong>256 Mo DDR3 </strong>- Table MAC : <strong>8K entr&eacute;es, 256 MAC statiques </strong>- Consommation &eacute;lectrique : <strong>152,3 W (PoE activ&eacute;) , 9,4 W (PoE d&eacute;sactiv&eacute;)</strong> - Temp&eacute;rature de fonctionnement : <strong>-5 &agrave; 50 &deg;C </strong>- Humidit&eacute; de fonctionnement : 10% &agrave; 90% non condens&eacute;e - Protection contre les surtensions : 6 kV -&nbsp;Dimensions : 280 x 126 x 44 mm - Poids : 1,77 kg .&nbsp;</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "68597d18fd2984d47c666123",
+    "titre": "D-LINK",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:13:12.243Z",
+    "create_date": "2025-06-23T16:13:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "6676a6a5670b0ae15899d459",
+    "titre": "SÉCURITÉ & PROTECTION",
+    "order": 21,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:33:08.972Z",
+    "create_date": "2024-06-22T10:25:41.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1719396231511.webp",
+    "urlPhoto2": "/uploads/categorie/1720013029366.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "68597cd1fd2984d47c66611d",
+    "titre": "RESEAUX SECURITE",
+    "marge": null,
+    "tva": null,
+    "visible": true,
+    "order": 4,
+    "categorie": "6676a6a5670b0ae15899d459",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:19:53.025Z",
+    "create_date": "2025-06-23T16:12:01.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1750695588029.webp",
+    "urlPhoto2": "/uploads/souscateg/1750695592930.webp"
+  },
+  "qte": 99,
+  "attributes": [
+    {
+      "cle": "gtin",
+      "valeur": "DGS-1210-10MP",
+      "enable": true,
+      "_id": "68597e6899437548fd87c43b"
+    },
+    {
+      "cle": "Marque",
+      "valeur": "DLINK",
+      "enable": true,
+      "_id": "68597e6899437548fd87c43c"
+    },
+    {
+      "cle": "Nombre de Ports",
+      "valeur": "10 Ports",
+      "enable": true,
+      "_id": "68597e6899437548fd87c43d"
+    },
+    {
+      "cle": "Normes réseau",
+      "valeur": "Ports 1 à 8 conformes à la norme IEEE 802.3at",
+      "enable": true,
+      "_id": "68597e6899437548fd87c43e"
+    },
+    {
+      "cle": "Administrable",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597e6899437548fd87c43f"
+    },
+    {
+      "cle": "Gigabit",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597e6899437548fd87c440"
+    },
+    {
+      "cle": "Compatibilité POE",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597e6899437548fd87c441"
+    },
+    {
+      "cle": "Consommation électrique",
+      "valeur": "130W",
+      "enable": true,
+      "_id": "68597e6899437548fd87c442"
+    },
+    {
+      "cle": "Poids",
+      "valeur": "1.77 kg",
+      "enable": true,
+      "_id": "68597e6899437548fd87c443"
+    },
+    {
+      "cle": "Couleur",
+      "valeur": "Noir",
+      "enable": true,
+      "_id": "68597e6899437548fd87c444"
+    },
+    {
+      "cle": "Dimensions",
+      "valeur": "330 x 180 x 44 mm",
+      "enable": true,
+      "_id": "68597e6899437548fd87c445"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "68597cd1fd2984d47c66611d"
+  ],
+  "lien": "SMART-SWITCH-D-LINK-8-GIGABIT-POE-+-2SFP-PORTS",
+  "gallerie": {
+    "_id": "685aa832fd2984d47c74d9a5",
+    "titre": "SMART SWITCH D-LINK 8 GIGABIT POE + 2SFP PORTS",
+    "urlPhoto": [
+      "/uploads/gallerie/1750771778268.jpg",
+      "/uploads/gallerie/1750771782030.jpg",
+      "/uploads/gallerie/1750771784616.jpg"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-24T13:29:44.713Z",
+    "create_date": "2025-06-24T13:29:22.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 153,
+  "price": 1099,
+  "tagsSearch": [],
+  "discount": 11.828935395814376,
+  "stock": 99,
+  "prixEnPromo": 969,
+  "displayForPublic": true,
+  "create_date": "2025-06-23T16:18:48.842Z",
+  "update_date": "2025-10-24T08:25:33.718Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

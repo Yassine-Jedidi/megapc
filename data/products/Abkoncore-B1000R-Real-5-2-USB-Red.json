@@ -1,0 +1,185 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1643370090037.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1643370090037.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///9jS0pNubtG6uwD///+nk5K/o6O9eHoA3czMKQAAhQAS6bOwAPH29ZBZYoJVXuvv7GLxH09XabmEAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "61f3d62fc42dcf5d71abdcef",
+  "sku": "ABKO-HEADS-B1000R-BK-R52",
+  "mpn": "ABKO-HEADS-B1000R-BK-R52",
+  "titleSeo": "MICRO-CASQUE Abkoncore B1000R Real 5.2 | MEGA PC",
+  "ratingValue": "3",
+  "reviewCount": "12",
+  "priceValidUntil": "2022-05-05",
+  "referenceInterne": "B1000RR",
+  "title": "Abkoncore B1000R Real 5.2 USB Red",
+  "title_fr": "Abkoncore B1000R Real 5.2 USB Red",
+  "description": "",
+  "description_fr": "<h2>&nbsp;</h2>\n\n<h2>MICRO-CASQUE Abkoncore B1000R Real 5.2</h2>\n\n<hr />\n<h3><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1679056451459.webp\" /></h3>\n\n<h2><span style=\"font-size:22px\">CARACT&Eacute;RISTIQUES PRINCIPALES :</span></h2>\n\n<p><strong>- Type de Micro/Casque :</strong> Micro-Casque<br />\n<strong>- Utilisation :</strong> Gamer<br />\n<strong>- Configuration du casque :</strong> Ferm&eacute;<br />\n<strong>- Couplage auriculaire :</strong> Circumaural<br />\n<strong>- Surround : </strong>Oui<br />\n<strong>- Diam&egrave;tre haut-parleur :</strong> 40 mm<br />\n<strong>- Fr&eacute;quence Min :</strong> 20Hz<br />\n<strong>- Fr&eacute;quence Max : </strong>20KHz<br />\n<strong>- Imp&eacute;dance :</strong> 32 Ohm<br />\n<strong>- SPL Max : </strong>118 dB SPL<br />\n<strong>- Nombre de canaux :</strong> 5.2<br />\n<strong>- Longueur du c&acirc;ble :</strong> 1.9m<br />\n<strong>- Type d&#39;alimentation :</strong> Port USB<br />\n<strong>- LED RGB : </strong>Oui<br />\n<strong>- Poids : </strong>435 g</p>\n\n<hr />\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<p>&nbsp;</p>\n\n<ul>\n\t<li><span style=\"font-size:22px\">CONFIGURATION DU CASQUE : FERM&Eacute;</span></li>\n\t<li><span style=\"font-size:22px\">COUPLAGE AURICULAIRE : CIRCUMAURAL</span></li>\n\t<li><span style=\"font-size:22px\">COMPATIBILIT&Eacute; : PC</span></li>\n\t<li><span style=\"font-size:22px\">DIAM&Egrave;TRE HAUT-PARLEUR : 40 MM</span></li>\n\t<li><span style=\"font-size:22px\">FR&Eacute;QUENCE MINI : 20 HZ</span></li>\n\t<li><span style=\"font-size:22px\">FR&Eacute;QUENCE MAXI : 20 KHZ</span></li>\n\t<li><span style=\"font-size:22px\">IMP&Eacute;DANCE : 32 OHM</span></li>\n\t<li><span style=\"font-size:22px\">SPL MAX&nbsp;&nbsp; &nbsp;118 : DB</span></li>\n\t<li><span style=\"font-size:22px\">LONGUEUR DU C&Acirc;BLE : 1.9 M</span></li>\n\t<li><span style=\"font-size:22px\">CONNECTEURS : USB</span></li>\n\t<li><span style=\"font-size:22px\">CONNECTEURS : USB</span></li>\n\t<li><span style=\"font-size:22px\">PLIABLE : NON</span></li>\n\t<li><span style=\"font-size:22px\">POIDS : 435 G</span></li>\n</ul>\n",
+  "facilite_fr": "<p><img src=\"https://apibackend.mega-pc.net///uploads/gallerie/1647998183195.png\" /></p>\n",
+  "facilite_en": "",
+  "notreSelection": true,
+  "marque": {
+    "_id": "6021000d5a363f3e5997147b",
+    "titre": "ABKONCORE",
+    "description": "ABKONCORE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1612775441716.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-02-08T09:10:37.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23366a4815052c4d1a420",
+    "titre": "CASQUE",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206307664.webp",
+    "order": 3,
+    "descriptionSEO": "<p>Micro Casque Gamer à prix pas cher en Tunisie. Casque microphone gaming Pc, Ps4, XBOX.&nbsp;Casque micro sans fil professionnel USB, Logitech, Msi, Razer</p>",
+    "titreSEO": "Micro Casque Gamer à prix pas cher en Tunisie | casque microphone",
+    "create_date": "2020-04-24T00:31:34.000Z",
+    "reference": "CASQUE",
+    "update_date": "2021-12-04T08:54:24.050Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "COMPATIBILITÉ",
+      "valeur": "PC",
+      "enable": true,
+      "_id": "610a8b5427499ec15bb8e6ef"
+    },
+    {
+      "cle": "FRÉQUENCE",
+      "valeur": "20 KHZ",
+      "enable": true,
+      "_id": "610a8b5427499ec15bb8e6f2"
+    },
+    {
+      "cle": "IMPÉDANCE",
+      "valeur": "32 OHM",
+      "enable": true,
+      "_id": "610a8b5427499ec15bb8e6f3"
+    },
+    {
+      "cle": "LONGUEUR DU CÂBLE",
+      "valeur": "1.9 M",
+      "enable": true,
+      "_id": "610a8b5427499ec15bb8e6f6"
+    },
+    {
+      "cle": "CONNECTEURS",
+      "valeur": "USB",
+      "enable": true,
+      "_id": "610a8b5427499ec15bb8e6f8"
+    },
+    {
+      "cle": "PLIABLE",
+      "valeur": "NON",
+      "enable": true,
+      "_id": "610a8b5427499ec15bb8e6fb"
+    },
+    {
+      "cle": "POIDS",
+      "valeur": "435 G",
+      "enable": true,
+      "_id": "610a8b5427499ec15bb8e6fe"
+    },
+    {
+      "cle": "COULEUR",
+      "valeur": "ROUGE",
+      "enable": true,
+      "_id": "61dc38e433b7ba10a6669ef1"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23366a4815052c4d1a420",
+    "6230cab36010f19d11dbea23"
+  ],
+  "lien": "Abkoncore-B1000R-Real-5-2-USB-Red",
+  "gallerie": {
+    "_id": "61f3d65ec42dcf5d71ac2a18",
+    "titre": "ABKONCORE B1000R REAL 5.2 USB RED",
+    "urlPhoto": [
+      "/uploads/gallerie/1643370090037.webp"
+    ],
+    "update_date": "2022-01-28T11:41:30.181Z",
+    "create_date": "2022-01-28T11:41:18.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 5562,
+  "price": 179,
+  "sale": false,
+  "tagsSearch": [
+    "ABKONCORE",
+    "ACCESSOIRES",
+    "CASQUE",
+    "FOIRE"
+  ],
+  "discount": 27.932960893854748,
+  "stock": 7,
+  "prixEnPromo": 129,
+  "displayForPublic": true,
+  "create_date": "2022-01-28T11:38:03.042Z",
+  "update_date": "2025-10-23T16:02:23.698Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

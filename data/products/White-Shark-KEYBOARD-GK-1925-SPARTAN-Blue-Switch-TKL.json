@@ -1,0 +1,169 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624372645870.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624372645870.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWP4jwQYnjx5NKlrpramZ11FLcOMWZN5GXiCA/J37tjF8OPHj58/f0KUAQCkwiNMkzjiIQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624372651980.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624372651980.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP4jwQYCgqzXGztggMyy4sqGTw8HbkYGCTF9Xy8ghm+ffv669ev////AZUBACVRHliRO9E5AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624372656301.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624372656301.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVQImWP4jwQY9u7dvWD+/MWLl69fv57Bx8uZhYFBSFBSTUWNAVkZAJOuIX+MXhfHAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "601e57585a363f3e59971378",
+  "sku": "cla-w-s-gk-1925",
+  "mpn": "GK-1925",
+  "titleSeo": "Clavier White Shark KEYBOARD GK-1925 SPARTAN Blue Switch TKL - Clavier pc gamer tunisie.",
+  "ratingValue": "5",
+  "reviewCount": "28",
+  "priceValidUntil": "2022-08-05",
+  "title": "White Shark KEYBOARD GK-1925 SPARTAN Blue Switch TKL",
+  "title_fr": "White Shark KEYBOARD GK-1925 SPARTAN Blue Switch TKL",
+  "description": "",
+  "description_fr": "<p><br></p><h2>Clavier White Shark KEYBOARD GK-1925 SPARTAN Blue Switch TKL</h2><hr><p><img src=\"https://api.megapc.tn//uploads/gallerie/1624980268932.webp\" alt=\"WHITE SHARK KEYBOARD GK-1925 SPARTAN BLUE SWITCH TKL DS\" title=\"White Shark KEYBOARD GK-1925 SPARTAN Blue Switch TKL\"><br></p><hr><h3>CLAVIER GAMING DESIGN TENKEYLESS</h3><p>87 touches mécaniques + 12 fonctions multimédia (FN + F1 à F12).<br>\n\nFN + F1 - Média, FN + F2 - Volume -, FN + F3 - Volume +, FN + F4 - Muet, FN + F5 - Stop, FN + F6 - Chanson précédente, FN + F6 - Lecture / Pause, FN + F8 - Chanson suivante, FN + F9 - Email, FN + F10 - Web, FN + F11 - Ordinateur, FN + F12 - Calculatrice</p><p><br></p><h3>COMMUTATEURS</h3><p>Commutateurs mécaniques bleus Outemu de qualité gaming avec une durée de vie de 50 000 000 frappes.<br>\n\n</p><p><br></p><h3>ANTI-GHOSTING</h3><p>Capacité anti-ghosting complète avec 26 touches.<br>\n\n</p><p><br></p><h3>RÉTROÉCLAIRAGE&nbsp;</h3><p>LED RAINBOW avec 9 modes, lettres lumineuses et intensité réglable. Les effets peuvent être modifiés en appuyant sur le bouton avec l'icône en forme d'ampoule, située à côté de la touche CTRL droite.<br>\n\n</p><p><br></p><h3>PRODUCTION</h3><p>Plaque supérieure en métal / plaque inférieure en plastique.</p><p><br></p><h3>CARACTÉRISTIQUES</h3><p>-Commutateur: OUTEMU Mechanical BLUE<br>-Nombre de touches: 87 touches / Tenkeyless<br>-Distance de déplacement: 4 mm +/- 0,5 mm<br>-Coup de clé: 60g +/- 15g<br>-Mise en page: CRO / NORDIC / BELGIQUE / US<br>-Durée de vie: 50 millions de fois<br>-Rétroéclairage: LED RVB - Réglable - 9 mods<br>-Anti-Ghosting: OUI / 26 touches<br>-Interface: USB 2.0Couleur: NOIR<br>-Longueur de câble: 1,8 m<br>-Câble tressé<br>-Matériel: métal / plastique<br>-Poids: 640g<br>-Dimensions (mm): 355 mm x 135 mm x 20 mm</p>",
+  "miniDescription_fr": "<p>White Shark KEYBOARD GK-1925 SPARTAN Blue Switch TKL,&nbsp;-Commutateur: OUTEMU Mechanical BLUE -Nombre de touches: 87 touches / Tenkeyless -Distance de déplacement: 4 mm +/- 0,5 mm -&nbsp;Clavier pc gamer tunisie.</p>",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5f886a2f3a4d1b058a8fc012",
+    "titre": "WHITE SHARK",
+    "description": "WHITE SHARK",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327730130.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-10-15T15:26:39.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23388a4815052c4d1a421",
+    "titre": "CLAVIER",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206277489.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Clavier Pc gamer Filaire USB, clavier pc bureau, clavier mécanique Tunisie, accessoires gaming, Aorus, HyperX, Spirit of Gamer, Corsair, Razer, Msi.</p>",
+    "titreSEO": "Clavier pc gamer Tunisie | clavier azerty ordinateur sans fil RGB",
+    "create_date": "2020-04-24T00:32:08.000Z",
+    "reference": "CLAVIER",
+    "update_date": "2021-12-04T09:59:08.867Z",
+    "visible": true,
+    "marge": 1.12,
+    "tva": 1.07,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "DIMENSIONS (MM)",
+      "valeur": "355 X 135 X 20",
+      "enable": true,
+      "_id": "60d4757dc9da412168640fc7"
+    },
+    {
+      "cle": "RÉTROÉCLAIRAGE",
+      "valeur": "RGB",
+      "enable": true,
+      "_id": "60d4757dc9da412168640fc8"
+    },
+    {
+      "cle": "LONGUEUR DE CÂBLE",
+      "valeur": "1.8 M",
+      "enable": true,
+      "_id": "60d4757dc9da412168640fc9"
+    },
+    {
+      "cle": "NOMBRE DE BOUTONS",
+      "valeur": "99",
+      "enable": true,
+      "_id": "60d4757dc9da412168640fca"
+    },
+    {
+      "cle": "TYPE DE CLAVIER",
+      "valeur": "MÉCANIQUE",
+      "enable": true,
+      "_id": "60d4757dc9da412168640fcb"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [],
+  "lien": "White-Shark-KEYBOARD-GK-1925-SPARTAN-Blue-Switch-TKL",
+  "gallerie": {
+    "_id": "601e53e95a363f3e59971377",
+    "urlPhoto": [
+      "/uploads/gallerie/1624372645870.webp",
+      "/uploads/gallerie/1624372651980.webp",
+      "/uploads/gallerie/1624372656301.webp"
+    ],
+    "titre": "CLAVIER MÉCANIQUE GK-1925 SPARTAN - MÉTAL",
+    "__v": 15,
+    "create_date": "2021-02-06T08:31:37.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 5328,
+  "price": 139,
+  "tagsSearch": [
+    "WHITE SHARK",
+    "ACCESSOIRES",
+    "CLAVIER"
+  ],
+  "stock": 1,
+  "displayForPublic": true,
+  "create_date": "2021-02-06T08:46:16.642Z",
+  "update_date": "2025-10-23T13:54:25.524Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

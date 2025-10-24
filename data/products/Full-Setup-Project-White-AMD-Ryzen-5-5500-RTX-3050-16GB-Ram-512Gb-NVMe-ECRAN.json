@@ -1,0 +1,187 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1741183046258.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1741183046258.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ACgpLP5aXFz+MzQw/gAAAP4Alpid/6+2tv+jq6n/Dw0N/wDEw8f+mpyh/lxiYf5VVlX+AP///P/o5eT/2tvb/8DCwv+mGyjYiEABagAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "6780fb0d32ff558145c10a38",
+  "sku": "Full-Setup-Ghost-White-1",
+  "mpn": "Full-Setup-Ghost-White-1",
+  "titleSeo": "Full Setup Ghost 1 | MEGA TUNISIE",
+  "desciprtionSeo": "Full Setup Ghost 1 White | Processeur :  AMD Ryzen 5 5500 Wraith Stealth (3.6 GHz / 4.2 GHz) Carte Graphique : MSI Geforce RTX 3050 VENTUS 2X 6GB Carte Mère : MSI A520M-A PRO Ram: PNY 16GB (2X8GB) DDR4 3200MHz PCB Stockage : GOODRAM PX500 NVME SSD 512Go Bloc d'alimentation: AeroCool LUX 550W 80+ Bronze Boitier: MARS GAMING MC-FW ATX CASE, 4X 12CM ARGB FAN, GLASS Souris : Spirit Of Gamer Souris Filaire Pro-M4 White RGB 12800DPI Clavier : White Shark KEYBOARD GK-2201 RONIN WHITE Ecran : ASUS VA24EHF 23.8 100 HZ IPS CASQUE MICRO : GAMING STAR WAVE GH1017 RGB / NOIR Tapis : AQIRYS TAPIS WEBB MEDIUM | MEGA TUNISIE",
+  "ratingValue": "4.8",
+  "reviewCount": "51",
+  "priceValidUntil": "2026-07-09",
+  "referenceInterne": "Full-Setup-Ghost-White-1",
+  "title": "Full Setup Ghost 1 | AMD Ryzen 5 5500 | RTX 3050 | 16GB Ram | 512GB NVMe",
+  "title_fr": "Full Setup Ghost 1 | AMD Ryzen 5 5500 | RTX 3050 | 16GB Ram | 512GB NVMe",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Processeur :&nbsp;</strong>&nbsp;AMD Ryzen 5 5500 Wraith Stealth (3.6 GHz / 4.2 GHz)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Carte Graphique :&nbsp;</strong>MSI Geforce RTX 3050 VENTUS 2X 6GB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Carte M&egrave;re :</strong>&nbsp;MSI A520M-A PRO</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Ram:&nbsp;</strong>PNY 16GB (2X8GB) DDR4 3200MHz PCB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Stockage :</strong>&nbsp;GOODRAM PX500 NVME SSD 512Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Bloc d&#39;alimentation:&nbsp;</strong>AeroCool LUX 550W 80+ Bronze</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Boitier:&nbsp;</strong>MARS GAMING MC-FW ATX CASE, 4X 12CM ARGB FAN, GLASS</span></li>\n\t<li><span style=\"color:#008080\"><strong><span style=\"font-size:22px\">Ecran :&nbsp;ASUS VA24EHF 23.8 100 HZ IPS</span></strong></span></li>\n\t<li><span style=\"color:#008080\"><strong><span style=\"font-size:22px\">Souris :&nbsp;Spirit Of Gamer Souris Filaire Pro-M4 White RGB 12800DPI</span></strong></span></li>\n\t<li><span style=\"color:#008080\"><strong><span style=\"font-size:22px\">Clavier :&nbsp;White Shark KEYBOARD GK-2201 RONIN WHITE</span></strong></span></li>\n\t<li><span style=\"color:#008080\"><strong><span style=\"font-size:22px\">Casque&nbsp;:&nbsp;GAMING STAR WAVE GH1017 RGB</span></strong></span></li>\n\t<li><span style=\"color:#008080\"><strong><span style=\"font-size:22px\">Tapis :&nbsp;AQIRYS TAPIS WEBB MEDIUM</span></strong></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": "AMD Ryzen 5 5500",
+      "enable": true,
+      "_id": "686f8e3785aee8e5d0b98cfe"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "4.20GHz",
+      "enable": true,
+      "_id": "686f8e3785aee8e5d0b98cff"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "A520M-A",
+      "enable": true,
+      "_id": "686f8e3785aee8e5d0b98d00"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RTX 3050 6GB",
+      "enable": true,
+      "_id": "686f8e3785aee8e5d0b98d01"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "16GB DDR4 3200MHz",
+      "enable": true,
+      "_id": "686f8e3785aee8e5d0b98d02"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "512GB NVMe",
+      "enable": true,
+      "_id": "686f8e3785aee8e5d0b98d03"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "550W 80+ Bronze",
+      "enable": true,
+      "_id": "686f8e3785aee8e5d0b98d04"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "MARS GAMING MC-F MID TOWER CASE ARGB",
+      "enable": true,
+      "_id": "686f8e3785aee8e5d0b98d05"
+    },
+    {
+      "cle": "Type de refroidissement",
+      "valeur": "Aircooling",
+      "enable": true,
+      "_id": "686f8e3785aee8e5d0b98d06"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Full-Setup-Project-White-AMD-Ryzen-5-5500-RTX-3050-16GB-Ram-512Gb-NVMe-ECRAN",
+  "gallerie": {
+    "_id": "67c854f3711a4ce5a45f1739",
+    "titre": "FULL SETUP GHOST 1 | AMD RYZEN 5 5500 | RTX 3050 | 16GB RAM | 512GB NVME",
+    "urlPhoto": [
+      "/uploads/gallerie/1741183046258.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-03-05T13:57:31.025Z",
+    "create_date": "2025-03-05T13:43:15.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 3712,
+  "price": 2099,
+  "tagsSearch": [
+    "CONFIG PC AMD",
+    "PRE-ORDER",
+    "ORDINATEURS",
+    "PC GAMER"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2025-01-10T10:48:45.003Z",
+  "update_date": "2025-10-24T08:43:59.174Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

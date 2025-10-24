@@ -1,0 +1,189 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1740396079166.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1740396079166.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AJOUmY+RlogrLa4jHgAEAAV8f4T/+v2VO0AASk9VnZ2jsrS9h5ehAKOnrMC+wqertI2Tm1bGGXhGwmhNAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "67b71589322599f4f7045545",
+  "sku": "Blood-Moon-62",
+  "mpn": "Blood-Moon-62",
+  "titleSeo": "PC Gamer Blood Moon 62 | MEGA PC | MEGA TECH | GIGA | TUNISIE",
+  "desciprtionSeo": "PC Gamer Blood Moon 62 | Processeur : AMD Ryzen 5 9600X (3.9 GHz / 5.4 GHz) Carte Mère : MSI PRO B650M-P DDR5 Carte Graphique : Gigabyte RTX 4070 SUPER EAGLE OC ICE 12GB Ram : BARETTE MEMOIRE AERO DDR5 16GB 4800 MHz Stockage : MSI SPATIUM M450 SSD M.2 Gen 4.0 NVMe 1TB Bloc d'alimentation : MSI MAG A850GL PCIE5 White Boitier : MARS GAMING MC-NEOW E-ATX XL CASE, 4X 12CM NEO ARGB AirCooling : Mars Gaming MCPU-XT White CPU COOLER DUAL TOWER | MEGA TUNISIE",
+  "ratingValue": "4.8",
+  "reviewCount": "5",
+  "priceValidUntil": "2026/07/09",
+  "referenceInterne": "Blood-Moon-62",
+  "title": "Blood Moon 62 | AMD Ryzen 5 9600X |RTX 4070| 16GB Ram | 1TB NVMe ",
+  "title_fr": "Blood Moon 62 | AMD Ryzen 5 9600X |RTX 4070| 16GB Ram | 1TB NVMe ",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Processeur :&nbsp;</strong>AMD Ryzen 5 9600X (3.9 GHz / 5.4 GHz)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Carte M&egrave;re :</strong>&nbsp;MSI PRO B650M-P DDR5</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Carte Graphique :&nbsp;</strong>Gigabyte RTX 4070 SUPER EAGLE OC ICE 12GB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Ram :&nbsp;</strong>BARETTE MEMOIRE AERO DDR5 16GB 4800 MHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Stockage :</strong>&nbsp;MSI SPATIUM M450 SSD M.2 Gen 4.0 NVMe 1TB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Bloc d&#39;alimentation :&nbsp;</strong>MSI MAG A850GL PCIE5 White</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Boitier :&nbsp;</strong>MARS GAMING MC-NEOW E-ATX XL CASE, 4X 12CM NEO ARGB</span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#ff0000\"><strong>AirCooling :&nbsp;</strong>Mars Gaming MCPU-XT White CPU COOLER DUAL TOWER&nbsp;</span></span></li>\n\t<br />\n\t<li><span style=\"color:#008000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": "AMD Ryzen 5 9600X",
+      "enable": true,
+      "_id": "6877d34285aee8e5d0dad39b"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "5.40GHz",
+      "enable": true,
+      "_id": "6877d34285aee8e5d0dad39c"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "B650M-P",
+      "enable": true,
+      "_id": "6877d34285aee8e5d0dad39d"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RTX 4070 12GB",
+      "enable": true,
+      "_id": "6877d34285aee8e5d0dad39e"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "16GB DDR5 4800MHz",
+      "enable": true,
+      "_id": "6877d34285aee8e5d0dad39f"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "1TB NVMe",
+      "enable": true,
+      "_id": "6877d34285aee8e5d0dad3a0"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "850W PCIE5 80+ Gold",
+      "enable": true,
+      "_id": "6877d34285aee8e5d0dad3a1"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "Mars Gaming MC-NEO PREMIUM GAMING TOWER",
+      "enable": true,
+      "_id": "6877d34285aee8e5d0dad3a2"
+    },
+    {
+      "cle": "Type de refroidissement",
+      "valeur": "Aircooling",
+      "enable": true,
+      "_id": "6877d34285aee8e5d0dad3a3"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Blood-Moon-62---AMD-Ryzen-5-9600X--RTX-4070--16GB-Ram---1TB-NVMe-",
+  "gallerie": {
+    "_id": "67bc5624322599f4f727bcc9",
+    "titre": "BLOOD MOON 62 | AMD RYZEN 5 9600X |RTX 4070| 16GB RAM | 1TB NVME ",
+    "urlPhoto": [
+      "/uploads/gallerie/1740396079166.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-02-24T11:21:19.283Z",
+    "create_date": "2025-02-24T11:21:08.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1385,
+  "price": 4649,
+  "tagsSearch": [
+    "CONFIG PC AMD",
+    "ORDINATEURS",
+    "PC GAMER",
+    "B650M-P",
+    "RTX 4070",
+    "AMD Ryzen 5 9600X"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2025-02-20T11:44:09.440Z",
+  "update_date": "2025-10-23T17:14:23.227Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

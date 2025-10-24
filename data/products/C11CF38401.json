@@ -1,0 +1,153 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226384801.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226384801.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////7+//7+/v///wCsrLBsbXgyMTVxcXEAHBwcAAAJHB0jIiIiAMXFxYiIit7f5fT09By8G7o5+P+nAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226392399.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226392399.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ANPT1MXFx729vtDQ0QBQUFEkJCUBAANEREUAv76/ubm7r6+xtLS0AP7+/vv7+/39/f///+v9IBdMoPWsAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226399438.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226399438.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImWP4jwQY7t69u2vnnpqaumXLljGkp6fz8AgwMDD5+wcwPHv2bMKECUePHv316xcAmOogD+mEMskAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226399439.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226399439.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APv7+9TU1PPz8////wB6en0UFBgmJShsbG0Ae3t7Ozs7AAAFJiYnAP////7+/s3NzeDg4PFdHEUK5Y09AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226399441.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226399441.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///+/v7/Pz8////wDDwsWFg4menJ/p6ekAUlJTHBweAAADe3t7AO7u7r29vXh4eMvLy5EcH5tEXe3AAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "662d03fff0d88c8c60e12df6",
+  "sku": "C11CF38401",
+  "mpn": "C11CF38401",
+  "titleSeo": "",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "C11CF38401",
+  "title": "IMPRIMANTE MATRICIELLE À IMPACT EPSON FX-2190II",
+  "title_fr": "IMPRIMANTE MATRICIELLE À IMPACT EPSON FX-2190II",
+  "description_fr": "",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Nombre d&#39;aiguilles 24 aiguilles</span></li>\n\t<li><span style=\"font-size:22px\">Nombre des colonnes 136 colonnes</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de pins 9 broches</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse d&#39;impression 10 cpi: 612 caract&egrave;res/s</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;solution d&#39;impression 240 x 144 DPI</span></li>\n\t<li><span style=\"font-size:22px\">Plage d&#39;&eacute;paisseur des supports 0.065 mm - 0.46 mm</span></li>\n\t<li><span style=\"font-size:22px\">Interfaces 1 x USB 2.0, 1 x parall&egrave;le</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions: 612 x 375 x 177 mm</span></li>\n\t<li><span style=\"font-size:22px\">Poids 8.37 kg</span></li>\n\t<li><span style=\"font-size:22px\">Couleur Noir</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "658d34c652b5a275b6d678f1",
+    "titre": "EPSON",
+    "update_date": "2023-12-28T08:41:42.659Z",
+    "create_date": "2023-12-28T08:41:42.000Z",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "categorie": {
+    "_id": "5f60ba4f01f417289807e75b",
+    "order": 19,
+    "titre": "IMPRESSION",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1715428998314.webp",
+    "create_date": "2020-09-15T12:57:51.000Z",
+    "update_date": "2025-04-28T10:32:54.398Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false,
+    "urlPhoto": "/uploads/categorie/1715429007654.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "662f6336f0d88c8c60e288b5",
+    "titre": "IMPRIMANTE MATRICIELLE",
+    "visible": true,
+    "order": 0,
+    "categorie": "5f60ba4f01f417289807e75b",
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-05-11T12:04:02.356Z",
+    "create_date": "2024-04-29T09:07:02.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1715429037269.webp",
+    "urlPhoto2": "/uploads/souscateg/1715429042236.webp",
+    "targetMobile": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "662f6336f0d88c8c60e288b5"
+  ],
+  "lien": "C11CF38401",
+  "gallerie": {
+    "_id": "662d04c9f0d88c8c60e1d7ab",
+    "titre": "IMPRIMANTE MATRICIELLE À IMPACT EPSON FX-2190II",
+    "urlPhoto": [
+      "/uploads/gallerie/1714226384801.webp",
+      "/uploads/gallerie/1714226392399.webp",
+      "/uploads/gallerie/1714226399438.webp",
+      "/uploads/gallerie/1714226399439.webp",
+      "/uploads/gallerie/1714226399441.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-04-27T13:59:59.558Z",
+    "create_date": "2024-04-27T13:59:37.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2311,
+  "price": 1779,
+  "tagsSearch": [
+    "IMPRESSION",
+    "IMPRIMANTE",
+    "EPSON",
+    "IMPRIMANTE MATRICIELLE"
+  ],
+  "stock": 40,
+  "displayForPublic": true,
+  "create_date": "2023-09-28T14:26:31.485Z",
+  "update_date": "2025-10-22T17:25:53.593Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

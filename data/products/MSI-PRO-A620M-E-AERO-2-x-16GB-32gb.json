@@ -1,0 +1,186 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744022126083.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744022126083.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWP4Dwbfv3///PkzQ11dXUJ8vKOjY0xMDIOkhLggMwMTA0N4eDjDx48fv375/ODBgzdv3gAACUocnuD+GyIAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "67e7c4f6711a4ce5a46c5419",
+  "sku": "A620M-E",
+  "mpn": "A620M-E",
+  "titleSeo": "MSI PRO A620M-E | MEGA PC",
+  "desciprtionSeo": "Carte mère MSI PRO A620M-E Micro ATX Socket AM5 AMD A620 - 2x DDR5 - M.2 PCIe 4.0 - USB 3.0 - PCI-Express 4.0 16x | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "5",
+  "priceValidUntil": "2026-07-09",
+  "referenceInterne": "A620M-E",
+  "title": "MSI PRO A620M-E + AERO 2 x 16GB (32gb)",
+  "title_fr": "MSI PRO A620M-E + AERO 2 x 16GB (32gb)",
+  "description_fr": "<h2>MSI PRO A620M-E</h2>\n\n<hr />\n<p><span style=\"font-size:24px\">La<strong>&nbsp;</strong><strong>MSI PRO A620M-E&nbsp;</strong>est une carte m&egrave;re polyvalente pour processeur&nbsp;<strong>AMD Ryzen sur socket AM5</strong>. Elle permettra de concevoir un PC bureautique et multim&eacute;dia &agrave; base de composants r&eacute;cents tels que les&nbsp;<strong>processeurs AMD Ryzen 7000</strong>,&nbsp;les cartes graphiques PCI-Express 4.0 16x, les disques M.2 NVMe PCIe 4.0 ou encore la RAM DDR5.&nbsp;La carte m&egrave;re&nbsp;<strong>PRO A620M-E</strong>&nbsp;issue de la gamme PRO de MSI se plie aux exigences des professionnels en alliant durabilit&eacute; et fonctionnalit&eacute;s essentielles.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1713174698305.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1713174695168.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re :&nbsp;Micro ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket :&nbsp;AMD AM5</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;AMD A620</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 96 Go&nbsp;DDR5&nbsp;6800 MHz ( 2 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 : 1</span></li>\n</ul>\n",
+  "notreSelection": false,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "675311184583082f207d5d03",
+    "titre": "EVENTS",
+    "reference": "",
+    "order": 7,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:31:12.208Z",
+    "create_date": "2024-12-06T14:58:32.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1733559629835.webp",
+    "urlPhoto": "/uploads/categorie/1733559616584.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "67d7f084711a4ce5a40f87db",
+    "titre": "BANKAI",
+    "visible": false,
+    "order": 0,
+    "categorie": "675311184583082f207d5d03",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-10-16T17:00:56.206Z",
+    "create_date": "2025-03-17T09:51:00.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1742206147820.webp",
+    "urlPhoto2": "/uploads/souscateg/1742206155479.webp"
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "AMD AM5",
+      "enable": true,
+      "_id": "661cf5b2c60115236ad6a12c"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "AMD A620",
+      "enable": true,
+      "_id": "661cf5b2c60115236ad6a12d"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Micro ATX",
+      "enable": true,
+      "_id": "661cf5b2c60115236ad6a12e"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "661cf5b2c60115236ad6a12f"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "2",
+      "enable": true,
+      "_id": "661cf5b2c60115236ad6a130"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "96 GB",
+      "enable": true,
+      "_id": "661cf5b2c60115236ad6a131"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "48 GB",
+      "enable": true,
+      "_id": "661cf5b2c60115236ad6a132"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "6800 MHz",
+      "enable": true,
+      "_id": "661cf5b2c60115236ad6a133"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c",
+    "67d7f084711a4ce5a40f87db",
+    "681ce4f0c75bcce7a27d6891"
+  ],
+  "lien": "MSI-PRO-A620M-E-AERO-2-x-16GB-32gb",
+  "gallerie": {
+    "_id": "67f3aa61711a4ce5a4d93de8",
+    "titre": "MSI PRO A620M-E + AERO 2 X 16GB (32GB)",
+    "urlPhoto": [
+      "/uploads/gallerie/1744022126083.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-07T10:35:26.576Z",
+    "create_date": "2025-04-07T10:35:13.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 4811,
+  "price": 515,
+  "tagsSearch": [
+    "MSI",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "EVENTS",
+    "BANKAI",
+    "BAC_2K25"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2024-04-15T09:25:22.221Z",
+  "update_date": "2025-10-23T20:50:01.004Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

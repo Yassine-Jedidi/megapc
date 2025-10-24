@@ -1,0 +1,252 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABUUF/4AAAT/R01T/p+z7P8AFhYW/iImIf+CiYX+n7Xb/wBJPzr+AAUH/0ZMTf5lY2b/AJWBav5rY1D/nZF1/v/93v/w+CGyCAVy0QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/j5XViZlpTWNHGxwAvKTYAABGdp6+zu7sAAAAWJCg39v//scTDAG5ma0NESd/n7UBLTGlBF4FrfjiUAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAADBP4SFBT/Vl1d/pCbo/8AYWhm/ujx7v/4///+kZuW/wBXXl7+bnd4/5KUj/6bkoT/AAABAf4ABAT/Q0tN/si+q//F+iSiJaDefQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWNQUlVhYGTjFhYxsLBgkFZSUFFXVVZTZWBhZwjxNGNgZpBRlHG0MWb4/2v3/N4sC0OlfYvKALm1CxWKc9EmAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWNg4ZfiFBSTV1eJy2xmYOCQYOATcfT1bJ99lMHd05OBic3Rzy88KZPh2cVN25Z0lRfG///zCQAcZxBz5a3PzAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPQ0lLT1NEQFBVkYGBgSE1NuHHt3KQp3bZ29gxhYYH//3/buWtTWkYmg6yctJOTQ3pmWmxYMAChhBHjfcvTYgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AM7Q17OwtI6Jjvby+ACmo7NlYGdWUVvY1uIAb21vAQABLCg5p6a0AP///39+fzIvOMjHzO8yGxQ0zVCeAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///4iIiHV0dNTU1ADY2NhZWVsYGBpvb24Ao6GjLi4vAQADYWFhAJ2dnCclJ2ppbcjIyJ47FxRpAteLAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AHJzc21tcNfU2////wBlY2Y7OEGQhKG6usEAQ0JDBAAJIRswUlJYAJaWlzs5O25tcaysrW0wFfKTTBrVAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "68665a86fd2984d47ca83881",
+  "sku": "Wave-K5 ",
+  "mpn": "Wave-K5 ",
+  "titleSeo": "PC GAMER Wave K5 | Ryzen 7 7700 | RTX 5070 12GB | 32GB DDR5 | SSD 1To NVMe – Meilleur prix Tunisie 2025 | MEGA PC | GIGA TECH ",
+  "desciprtionSeo": "Découvrez le PC Gamer Wave K5, équipé du puissant AMD Ryzen 7 7700, d’une carte graphique RTX 5070 12GB, de 32 Go de RAM DDR5 à 6000 MHz, et d’un SSD NVMe 1 To ultra rapide. Grâce à son refroidissement liquide MSI Coreliquid 360R, à son boîtier Project Zero MSI PANO M100R, et à son alimentation 750W Gold PCIe 5.0, ce PC est prêt pour le gaming 4K, le streaming, ou la création pro. 🖥️ 🛒 Disponible maintenant au meilleur prix en Tunisie. Stock limité, ne ratez pas cette machine de guerre | MEGA PC | GIGA TECH ",
+  "ratingValue": "4.7",
+  "reviewCount": "49",
+  "priceValidUntil": "2027-04-05",
+  "referenceInterne": "Wave-K5",
+  "title": "Wave K5 | AMD RYZEN 7 7700 | RTX 5070 12GB | 32GB Ram | 1TB NVMe",
+  "title_fr": "Wave K5 | AMD RYZEN 7 7700 | RTX 5070 12GB | 32GB Ram | 1TB NVMe",
+  "description_fr": "<h2><span style=\"font-size:22px\">🖥️ Wave K5 &ndash; Une b&ecirc;te de puissance pour gamers et cr&eacute;ateurs exigeants 🚀🔥</span></h2>\n\n<p><span style=\"font-size:22px\">Le <strong>Wave K5</strong> s&rsquo;impose comme une <strong>machine haut de gamme</strong> con&ccedil;ue pour r&eacute;pondre aux besoins des <strong>joueurs les plus exigeants</strong>, mais aussi des <strong>professionnels de la cr&eacute;ation</strong>. Cette configuration ultra-moderne repose sur des composants premium qui allient <strong>puissance brute</strong>, <strong>refroidissement optimal</strong>, et <strong>design futuriste</strong>. 🎮🎨</span></p>\n\n<p><span style=\"font-size:22px\">Au c&oelig;ur du Wave K5, on retrouve le <strong>processeur AMD Ryzen 7 7700</strong>, dot&eacute; de 8 c&oelig;urs et 16 threads, avec une fr&eacute;quence de base de <strong>3.8 GHz</strong> et pouvant atteindre <strong>5.3 GHz en boost</strong>. 🧠💨 Ce monstre de calcul est id&eacute;al pour le gaming en haute r&eacute;solution, le rendu 3D, le montage vid&eacute;o et bien plus encore.</span></p>\n\n<p><span style=\"font-size:22px\">Pour garder ce CPU &agrave; bonne temp&eacute;rature, MSI a int&eacute;gr&eacute; un <strong>syst&egrave;me de refroidissement liquide MAG CORELIQUID 360R V2</strong> 🧊🔧. Avec ses trois ventilateurs et son design RGB &eacute;l&eacute;gant, ce refroidissement AIO assure <strong>silence et stabilit&eacute; thermique</strong>, m&ecirc;me sous de lourdes charges.</span></p>\n\n<p><span style=\"font-size:22px\">La carte m&egrave;re choisie est la <strong>MSI B650M PROJECT ZERO</strong>, con&ccedil;ue pour supporter les derni&egrave;res technologies AMD, y compris la <strong>RAM DDR5</strong>, le <strong>PCIe 5.0</strong>, et une gestion parfaite des composants internes gr&acirc;ce &agrave; son design &quot;clean build&quot; sans c&acirc;bles apparents. 🧩🖧</span></p>\n\n<p><span style=\"font-size:22px\">C&ocirc;t&eacute; graphique, le Wave K5 frappe fort avec une <strong>Gigabyte GeForce RTX 5070 WINDFORCE SFF 12GB</strong>. ⚡ Cette nouvelle g&eacute;n&eacute;ration de GPU permet un <strong>gaming fluide en 1440p et 4K</strong>, avec un excellent support du ray tracing et des performances boost&eacute;es par le DLSS 3.0. Que ce soit pour jouer, streamer ou cr&eacute;er, cette carte est pr&ecirc;te pour l&rsquo;avenir. 🎯</span></p>\n\n<p><span style=\"font-size:22px\">La m&eacute;moire vive est assur&eacute;e par <strong>32 Go de RAM DDR5 G.Skill Ripjaws M5 NEO</strong> (2x16 Go) &agrave; <strong>6000 MHz</strong>, offrant une bande passante &eacute;norme et une stabilit&eacute; parfaite en multit&acirc;che. 💾 Cette RAM est optimis&eacute;e pour les plateformes AMD, assurant des performances sans compromis.</span></p>\n\n<p><span style=\"font-size:22px\">Pour le stockage, on retrouve un <strong>SSD MSI SPATIUM M450 1 To NVMe Gen 4.0</strong>, ultra-rapide ⚡. Les vitesses de lecture/&eacute;criture fulgurantes garantissent des <strong>temps de chargement quasi instantan&eacute;s</strong>, parfait pour les jeux AAA ou les gros projets professionnels.</span></p>\n\n<p><span style=\"font-size:22px\">L&rsquo;alimentation est assur&eacute;e par une <strong>MSI MAG A750GL 750W PCIE5 80+ Gold</strong>, fiable, certifi&eacute;e pour une efficacit&eacute; &eacute;nerg&eacute;tique optimale, et surtout <strong>pr&eacute;par&eacute;e pour les cartes graphiques de derni&egrave;re g&eacute;n&eacute;ration</strong>. 🔌🔋</span></p>\n\n<p><span style=\"font-size:22px\">Enfin, tout cela est assembl&eacute; dans un <strong>bo&icirc;tier MSI MAG PANO M100R PZ &ndash; Black</strong>, con&ccedil;u sp&eacute;cialement pour les cartes m&egrave;res Project Zero. Avec son design ouvert, ses panneaux en verre tremp&eacute;, et son airflow parfaitement &eacute;tudi&eacute;, ce bo&icirc;tier ne fait pas que briller : il respire la performance. 💨🖤</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🧠 <strong>Processeur :</strong> AMD Ryzen 7 7700 (3.8GHz / Boost 5.3GHz &ndash; 8 c&oelig;urs / 16 threads)</span></li>\n\t<li><span style=\"font-size:22px\">💡 <strong>Carte M&egrave;re :</strong> MSI B650M Project Zero</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte Graphique :</strong> Gigabyte GeForce RTX 5070 WINDFORCE SFF &ndash; 12GB</span></li>\n\t<li><span style=\"font-size:22px\">🧬 <strong>RAM :</strong> G.Skill Ripjaws 32 Go DDR5&nbsp; M5 NEO (2x16Go &ndash; 6000 MHz)</span></li>\n\t<li><span style=\"font-size:22px\">⚡ <strong>Stockage :&nbsp;</strong>MSI SPATIUM M450 SSD&nbsp; NVMe Gen 4 &ndash; 1TB</span></li>\n\t<li><span style=\"font-size:22px\">🔌 <strong>Alimentation :</strong> MSI MAG A750GL &ndash; 750W PCIE 5.0 &ndash; 80+ Gold</span></li>\n\t<li><span style=\"font-size:22px\">🖤 <strong>Bo&icirc;tier :</strong> MSI MAG PANO M100R PZ &ndash; RGB &amp; verre tremp&eacute;</span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#0000ff\">🌬️ <strong>Refroidissement :</strong> Watercooling MSI MAG CORELIQUID 360R V2</span></span></li>\n\t<li><span style=\"color:#4b0082\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": "AMD Ryzen 7 7700",
+      "enable": true,
+      "_id": "68790d1238284c8443156b37"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "5.30GHz",
+      "enable": true,
+      "_id": "68790d1238284c8443156b38"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "B650M",
+      "enable": true,
+      "_id": "68790d1238284c8443156b39"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RTX 5070 12GB",
+      "enable": true,
+      "_id": "68790d1238284c8443156b3a"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "32GB DDR5 6000MHz",
+      "enable": true,
+      "_id": "68790d1238284c8443156b3b"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "1TB NVMe",
+      "enable": true,
+      "_id": "68790d1238284c8443156b3c"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "750W PCIE5 80+ Gold",
+      "enable": true,
+      "_id": "68790d1238284c8443156b3d"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "MSI PROJECT ZERO MAG PANO M100R PZ",
+      "enable": true,
+      "_id": "68790d1238284c8443156b3e"
+    },
+    {
+      "cle": "Type de refroidissement",
+      "valeur": "Watercooling",
+      "enable": true,
+      "_id": "68790d1238284c8443156b3f"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Wave-K5-AMD-RYZEN-7-7700-RTX-5070-12GB-32GB-Ram-1TB-NVMe",
+  "gallerie": {
+    "_id": "664f5766dbc8064136ad940e",
+    "titre": "MSI MAG PANO M100R PZ NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1718808335563.webp",
+      "/uploads/gallerie/1718808335578.webp",
+      "/uploads/gallerie/1718808335582.webp",
+      "/uploads/gallerie/1718808341921.webp",
+      "/uploads/gallerie/1718808341923.webp",
+      "/uploads/gallerie/1718808341924.webp",
+      "/uploads/gallerie/1718808345577.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345579.webp",
+      "/uploads/gallerie/1718808345582.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-06-19T14:45:45.707Z",
+    "create_date": "2024-05-23T14:49:10.000Z",
+    "__v": 5
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 295,
+  "price": 5249,
+  "tagsSearch": [
+    "CONFIG PC AMD",
+    "ORDINATEURS",
+    "PC GAMER",
+    "Gigabyte GeForce RTX 5070 WINDFORCE SFF",
+    "Watercooling MSI MAG CORELIQUID 360R V2",
+    "MSI B650M Project Zero",
+    "MSI MAG A750GL",
+    "MSI MAG PANO M100R PZ"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-07-03T10:25:10.225Z",
+  "update_date": "2025-10-24T09:06:46.074Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

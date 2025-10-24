@@ -1,0 +1,167 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747393318633.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747393318633.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4jwQY3IL9xRS5hBkYynJLGKqaGsNiA0M9PRbMnsfw5vWbWzfuPH7y5Pfv3wAdVR61mSC2uwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747393320425.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747393320425.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYFi5aHBYTlhAbnZmWwRATl8DAxCDAwcLJwM6ArAwAOLsebrHYboIAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747393322326.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747393322326.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWP4jwQYdh84UNtY2dvSsn7teobJM2aoacmKMTCF+UQyQBR8//79w4cPAJ9uIjnB3+M9AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747393324422.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747393324422.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWP4jwQYfv36dfrM6aSk+KaGRoZVq1czMDKHhYVeuXyZ4evXr9euX4coAwDbZyTHq7vJpAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "6353e6000914293321338150",
+  "sku": "GY40Y57712",
+  "mpn": "0194632687385",
+  "titleSeo": "Clavier LENOVO LEGION K300 RGB | MEGA PC",
+  "desciprtionSeo": "Lenovo Tunisie : Clavier LENOVO LEGION K300 RGB | Conception épurée et compacte emblématique de Legion | 5 zones d’éclairage RGB | Profitez de temps de réaction ultra rapides | MEGA PC",
+  "ratingValue": "4.2",
+  "reviewCount": "66",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GY40Y57712",
+  "title": "LENOVO LEGION K300 RGB",
+  "title_fr": "LENOVO LEGION K300 RGB",
+  "description": "<p>​​​​​​​</p>\n",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>CLAVIER GAMING LENOVO LEGION K300 RGB</h2>\n\n<hr />\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1678890024688.webp\" /></p>\n\n<ul>\n\t<li><span style=\"font-size:22px\">Conception &eacute;pur&eacute;e et compacte embl&eacute;matique de Legion</span></li>\n\t<li><span style=\"font-size:22px\">Jouez mieux, plus longtemps, avec un cycle de vie des touches de 20 millions de clics</span></li>\n\t<li><span style=\"font-size:22px\">Ma&icirc;trisez votre environnement avec les touches Fn, volume et les commandes multim&eacute;dias.</span></li>\n\t<li><span style=\"font-size:22px\">Gamme de couleurs pr&eacute; con&ccedil;ues et effets de lumi&egrave;re Fn</span></li>\n\t<li><span style=\"font-size:22px\">Soyez pr&ecirc;t &agrave; tout avec les trous de drainage r&eacute;sistants aux &eacute;claboussures</span></li>\n\t<li><span style=\"font-size:22px\">Adaptez votre exp&eacute;rience avec Legion Accessory Central</span></li>\n</ul>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Conception &eacute;pur&eacute;e et compacte embl&eacute;matique de Legion</span></li>\n\t<li><span style=\"font-size:22px\">5 zones d&rsquo;&eacute;clairage RGB dynamiques</span></li>\n\t<li><span style=\"font-size:22px\">24 touches anti-ghosting</span></li>\n\t<li><span style=\"font-size:22px\">Commutateurs &agrave; membrane silencieux</span></li>\n\t<li><span style=\"font-size:22px\">Temps de r&eacute;action ultra rapides gr&acirc;ce aux touches tactiles</span></li>\n\t<li><span style=\"font-size:22px\">Commandes multim&eacute;dias</span></li>\n\t<li><span style=\"font-size:22px\">Alimentation : USB</span></li>\n\t<li><span style=\"font-size:22px\">C&acirc;ble : 1.80 m</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23388a4815052c4d1a421",
+    "titre": "CLAVIER",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206277489.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Clavier Pc gamer Filaire USB, clavier pc bureau, clavier mécanique Tunisie, accessoires gaming, Aorus, HyperX, Spirit of Gamer, Corsair, Razer, Msi.</p>",
+    "titreSEO": "Clavier pc gamer Tunisie | clavier azerty ordinateur sans fil RGB",
+    "create_date": "2020-04-24T00:32:08.000Z",
+    "reference": "CLAVIER",
+    "update_date": "2021-12-04T09:59:08.867Z",
+    "visible": true,
+    "marge": 1.12,
+    "tva": 1.07,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "LONGUEUR DE CÂBLE",
+      "valeur": "1.8 m",
+      "enable": true,
+      "_id": "6353e853091429332133e6eb"
+    },
+    {
+      "cle": "RÉTROÉCLAIRAGE",
+      "valeur": "RGB",
+      "enable": true,
+      "_id": "6353e853091429332133e6ec"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23388a4815052c4d1a421"
+  ],
+  "lien": "LENOVO-LEGION-K300-RGB",
+  "gallerie": {
+    "_id": "6353e63b091429332133e654",
+    "titre": "LENOVO TUNISIE - CLAVIER LEGION K300 RGB",
+    "urlPhoto": [
+      "/uploads/gallerie/1747393318633.webp",
+      "/uploads/gallerie/1747393320425.webp",
+      "/uploads/gallerie/1747393322326.webp",
+      "/uploads/gallerie/1747393324422.webp"
+    ],
+    "update_date": "2025-05-16T11:02:06.816Z",
+    "create_date": "2022-10-22T12:46:51.000Z",
+    "__v": 5,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "visibleHorsStock": true,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "textCommande": "Lenovo Tunisie ♥",
+  "enArrivage": false,
+  "new": false,
+  "vue": 5650,
+  "price": 129,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "CLAVIER",
+    "Lenovo Tunisie"
+  ],
+  "stock": 48,
+  "displayForPublic": true,
+  "create_date": "2022-10-22T12:45:53.002Z",
+  "update_date": "2025-10-23T21:03:28.352Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

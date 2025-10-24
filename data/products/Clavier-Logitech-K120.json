@@ -1,0 +1,179 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624379449158.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624379449158.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAQUlEQVQImWP4////PxD+9w9E/f/H8ODho/+9fRP/G5hY/ysorvzP0NLe84+Bgf9/dHzK/4OHjv1j+PPnD1w5iAAA0eYzGbxSJQwAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624379458198.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624379458198.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWO4fefu8xcvv//48f//fwYbB1cGRh4RSbngiCiGsJh4Jm4RU2v74vJKho8fP3748PHfv39AZQDGARwuJcykagAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624379465321.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624379465321.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWP49ev3379//4MBQ3BELAu/WGpG7rnzFxju3LlbVlHLwMinrK7LAFHw9+/fb9++AQBi0iESlh6/4wAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "602e82f472a5e1d1ef8697a3",
+  "sku": "920-002488",
+  "mpn": "920-002488",
+  "titleSeo": "Clavier PC Logitech K120 - Clavier filaire - résistant aux éclaboussures - MEGA PC",
+  "desciprtionSeo": "Clavier gaming Logitech K120 - Clavier filaire - résistant aux éclaboussures - Touches pouvant supporter jusqu'à 10 millions de frappes Pattes réglables et robustes pour une meilleure ergonomie Connexion USB prête à l'emploi - AZERTY, Français",
+  "ratingValue": "4.3",
+  "reviewCount": "42",
+  "priceValidUntil": "2027-05-03",
+  "referenceInterne": "920-002488",
+  "title": "Clavier Logitech K120",
+  "title_fr": "Clavier Logitech K120",
+  "description_fr": "<h2>Clavier Logitech K120</h2>\n\n<hr />\n<blockquote><span style=\"font-size:20px\">Le Logitech Keyboard K120 avec sa conception ultra plate, sa protection contre les liquides, ses touches robustes qui r&eacute;sistent &agrave; 10 millions de frappes, ses pieds inclinables et r&eacute;sistants est un clavier non seulement &eacute;l&eacute;gant, mais aussi durable. De plus, sa connexion USB Plug-and-play &eacute;limine l&#39;installation d&#39;un logiciel ou les t&acirc;ches informatiques fastidieuses. Les touches du clavier sont en caract&egrave;res blancs sur fond noir pour faciliter la lisibilit&eacute; pour tous, y compris pour les personnes avec une acuit&eacute; visuelle r&eacute;duite.</span></blockquote>\n\n<p>&nbsp;</p>\n",
+  "miniDescription": "",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Connexion</strong> : USB (Plug &amp; Play)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Disposition</strong> : AZERTY</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Touches</strong> : Ultra-plates, silencieuses</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Design</strong> : Ultra-mince, ergonomique</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Pieds</strong> : R&eacute;glables et robustes</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Caract&egrave;res</strong> : Bien visibles, r&eacute;sistants &agrave; l&#39;usure</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Utilisation</strong> : Bureautique, domestique</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ed6153e6735df04ea3dad84",
+    "titre": "LOGITECH",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327524058.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-06-02T09:00:46.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23388a4815052c4d1a421",
+    "titre": "CLAVIER",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206277489.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Clavier Pc gamer Filaire USB, clavier pc bureau, clavier mécanique Tunisie, accessoires gaming, Aorus, HyperX, Spirit of Gamer, Corsair, Razer, Msi.</p>",
+    "titreSEO": "Clavier pc gamer Tunisie | clavier azerty ordinateur sans fil RGB",
+    "create_date": "2020-04-24T00:32:08.000Z",
+    "reference": "CLAVIER",
+    "update_date": "2021-12-04T09:59:08.867Z",
+    "visible": true,
+    "marge": 1.12,
+    "tva": 1.07,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Modèle",
+      "valeur": "920-002488",
+      "enable": true,
+      "_id": "61c5e3bfaa748d6af9279966"
+    },
+    {
+      "cle": "Norme du clavier",
+      "valeur": "AZERTY",
+      "enable": true,
+      "_id": "61c5e3bfaa748d6af9279967"
+    },
+    {
+      "cle": "LocalisationType de touches",
+      "valeur": "À membrane",
+      "enable": true,
+      "_id": "61c5e3bfaa748d6af9279968"
+    },
+    {
+      "cle": "Poids",
+      "valeur": "0.55 KG",
+      "enable": true,
+      "_id": "61c5e3bfaa748d6af9279969"
+    },
+    {
+      "cle": "Technologie de connexion du clavier",
+      "valeur": "Filaire",
+      "enable": true,
+      "_id": "61c5e3bfaa748d6af927996a"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23388a4815052c4d1a421"
+  ],
+  "lien": "Clavier-Logitech-K120",
+  "gallerie": {
+    "_id": "602e800672a5e1d1ef869776",
+    "urlPhoto": [
+      "/uploads/gallerie/1624379449158.webp",
+      "/uploads/gallerie/1624379458198.webp",
+      "/uploads/gallerie/1624379465321.webp"
+    ],
+    "titre": "CLAVIER LOGITECH K120",
+    "__v": 9,
+    "create_date": "2021-02-18T14:56:06.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "textCommande": "commande 48h",
+  "enArrivage": false,
+  "new": false,
+  "vue": 5401,
+  "price": 25,
+  "sale": false,
+  "tagsSearch": [
+    "LOGITECH",
+    "ACCESSOIRES",
+    "CLAVIER",
+    "Logitech Desktop K120 - FRA - USB",
+    "lastlist"
+  ],
+  "discount": null,
+  "stock": 100,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2021-02-18T15:08:36.366Z",
+  "update_date": "2025-10-24T00:06:28.187Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

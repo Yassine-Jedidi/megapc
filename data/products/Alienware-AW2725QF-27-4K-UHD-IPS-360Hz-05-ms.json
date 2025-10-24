@@ -123,7 +123,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 666,
+  "vue": 668,
   "price": 2349,
   "tagsSearch": [
     "ALIENWARE",
@@ -134,7 +134,7 @@
   "stock": 99,
   "displayForPublic": true,
   "create_date": "2025-09-04T14:16:41.555Z",
-  "update_date": "2025-10-24T16:52:53.577Z",
+  "update_date": "2025-10-24T17:12:22.297Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

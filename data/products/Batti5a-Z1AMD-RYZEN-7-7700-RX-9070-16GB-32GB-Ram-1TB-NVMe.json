@@ -1,0 +1,192 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABUUF/4AAAT/R01T/p+z7P8AFhYW/iImIf+CiYX+n7Xb/wBJPzr+AAUH/0ZMTf5lY2b/AJWBav5rY1D/nZF1/v/93v/w+CGyCAVy0QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/j5XViZlpTWNHGxwAvKTYAABGdp6+zu7sAAAAWJCg39v//scTDAG5ma0NESd/n7UBLTGlBF4FrfjiUAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAADBP4SFBT/Vl1d/pCbo/8AYWhm/ujx7v/4///+kZuW/wBXXl7+bnd4/5KUj/6bkoT/AAABAf4ABAT/Q0tN/si+q//F+iSiJaDefQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWNQUlVhYGTjFhYxsLBgkFZSUFFXVVZTZWBhZwjxNGNgZpBRlHG0MWb4/2v3/N4sC0OlfYvKALm1CxWKc9EmAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWNg4ZfiFBSTV1eJy2xmYOCQYOATcfT1bJ99lMHd05OBic3Rzy88KZPh2cVN25Z0lRfG///zCQAcZxBz5a3PzAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPQ0lLT1NEQFBVkYGBgSE1NuHHt3KQp3bZ29gxhYYH//3/buWtTWkYmg6yctJOTQ3pmWmxYMAChhBHjfcvTYgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AM7Q17OwtI6Jjvby+ACmo7NlYGdWUVvY1uIAb21vAQABLCg5p6a0AP///39+fzIvOMjHzO8yGxQ0zVCeAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///4iIiHV0dNTU1ADY2NhZWVsYGBpvb24Ao6GjLi4vAQADYWFhAJ2dnCclJ2ppbcjIyJ47FxRpAteLAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AHJzc21tcNfU2////wBlY2Y7OEGQhKG6usEAQ0JDBAAJIRswUlJYAJaWlzs5O25tcaysrW0wFfKTTBrVAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "689a1f7b38284c8443b1e4a8",
+  "sku": "Batti5a Z1",
+  "mpn": "Batti5a Z1",
+  "titleSeo": "PC Gamer Batti5a Z1 Tunisie - AMD Ryzen 7 7700, Radeon RX 9070 32GB, 32GB DDR5, 1TB NVMe – Meilleur Prix 2025  | MEGA PC  | GIGA TECH",
+  "desciprtionSeo": " Découvrez le PC Gamer Batti5a Z1 en Tunisie, la machine ultime pour gamers et créateurs ! Avec son processeur AMD Ryzen 7 7700, sa puissante Gigabyte Radeon RX 9070 32GB, ses 32GB DDR5 ultra-rapides et son stockage NVMe de 1TB, bénéficiez de performances exceptionnelles à un prix imbattable. 🎮⚡ Disponible dès maintenant, équipez-vous pour dominer vos jeux et booster votre productivité ! #GamingTunisie #PCGamer #Batti5aZ1",
+  "ratingValue": "4.7",
+  "reviewCount": "49",
+  "priceValidUntil": "2027-04-05",
+  "referenceInterne": "Batti5a Z1",
+  "title": "Batti5a Z1 | AMD RYZEN 7 7700 | RX 9070 16GB | 32GB Ram | 1TB NVMe",
+  "title_fr": "Batti5a Z1 | AMD RYZEN 7 7700 | RX 9070 16GB | 32GB Ram | 1TB NVMe",
+  "description_fr": "<p><span style=\"font-size:22px\">Le <strong>Batti5a Z1</strong> est une v&eacute;ritable b&ecirc;te de course con&ccedil;ue pour les gamers exigeants et les cr&eacute;ateurs ambitieux. Propuls&eacute; par le puissant <strong>AMD RYZEN 7 7700</strong>, ce PC offre des performances incroyables gr&acirc;ce &agrave; son processeur derni&egrave;re g&eacute;n&eacute;ration capable de g&eacute;rer ais&eacute;ment multit&acirc;ches et charges lourdes. 🚀🧠</span></p>\n\n<p><span style=\"font-size:22px\">Pour accompagner ce c&oelig;ur battant, la carte graphique <strong>Gigabyte Radeon RX 9070 GAMING OC 16GB</strong> garantit des graphismes ultra fluides et d&eacute;taill&eacute;s, parfaits pour du gaming en haute r&eacute;solution ou du montage vid&eacute;o avanc&eacute;. 🎨🕹️</span></p>\n\n<p><span style=\"font-size:22px\">La m&eacute;moire vive ne laisse rien au hasard avec <strong>32GB DDR5 XPG LANCER BLADE &agrave; 5600MHz</strong>, offrant une rapidit&eacute; et une stabilit&eacute; exemplaires pour un travail intensif ou du streaming sans lag. ⚡💾</span></p>\n\n<p><span style=\"font-size:22px\">C&ocirc;t&eacute; stockage, le <strong>MSI SPATIUM M470 PRO M.2 NVMe 1TB</strong> vous assure un acc&egrave;s ultra rapide &agrave; vos jeux, applications et fichiers, avec suffisamment d&rsquo;espace pour tout stocker sans compromis. 💽⚡</span></p>\n\n<p><span style=\"font-size:22px\">L&rsquo;ensemble est parfaitement refroidi gr&acirc;ce au <strong>MSI MAG CORELIQUID A13 360 RGB</strong>, un refroidissement liquide performant et silencieux qui maintient votre syst&egrave;me au frais m&ecirc;me en pleine action. ❄️💧</span></p>\n\n<p><span style=\"font-size:22px\">Le tout est mont&eacute; dans un bo&icirc;tier robuste et &eacute;l&eacute;gant, le <strong>MSI MAG PANO M100R PZ - BLACK (Project Zero)</strong>, assurant un design moderne avec une ventilation optimis&eacute;e. 🖤🖥️</span></p>\n\n<p><span style=\"font-size:22px\">Enfin, l&rsquo;alimentation est assur&eacute;e par un bloc fiable et puissant : <strong>MSI MAG A750GL 750W PCIE5 80+ GOLD</strong>, garantissant une efficacit&eacute; &eacute;nerg&eacute;tique et une stabilit&eacute; &eacute;lectrique pour pr&eacute;server vos composants. 🔌⚡</span></p>\n\n<p><span style=\"font-size:22px\">Avec le <strong>Batti5a Z1</strong>, plongez dans une exp&eacute;rience gaming immersive et profitez d&rsquo;une machine taill&eacute;e pour durer et performer. Que vous soyez joueur comp&eacute;titif ou cr&eacute;ateur de contenu, ce PC est votre alli&eacute; id&eacute;al. 🎉🔥</span></p>\n\n<hr />\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🧠 <strong>Processeur :</strong> AMD Ryzen 7 7700 (3.8 GHz / 5.3 GHz)&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">🧩 <strong>Carte M&egrave;re :</strong> MSI B650M PROJECT ZERO</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte Graphique :</strong> Gigabyte Radeon RX 9070 GAMING OC 16GB</span></li>\n\t<li><span style=\"font-size:22px\">🧠 <strong>RAM :</strong> XPG LANCER BLADE 32GB (2x16GB) DDR5 5600MHz</span></li>\n\t<li><span style=\"font-size:22px\">💾 <strong>Stockage :</strong> MSI SPATIUM M470 PRO 1TB NVMe M.2 Gen4</span></li>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>Bo&icirc;tier :</strong> MSI MAG PANO M100R PZ BLACK (Project Zero)</span></li>\n\t<li><span style=\"font-size:22px\">⚡ <strong>Alimentation :</strong> MSI MAG A750GL 750W PCIE5 80+ GOLD</span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#ff0000\">❄️ <strong>Refroidissement :</strong> MSI MAG CORELIQUID A13 360 RGB</span></span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#ff0000\"><strong>Syst&egrave;me d&rsquo;exploitation</strong>&nbsp;: Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Batti5a-Z1AMD-RYZEN-7-7700-RX-9070-16GB-32GB-Ram-1TB-NVMe",
+  "gallerie": {
+    "_id": "664f5766dbc8064136ad940e",
+    "titre": "MSI MAG PANO M100R PZ NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1718808335563.webp",
+      "/uploads/gallerie/1718808335578.webp",
+      "/uploads/gallerie/1718808335582.webp",
+      "/uploads/gallerie/1718808341921.webp",
+      "/uploads/gallerie/1718808341923.webp",
+      "/uploads/gallerie/1718808341924.webp",
+      "/uploads/gallerie/1718808345577.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345579.webp",
+      "/uploads/gallerie/1718808345582.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-06-19T14:45:45.707Z",
+    "create_date": "2024-05-23T14:49:10.000Z",
+    "__v": 5
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 246,
+  "price": 4899,
+  "tagsSearch": [
+    "CONFIG PC AMD",
+    "ORDINATEURS",
+    "PC GAMER"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-08-11T16:51:07.188Z",
+  "update_date": "2025-10-24T01:23:39.179Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

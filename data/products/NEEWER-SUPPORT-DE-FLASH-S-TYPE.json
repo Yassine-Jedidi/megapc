@@ -1,0 +1,171 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172961800.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172961800.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOElEQVQImRXKIREAQAgEwGuEJgJh8BgKEYE+eBoc/3JnFiS7OyJIYnfNTESqCiRVFcDMfGSmu792OZce1lr+zNgAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172964492.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172964492.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWP4//9/S3Pzgvnz////z/Du3buE+Hh1dfU3b98y/P//38zMjIGB4c2bNyBOeXn59OnTgcoATSkgDXwTrx8AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172966749.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172966749.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOElEQVQImRXHMREAMAgEsLeAJzxgEgRggBUljLB+r9kCkpnZ3SQxMwDMbHdBUlVFxN1/qioi7u4BdU8hduWQjXAAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172969677.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172969677.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APv7+////4mJiWZmZgDi4uLCwsKvsLCoqqkAlJOTAQAAFBQUn5+fANzc3Ht7e0lJSaGhoTe8HEnXyPyvAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172972057.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172972057.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImRXHMREAMAgEsFfFoQMdrQFmTKGAGRWMSPheswUkI+LeQxIzo6oi0t0gaWYAdvcnM929qh4nqB7qe90DoQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172974834.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172974834.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOElEQVQImWOYPGlydXX15cuXnzx5wnAcDF69evX//3+Gz2AQGxOTnZ3N8Pbt2507d/r5+TEwMAAAnY8gmKxWwDgAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172977035.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1729172977035.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ALeysIB6dl5aV42LigCvra1ZVlHAu7aZlZMAgH9/BAAAjYuJZmZkAP///5iXlvbz8YqKipS0GsPFrHytAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "671112c599de58d4f61ff24a",
+  "sku": "3710074138",
+  "mpn": "3710074138",
+  "titleSeo": "NEEWER SUPPORT DE FLASH S-TYPE accessoires appareils photo | MEGA ",
+  "desciprtionSeo": "NEEWER SUPPORT DE FLASH S-TYPE",
+  "ratingValue": "4.5",
+  "reviewCount": "27",
+  "priceValidUntil": "2028-09-08 ",
+  "referenceInterne": "3710074138",
+  "title": "NEEWER SUPPORT DE FLASH S-TYPE",
+  "title_fr": "NEEWER SUPPORT DE FLASH S-TYPE",
+  "description_fr": "<p><span style=\"font-size:22px\">Support de Flash avec Bowens Monture pour Flash Snoot Softbox Bo&icirc;te &agrave; Lumi&egrave;re Beauty dish</span></p>\n",
+  "miniDescription_fr": "",
+  "notreSelection": true,
+  "marque": {
+    "_id": "670e6aa199de58d4f6e2e19f",
+    "titre": "NEEWER",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-10-15T13:14:09.815Z",
+    "create_date": "2024-10-15T13:14:09.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "66bdb83f7cfb23ff3cdfe227",
+    "titre": "APPAREIL PHOTO & CAMÉSCOPES",
+    "order": 22,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:33:21.288Z",
+    "create_date": "2024-08-15T08:11:43.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1724840357782.webp",
+    "urlPhoto2": "/uploads/categorie/1724840363242.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "670e5596ddc2b50ca079c4f6",
+    "titre": "ACCESSOIRES PHOTO",
+    "visible": true,
+    "order": 2,
+    "categorie": "66bdb83f7cfb23ff3cdfe227",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-10-15T11:44:50.186Z",
+    "create_date": "2024-10-15T11:44:22.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1728992684633.webp",
+    "urlPhoto2": "/uploads/souscateg/1728992690063.webp"
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "670e5596ddc2b50ca079c4f6"
+  ],
+  "lien": "NEEWER-SUPPORT-DE-FLASH-S-TYPE",
+  "gallerie": {
+    "_id": "6711153499de58d4f62169a5",
+    "titre": "SUPPORT DE FLASH S-TYPE",
+    "urlPhoto": [
+      "/uploads/gallerie/1729172961800.webp",
+      "/uploads/gallerie/1729172964492.webp",
+      "/uploads/gallerie/1729172966749.webp",
+      "/uploads/gallerie/1729172969677.webp",
+      "/uploads/gallerie/1729172972057.webp",
+      "/uploads/gallerie/1729172974834.webp",
+      "/uploads/gallerie/1729172977035.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-10-17T13:49:37.148Z",
+    "create_date": "2024-10-17T13:46:28.000Z",
+    "__v": 7
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 350,
+  "price": 80,
+  "priceHt": null,
+  "tagsSearch": [
+    "APPAREIL PHOTO & CAMÉSCOPES",
+    "APPAREIL PHOTO",
+    "ACCESSOIRES PHOTO",
+    "MEGA PC",
+    "NEEWER"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2024-08-15T16:25:50.471Z",
+  "update_date": "2025-10-22T18:00:30.301Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

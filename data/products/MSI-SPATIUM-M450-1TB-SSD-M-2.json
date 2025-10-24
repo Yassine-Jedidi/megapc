@@ -1,0 +1,158 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1698138121914.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1698138121914.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWP4////v3//wkLDYmNiGf7////hwwdVBQVHO1sQ5+3bN2wMDJbmZgzd/f2ZGckx0WHlpWUAGX8auCFakNMAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "6537848737e0a9bf8a6bb557",
+  "sku": "S78-440L980-P83",
+  "mpn": "4719072936204",
+  "titleSeo": "MSI SPATIUM M450 PCIE 4.0 NVME M.2 500GB | MEGA PC",
+  "desciprtionSeo": "MSI SPATIUM M450 PCIE 4.0 NVME M.2 500GB | Vitesse de lecture : 3600 Mo/s | Vitesse d'écriture : 2300 Mo/s | Consommation (max) : 3,4 W | Type de mémoire : 3D NAND | MEGA PC",
+  "ratingValue": "3.5",
+  "reviewCount": "65",
+  "priceValidUntil": "2023-05-08",
+  "referenceInterne": "S78-440L980-P83",
+  "title": "MSI SPATIUM M450 1TB SSD M.2",
+  "title_fr": "MSI SPATIUM M450 1TB SSD M.2",
+  "description_fr": "<h2>Disque&nbsp;MSI SPATIUM M450 PCIE 4.0 NVME M.2 1 TB</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le disque MSI SPATIUM M450 PCIE 4.0 NVME M.2 1 TB est un SSD performant et fiable qui offre des vitesses de lecture et d&#39;&eacute;criture s&eacute;quentielles allant jusqu&#39;&agrave; 3600 et 3000 Mo/s, respectivement. Il est compatible avec l&#39;interface PCIe Gen4 et est conforme au standard NVMe 1.4.</span></p>\n\n<p><span style=\"font-size:22px\">Le SPATIUM M450 est &eacute;quip&eacute; d&#39;une m&eacute;moire flash NAND TLC de haute qualit&eacute;, ce qui lui permet de fournir des performances constantes et fiables. Il est &eacute;galement dot&eacute; de fonctionnalit&eacute;s de protection des donn&eacute;es int&eacute;gr&eacute;es, telles que la correction d&#39;erreurs et la protection des donn&eacute;es E2E, qui aident &agrave; prot&eacute;ger vos donn&eacute;es en cas de panne ou d&#39;erreur.</span></p>\n\n<p><span style=\"font-size:22px\">Le SPATIUM M450 est disponible en capacit&eacute;s de 250 Go, 500 Go, 1 To et 2 To. Il est livr&eacute; avec une garantie de 5 ans.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Facteur de forme SSD : M.2</span></li>\n\t<li><span style=\"font-size:22px\">Capacit&eacute; SSD : 1 TB</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse de lecture : 3600 Mo/s</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse d&#39;&eacute;criture : 3000 Mo/s</span></li>\n\t<li><span style=\"font-size:22px\">Interface : PCI Express 4.0</span></li>\n\t<li><span style=\"font-size:22px\">Type de m&eacute;moire : 3D NAND</span></li>\n\t<li><span style=\"font-size:22px\">Consommation (max) : 3,4 W</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5f5fc891c0300232c01fb0ee",
+    "titre": "DISQUE-NVME",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205776098.webp",
+    "order": 7,
+    "descriptionSEO": "<p>Disque dur Nvme Tunisie | Disque dur SSD NVMe Pny, western digital, Samsung Evo, Crucial,  Sauvegardez vos données grâce à nos disques durs NVme.</p>",
+    "titreSEO": "SSD | NVME - Disque dur interne Tunisie M2 - Disque stockage |Mega PC",
+    "create_date": "2020-09-14T19:46:25.000Z",
+    "reference": "NVME",
+    "update_date": "2021-12-16T10:58:36.316Z",
+    "visible": false,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "secondFilsCateg": "61bb18134439e59bf2d60ad3",
+  "attributes": [
+    {
+      "cle": "FORMAT DE DISQUE",
+      "valeur": "M.2",
+      "enable": true,
+      "_id": "618bb50ca72597a1ccedb55e"
+    },
+    {
+      "cle": "CAPACITÉ DE STOCKAGE",
+      "valeur": "1 To",
+      "enable": true,
+      "_id": "618bb50ca72597a1ccedb55f"
+    },
+    {
+      "cle": "VITESSE EN ÉCRITURE",
+      "valeur": "2300 Mb/s",
+      "enable": true,
+      "_id": "618bb50ca72597a1ccedb560"
+    },
+    {
+      "cle": "VITESSE EN LECTURE",
+      "valeur": "3600 Mb/s",
+      "enable": true,
+      "_id": "618bb50ca72597a1ccedb561"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f5fc891c0300232c01fb0ee"
+  ],
+  "lien": "MSI-SPATIUM-M450-1TB-SSD-M-2",
+  "gallerie": {
+    "_id": "6537879a37e0a9bf8a6c4aca",
+    "titre": "MSI SPATIUM M450 1TB SSD M.2",
+    "urlPhoto": [
+      "/uploads/gallerie/1698138121914.webp"
+    ],
+    "update_date": "2023-10-24T09:02:02.032Z",
+    "create_date": "2023-10-24T09:00:10.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 20870,
+  "price": 220,
+  "tagsSearch": [
+    "MSI",
+    "COMPOSANTS",
+    "DISQUE-NVME",
+    "S78-440L980-P83"
+  ],
+  "stock": 100,
+  "forConfig": true,
+  "displayForPublic": true,
+  "create_date": "2022-07-12T16:06:56.469Z",
+  "update_date": "2025-10-24T13:56:46.864Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

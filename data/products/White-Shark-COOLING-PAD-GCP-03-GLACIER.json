@@ -1,0 +1,159 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627287.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627287.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImQXBwQ3AIAwDQLMQLAb/MqDVYapWRooSXqR3iAh3PyczE5LmvGqrvImlNUYHCkmYmaT3+bbvH8rVJJa5BM4ZAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627289.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627289.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////z8/OHh4fv7+wC1trY3NjgFAAWXlZgAwMDACwMLQj1Dr6qvAPz7+9bW1vv7+////1HUIJ/u7xnZAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627291.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627291.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP4////PzD4/+8fw44dO+zs7G2s7adMmcKwatUqPh4+FgbWqooqhlevXu3du3fXjl13bt0BAFcAHpB5Xg3pAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627292.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627292.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImQXBsRHAMAgDQM3jSxoWZYc0LtmBlhlYwq5opPxD0sx0N0lEhJkBcHdkJoB3PfvbIFlV91xJPz52H7PMe0PkAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627293.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627293.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AEZESG9yc6Ojo8nJyQAwLjcaFhoKAAosKzUAnJqb1tLVi4aLPzxLAOvp6vb29v////r6+R/MGiToikJ6AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627294.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1642256627294.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWNg5eAVFRJkZGAoLilm8PXxd3ZwkBATtzAzZ/j//39bS2tmesa3L19BnIbauls3b/7//x8AhfEW52/r874AAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "61e2d8856de98b4c2c7178c9",
+  "sku": "GCP-03",
+  "mpn": "GCP-03",
+  "titleSeo": "Pc Portable Cooling Pad White Shark COOLING PAD GCP-03 GLACIER",
+  "desciprtionSeo": "Pc Portable Cooling Pad White Shark COOLING PAD GCP-03 GLACIER | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "21",
+  "priceValidUntil": "2022-07-07",
+  "referenceInterne": "GCP-03",
+  "title": "White Shark COOLING PAD GCP-03 GLACIER",
+  "title_fr": "White Shark COOLING PAD GCP-03 GLACIER",
+  "miniDescription_fr": "<ul>\n\t<li><strong>Taille :</strong> 17.3 pouces</li>\n\t<li><strong>Vitesse des Ventilateurs : </strong>800 RPM</li>\n\t<li><strong>Taille (venti) :</strong> 170 mm</li>\n\t<li><strong>Bruitage : </strong>17-22 dp</li>\n\t<li><strong>Interface :</strong> USB 2.0</li>\n\t<li><strong>Air flow (CFM):</strong> 47</li>\n\t<li><strong>Dimensions :</strong> 405x300x26</li>\n\t<li><strong>longueur de cable : </strong>0.6 M&nbsp;</li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5f886a2f3a4d1b058a8fc012",
+    "titre": "WHITE SHARK",
+    "description": "WHITE SHARK",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327730130.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-10-15T15:26:39.000Z"
+  },
+  "categorie": {
+    "_id": "61bb23c7a14a1b547a40a936",
+    "titre": "PC PORTABLE",
+    "order": 2,
+    "visible": true,
+    "update_date": "2025-04-28T10:29:51.496Z",
+    "create_date": "2021-12-16T11:32:23.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1639654349693.png",
+    "reference": "externe",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "606bfd99e8ff02f7796cb01a",
+    "order": 9,
+    "titre": "ACCESSOIRES PC PORTABLE",
+    "titreSEO": "Achat Accessoires PC portable Gamer - MEGA PC",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1617690464917.webp",
+    "create_date": "2021-04-06T06:20:09.000Z",
+    "reference": "ACCESSOIRESPCPORTABLE",
+    "update_date": "2021-12-04T08:51:35.989Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "606bfd99e8ff02f7796cb01a"
+  ],
+  "lien": "White-Shark-COOLING-PAD-GCP-03-GLACIER",
+  "gallerie": {
+    "_id": "61e2d8e16de98b4c2c71c407",
+    "titre": "WHITE SHARK COOLING PAD GCP-03 GLACIER",
+    "urlPhoto": [
+      "/uploads/gallerie/1642256627287.webp",
+      "/uploads/gallerie/1642256627289.webp",
+      "/uploads/gallerie/1642256627291.webp",
+      "/uploads/gallerie/1642256627292.webp",
+      "/uploads/gallerie/1642256627293.webp",
+      "/uploads/gallerie/1642256627294.webp"
+    ],
+    "update_date": "2022-01-15T14:23:47.438Z",
+    "create_date": "2022-01-15T14:23:29.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 5263,
+  "price": 100,
+  "priceHt": null,
+  "tagsSearch": [
+    "WHITE SHARK",
+    "PC PORTABLE",
+    "ACCESSOIRES PC PORTABLE"
+  ],
+  "stock": 99,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2022-01-15T14:21:57.942Z",
+  "update_date": "2025-10-23T21:35:39.739Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

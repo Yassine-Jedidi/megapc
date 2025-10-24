@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1702310539304.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1702310539304.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AO7u74mJioOBgNbg5wDIyMoLCQ4DAgDAwMAA5ubmERESAQABzM3PAP///4OBgXd3eerq68MzG0L386HkAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6487245962794582497ad2e6",
+  "sku": "MBDGIGAB760XA5",
+  "mpn": "0000000000000",
+  "titleSeo": "GIGABYTE B760 GAMING X AX DDR5 | MEGA PC",
+  "desciprtionSeo": "GIGABYTE B760 GAMING X AX DDR5 | Processeurs compatibles : Core de 12ème et 13ème génération | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "69",
+  "referenceInterne": "F090150",
+  "title": "GIGABYTE B760 GAMING X AX DDR5",
+  "title_fr": "GIGABYTE B760 GAMING X AX DDR5",
+  "description_fr": "<h1>GIGABYTE B760 GAMING X AX DDR5</h1>\n\n<h2><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1702111631674.webp\" /></h2>\n\n<h2>Am&eacute;liorez votre exp&eacute;rience de jeu avec la carte m&egrave;re B760 GAMING X AX :&nbsp;</h2>\n\n<p><span style=\"font-size:22px\">Avec la carte m&egrave;re B760 GAMING X AX, vous pouvez vous immerger compl&egrave;tement dans le monde de la technologie de pointe et des jeux haute performance. Cette carte m&egrave;re, con&ccedil;ue pour prendre en charge les processeurs Pentium Gold, Celeron et Intel CoreTM de 13e et 12e g&eacute;n&eacute;ration, garantit une exp&eacute;rience de jeu incroyable qui rendra chaque instant joyeux.</span></p>\n\n<h2>Lib&eacute;rez la puissance de la m&eacute;moire DDR5 :</h2>\n\n<p><span style=\"font-size:22px\">Profitez de vitesses de donn&eacute;es ultra-rapides gr&acirc;ce &agrave; la prise en charge de la m&eacute;moire DDR5, qui peut atteindre des fr&eacute;quences allant jusqu&rsquo;&agrave; 7600 MHz. La carte m&egrave;re B760 GAMING X AX est con&ccedil;ue pour les joueurs qui veulent le meilleur et profiter de la joie qui accompagne un gameplay sans faille.</span></p>\n\n<h2>Restez connect&eacute; avec le Wi-Fi 6E et le LAN 2,5 GbE :&nbsp;</h2>\n\n<p><span style=\"font-size:22px\">Avec la B760 GAMING X AX, vous pouvez profiter d&rsquo;un jeu en ligne fluide et d&rsquo;une connectivit&eacute; &agrave; port&eacute;e de main. Gr&acirc;ce &agrave; sa prise en charge du LAN 2,5 GbE et du Wi-Fi 6E, vous pouvez jouer &agrave; des jeux en ligne avec peu de latence et un transfert de donn&eacute;es rapide, ce qui vous rendra heureux dans le monde num&eacute;rique.</span></p>\n\n<h2>Votre porte d&rsquo;entr&eacute;e vers des jeux de haute performance :</h2>\n\n<p><span style=\"font-size:22px\">La carte m&egrave;re B760 GAMING X AX, qui prend en charge PCIe 4.0 et offre une multitude de technologies de pointe, est votre ticket d&rsquo;entr&eacute;e pour des jeux hautes performances. Ses options de mise en r&eacute;seau de pointe et son facteur de forme ATX garantissent que chaque session de jeu est passionnante et joyeuse.</span></p>\n\n<h2><br />\n&nbsp;</h2>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re :&nbsp; ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket :&nbsp;Intel 1700</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;Intel B760 Express</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 192&nbsp;Go&nbsp;DDR5 7600 MHz ( 4 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 : 3</span></li>\n</ul>\n",
+  "facilite_fr": "<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1698680535207.png\" /></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0c"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "Intel B760 Express",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0d"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0e"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0f"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "4",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b10"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "192 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b11"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "48 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b12"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "7600 MHz",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b13"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "GIGABYTE-B760-GAMING-X-AX-DDR5",
+  "gallerie": {
+    "_id": "648726d362794582497bac78",
+    "titre": "GIGABYTE B760 GAMING X AX DDR5",
+    "urlPhoto": [
+      "/uploads/gallerie/1702310539304.webp"
+    ],
+    "update_date": "2023-12-11T16:02:19.533Z",
+    "create_date": "2023-06-12T14:08:19.000Z",
+    "__v": 6
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": true,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 6279,
+  "price": 695,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE RÉSEAU - PCI",
+    "CARTE MÈRE",
+    "CARTE GRAPHIQUE"
+  ],
+  "stock": 9,
+  "displayForPublic": true,
+  "create_date": "2023-06-12T13:57:45.804Z",
+  "update_date": "2025-10-23T20:16:34.747Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

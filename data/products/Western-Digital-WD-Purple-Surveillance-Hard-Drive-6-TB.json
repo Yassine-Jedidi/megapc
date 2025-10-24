@@ -1,0 +1,165 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1622114980722.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1622114980722.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APf1+XY8hV8obs3LzQDw6fE8AFYkADy6s7sA9O71UgBrMwBLv7m/AP///+Ti48G6wdbV1tySHgcKE6O/AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1622114986139.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1622114986139.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP7//lRNWDApMaenpwDy8fGUkpVhX2FubWwA6+rpPzpCMy41dnZ1AP///hYOFQcABqqoqKx0GBeGxKb4AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1622114992518.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1622114992518.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///29pc2hibeTl5ADt7eyIhYmgnaDR0c4A4eDfXVddfnZ+y8rIAPLy8QkABBUHEuHg3kjgHgXUjc+BAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "60ae6e94fe84cd04f8819d3a",
+  "sku": "WD60PURZ",
+  "mpn": "WD60PURZ",
+  "titleSeo": "DISQUE DUR Western Digital WD Purple Surveillance Hard Drive 6 TB |  Mega TUNISIE",
+  "desciprtionSeo": "DISQUE DUR Western Digital WD Purple Surveillance Hard Drive 6 TB |  Mega TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "34",
+  "priceValidUntil": "2022-12-12",
+  "referenceInterne": "WD60PURZ",
+  "title": "Western Digital WD Purple Surveillance Hard Drive 6 TB",
+  "title_fr": "Western Digital WD Purple Surveillance Hard Drive 6 TB",
+  "description_fr": "<h2><span style=\"color:#000000\">Western Digital WD Purple Surveillance Hard Drive 6 TB SATA 6Gb/s</span></h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le <strong>Western Digital WD Purple Surveillance Hard Drive</strong> de 6 To est un disque dur interne sp&eacute;cialement con&ccedil;u pour les syst&egrave;mes de vid&eacute;osurveillance. Dot&eacute; d&#39;une capacit&eacute; de stockage g&eacute;n&eacute;reuse de 6 To et d&#39;une m&eacute;moire cache de 64 Mo, il offre une performance optimale pour le traitement des donn&eacute;es. Sa technologie HDD et sa vitesse de rotation de 5700 RPM garantissent un fonctionnement fluide, tandis que l&#39;interface SATA 6.0 Gb/s permet un transfert rapide des donn&eacute;es. Le disque dur est aliment&eacute; soit par batterie, soit via USB, et est &eacute;quip&eacute; d&#39;un port USB 2.0. Avec des dimensions de 14,7 x 10,2 x 2,6 cm et un poids de 449 g, il se distingue par sa couleur argent&eacute;e &eacute;l&eacute;gante et ses caract&eacute;ristiques robustes adapt&eacute;es &agrave; un usage intensif en vid&eacute;osurveillance.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>FORMAT DE DISQUE:</strong> 3.5 POUCES</span></li>\n\t<li><span style=\"font-size:22px\"><strong>CAPACIT&Eacute; DE STOCKAGE:</strong> 6 TB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>VITESSE DE ROTATION: </strong>5700 RPM</span></li>\n\t<li><span style=\"font-size:22px\"><strong>TAILLE DU CACHE: </strong>64 MB</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb19acc4a2e400482a012e6",
+    "titre": "WESTERN DIGITAL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326902466.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:56:44.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5f5fc86dc0300232c01fb0ec",
+    "titre": "DISQUE-HDD",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205919916.webp",
+    "order": 8,
+    "descriptionSEO": "<p>Disque dur HDD Tunisie | Disque dur interne Western Digital, Seagate Technology, Toshiba, Sauvegardez vos données grâce à nos disques durs internes.</p>",
+    "titreSEO": "Disque dur HDD Tunisie | Disque Dur Interne pc gamer - Mega pc",
+    "create_date": "2020-09-14T19:45:49.000Z",
+    "reference": "HDD",
+    "update_date": "2021-12-16T10:58:30.220Z",
+    "visible": false,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "FORMAT DE DISQUE",
+      "valeur": "3.5 POUCES",
+      "enable": true,
+      "_id": "60ae75e0fe84cd04f8819d67"
+    },
+    {
+      "cle": "CAPACITÉ DE STOCKAGE",
+      "valeur": "6 TB",
+      "enable": true,
+      "_id": "60ae75e0fe84cd04f8819d68"
+    },
+    {
+      "cle": "VITESSE DE ROTATION",
+      "valeur": "5700 RPM",
+      "enable": true,
+      "_id": "60ae75e0fe84cd04f8819d69"
+    },
+    {
+      "cle": "TAILLE DU CACHE",
+      "valeur": "64 MB",
+      "enable": true,
+      "_id": "60ae75e0fe84cd04f8819d6a"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f5fc86dc0300232c01fb0ec"
+  ],
+  "lien": "Western-Digital-WD-Purple-Surveillance-Hard-Drive-6-TB",
+  "gallerie": {
+    "_id": "60af829dfe84cd04f8819dda",
+    "urlPhoto": [
+      "/uploads/gallerie/1622114980722.webp",
+      "/uploads/gallerie/1622114986139.webp",
+      "/uploads/gallerie/1622114992518.webp"
+    ],
+    "titre": "WESTERN DIGITAL WD PURPLE SURVEILLANCE HARD DRIVE 6 TB",
+    "__v": 3,
+    "create_date": "2021-05-27T11:29:33.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "enArrivage": false,
+  "new": false,
+  "vue": 3399,
+  "price": 529,
+  "tagsSearch": [
+    "WESTERN DIGITAL",
+    "COMPOSANTS",
+    "DISQUE-HDD"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2021-05-26T15:51:48.029Z",
+  "update_date": "2025-10-24T11:11:02.157Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

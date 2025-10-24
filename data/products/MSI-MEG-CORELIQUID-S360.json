@@ -1,0 +1,244 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636546562038.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636546562038.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYli1bpqWlrSCvoKyszGBhYcHIwKKqquro6MiArAwAASYdAez+Bq4AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636546562039.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636546562039.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQY3N3dZWVlNTQ0qqpqGIyNjRkYGHh4eAwNjRiQlQEA6IocTq6N5cIAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636546562039.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636546562039.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQY3N3dZWVlNTQ0qqpqGIyNjRkYGHh4eAwNjRiQlQEA6IocTq6N5cIAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636546562040.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636546562040.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP4//9/bm7u1KlT////z/D//39lZeWkpCQoR05Ozt7eHsppaWlhZGA+e/YsAEhMHo8NsDOyAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "618bbbd7a72597a1ccede4f9",
+  "sku": "9S6-6A0521-001",
+  "mpn": "4719072859466",
+  "titleSeo": "Achat MSI MEG CORELIQUID S360 - Cpu Cooler | MEGA PC",
+  "desciprtionSeo": "Achat MSI MEG CORELIQUID S360 - Cpu Cooler | Kit de Watercooling 360 mm pour processeur Intel/AMD | Ecran 2.4\" personnalisable | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "18",
+  "priceValidUntil": "2022-05-05",
+  "referenceInterne": "9S6-6A0521-001",
+  "title": "MSI MEG CORELIQUID S360",
+  "title_fr": "MSI MEG CORELIQUID S360",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>REFROIDISSEUR MSI MEG CORELIQUID S360</h2>\n\n<hr />\n<p><img alt=\"LIQUID COOLING MEG CORELIQUID S360 PRIX TUNISIE\" src=\"https://api.megapc.tn//uploads/gallerie/1636546599021.webp\" style=\"width:100%\" title=\"LIQUID COOLING MEG CORELIQUID S360 PRIX TUNISIE\" /></p>\n\n<hr />\n<h3><img alt=\"LIQUID COOLING MEG CORELIQUID S360 prix tunisie\" src=\"https://api.megapc.tn//uploads/gallerie/1636546599020.webp\" style=\"width:100%\" title=\"LIQUID COOLING MEG CORELIQUID S360 prix tunisie\" /><img alt=\"LIQUID COOLING MEG CORELIQUID S360 prix tunisie\" src=\"https://api.megapc.tn//uploads/gallerie/1636546599022.webp\" style=\"width:100%\" title=\"LIQUID COOLING MEG CORELIQUID S360 prix tunisie\" /><img alt=\"LIQUID COOLING MEG CORELIQUID S360 prix tunisie\" src=\"https://api.megapc.tn//uploads/gallerie/1636546599023.webp\" style=\"width:100%\" title=\"LIQUID COOLING MEG CORELIQUID S360 prix tunisie\" /></h3>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:20px\">Support natif du socket LGA 1700</span></li>\n\t<li><span style=\"font-size:20px\">Mode 0 RPM &agrave; basse sollicitation</span></li>\n\t<li><span style=\"font-size:20px\">Ventilateurs&nbsp;MSI MEG SILENT GALE P12 &agrave; haute pression statique</span></li>\n\t<li><span style=\"font-size:20px\">Ventilateur de&nbsp;60 mm&nbsp;dans le&nbsp;waterblock</span></li>\n\t<li><span style=\"font-size:20px\">Ecran 2.4&quot; personnalisable</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23316a4815052c4d1a41f",
+    "titre": "REFROIDISSEMENT",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205631293.webp",
+    "order": 1,
+    "descriptionSEO": "<p>Refroidisseur PC gamer, Refroidissement Ordinateur Bureautique - Ventilateur boîtier Gamer,  ventilo pc bureau. Refroidisseur PC portable prix tunisie</p>",
+    "titreSEO": "Refroidisseur PC gamer | Refroidissement Ordinateur Bureautique - Mega",
+    "create_date": "2020-04-24T00:30:14.000Z",
+    "reference": "CPUCOLER",
+    "update_date": "2021-12-04T08:54:29.005Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "SOCKET",
+      "valeur": "AMD AM2",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3c5"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "AMD AM2+",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3c6"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "Intel 1366",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3c7"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "AMD AM3",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3c8"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "Intel 1156",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3c9"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "Intel 1155",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3ca"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "AMD AM3+",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3cb"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "AMD FM1",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3cc"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "Intel 2011-V3",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3cd"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "Intel 1151",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3ce"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "AMD AM4",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3cf"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "Intel 2066",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3d0"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "AMD FM2",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3d1"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "Intel 1200",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3d2"
+    },
+    {
+      "cle": "SOCKET",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "618bbda4a72597a1ccedf3d3"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23316a4815052c4d1a41f"
+  ],
+  "lien": "MSI-MEG-CORELIQUID-S360",
+  "gallerie": {
+    "_id": "618bb78ea72597a1ccedc8ed",
+    "urlPhoto": [
+      "/uploads/gallerie/1636546562038.webp",
+      "/uploads/gallerie/1636546562039.webp",
+      "/uploads/gallerie/1636546562039.webp",
+      "/uploads/gallerie/1636546562040.webp"
+    ],
+    "titre": "LIQUID COOLING MEG CORELIQUID S360",
+    "__v": 1,
+    "create_date": "2021-11-10T12:14:06.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 6252,
+  "price": 929,
+  "sale": false,
+  "tagsSearch": [
+    "s360",
+    "msi",
+    "coreliquid",
+    "MSI",
+    "COMPOSANTS",
+    "REFROIDISSEMENT"
+  ],
+  "discount": null,
+  "stock": 1,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2021-11-10T12:32:23.689Z",
+  "update_date": "2025-10-24T16:06:11.896Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,160 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624451656507.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624451656507.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAARklEQVQImWP4////PxD+/v37fxDN8ObNm//W9s7/GRi4/u3du/c/w/79+/9p6+j/nz5z7r81a9b8Y/j8+fO/V69egZWDCADZ6DOrZiFv6QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624451662662.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624451662662.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP77+bS0tMXHzf///wBheIUAFSYWICt7e34A3+br4urvAAAJOjxAAP////b29mh2fN7h5A/oHdk836QmAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624451667645.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624451667645.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP3+/83U2NXV1vHz9AD+//9MaXwlLjmNkpgAUF1hAw4UAAIQhYSEAKG5wpiwva/AyODj5C+SHQ0ZGI/YAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624451672337.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1624451672337.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP7+/v///7/AwdjY2ACbm5t1dHcBBxcYHCMATlljAAAPExQaVlhcAP///+Dl58DCwv///+EcG7UTE8NvAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "60cc8e16e1183604d82950a4",
+  "sku": "sog-xgp-manette-wired",
+  "mpn": "SOG-WXGP",
+  "titleSeo": "Manette - Spirit of Gamer XGP Wired - Gamepad- Mega Pc",
+  "desciprtionSeo": "Spirit of Gamer XGP Wired Gamepad bleu | 2-in-1 Gamepad: PlayStation 3 and PC Built-in dual mode: X-Input and Direct-Input Precise octodirectional crosshair 12 digital buttons 2 off-centre 360° analogue sticks Dual triggers and analog bumpers Special \"Rapid Fire\" function Home button for PlayStation mode | MEGA TUNISIE",
+  "ratingValue": "3.9",
+  "reviewCount": "42",
+  "priceValidUntil": "2022-08-08",
+  "referenceInterne": "SOG-WXGP",
+  "title": "Spirit of Gamer XGP Wired Gamepad",
+  "title_fr": "Spirit of Gamer XGP Wired Gamepad",
+  "description_fr": "<h2>Spirit of Gamer XGP Wired Gamepad</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Jouez facilement sur PC et PlayStation Faites-vous plaisir aussi bien sur PC que sur PlayStation avec la manette filaire&nbsp;Spirit of Gamer XGP Wired Gamepad. Cette version propose un Dual Mode int&eacute;gr&eacute; pour une plus grande compatibilit&eacute; des jeux, 12 boutons num&eacute;riques ainsi que 2 sticks analogiques excentr&eacute;s pour un plus grand confort. Dot&eacute;e d&#39;un toucher Soft Touch ultra confortable, la manette XGP Wired Gamepad vous accompagnera dans vos futurs divertissements.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>2-in-1 Gamepad:</strong>&nbsp;PlayStation 3 and PC</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Built-in dual mode</strong>: X-Input and Direct-Input</span></li>\n\t<li><span style=\"font-size:22px\">Precise octodirectional crosshair</span></li>\n\t<li><span style=\"font-size:22px\">12 digital buttons</span></li>\n\t<li><span style=\"font-size:22px\"><strong>2 off-centre 360&deg; analogue sticks</strong></span></li>\n\t<li><span style=\"font-size:22px\">Dual triggers and analog bumpers</span></li>\n\t<li><span style=\"font-size:22px\">Special &quot;Rapid Fire&quot; function</span></li>\n\t<li><span style=\"font-size:22px\">Home button for PlayStation mode</span></li>\n\t<li><span style=\"font-size:22px\"><strong>2 vibration motors</strong>&nbsp;for maximum gaming feel</span></li>\n\t<li><span style=\"font-size:22px\"><strong>LED indicators</strong></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eab45cc1c53430470a67932",
+    "titre": "SPIRIT",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326695675.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-30T21:40:28.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2339da4815052c4d1a422",
+    "titre": "MANETTE",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206419513.webp",
+    "order": 5,
+    "descriptionSEO": "<p>Manette de Jeu Pc gamer tunisie, Manettes de Jeux Playstation ps4 ps5 Sans Fil Prix Tunisie. Achat Accessoires de Jeux GAMING sur Mega PC. bluetooth.</p>",
+    "titreSEO": "Manette de Jeu Pc gamer Tunisie - Playstation, Ps5 sans fil - MEGA PC",
+    "create_date": "2020-04-24T00:32:29.000Z",
+    "reference": "MANETTE",
+    "update_date": "2021-12-17T15:52:06.802Z",
+    "visible": true,
+    "marge": 1.15,
+    "tva": 1.19,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "COMPATIBILITÉ",
+      "valeur": "PC",
+      "enable": true,
+      "_id": "60cc8e16e1183604d82950a5"
+    },
+    {
+      "cle": "COMPATIBILITÉ",
+      "valeur": "PLAYSTATION",
+      "enable": true,
+      "_id": "60cc8e16e1183604d82950a6"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2339da4815052c4d1a422"
+  ],
+  "lien": "Spirit-of-Gamer-XGP-Wired-Gamepad",
+  "gallerie": {
+    "_id": "60cc8dd8e1183604d82950a3",
+    "urlPhoto": [
+      "/uploads/gallerie/1624451656507.webp",
+      "/uploads/gallerie/1624451662662.webp",
+      "/uploads/gallerie/1624451667645.webp",
+      "/uploads/gallerie/1624451672337.webp"
+    ],
+    "titre": "SPIRIT OF GAMER XGP WIRED GAMEPAD",
+    "__v": 20,
+    "create_date": "2021-06-18T12:13:12.000Z"
+  },
+  "visibleHorsStock": true,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 8339,
+  "price": 69,
+  "tagsSearch": [
+    "SPIRIT",
+    "ACCESSOIRES",
+    "MANETTE"
+  ],
+  "stock": 7,
+  "displayForPublic": true,
+  "create_date": "2021-06-18T12:14:14.791Z",
+  "update_date": "2025-10-24T14:01:43.357Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,151 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982247512.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982247512.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImRXHMREAMAgDwFjDAwLw0dphxAQu2HAQCen1t4ek7t5dSSDp7pn5MzMAIoIkJJnZPaeqHrTrIUfpDaPmAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982251466.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982251466.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVQImWP4jwQY3rx5M2nSpOnTp9+6dYvh4MGDOjo6DAwMbW1tDMjKAOV+JQ+m2Q6oAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982251467.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982251467.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APLy8vDw8P////v7+wBAQEAdHR319vbc3NwAMzMxAgAA5OPkw8LEAOfm5+Lg4vTz9O3r7X59Iqbaf5ibAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982251468.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982251468.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALUlEQVQImWP4jwQYXr16VVtbq6uru3btWobTp08zgMHBgwcZ/v////XrV4gyAKhnIzLViuRuAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982251469.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1704982251469.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImU3KMQEAMAwCMHTUVaekEioDX+hAA9u53EE+sE3ydO8uSAKoqplBEkm2X7uXjyGYo41AfgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "659ff8680ba0330b65a17286",
+  "sku": "GY51L15677",
+  "mpn": "GY51L15677",
+  "titleSeo": "Lenovo 300 Wireless Compact Mouse (Cloud Grey) | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2024-09-08",
+  "referenceInterne": "GY51L15677",
+  "title": "Lenovo 300 Wireless Compact Mouse (Cloud Grey) ",
+  "title_fr": "Lenovo 300 Wireless Compact Mouse (Cloud Grey) ",
+  "description_fr": "<h2>Lenovo 300 Wireless Compact Mouse&nbsp;</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La souris compacte sans fil Lenovo 300 est l&#39;accessoire parfait pour ceux qui voyagent pour le travail, les cadres qui font des pr&eacute;sentations ou tous ceux qui veulent plus de contr&ocirc;le et de libert&eacute;. Avec son design compact, il se glisse facilement dans les poches.<br />\nLongue dur&eacute;e de vie des piles jusqu&#39;&agrave; 12 mois pour que vous n&#39;ayez pas &agrave; vous soucier de changer souvent les piles.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">NOMBRE DE BOUTONS&nbsp;:&nbsp;3 Boutons</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence sans fil :&nbsp; 2.4 Ghz</span></li>\n\t<li><span style=\"font-size:22px\">Distance Sans Fil Max : 10m</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions : 32 x 56 x 98 mm</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233bfa4815052c4d1a423",
+    "titre": "SOURIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206287980.webp",
+    "order": 1,
+    "descriptionSEO": "<p>Souris Pc gamer Tunisie&nbsp;optique Sans fil -&nbsp;Achat Souris Ordinateur bureau, souris Pc portable gaming RGB - Aorus, Razer, Logitech, Corsair, Steelseries</p>",
+    "titreSEO": "Souris PC gamer | sans fil pour ordinateur Pc portable | Mega PC",
+    "create_date": "2020-04-24T00:33:03.000Z",
+    "reference": "SOURIS",
+    "update_date": "2021-12-04T08:54:08.545Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea233bfa4815052c4d1a423"
+  ],
+  "lien": "Lenovo-300-Wireless-Compact-Mouse",
+  "gallerie": {
+    "_id": "659ff6da0ba0330b65a0d779",
+    "titre": "LENOVO 300 WIRELESS COMPACT MOUSE (CLOUD WHITE) ",
+    "urlPhoto": [
+      "/uploads/gallerie/1704982247512.webp",
+      "/uploads/gallerie/1704982251466.webp",
+      "/uploads/gallerie/1704982251467.webp",
+      "/uploads/gallerie/1704982251468.webp",
+      "/uploads/gallerie/1704982251469.webp"
+    ],
+    "update_date": "2024-01-11T14:10:51.590Z",
+    "create_date": "2024-01-11T14:10:34.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1617,
+  "price": 36,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "SOURIS"
+  ],
+  "stock": 47,
+  "displayForPublic": true,
+  "create_date": "2024-01-11T14:17:12.882Z",
+  "update_date": "2025-10-22T19:02:48.970Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

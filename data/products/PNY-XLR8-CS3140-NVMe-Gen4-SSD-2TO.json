@@ -1,0 +1,154 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623261406119.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623261406119.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYKsrLHGxtvdzdE+KjGYIC/BgZGORkZG2sTBiQlQEAGgId7B90kgMAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "60c0f94671cea264579fac49",
+  "sku": "751492642383",
+  "mpn": "751492642383",
+  "titleSeo": "Le PNY CS3140 2 To est un SSD NVMe Gen4 hautes performances, conçu pour les passionnés de gaming, les créateurs de contenu et les professionnels exigeants. Grâce à une vitesse de lecture fulgurante allant jusqu’à 7500 Mo/s, ce disque M.2 offre une réactivité exceptionnelle, idéale pour les jeux AAA, les logiciels lourds ou les transferts massifs. Compact, rapide et puissant, il est disponible dès maintenant au meilleur prix en Tunisie 🇹🇳 pour donner un véritable coup de boost à votre configuration PC.",
+  "desciprtionSeo": "DISUQE DUR SSD M.2 NVMe PNY CS3140 - 2TB | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "59",
+  "priceValidUntil": "2022-05-05",
+  "referenceInterne": "751492642383",
+  "title": "PNY XLR8 CS3140 NVMe Gen4 SSD 2TO",
+  "title_fr": "PNY XLR8 CS3140 NVMe Gen4 SSD 2TO",
+  "description_fr": "<h2>PNY CS3140 M.2 NVMe SSD 2TB</h2>\n\n<hr />\n<h2>🧠 <strong>PNY CS3140 2TB NVMe Gen4 &ndash; Un SSD de comp&eacute;tition &agrave; prix malin en Tunisie ! 🚀</strong></h2>\n\n<p><span style=\"font-size:22px\">Envie de passer &agrave; la vitesse sup&eacute;rieure pour booster ton PC ? 💻 Le <strong>PNY CS3140 2TB</strong> est le <strong>SSD NVMe Gen4</strong> taill&eacute; pour les gamers, les monteurs vid&eacute;o, et tous ceux qui ne veulent plus attendre. Avec sa capacit&eacute; de <strong>2 To</strong>, ce disque M.2 offre <strong>espace et rapidit&eacute;</strong>, le tout &agrave; un <strong>prix comp&eacute;titif en Tunisie 🇹🇳</strong>.</span></p>\n\n<p><span style=\"font-size:22px\">Gr&acirc;ce &agrave; l&rsquo;<strong>interface PCIe Gen4 x4</strong>, il atteint des vitesses <strong>exceptionnelles</strong> : jusqu&rsquo;&agrave; <strong>7500 Mo/s en lecture</strong> et <strong>6850 Mo/s en &eacute;criture</strong> ⚡. De quoi charger tes jeux et logiciels en un &eacute;clair, transf&eacute;rer des fichiers massifs sans ralentissement, ou monter des vid&eacute;os 4K sans souci.</span></p>\n\n<p><span style=\"font-size:22px\">Dot&eacute; de <strong>m&eacute;moire flash 3D NAND</strong>, il assure <strong>fiabilit&eacute;, durabilit&eacute;</strong> et performance dans un format <strong>M.2 compact</strong> 🧱. Un must-have pour toute configuration haut de gamme ou mise &agrave; jour s&eacute;rieuse de ton syst&egrave;me.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1677773198327.webp\" /></p>\n\n<p>&nbsp;</p>\n\n<hr />\n<p><span style=\"font-size:22px\">Capacit&eacute; : 2TB</span></p>\n\n<p><span style=\"font-size:22px\">Encombrement : M.2 2280 </span></p>\n\n<p><span style=\"font-size:22px\">Interface: PCIe Gen4 x4</span></p>\n\n<p><span style=\"font-size:22px\">Vitesse de Lecture Maximum&nbsp;: up to 7500 MB/s</span></p>\n\n<p><span style=\"font-size:22px\">Vitesse d&#39;&eacute;criture Maximum : up to 5650 MB/s</span></p>\n\n<p><span style=\"font-size:22px\">Type de m&eacute;moire Flash : 3D Flash Memory</span></p>\n\n<p><span style=\"font-size:22px\">MTBF : 2,000,000 Hours</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">💾 <strong>Capacit&eacute;</strong> : 2 To</span></li>\n\t<li><span style=\"font-size:22px\">🔢 <strong>R&eacute;f. produit</strong> : M280CS3140-2TB-RB</span></li>\n\t<li><span style=\"font-size:22px\">📏 <strong>Format</strong> : M.2 2280</span></li>\n\t<li><span style=\"font-size:22px\">🔌 <strong>Interface</strong> : PCIe Gen4 x4 (NVMe)</span></li>\n\t<li><span style=\"font-size:22px\">⚡ <strong>Lecture max</strong> : 7500 Mo/s</span></li>\n\t<li><span style=\"font-size:22px\">✍️ <strong>&Eacute;criture max</strong> : 6850 Mo/s</span></li>\n\t<li><span style=\"font-size:22px\">🧠 <strong>NAND</strong> : 3D Flash Memory</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb199174a2e400482a012e1",
+    "titre": "PNY",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326876653.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:49:27.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5f5fc891c0300232c01fb0ee",
+    "titre": "DISQUE-NVME",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205776098.webp",
+    "order": 7,
+    "descriptionSEO": "<p>Disque dur Nvme Tunisie | Disque dur SSD NVMe Pny, western digital, Samsung Evo, Crucial,  Sauvegardez vos données grâce à nos disques durs NVme.</p>",
+    "titreSEO": "SSD | NVME - Disque dur interne Tunisie M2 - Disque stockage |Mega PC",
+    "create_date": "2020-09-14T19:46:25.000Z",
+    "reference": "NVME",
+    "update_date": "2021-12-16T10:58:36.316Z",
+    "visible": false,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "FORMAT DE DISQUE",
+      "valeur": "M.2",
+      "enable": true,
+      "_id": "60c101c671cea264579fac82"
+    },
+    {
+      "cle": "CAPACITÉ DE STOCKAGE",
+      "valeur": "2 TB",
+      "enable": true,
+      "_id": "60c101c671cea264579fac83"
+    },
+    {
+      "cle": "VITESSE EN ÉCRITURE",
+      "valeur": "5650 MB/S",
+      "enable": true,
+      "_id": "60c101c671cea264579fac84"
+    },
+    {
+      "cle": "VITESSE EN LECTURE",
+      "valeur": "7500 MB/S",
+      "enable": true,
+      "_id": "60c101c671cea264579fac85"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f5fc891c0300232c01fb0ee"
+  ],
+  "lien": "PNY-XLR8-CS3140-NVMe-Gen4-SSD-2TO",
+  "gallerie": {
+    "_id": "60c100d871cea264579fac7b",
+    "urlPhoto": [
+      "/uploads/gallerie/1623261406119.webp"
+    ],
+    "titre": "SSD NVME - CS3140 PNY",
+    "__v": 1,
+    "create_date": "2021-06-09T17:56:40.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 5020,
+  "price": 699,
+  "tagsSearch": [
+    "PNY",
+    "COMPOSANTS",
+    "DISQUE-NVME",
+    "PNY XLR8 CS3140 NVMe Gen4 SSD 2TO"
+  ],
+  "stock": 98,
+  "displayForPublic": true,
+  "create_date": "2021-06-09T17:24:22.212Z",
+  "update_date": "2025-10-23T21:25:25.658Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

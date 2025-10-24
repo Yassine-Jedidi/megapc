@@ -1,0 +1,176 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1634136542762.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1634136542762.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AJ2dnQPU/tQG////BIiIiAEAyMbEgrm3t/Wmo6Tty8jIqgDNx8mIvri6/6yoqvDOy8ugALq6ug/WzNYY////BQAAAACenSjFF3JutwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1634136542764.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1634136542764.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAATUlEQVQImWMoKSlxy8zMNHOyc3I30jfKZpCWls76//9/7PQpU4L9fPx6GVRUVAwmTpxoamFhEWZhZpbNkJOTY5Oenu7NysCwgpmBcRcAFK4Vs/Uk5wIAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1634136895191.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1634136895191.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAASElEQVQImWP4//+/xsKFC//39PTUM4DAoUOH1Pbu3fv/7NmzlWCBGzduSM2aNev3xIkTd23fvl0KLNjW1la0ZMmShQcOHIgGAKfAIfBa+BkNAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6166f6c832234952ef8a189f",
+  "sku": "WSDSM03",
+  "mpn": "WSDSM03",
+  "titleSeo": "WHITE SHARK MICROPHONE TAUS - DSM-03 - MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2022-05-05",
+  "referenceInterne": "DSM-03",
+  "title": "WHITE SHARK MICROPHONE TAUS - DSM-03",
+  "title_fr": "WHITE SHARK MICROPHONE TAUS - DSM-03",
+  "description_fr": "<h2>WHITE SHARK MICROPHONE TAUS - DSM-03</h2>\n\n<hr />\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1685373973687.webp\" /></p>\n\n<p><img alt=\"WHITE SHARK MICROPHONE TAUS - DSM-03 COVER\" src=\"https://api.megapc.tn//uploads/gallerie/1634137038128.webp\" title=\"WHITE SHARK MICROPHONE TAUS - DSM-03 PRIX TUNISIE\" /></p>\n\n<hr />\n<h3>CARACT&Eacute;RISTIQUES PRINCIPALES :</h3>\n\n<p><span style=\"font-size:22px\">- Microphone: Condenser, diameter 14 mm<br />\n- Frequency response (Hz): 20 - 20000<br />\n- S/N ratio (dB): 60<br />\n- Cable length (m): 1.5<br />\n- Pickup pattern: Cardioid<br />\n- Microphone sensitivity (dB): Sensitivity: -13.5 dB +/- 3 dB (0 dB = 1 V/Pa @ 1 kHz)<br />\n- Max SPL: 93.5 dB<br />\n- Bit Rate: 192 kHz / 24 bit</span></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Microphone: Condenser, diameter 14 mm</span></li>\n\t<li><span style=\"font-size:22px\">Frequency response (Hz): 20 - 20000</span></li>\n\t<li><span style=\"font-size:22px\">S/N ratio (dB): 60</span></li>\n\t<li><span style=\"font-size:22px\">Cable length (m): 1.5</span></li>\n\t<li><span style=\"font-size:22px\">Pickup pattern: Cardioid</span></li>\n\t<li><span style=\"font-size:22px\">Microphone sensitivity (dB): Sensitivity: -13.5 dB +/- 3 dB (0 dB = 1 V/Pa @ 1 kHz)</span></li>\n\t<li><span style=\"font-size:22px\">Max SPL: 93.5 dB</span></li>\n\t<li><span style=\"font-size:22px\">Bit Rate: 192 kHz / 24 bit</span></li>\n</ul>\n",
+  "facilite_fr": "",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5f886a2f3a4d1b058a8fc012",
+    "titre": "WHITE SHARK",
+    "description": "WHITE SHARK",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327730130.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-10-15T15:26:39.000Z"
+  },
+  "categorie": {
+    "_id": "5fbd4008c43710886bc4c65b",
+    "order": 11,
+    "titre": "STREAMING",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1620205193173.webp",
+    "create_date": "2020-11-24T17:16:56.000Z",
+    "update_date": "2025-04-28T10:31:45.321Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ffd66199504b9a0f1d9dded",
+    "order": 3,
+    "titre": "MICROPHONES",
+    "categorie": "5fbd4008c43710886bc4c65b",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1610442273609.webp",
+    "create_date": "2021-01-12T09:04:25.000Z",
+    "update_date": "2021-12-04T08:52:38.110Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "MICROPHONE",
+      "valeur": "CONDENSER, DIAMETER 14 MM",
+      "enable": true,
+      "_id": "61682f8d117e54777f9aa5b3"
+    },
+    {
+      "cle": "FREQUENCY RESPONSE (HZ)",
+      "valeur": "20 - 20000",
+      "enable": true,
+      "_id": "61682f8d117e54777f9aa5b4"
+    },
+    {
+      "cle": "PICKUP PATTERN",
+      "valeur": "CARDIOID",
+      "enable": true,
+      "_id": "61682f8d117e54777f9aa5b5"
+    },
+    {
+      "cle": "MAX SPL",
+      "valeur": "93.5 DB",
+      "enable": true,
+      "_id": "61682f8d117e54777f9aa5b6"
+    },
+    {
+      "cle": "BIT RATE",
+      "valeur": "192 KHZ / 24 BIT",
+      "enable": true,
+      "_id": "61682f8d117e54777f9aa5b7"
+    },
+    {
+      "cle": "BLACK FRIDAY",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "6187f475bfea4df7c38bbe72"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ffd66199504b9a0f1d9dded"
+  ],
+  "lien": "WHITE-SHARK-MICROPHONE-TAUS-DSM-03",
+  "gallerie": {
+    "_id": "6166f1c832234952ef8a05ab",
+    "urlPhoto": [
+      "/uploads/gallerie/1634136542762.webp",
+      "/uploads/gallerie/1634136542764.webp",
+      "/uploads/gallerie/1634136895191.webp"
+    ],
+    "titre": "WHITE SHARK MICROPHONE TAUS - DSM-03",
+    "__v": 3,
+    "create_date": "2021-10-13T14:48:40.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": false,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 9701,
+  "price": 144,
+  "sale": false,
+  "tagsSearch": [
+    "WHITE SHARK",
+    "STREAMING",
+    "MICROPHONES"
+  ],
+  "discount": null,
+  "stock": 0,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2021-10-13T15:10:00.776Z",
+  "update_date": "2025-10-24T07:13:41.629Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

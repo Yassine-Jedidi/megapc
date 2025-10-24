@@ -1,0 +1,199 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABUUF/4AAAT/R01T/p+z7P8AFhYW/iImIf+CiYX+n7Xb/wBJPzr+AAUH/0ZMTf5lY2b/AJWBav5rY1D/nZF1/v/93v/w+CGyCAVy0QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/j5XViZlpTWNHGxwAvKTYAABGdp6+zu7sAAAAWJCg39v//scTDAG5ma0NESd/n7UBLTGlBF4FrfjiUAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAADBP4SFBT/Vl1d/pCbo/8AYWhm/ujx7v/4///+kZuW/wBXXl7+bnd4/5KUj/6bkoT/AAABAf4ABAT/Q0tN/si+q//F+iSiJaDefQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWNQUlVhYGTjFhYxsLBgkFZSUFFXVVZTZWBhZwjxNGNgZpBRlHG0MWb4/2v3/N4sC0OlfYvKALm1CxWKc9EmAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWNg4ZfiFBSTV1eJy2xmYOCQYOATcfT1bJ99lMHd05OBic3Rzy88KZPh2cVN25Z0lRfG///zCQAcZxBz5a3PzAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPQ0lLT1NEQFBVkYGBgSE1NuHHt3KQp3bZ29gxhYYH//3/buWtTWkYmg6yctJOTQ3pmWmxYMAChhBHjfcvTYgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AM7Q17OwtI6Jjvby+ACmo7NlYGdWUVvY1uIAb21vAQABLCg5p6a0AP///39+fzIvOMjHzO8yGxQ0zVCeAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///4iIiHV0dNTU1ADY2NhZWVsYGBpvb24Ao6GjLi4vAQADYWFhAJ2dnCclJ2ppbcjIyJ47FxRpAteLAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AHJzc21tcNfU2////wBlY2Y7OEGQhKG6usEAQ0JDBAAJIRswUlJYAJaWlzs5O25tcaysrW0wFfKTTBrVAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "684af09efd2984d47c164fa8",
+  "sku": "MSI-Wolf-Z6",
+  "mpn": "MSI-Wolf-Z6",
+  "titleSeo": "🐺 MSI Wolf Z6 – La bête ultime gamer en Tunisie 🇹🇳 | Ryzen 7 7600X3D, RTX 5070, 32Go RAM, SSD 1To NVMe | MEGA PC | GIGA TECH",
+  "desciprtionSeo": "Vous cherchez le PC gamer parfait en Tunisie pour jouer en 2K/4K, streamer ou travailler sur des logiciels lourds ? Le MSI Wolf Z6 est une véritable bête de course. 💻 Avec son processeur AMD Ryzen 7 7600X3D, sa carte graphique RTX 5070 de nouvelle génération et ses 32 Go de RAM DDR5, cette configuration vous assure une fluidité exceptionnelle, même sur les jeux les plus gourmands.  Son design Project Zero avec un boîtier MSI MAG PANO M100R PZ en noir profond et son refroidissement liquide MSI MAG CORELIQUID 360R V2 🌀 permettent non seulement un flux d’air optimal, mais aussi un look moderne et épuré. C’est le PC gamer rêvé, prêt à dominer le jeu. 🎮 | MEGA PC | GIGA TECH | pc gamer tunisie, MSI Wolf Z6 prix tunisie, ryzen 7600X3D tunisie, RTX 5070 Tunisie, pc gaming haut de gamme, meilleur pc gamer 2025, pc tunisie performance, PC MSI prix",
+  "ratingValue": "4.7",
+  "reviewCount": "49",
+  "priceValidUntil": "2027-07-09",
+  "referenceInterne": "MSI-Wolf-Z6",
+  "title": "Wolf Z6 | AMD Ryzen 7 7600X3D | RTX 5070 12GB | 32GB Ram | 1TB NVMe",
+  "title_fr": "Wolf Z6 | AMD Ryzen 7 7600X3D | RTX 5070 12GB | 32GB Ram | 1TB NVMe",
+  "description_fr": "<h1><span style=\"font-size:22px\">🐺 MSI Wolf Z6 &ndash; Le PC Gamer Ultime 2025 Disponible en Tunisie 🇹🇳</span></h1>\n\n<p><span style=\"font-size:22px\">Si vous &ecirc;tes &agrave; la recherche d&rsquo;un <strong>PC gamer haut de gamme en Tunisie</strong> qui allie performance brute, design innovant et composants nouvelle g&eacute;n&eacute;ration, laissez-nous vous pr&eacute;senter le <strong>MSI Wolf Z6</strong> 🐺. Ce monstre de puissance est con&ccedil;u pour les gamers exigeants, les cr&eacute;ateurs de contenu, ou tout simplement ceux qui veulent un setup &agrave; la hauteur des jeux les plus gourmands et des logiciels les plus lourds.</span></p>\n\n<hr />\n<h2><span style=\"font-size:22px\">🔥 Une configuration surpuissante pour dominer le jeu 🎮</span></h2>\n\n<p><span style=\"font-size:22px\">Le <strong>c&oelig;ur battant</strong> du MSI Wolf Z6, c&rsquo;est son <strong>processeur AMD Ryzen 7 7600X3D</strong>, l&rsquo;un des plus puissants du moment avec une fr&eacute;quence de base de 4.7 GHz pouvant grimper jusqu&rsquo;&agrave; 5.3 GHz 🚀. Id&eacute;al pour les jeux AAA, les t&acirc;ches multit&acirc;ches et le streaming simultan&eacute;.</span></p>\n\n<p><span style=\"font-size:22px\">&Agrave; cela s&rsquo;ajoute la toute nouvelle <strong>carte graphique NVIDIA RTX 5070 12Go WINDFORCE OC SFF</strong>. Gr&acirc;ce &agrave; l&rsquo;architecture Ada Lovelace, cette carte offre un rendu graphique ultra-r&eacute;aliste, du ray tracing fluide et une performance &eacute;poustouflante en 1440p ou 4K 🎯.</span></p>\n\n<hr />\n<h2><span style=\"font-size:22px\">⚙️ Composants haut de gamme, design Project Zero</span></h2>\n\n<p><span style=\"font-size:22px\">Chaque composant du MSI Wolf Z6 a &eacute;t&eacute; choisi avec soin pour un &eacute;quilibre parfait entre esth&eacute;tique et efficacit&eacute; :</span></p>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:22px\">💡 <strong>Carte M&egrave;re MSI B650M PROJECT ZERO</strong> &ndash; pour une gestion parfaite des c&acirc;bles et un design propre</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">🧠 <strong>RAM G.Skill Ripjaws M5 RGB 32GB DDR5 (2x16GB) 5200MHz</strong> &ndash; pour une fluidit&eacute; absolue, m&ecirc;me avec plusieurs applications ouvertes</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">⚡ <strong>Stockage SSD MSI SPATIUM M450 1To NVMe Gen4</strong> &ndash; des chargements ultra-rapides, que ce soit pour le syst&egrave;me, les jeux ou les logiciels</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">🔌 <strong>Alimentation MSI MAG A750GL 750W PCIE5 80+ GOLD</strong> &ndash; stable, efficace et pr&ecirc;te pour les GPU de nouvelle g&eacute;n&eacute;ration</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">🧊 <strong>Refroidissement liquide MSI MAG CORELIQUID 360R V2</strong> &ndash; pour garder des temp&eacute;ratures optimales en silence</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">🖤 <strong>Bo&icirc;tier MSI MAG PANO M100R PZ - Noir Project Zero</strong> &ndash; vitr&eacute;, moderne et &eacute;pur&eacute;, un vrai bijou esth&eacute;tique</span></p>\n\t</li>\n</ul>\n\n<hr />\n<h2><span style=\"font-size:22px\">🛍️ Disponible au Meilleur Prix en Tunisie 🇹🇳</span></h2>\n\n<p><span style=\"font-size:22px\">Le <strong>MSI Wolf Z6</strong> n&rsquo;est pas seulement une b&ecirc;te de performance, c&rsquo;est aussi une machine propos&eacute;e &agrave; un <strong>excellent rapport qualit&eacute;/prix</strong> en Tunisie. Disponible d&egrave;s maintenant chez les revendeurs agr&eacute;&eacute;s ou en ligne, c&rsquo;est le moment id&eacute;al pour passer &agrave; la vitesse sup&eacute;rieure en gaming et en cr&eacute;ation de contenu.</span></p>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\">🧠 <strong>Processeur :</strong> AMD Ryzen 5 7600X3D (4.7 GHz )<br />\n🎮 <strong>Carte Graphique : </strong>Gigabyte GeForce RTX 5070 WINDFORCE OC 12Go<br />\n🧩 <strong>Carte M&egrave;re : </strong>MSI B650M PROJECT ZERO DDR5<br />\n💡 <strong>Ram :</strong> G.Skill Ripjaws M5 RGB 32GB DDR5 (2x16GB) &ndash; 5200MHz<br />\n⚡ <strong>Stockage :</strong> MSI SPATIUM M450 SSD M.2 Gen 4.0 NVMe 1Tb</span><br />\n<span style=\"font-size:22px\">🔌 <strong>Alimentation : </strong>MSI MAG A750GL &ndash; 750W, PCIE5, 80+ Gold<br />\n🖤 <strong>Bo&icirc;tier :</strong> MSI MAG PANO M100R PZ &ndash; Noir<br />\n<span style=\"color:#0000ff\">🧊 <strong>Refroidissement :</strong></span> <span style=\"color:#0000ff\">Watercooling MSI CORELIQUID 360R V2</span></span></p>\n\n<p><span style=\"font-size:22px\"><span style=\"color:#0000ff\">Frais d&#39;installation de Windows : 30 DT</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Wolf-Z6-AMD-Ryzen-7-7600X3D-RTX-5070-12GB-32GB-Ram-1TB-NVMe",
+  "gallerie": {
+    "_id": "664f5766dbc8064136ad940e",
+    "titre": "MSI MAG PANO M100R PZ NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1718808335563.webp",
+      "/uploads/gallerie/1718808335578.webp",
+      "/uploads/gallerie/1718808335582.webp",
+      "/uploads/gallerie/1718808341921.webp",
+      "/uploads/gallerie/1718808341923.webp",
+      "/uploads/gallerie/1718808341924.webp",
+      "/uploads/gallerie/1718808345577.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345579.webp",
+      "/uploads/gallerie/1718808345582.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-06-19T14:45:45.707Z",
+    "create_date": "2024-05-23T14:49:10.000Z",
+    "__v": 5
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 281,
+  "price": 5849,
+  "tagsSearch": [
+    "CONFIG PC INTEL",
+    "CONFIG PC AMD",
+    "ORDINATEURS",
+    "PC GAMER",
+    "7600X3D µ",
+    "RTX 5070",
+    "MSI B650M",
+    "M100R PZ",
+    "360R V2",
+    "A750GL"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-06-12T15:22:06.650Z",
+  "update_date": "2025-10-23T21:21:14.963Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

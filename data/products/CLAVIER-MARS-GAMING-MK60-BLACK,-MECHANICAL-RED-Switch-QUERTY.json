@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718276595924.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718276595924.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWM4uKbn5f9T7/7/v3zyBgOnEKeUlkpMTN+TQ18YBERFWdjFmRg4pEWlGYR4ednZpXm4xJUVZQBb/RALOY/TQAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718277347142.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718277347142.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWNYXJT8/8a+//8PXPu/n6E2LznCVjOz1qvjUAuDk6uTlLwUAzMDgwQDg46SnIiosKAkM486MwBq0hCsLHuaOAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718277380755.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718277380755.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/86//uu8vTsujm7QBoXlVYYz21xdz85/8AJBcHDB0UAwQpUzxKAEkoEEcuGgUAJAEADO2YFLPn+e9pAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718277409368.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718277409368.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AKuyr8vR1+jn9tfT1wDg+8fm/97f7ui+yesA///K7vvSyuyyKTQ0APrZvL69lCs5HAgAAPHLIfSt2hgMAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "67adb206322599f4f757dcbd",
+  "sku": "MK60RUS",
+  "mpn": "MK60RUS",
+  "titleSeo": "Clavier gaming :  format ultra-compact 60% - interrupteurs mécaniques rouges - rétroéclairage RGB - QUERTY, Français | MEGA PC ",
+  "desciprtionSeo": "Clavier gaming :  format ultra-compact 60% - interrupteurs mécaniques rouges - rétroéclairage RGB -QUERTY, Français | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2025-09-08",
+  "referenceInterne": "MK60RUS",
+  "title": "CLAVIER MARS GAMING MK60, BLACK, MECHANICAL 60%, RED Switch QUERTY",
+  "title_fr": "CLAVIER MARS GAMING MK60, BLACK, MECHANICAL 60%, RED Switch QUERTY",
+  "description_fr": "<h2>MARS GAMING MK60 MECHANICAL 60% KEYBOARD, RED Switch -QUERTY BLACK&nbsp;</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Jouez sans restriction gr&acirc;ce &agrave; la structure compacte 60% du clavier Mars Gaming&nbsp;MK60. Gr&acirc;ce &agrave; cet astucieux clavier compact d&eacute;placez votre souris librement, profitez de l&#39;espace suppl&eacute;mentaire qu&#39;il vous procure sur votre bureau sans pour autant sacrifier les performances.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Clavier pour gamer au format ultra-compact 60%</span></li>\n\t<li><span style=\"font-size:22px\">Interrupteurs m&eacute;caniques rouges</span></li>\n\t<li><span style=\"font-size:22px\">Force d&#39;activation : 50g</span></li>\n\t<li><span style=\"font-size:22px\">Point d&#39;actionnement : 2 mm</span></li>\n\t<li><span style=\"font-size:22px\">Anti-ghosting complet</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro-&eacute;clairage RGB personnalisable &agrave; 12 effets</span></li>\n\t<li><span style=\"font-size:22px\">Connectique : USB</span></li>\n\t<li><span style=\"font-size:22px\">Compatible PC, PS4, PS5, Xbox One, Xbox Series X|S</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions :&nbsp;291 x 101 x 40 mm</span></li>\n\t<li><span style=\"font-size:22px\">Poids : 410 g</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "61697a5b74a6dc8ab60ba36c",
+    "titre": "MARS",
+    "description": "Mars Gaming Tunisie",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-10-15T12:55:55.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23388a4815052c4d1a421",
+    "titre": "CLAVIER",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206277489.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Clavier Pc gamer Filaire USB, clavier pc bureau, clavier mécanique Tunisie, accessoires gaming, Aorus, HyperX, Spirit of Gamer, Corsair, Razer, Msi.</p>",
+    "titreSEO": "Clavier pc gamer Tunisie | clavier azerty ordinateur sans fil RGB",
+    "create_date": "2020-04-24T00:32:08.000Z",
+    "reference": "CLAVIER",
+    "update_date": "2021-12-04T09:59:08.867Z",
+    "visible": true,
+    "marge": 1.12,
+    "tva": 1.07,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "TYPE DE TOUCHES",
+      "valeur": "MÉCANIQUE",
+      "enable": true,
+      "_id": "616a9015835644bdb7f31809"
+    },
+    {
+      "cle": "MODÈLE",
+      "valeur": "MK60RFR",
+      "enable": true,
+      "_id": "616a9015835644bdb7f3180a"
+    },
+    {
+      "cle": "NORME DU CLAVIER",
+      "valeur": "QUERTY",
+      "enable": true,
+      "_id": "616a9015835644bdb7f3180b"
+    },
+    {
+      "cle": "RÉTROÉCLAIRAGE RGB",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "616a9015835644bdb7f3180c"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23388a4815052c4d1a421"
+  ],
+  "lien": "CLAVIER-MARS-GAMING-MK60-BLACK,-MECHANICAL-RED-Switch-QUERTY",
+  "gallerie": {
+    "_id": "664b37ac41f2ac887161417c",
+    "titre": "CLAVIER MARS GAMING MK60 WHITE (BLUE SWITCH)",
+    "urlPhoto": [
+      "/uploads/gallerie/1718276595924.webp",
+      "/uploads/gallerie/1718277347142.webp",
+      "/uploads/gallerie/1718277380755.webp",
+      "/uploads/gallerie/1718277409368.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-02-13T09:04:50.307Z",
+    "create_date": "2024-05-20T11:44:44.000Z",
+    "__v": 7
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 6873,
+  "price": 99,
+  "tagsSearch": [
+    "MARS",
+    "ACCESSOIRES",
+    "CLAVIER",
+    "bts",
+    "enarrivage"
+  ],
+  "discount": null,
+  "stock": 994,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2023-04-01T09:10:52.543Z",
+  "update_date": "2025-10-24T12:06:43.886Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

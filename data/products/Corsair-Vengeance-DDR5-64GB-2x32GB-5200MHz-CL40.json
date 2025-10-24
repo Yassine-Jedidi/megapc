@@ -1,0 +1,158 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1643897900145.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1643897900145.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImWP4jwQY7t+/v3v37vKK8oDAQAZ/fz9BQR4ZGSkGBgaGnz9/fv706dvXrz9+/AAAe/ggERgsEK4AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1643897904214.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1643897904214.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYgoKCXNzcAoODLC0tGVRVVdjYGMXFRRgZGBiQlQEA7akcDupAdEgAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "61fbe079e5100ae4744cac7c",
+  "sku": "CMK64GX5M2B5200C40",
+  "mpn": "840006659310",
+  "titleSeo": "Ram Corsair Vengeance DDR5 64GB | MEGA PC",
+  "desciprtionSeo": "Ram Corsair Vengeance DDR5 64GB  (2x32GB) 5200MHz CL40 | MEGA PC",
+  "ratingValue": "4 ",
+  "reviewCount": "55",
+  "priceValidUntil": "2023-05-04",
+  "title": "Corsair Vengeance DDR5 64GB (2x32GB) 5200MHz CL40",
+  "title_fr": "Corsair Vengeance DDR5 64GB (2x32GB) 5200MHz CL40",
+  "description_fr": "<p>&nbsp;</p>\n\n<h1>Corsair Vengeance DDR5 64GB (2x32GB) 5200MHz CL40</h1>\n\n<p>La m&eacute;moire DDR5 Corsair Vengeance est con&ccedil;ue pour les cartes m&egrave;res Intel et offre des fr&eacute;quences de fonctionnement &eacute;lev&eacute;es dans un format discret qui convient &agrave; la majorit&eacute; des syst&egrave;mes. Les puces de m&eacute;moire haute fr&eacute;quence sont tri&eacute;es sur le volet et le r&eacute;gulateur de tension int&eacute;gr&eacute; permet un overclocking simple et pr&eacute;cis. Le logiciel Corsair iCUE permet la surveillance de la fr&eacute;quence en temps r&eacute;el, le contr&ocirc;le de tension int&eacute;gr&eacute; et la modification du profil pour Intel XMP 3.0.</p>\n\n<p>Le refroidissement de la m&eacute;moire est assur&eacute; par un dissipateur thermique en aluminium, qui est &eacute;galement compatible avec une large gamme de cartes m&egrave;res et de refroidisseurs de processeur.</p>\n\n<p><img alt=\"Corsair Vengeance DDR5 64GB TUNISIE\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1643897968913.webp\" /></p>\n\n<h2 style=\"font-style:normal; text-align:start\">REGULATION DE TENSION EMBARQUEE</h2>\n\n<p>Vous avez l&rsquo;autorit&eacute; et le contr&ocirc;le. La r&eacute;gulation de tension int&eacute;gr&eacute;e, associ&eacute;e &agrave; la gestion logicielle iCUE, permet une sortie plus simple et plus fine, ce qui se traduit par un overclocking plus stable que jamais.</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li>Fr&eacute;quence(s) M&eacute;moire : DDR5 5200MHz&nbsp;</li>\n\t<li>capacit&eacute; par barrette : 64 Go</li>\n\t<li>LED RGB : NON</li>\n</ul>\n",
+  "notreSelection": false,
+  "marque": {
+    "_id": "5eb19e094a2e400482a012ed",
+    "titre": "CORSAIR",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326943547.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T17:10:33.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2328ca4815052c4d1a419",
+    "titre": "BARETTE MÉMOIRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205649078.webp",
+    "order": 3,
+    "descriptionSEO": "<p>RAM PC gamer, Barrettes mémoires | Ram ordinateur bureau - Ram PC portable prix Tunisie - barrette mémoire ddr4. Mémoire Gigabyte, Adata, pny, Corsair</p>",
+    "titreSEO": "Ram pc gamer Tunisie - Achat Ram pc portable 8go - BARRETTE MÉMOIRE",
+    "create_date": "2020-04-24T00:27:56.000Z",
+    "reference": "RAM",
+    "update_date": "2021-12-04T08:54:47.010Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "NOMBRE DE BARRETTES",
+      "valeur": "2",
+      "enable": true,
+      "_id": "60d20649faa463a4450aa627"
+    },
+    {
+      "cle": "CAPACITÉ PAR BARRETTE",
+      "valeur": "32 GB",
+      "enable": true,
+      "_id": "60d20649faa463a4450aa628"
+    },
+    {
+      "cle": "FRÉQUENCE MÉMOIRE",
+      "valeur": "DDR4 5200MHz",
+      "enable": true,
+      "_id": "60d20649faa463a4450aa629"
+    },
+    {
+      "cle": "RGB",
+      "valeur": "NON",
+      "enable": true,
+      "_id": "61e6bdcad814c2f325075f25"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2328ca4815052c4d1a419"
+  ],
+  "lien": "Corsair-Vengeance-DDR5-64GB-2x32GB-5200MHz-CL40",
+  "gallerie": {
+    "_id": "61fbe41ce5100ae4744d9a53",
+    "titre": "CORSAIR VENGEANCE DDR5 64GB (2X32GB) 5200MHZ CL40",
+    "urlPhoto": [
+      "/uploads/gallerie/1643897900145.webp",
+      "/uploads/gallerie/1643897904214.webp"
+    ],
+    "update_date": "2022-02-03T14:18:24.356Z",
+    "create_date": "2022-02-03T14:18:04.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": false,
+  "visible": true,
+  "facilite": false,
+  "devis": true,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1370,
+  "price": 799,
+  "tagsSearch": [
+    "CORSAIR",
+    "COMPOSANTS",
+    "BARETTE MÉMOIRE"
+  ],
+  "stock": 100,
+  "create_date": "2022-02-03T14:02:33.811Z",
+  "update_date": "2025-10-24T17:26:21.384Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

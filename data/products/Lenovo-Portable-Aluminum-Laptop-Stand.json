@@ -1,0 +1,141 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1710178161265.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1710178161265.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAIklEQVQImWP4jwQYFi9enAYGixcvZogCAz09PQYGBgZkZQBw9iDFLfVfYAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1710178161267.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1710178161267.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImTXB0QAAUQhFwWsUzdUJIIAVCCWBVCI472tnBHT37gKyLamqZkbfLyIEZKbtu3saoR1WXAyiWgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1710178161268.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1710178161268.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImR3K0RRAUQhFwRSSiOJYBBBAAJFGEMi+b735HgN29+4A6+6qighJ5u72y0wDZkbS1x65PxfmlmfihwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1710178161269.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1710178161269.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImQXBsQ0AQAQF0L+P1iyWUJvJPlcoJBKFLRTuPexud1dVZuLuIsLdzQwzIyJEpKpwdwDM/N77nxMeAd+08zEAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "65ef3e0043908f9270d9f62a",
+  "sku": "GXF0X02618",
+  "mpn": "GXF0X02618",
+  "ratingValue": "4",
+  "reviewCount": "72",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GXF0X02618",
+  "title": "Lenovo Portable Aluminum Laptop Stand",
+  "title_fr": "Lenovo Portable Aluminum Laptop Stand",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Type : supports pour PC portables</span></li>\n\t<li><span style=\"font-size:22px\">Sp&eacute;cificit&eacute;s : inclinable</span></li>\n\t<li><span style=\"font-size:22px\">Mat&eacute;riau : aluminium</span></li>\n\t<li><span style=\"font-size:22px\">Largeur : 270.12mm</span></li>\n\t<li><span style=\"font-size:22px\">Hauteur : 17.8mm</span></li>\n\t<li><span style=\"font-size:22px\">Longueur : 260.17mm</span></li>\n\t<li><span style=\"font-size:22px\">Couleur : blanc</span></li>\n\t<li><span style=\"font-size:22px\">Dim : (L x l x H) 260.17 x 270.12 x 17.8 mm</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "606bfd99e8ff02f7796cb01a",
+    "order": 9,
+    "titre": "ACCESSOIRES PC PORTABLE",
+    "titreSEO": "Achat Accessoires PC portable Gamer - MEGA PC",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1617690464917.webp",
+    "create_date": "2021-04-06T06:20:09.000Z",
+    "reference": "ACCESSOIRESPCPORTABLE",
+    "update_date": "2021-12-04T08:51:35.989Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "606bfd99e8ff02f7796cb01a"
+  ],
+  "lien": "Lenovo-Portable-Aluminum-Laptop-Stand",
+  "gallerie": {
+    "_id": "65ef3f6443908f9270da98df",
+    "titre": "LENOVO PORTABLE ALUMINUM LAPTOP STAND",
+    "urlPhoto": [
+      "/uploads/gallerie/1710178161265.webp",
+      "/uploads/gallerie/1710178161267.webp",
+      "/uploads/gallerie/1710178161268.webp",
+      "/uploads/gallerie/1710178161269.webp"
+    ],
+    "update_date": "2024-03-11T17:29:21.395Z",
+    "create_date": "2024-03-11T17:29:08.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 8081,
+  "price": 120,
+  "tagsSearch": [
+    "ACCESSOIRES",
+    "ACCESSOIRES PC PORTABLE",
+    "LENOVO"
+  ],
+  "stock": 50,
+  "displayForPublic": true,
+  "create_date": "2023-01-20T15:32:23.639Z",
+  "update_date": "2025-10-23T05:17:37.568Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

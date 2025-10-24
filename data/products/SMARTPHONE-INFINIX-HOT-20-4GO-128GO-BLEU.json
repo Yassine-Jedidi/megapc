@@ -1,0 +1,171 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1716887144925.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1716887144925.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APP19nOJlI2jsPn+/wDR2dwAIz0AUW3g6vAAztDTAAwxAGGD8Pb5AOjo6k9jd4Kitv3//yGHHswH8+YLAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6655a081dbc8064136c5f6a1",
+  "sku": "HOT-20",
+  "mpn": "HOT-20",
+  "titleSeo": "SMARTPHONE INFINIX HOT 20 4GO 128GO | prix tunisie",
+  "desciprtionSeo": "SMARTPHONE INFINIX HOT 20 4GO 128GO Ecran 6,82 pouces - Processeur MediaTek Helio G85 Octa Core - Mémoire RAM 4Go - Stockage 128Go Appareil - Photo Arrière 50MP+IA | prix tunisie",
+  "ratingValue": "4",
+  "reviewCount": "4",
+  "priceValidUntil": "2024-09-08",
+  "referenceInterne": "HOT-20",
+  "title": "SMARTPHONE INFINIX HOT 20 4GO 128GO BLEU",
+  "title_fr": "SMARTPHONE INFINIX HOT 20 4GO 128GO BLEU",
+  "description_fr": "<h2>SMARTPHONE INFINIX HOT 20 4GO 128GO BLEU</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">D&eacute;couvrez un smartphone alliant performance et polyvalence, id&eacute;al pour une utilisation quotidienne. &Eacute;quip&eacute; d&rsquo;un &eacute;cran spacieux de 6,82 pouces, ce mod&egrave;le offre une exp&eacute;rience visuelle immersive et agr&eacute;able pour le visionnage de vid&eacute;os, la navigation sur le web et les jeux.</span></p>\n\n<p><span style=\"font-size:22px\">Sous le capot, il embarque un processeur MediaTek Helio G85 Octa Core, assurant une navigation fluide et r&eacute;active entre les applications. Associ&eacute; &agrave; 4 Go de RAM, il g&egrave;re le multit&acirc;che sans effort, vous permettant de passer d&#39;une application &agrave; l&#39;autre sans ralentissement.</span></p>\n\n<p><span style=\"font-size:22px\">Le stockage interne de 128 Go vous offre un espace suffisant pour stocker vos photos, vid&eacute;os, applications et fichiers, avec la possibilit&eacute; d&#39;&eacute;tendre cette capacit&eacute; si n&eacute;cessaire.</span></p>\n\n<p><span style=\"font-size:22px\">Pour les amateurs de photographie, ce smartphone est &eacute;quip&eacute; d&#39;un appareil photo arri&egrave;re de 50 MP avec intelligence artificielle, capturant des images nettes et d&eacute;taill&eacute;es, et d&#39;une cam&eacute;ra frontale de 8 MP pour des selfies de qualit&eacute;.</span></p>\n\n<p><span style=\"font-size:22px\">En termes de connectivit&eacute;, il prend en charge la 4G, le WiFi et le Bluetooth, garantissant une connexion rapide et stable o&ugrave; que vous soyez.</span></p>\n\n<p><span style=\"font-size:22px\">La batterie de 5000 mAh assure une autonomie prolong&eacute;e, vous permettant de l&#39;utiliser toute la journ&eacute;e sans avoir &agrave; le recharger fr&eacute;quemment. De plus, la charge rapide de 18W vous permet de recharger votre t&eacute;l&eacute;phone rapidement, pour moins de temps pass&eacute; branch&eacute; et plus de temps &agrave; profiter de votre appareil.</span></p>\n\n<p><span style=\"font-size:22px\">Avec son syst&egrave;me d&rsquo;exploitation Android 12, vous b&eacute;n&eacute;ficiez des derni&egrave;res fonctionnalit&eacute;s et am&eacute;liorations en mati&egrave;re de s&eacute;curit&eacute; et de performance, faisant de ce smartphone un choix judicieux pour ceux qui recherchent &agrave; la fois puissance et praticit&eacute;.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>&Eacute;cran</strong>: 6,82 pouces</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Processeur</strong>: MediaTek Helio G85 Octa Core</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Syst&egrave;me d&rsquo;exploitation</strong>: Android 12</span></li>\n\t<li><span style=\"font-size:22px\"><strong>M&eacute;moire RAM</strong>: 4 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Stockage</strong>: 128 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Appareil photo arri&egrave;re</strong>: 50 MP + IA</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Appareil photo frontal</strong>: 8 MP</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Connectivit&eacute;</strong>: 4G, WiFi, Bluetooth</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Batterie</strong>: 5000 mAh, charge rapide 18W</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": null,
+  "categorie": {
+    "_id": "64d4c7c2d86a54d556a915bd",
+    "titre": "SMARTPHONE",
+    "order": 15,
+    "visible": true,
+    "update_date": "2025-04-28T10:32:18.547Z",
+    "create_date": "2023-08-10T11:19:30.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1715431603227.webp",
+    "urlPhoto2": "/uploads/categorie/1715431607414.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "662f7d91f0d88c8c60e73467",
+    "titre": "ANDROID",
+    "visible": true,
+    "order": 0,
+    "categorie": "64d4c7c2d86a54d556a915bd",
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-06-12T16:48:22.243Z",
+    "create_date": "2024-04-29T10:59:29.000Z",
+    "__v": 0,
+    "targetMobile": true,
+    "urlPhoto": "/uploads/souscateg/1715242782960.gif",
+    "urlPhoto2": "/uploads/souscateg/1715242787790.gif"
+  },
+  "attributes": [
+    {
+      "cle": "Ecran",
+      "valeur": "6.6″ LCD IPS (1080×2408)",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d29"
+    },
+    {
+      "cle": "Processeur",
+      "valeur": "MediaTek Helio G85 Octa Core",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2b"
+    },
+    {
+      "cle": "Mémoire RAM",
+      "valeur": "4Go",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2c"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "128Go",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2d"
+    },
+    {
+      "cle": "Appareil Photo Arrière",
+      "valeur": "50MP+IA",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2e"
+    },
+    {
+      "cle": "Appareil Photo Frontale",
+      "valeur": "8 MP",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2f"
+    },
+    {
+      "cle": "Connectivité",
+      "valeur": "4G, Wifi, Bluetooth",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d30"
+    },
+    {
+      "cle": "Batterie",
+      "valeur": "5000mAh, charge rapide 18W",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d31"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "662f7d91f0d88c8c60e73467"
+  ],
+  "lien": "SMARTPHONE-INFINIX-HOT-20-4GO-128GO-BLEU",
+  "gallerie": {
+    "_id": "66559e5cdbc8064136c5f5a8",
+    "titre": "SMARTPHONE INFINIX HOT 20 4GO 128GO BLEU",
+    "urlPhoto": [
+      "/uploads/gallerie/1716887144925.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-05-28T09:05:45.069Z",
+    "create_date": "2024-05-28T09:05:32.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 379,
+  "price": 580,
+  "tagsSearch": [
+    "INFINIX",
+    "SMARTPHONE",
+    "ANDROID"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2024-05-28T09:08:37.759Z",
+  "update_date": "2025-10-23T00:56:50.986Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

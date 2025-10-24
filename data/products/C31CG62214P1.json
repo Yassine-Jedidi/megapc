@@ -1,0 +1,160 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714217420477.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714217420477.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOElEQVQImQXBsREAQAQEwGtEMV+U8uQSDShCZkjM/S5Izkx33x12V1XfexGBzAQgIlUFkmbm7iQ/vE0jYroVhzYAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714217420479.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714217420479.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImQXBMQ0AQAgDwOogLw2rjAw4YMJAJZDQv4MkkjNzd9hddzezqkJ3A3jvkYSkiMhMSR+QsiIegIT5YQAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "662ce0e1f0d88c8c60de1c03",
+  "sku": "C31CG62214P1",
+  "mpn": "C31CG62214P1",
+  "titleSeo": "",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "C31CG62214P1",
+  "title": "IMPRIMANTE DE TICKET EPSON TM-H6000V-214P1",
+  "title_fr": "IMPRIMANTE DE TICKET EPSON TM-H6000V-214P1",
+  "description_fr": "<h2>IMPRIMANTE DE TICKET EPSON TM-H6000V-214P1</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">L&#39;imprimante de tickets Epson TM-H6000V-214P1 est une solution polyvalente con&ccedil;ue pour r&eacute;pondre aux besoins de traitement des transactions dans les environnements commerciaux les plus exigeants. Cette unit&eacute; tout-en-un combine l&#39;impression de tickets et de re&ccedil;us avec le traitement des ch&egrave;ques, offrant ainsi une efficacit&eacute; maximale dans un seul appareil.</span></p>\n\n<p><span style=\"font-size:22px\">Utilisant la technologie d&#39;impression thermique, cette imprimante garantit des impressions rapides et de haute qualit&eacute; &agrave; une vitesse impressionnante de 350 mm par seconde, assurant ainsi une productivit&eacute; accrue lors de vos op&eacute;rations.</span></p>\n\n<p><span style=\"font-size:22px\">Malgr&eacute; sa performance, cette imprimante reste discr&egrave;te avec un niveau de bruit de seulement 55 dB(A), cr&eacute;ant ainsi un environnement de travail confortable pour le personnel et les clients.</span></p>\n\n<p><span style=\"font-size:22px\">Avec des plages de fonctionnement et de stockage de l&#39;humidit&eacute; de l&#39;air allant de 10% &agrave; 90% et des plages de temp&eacute;rature de fonctionnement de 5&deg;C &agrave; 45&deg;C et de stockage de -10&deg;C &agrave; 50&deg;C, cette imprimante est con&ccedil;ue pour fonctionner de mani&egrave;re fiable dans une vari&eacute;t&eacute; d&#39;environnements.</span></p>\n\n<p><span style=\"font-size:22px\">Dot&eacute;e d&#39;une multitude d&#39;interfaces, notamment USB 1.0, USB 2.0-A, USB aliment&eacute;, RS-232, interface Ethernet (100 Base-TX / 10 Base-T), ouverture de tiroir, affichage client et Bluetooth, cette imprimante offre une connectivit&eacute; &eacute;tendue pour s&#39;adapter &agrave; diverses configurations syst&egrave;me.</span></p>\n\n<p><span style=\"font-size:22px\">Avec des dimensions compactes de 186 x 278 x 181 mm et un poids de seulement 4,4 kg, cette imprimante peut &ecirc;tre facilement int&eacute;gr&eacute;e &agrave; votre espace de travail sans encombrer l&#39;espace.</span></p>\n\n<p><span style=\"font-size:22px\">Fournie avec une garantie d&#39;un an, l&#39;imprimante Epson TM-H6000V-214P1 vous offre la tranquillit&eacute; d&#39;esprit quant &agrave; sa durabilit&eacute; et sa fiabilit&eacute; &agrave; long terme, faisant d&#39;elle un choix id&eacute;al pour les entreprises soucieuses de leur efficacit&eacute; op&eacute;rationnelle.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Technologie d&#39;impression : Thermique</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse d&rsquo;impression : 350 mm/s</span></li>\n\t<li><span style=\"font-size:22px\">Niveau de bruit : 55 dB(A)</span></li>\n\t<li><span style=\"font-size:22px\">Interfaces : USB 1.0, USB 2.0-A, USB aliment&eacute;, RS-232, Ethernet, Bluetooth</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions : 186 x 278 x 181 mm</span></li>\n\t<li><span style=\"font-size:22px\">Poids : 4.4 kg</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "658d34c652b5a275b6d678f1",
+    "titre": "EPSON",
+    "update_date": "2023-12-28T08:41:42.659Z",
+    "create_date": "2023-12-28T08:41:42.000Z",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "categorie": {
+    "_id": "5f60ba4f01f417289807e75b",
+    "order": 19,
+    "titre": "IMPRESSION",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1715428998314.webp",
+    "create_date": "2020-09-15T12:57:51.000Z",
+    "update_date": "2025-04-28T10:32:54.398Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false,
+    "urlPhoto": "/uploads/categorie/1715429007654.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "662cfc8af0d88c8c60df2f77",
+    "titre": "IMPRIMANTE THERMIQUE",
+    "tva": null,
+    "visible": true,
+    "order": 0,
+    "categorie": "5f60ba4f01f417289807e75b",
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-05-11T12:04:13.809Z",
+    "create_date": "2024-04-27T13:24:26.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1715429050018.webp",
+    "urlPhoto2": "/uploads/souscateg/1715429053690.webp",
+    "targetMobile": true
+  },
+  "attributes": [
+    {
+      "cle": "Type d'Imprimante",
+      "valeur": "Thermique",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e96138"
+    },
+    {
+      "cle": "Couleur",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e9613a"
+    },
+    {
+      "cle": "Résolution De Numérisation, Optique",
+      "valeur": "180 x 180 ppp",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e9613b"
+    },
+    {
+      "cle": "CONNECTIQUE",
+      "valeur": "USB",
+      "enable": true,
+      "_id": "662fc306f0d88c8c60e96142"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "662cfc8af0d88c8c60df2f77"
+  ],
+  "lien": "C31CG62214P1",
+  "gallerie": {
+    "_id": "662ce1c6f0d88c8c60df2c8c",
+    "titre": "IMPRIMANTE DE TICKET EPSON TM-H6000V-214P1",
+    "urlPhoto": [
+      "/uploads/gallerie/1714217420477.webp",
+      "/uploads/gallerie/1714217420479.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-04-27T11:30:20.641Z",
+    "create_date": "2024-04-27T11:30:14.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2378,
+  "price": 1869,
+  "tagsSearch": [
+    "IMPRESSION",
+    "IMPRIMANTE",
+    "EPSON",
+    "IMPRIMANTE THERMIQUE"
+  ],
+  "stock": 40,
+  "displayForPublic": true,
+  "create_date": "2023-09-28T14:26:31.485Z",
+  "update_date": "2025-10-23T21:21:17.184Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "__v": 0
+}

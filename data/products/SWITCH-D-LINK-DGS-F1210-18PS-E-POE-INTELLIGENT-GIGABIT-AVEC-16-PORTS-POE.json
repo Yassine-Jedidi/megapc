@@ -1,0 +1,192 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772100598.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772100598.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAOUlEQVQImWN49OjR1y9fvv/48fHTF4a+CZMYGJhY+finzZ3HsHPX/uzcwriEpJ07dzL8h4HXb94AAEa1IWeeqJnfAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772106026.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772106026.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAO0lEQVQImWP4+/fP379//4MBQ019U2paRlZW1vr16xlScyv8Q6MZGDg9PdwYfvz8+ePnz2/fvv38+RMAahEgrbaFRBAAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "68597e6299437548fd87c42f",
+  "sku": "DGS-F1210-18PS-E-MT",
+  "mpn": "DGS-F1210-18PS-E-MT",
+  "titleSeo": "Switch D-LINK DGS-F1210-18PS-E PoE+ géré intelligent Gigabit avec 16 ports PoE+ | MEGA PC | MEILLEUR PRIX TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "46",
+  "priceValidUntil": "2028-06-23",
+  "referenceInterne": "DGS-F1210-18PS-E-MT",
+  "title": "Switch D-LINK DGS-F1210-18PS-E PoE+ géré intelligent Gigabit avec 16 ports PoE+",
+  "title_fr": "Switch D-LINK DGS-F1210-18PS-E PoE+ géré intelligent Gigabit avec 16 ports PoE+",
+  "description_fr": "<div style=\"font-size:22px\">\n<p><span style=\"color:#000000\">Switch D-LINK DGS-F1210-18PS-E<strong>&nbsp;</strong>-<strong>&nbsp; intelligent - </strong>Nombre de Ports:<strong> 16 ports PoE 10/100 / 1000BASE-T </strong>-&nbsp; Type de bo&icirc;tier:<strong>De bureau, Montable sur rack </strong>- Type PoE requis:PoE|PoE+|PoE longue port&eacute;e de 250 m - Capacit&eacute; de commutation: 36 Gbit/s - Dimensions: 440x180x44mm&nbsp;- Garantie: 1 an</span></p>\n</div>\n",
+  "miniDescription": "<div style=\"font-size: 22px\"><p>Switch D-LINK DGS-F1210-18PS-E<strong>&nbsp;</strong>-<strong>&nbsp; intelligent - </strong>Nombre de Ports:<span style=\"color: #ff0000;\"><strong> 16 ports PoE 10/100 / 1000BASE-T </strong><span style=\"color: #000000;\">-</span></span><span style=\"color: #000000;\">&nbsp;</span> Type de boîtier:<span style=\"color: #ff0000;\"><strong>De bureau, Montable sur rack </strong></span>- Type PoE requis:PoE|PoE+|PoE longue portée de 250 m - Capacité de commutation: 36 Gbit/s - Dimensions: 440x180x44mm&nbsp;- Garantie: 1 an</p>\n<div style=\"background: #E3E0E3; width: 100%; font-size: 11px; font-weight: bold; padding: 10px 0 10px 0px;\"><span style=\"color: #000000;\">Retrait en Magasin ou Livraison</span> <span style=\"color: #d0121a; font-size: 13px;\">Gratuite</span> <span style=\"color: #000000;\">pour Cet Article</span></div></div>",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\"><span style=\"color:#000000\">Switch D-LINK DGS-F1210-18PS-E<strong>&nbsp;</strong>-<strong>&nbsp; intelligent - </strong>Nombre de Ports:<strong> 16 ports PoE 10/100 / 1000BASE-T </strong>-&nbsp; Type de bo&icirc;tier:<strong>De bureau, Montable sur rack </strong>- Type PoE requis:PoE|PoE+|PoE longue port&eacute;e de 250 m - Capacit&eacute; de commutation: 36 Gbit/s - Dimensions: 440x180x44mm&nbsp;- Garantie: 1 an</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "68597d18fd2984d47c666123",
+    "titre": "D-LINK",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:13:12.243Z",
+    "create_date": "2025-06-23T16:13:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "6676a6a5670b0ae15899d459",
+    "titre": "SÉCURITÉ & PROTECTION",
+    "order": 21,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:33:08.972Z",
+    "create_date": "2024-06-22T10:25:41.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1719396231511.webp",
+    "urlPhoto2": "/uploads/categorie/1720013029366.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "68597cd1fd2984d47c66611d",
+    "titre": "RESEAUX SECURITE",
+    "marge": null,
+    "tva": null,
+    "visible": true,
+    "order": 4,
+    "categorie": "6676a6a5670b0ae15899d459",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:19:53.025Z",
+    "create_date": "2025-06-23T16:12:01.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1750695588029.webp",
+    "urlPhoto2": "/uploads/souscateg/1750695592930.webp"
+  },
+  "qte": 0,
+  "attributes": [
+    {
+      "cle": "gtin",
+      "valeur": "DGS-F1210-18PS-E",
+      "enable": true,
+      "_id": "68597e6299437548fd87c430"
+    },
+    {
+      "cle": "Marque",
+      "valeur": "DLINK",
+      "enable": true,
+      "_id": "68597e6299437548fd87c431"
+    },
+    {
+      "cle": "Nombre de Ports",
+      "valeur": "16 Ports",
+      "enable": true,
+      "_id": "68597e6299437548fd87c432"
+    },
+    {
+      "cle": "Normes réseau",
+      "valeur": "1000Base-T",
+      "enable": true,
+      "_id": "68597e6299437548fd87c433"
+    },
+    {
+      "cle": "Administrable",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597e6299437548fd87c434"
+    },
+    {
+      "cle": "Gigabit",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597e6299437548fd87c435"
+    },
+    {
+      "cle": "Compatibilité POE",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597e6299437548fd87c436"
+    },
+    {
+      "cle": "Couleur",
+      "valeur": "Noir",
+      "enable": true,
+      "_id": "68597e6299437548fd87c437"
+    },
+    {
+      "cle": "Dimensions",
+      "valeur": "440x180x44mm",
+      "enable": true,
+      "_id": "68597e6299437548fd87c438"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "68597cd1fd2984d47c66611d"
+  ],
+  "lien": "SWITCH-D-LINK-DGS-F1210-18PS-E-POE-INTELLIGENT-GIGABIT-AVEC-16-PORTS-POE",
+  "gallerie": {
+    "_id": "685aa975fd2984d47c74e3e0",
+    "titre": "SWITCH D-LINK DGS-F1210-18PS-E POE+ GÉRÉ INTELLIGENT GIGABIT AVEC 16 PORTS POE+",
+    "urlPhoto": [
+      "/uploads/gallerie/1750772100598.jpg",
+      "/uploads/gallerie/1750772106026.jpg"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-24T13:35:06.124Z",
+    "create_date": "2025-06-24T13:34:45.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 147,
+  "price": 855,
+  "tagsSearch": [],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-06-23T16:18:42.872Z",
+  "update_date": "2025-10-23T21:15:24.749Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

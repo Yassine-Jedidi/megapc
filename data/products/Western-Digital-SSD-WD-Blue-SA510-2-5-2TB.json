@@ -98,7 +98,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 177,
+  "vue": 179,
   "price": 519,
   "tagsSearch": [
     "WD BLUE",
@@ -108,7 +108,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-08T09:10:24.279Z",
-  "update_date": "2025-10-24T16:52:44.480Z",
+  "update_date": "2025-10-24T17:12:13.089Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

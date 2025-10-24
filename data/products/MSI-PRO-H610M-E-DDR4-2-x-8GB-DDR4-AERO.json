@@ -1,0 +1,191 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744015089123.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744015089123.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP39/P////39/Pr6+QCsq6h6e31HRkhua2sAcXFsLCwuBQACXlxdAPv7+vz8+/T08vf39lqAH/Sb0UGuAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "67e7baf3711a4ce5a4631c16",
+  "sku": "911-7D48-036",
+  "mpn": "911-7D48-036",
+  "titleSeo": "MSI PRO H610M-E DDR4 | MEGA TUNISIE",
+  "desciprtionSeo": "MSI PRO H610M-E DDR4 | Format de carte mère : Micro ATX Socket : Intel 1700 Chipset : Intel H610 Express Max Ram : 64 Go DDR4 3200 MHz ( 2 Slots ) Nombre de slots M.2 : 1 | MEGA TUNISIE",
+  "ratingValue": "4.8",
+  "reviewCount": "53",
+  "priceValidUntil": "2027-05-08",
+  "referenceInterne": "911-7D48-036",
+  "title": "MSI PRO H610M-E DDR4 + 2 x 8GB DDR4 AERO",
+  "title_fr": "MSI PRO H610M-E DDR4 + 2 x 8GB DDR4 AERO",
+  "description_fr": "<h1>MSI PRO H610M-E DDR4 + 2 x 8GB DDR4 AERO</h1>\n\n<hr />\n<h2><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1702304896205.webp\" /></h2>\n\n<h2>L&rsquo;efficacit&eacute; rencontre la polyvalence avec la carte m&egrave;re MSI H610M-A :&nbsp;</h2>\n\n<p><span style=\"font-size:22px\">Avec son facteur de forme mATX, la B560M-A PRO pr&eacute;sente la fusion id&eacute;ale de performance et d&rsquo;efficacit&eacute;. Il s&rsquo;agit d&rsquo;une solution flexible pour votre syst&egrave;me en raison de ses nombreuses options de connectivit&eacute;, de ses emplacements PCIe et de ses ports USB. Vous disposez &eacute;galement de solutions de stockage rapides gr&acirc;ce &agrave; la prise en charge de la technologie Intel&nbsp;Smart Response et de la m&eacute;moire Intel&nbsp;Optane.</span></p>\n\n<h2>Options de m&eacute;moire et d&rsquo;extension rapides et fiables :</h2>\n\n<p><span style=\"font-size:22px\">Avec ses deux emplacements de m&eacute;moire DDR4, cette carte m&egrave;re prend en charge jusqu&rsquo;&agrave; 64 Go de RAM, ce qui permet un multit&acirc;che plus rapide et des performances plus fluides. Cette carte m&egrave;re s&rsquo;assure que la m&eacute;moire de votre ordinateur est capable de g&eacute;rer des t&acirc;ches en prenant en charge des vitesses de m&eacute;moire allant jusqu&rsquo;&agrave; 3200 MHz. Avec suffisamment d&rsquo;espace pour les cartes graphiques et autres cartes d&rsquo;extension, l&rsquo;emplacement PCIe x16, qui prend en charge PCIe 4.0 x16, permet &agrave; votre syst&egrave;me d&rsquo;&ecirc;tre flexible et personnalis&eacute; pour r&eacute;pondre &agrave; vos besoins.</span></p>\n\n<h2>Audio haute d&eacute;finition et connectivit&eacute; r&eacute;seau :</h2>\n\n<p><span style=\"font-size:22px\">Cette carte m&egrave;re offre un son haute d&eacute;finition &agrave; 7.1 canaux avec le codec Realtek&nbsp;ALC897, offrant une exp&eacute;rience sonore riche pour toutes vos demandes de divertissement. Pour les jeux en ligne, le streaming et d&rsquo;autres utilisations, le contr&ocirc;leur LAN Realtek&nbsp;RTL8111H 1 Gbit/s garantit un acc&egrave;s r&eacute;seau fiable et stable.</span></p>\n\n<h2>Compacte et conviviale :</h2>\n\n<p><span style=\"font-size:22px\">La carte m&egrave;re H610M-A est une carte m&egrave;re au format M-ATX qui permet d&rsquo;&eacute;conomiser de l&rsquo;espace gr&acirc;ce &agrave; sa conception r&eacute;fl&eacute;chie et &agrave; ses nombreux connecteurs et ports qui peuvent &ecirc;tre ajust&eacute;s pour r&eacute;pondre &agrave; vos besoins uniques. Les options d&rsquo;affichage sont rendues flexibles par les connexions VGA et HDMITM de la carte graphique int&eacute;gr&eacute;e. De plus, le transfert rapide des donn&eacute;es et les capacit&eacute;s de stockage sont garantis par la prise en charge de nombreux ports USB et SSD M.2.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re :&nbsp;Micro ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket :&nbsp;Intel 1700</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;Intel H610 Express</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 64 Go&nbsp;DDR4 3200 MHz ( 2 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 : 1</span></li>\n</ul>\n",
+  "facilite_fr": "<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1699024088733.png\" /></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "675311184583082f207d5d03",
+    "titre": "EVENTS",
+    "reference": "",
+    "order": 7,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:31:12.208Z",
+    "create_date": "2024-12-06T14:58:32.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1733559629835.webp",
+    "urlPhoto": "/uploads/categorie/1733559616584.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "67d7f084711a4ce5a40f87db",
+    "titre": "BANKAI",
+    "visible": false,
+    "order": 0,
+    "categorie": "675311184583082f207d5d03",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-10-16T17:00:56.206Z",
+    "create_date": "2025-03-17T09:51:00.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1742206147820.webp",
+    "urlPhoto2": "/uploads/souscateg/1742206155479.webp"
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c005"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "Intel H610",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c006"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Micro ATX",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c007"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR4",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c008"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "2",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c009"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "64 GB",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c00a"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "32 GB",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c00b"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "3200 MHz",
+      "enable": true,
+      "_id": "653fbe3d37e0a9bf8ab8c00c"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c",
+    "67d7f084711a4ce5a40f87db",
+    "681ce4f0c75bcce7a27d6891"
+  ],
+  "lien": "MSI-PRO-H610M-E-DDR4-2-x-8GB-DDR4-AERO",
+  "gallerie": {
+    "_id": "67f38ee6711a4ce5a4d4a486",
+    "titre": "MSI PRO H610M-E DDR4 + 2 X 8GB DDR4 AERO",
+    "urlPhoto": [
+      "/uploads/gallerie/1744015089123.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-07T08:38:09.223Z",
+    "create_date": "2025-04-07T08:37:58.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 12767,
+  "price": 269,
+  "priceHt": null,
+  "tagsSearch": [
+    "MSI",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "PROMO-MSI",
+    "EVENTS",
+    "BANKAI",
+    "BAC_2K25"
+  ],
+  "discount": null,
+  "stock": 94,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2023-06-13T09:36:26.276Z",
+  "update_date": "2025-10-24T16:11:07.240Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

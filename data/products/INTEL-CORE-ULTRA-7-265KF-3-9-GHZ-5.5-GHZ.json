@@ -1,0 +1,189 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730380821639.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730380821639.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMjLzpWbnfv//9bb3wC7vsIkJSlUVVfW290Ax8rOAAALREZJtLi8AMrLziIkJ3Fzd83Q1BHuG/ROjsnQAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6723849899de58d4f6cea3ec",
+  "sku": "AT8076806410",
+  "mpn": "AT8076806410",
+  "titleSeo": "Processeur Intel Core Ultra 7 265KF (3.9 GHz / 5.5 GHz) - Version tray | MEGA TUNISIE",
+  "desciprtionSeo": "Processeur Modèle : Intel Core Ultra 7 265KF Fréquence de base : 3.9 GHz Fréquence Turbo : 5.5 GHz Nombre de cœurs : 20 Nombre de threads : 20 Architecture : Arrow-Lake Finesse de gravure : 3 nm TDP : 125 W | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "45",
+  "priceValidUntil": "2026-09-08",
+  "referenceInterne": "AT8076806410",
+  "title": "Intel Core Ultra 7 265KF (3.9 GHz / 5.5 GHz) Tray",
+  "title_fr": "Intel Core Ultra 7 265KF (3.9 GHz / 5.5 GHz) Tray",
+  "description_fr": "<h2>INTEL CORE ULTRA 7 265KF (3.9 GHZ / 5.5 GHZ) TRAY</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">L&#39;Intel Core Ultra 7 265KF est un processeur hautes performances con&ccedil;u pour les ordinateurs de bureau et les configurations gaming. Avec une fr&eacute;quence de base de 3.9 GHz et un mode Turbo atteignant 5.5 GHz, ce mod&egrave;le dispose de 20 c&oelig;urs et 20 threads, id&eacute;al pour le multit&acirc;che et les applications exigeantes. B&acirc;ti sur l&#39;architecture avanc&eacute;e Arrow-Lake avec une finesse de gravure de 3 nm, il garantit des performances optimales. Son TDP de 125 W, coupl&eacute; &agrave; un cache L2 de 36 Mo et un cache L3 de 30 Mo, assure une gestion efficace des donn&eacute;es. Le processeur supporte &eacute;galement la m&eacute;moire DDR5 en dual channel, avec des fr&eacute;quences allant jusqu&#39;&agrave; 6400 MHz, offrant ainsi un d&eacute;bit de donn&eacute;es rapide. Bien qu&#39;il ne dispose pas de contr&ocirc;leur graphique int&eacute;gr&eacute;, il est parfait pour les utilisateurs pr&eacute;voyant d&#39;utiliser une carte graphique d&eacute;di&eacute;e. En version tray, ce processeur est destin&eacute; &agrave; une utilisation personnalis&eacute;e, sans bo&icirc;te ni ventilateur fourni, ce qui en fait un choix id&eacute;al pour ceux qui recherchent une puissance de traitement exceptionnelle.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Mod&egrave;le :</strong> Intel Core Ultra 7 265KF</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence de base :</strong> 3.9 GHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence Turbo :</strong> 5.5 GHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Nombre de c&oelig;urs :</strong> 20</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Nombre de threads :</strong> 20</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Architecture :</strong> Arrow-Lake</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Finesse de gravure :</strong> 3 nm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>TDP :</strong> 125 W</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cache L2 :</strong> 36 Mo</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cache L3 :</strong> 30 Mo</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Compatibilit&eacute; chipset :</strong> Intel Z890</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Contr&ocirc;leur m&eacute;moire :</strong> DDR5 (Dual Channel, jusqu&#39;&agrave; 6400 MHz)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>IA Ready :</strong> Oui</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb18ed34a2e400482a012c9",
+    "titre": "INTEL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326790165.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:05:39.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.90 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cc"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "5.50 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cd"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "20",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cf"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "20",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23d0"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR5 6400 MHz",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e3"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "30 MB",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e5"
+    },
+    {
+      "cle": "Puissance de base du processeur",
+      "valeur": "125 W",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e6"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "Intel 1851",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e7"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "36 MB",
+      "enable": true,
+      "_id": "673b3de199de58d4f6c19d18"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "INTEL-CORE-ULTRA-7-265KF-3-9-GHZ-5.5-GHZ",
+  "gallerie": {
+    "_id": "672383f099de58d4f6cea35b",
+    "titre": "INTEL CORE ULTRA 7 265KF (3.9 GHZ / 5.5 GHZ) ",
+    "urlPhoto": [
+      "/uploads/gallerie/1730380821639.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-10-31T13:36:37.064Z",
+    "create_date": "2024-10-31T13:19:44.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 549,
+  "price": 1249,
+  "tagsSearch": [
+    "INTEL",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "ULTRA",
+    "COREULTRA"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2024-10-31T13:22:32.213Z",
+  "update_date": "2025-10-24T01:14:07.921Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

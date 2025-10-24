@@ -1,0 +1,165 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1631524998710.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1631524998710.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AFF5Vn2Sf8TFxPH29gACPBcQIgAOABKfn7IANl9CFh8AMxsyxrvQAKS8q2NxZbOsrf///R3dFpgeBuoqAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1631524998741.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1631524998741.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ANHc2Mrb19Dj3d3r6AA7LSUVAAMTAAAiDjUArZWielNseFNqq4enAP///+7x7urt6v///7qVHRLzKDnCAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "613f1c3c72f28f7411b8011e",
+  "sku": "4260455646161",
+  "mpn": "4260455646161",
+  "titleSeo": "Ventilateur Argus RGB-FAN SET RS-07 - MEGA PC",
+  "desciprtionSeo": "Argus RGB-FAN SET RS-07 | Dimension du ventilateur (H/L/P) : 25x120x120mm  Vitesse du ventilateur : 900 tr/min  Tension nominale : 12V  Pouvoir : 3W  Flux d'air : 59.81cbm/h  Niveau de bruit : 22dBA  Connecteur : PWM 4 broches Dimensions (h/l/p) : 25x120x120mm | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "25",
+  "priceValidUntil": "2022-05-04",
+  "referenceInterne": "RS-07",
+  "title": "Argus RGB-FAN SET RS-07",
+  "title_fr": "Argus RGB-FAN SET RS-07",
+  "description_fr": "<h2>Ventilateur Argus RGB-FAN SET RS-07</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Les trois ventilateurs RVB PWM 120 mm 4 broches d&rsquo;Argus offrent un excellent &eacute;clairage pour le bo&icirc;tier de votre PC et, avec la t&eacute;l&eacute;commande et l&rsquo;unit&eacute; de contr&ocirc;le sans fil incluses, offrent plus de 300 effets et modes diff&eacute;rents. Si cela ne suffit pas, vous pouvez &eacute;galement g&eacute;rer et contr&ocirc;ler toutes les LED RVB de mani&egrave;re synchrone via la carte m&egrave;re &agrave; l&rsquo;aide de l&rsquo;en-t&ecirc;te RVB 5V int&eacute;gr&eacute; (LED RVB adressables).</span></p>\n\n<p><span style=\"font-size:22px\">L&rsquo;ensemble peut facilement &ecirc;tre &eacute;tendu avec jusqu&rsquo;&agrave; cinq autres ventilateurs Argus RGB disponibles en option et deux bandes LED Argus RS-042 RGB disponibles en option.</span></p>\n\n<p><span style=\"font-size:22px\">-&nbsp;T&eacute;l&eacute;commande radio (port&eacute;e d&rsquo;environ 10 m)</span></p>\n\n<p><span style=\"font-size:22px\">-&nbsp;Connecteur d&rsquo;en-t&ecirc;te RVB 3 broches pour le contr&ocirc;le de la carte m&egrave;re RVB 5V</span></p>\n\n<p><span style=\"font-size:22px\">-&nbsp;24 LED RVB lumineuses par ventilateur de 120 mm avec effet cristal</span></p>\n\n<p><span style=\"font-size:22px\">-&nbsp;Extensible par cinq autres ventilateurs RVB et deux bandes LED RVB</span></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Dimension du ventilateur (H/L/P) : 25x120x120mm&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse du ventilateur : 900 tr/min&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Tension nominale : 12V&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Pouvoir : 3W&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Flux d&#39;air : 59.81cbm/h&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Niveau de bruit : 22dBA&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Connecteur : PWM 4 broches</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions (h/l/p) : 25x120x120mm&nbsp;</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ec157a94a2e400482a01399",
+    "titre": "INTER-TECH",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326978980.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-17T15:26:33.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5f66024987eb92247ccce3e9",
+    "titre": "VENTILATEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205950789.webp",
+    "order": 9,
+    "create_date": "2020-09-19T13:06:17.000Z",
+    "reference": "VENTILATEUR",
+    "update_date": "2021-12-21T12:33:36.131Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Connecteur",
+      "valeur": "LED RVB adressables",
+      "enable": true,
+      "_id": "6747064970a89c442355e4b5"
+    },
+    {
+      "cle": "Connecteur",
+      "valeur": "Femelle à 4 broches",
+      "enable": true,
+      "_id": "6747064970a89c442355e4b6"
+    },
+    {
+      "cle": "Diamètre du ventilateur",
+      "valeur": "120 mm",
+      "enable": true,
+      "_id": "6747064970a89c442355e4b7"
+    },
+    {
+      "cle": "Couleur de LED",
+      "valeur": "Multicolore",
+      "enable": true,
+      "_id": "6747064970a89c442355e4b8"
+    },
+    {
+      "cle": "Nombre de Ventilateurs",
+      "valeur": "3",
+      "enable": true,
+      "_id": "6747064970a89c442355e4b9"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f66024987eb92247ccce3e9"
+  ],
+  "lien": "Argus-RGB-FAN-SET-RS-07",
+  "gallerie": {
+    "_id": "613f173172f28f7411b7e730",
+    "urlPhoto": [
+      "/uploads/gallerie/1631524998710.webp",
+      "/uploads/gallerie/1631524998741.webp"
+    ],
+    "titre": "ARGUS RGB-FAN SET RS-07",
+    "__v": 1,
+    "update_date": "2022-02-05T12:43:15.065Z",
+    "create_date": "2021-09-13T09:17:37.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 10323,
+  "price": 119,
+  "tagsSearch": [
+    "INTER-TECH",
+    "COMPOSANTS",
+    "VENTILATEUR"
+  ],
+  "discount": null,
+  "stock": 4,
+  "displayForPublic": true,
+  "create_date": "2021-09-13T09:39:08.139Z",
+  "update_date": "2025-10-24T09:18:14.786Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

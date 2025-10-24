@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613644629893.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613644629893.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImS3HoQ0AQAgDwO7GMkzAmGxBgiS4CtI3f+5QVQC6WxIkubuZ/WRmRJAEyZnZ3bt7hoAlnNPNRJUAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613644637157.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613644637157.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImQXBMQ0AQQgEwHWFFwR88QlC0EGHGITQk5BQ7M2A5N2ZWXcjMyMCgIjg+83dq0pVsbskZ2Z3HywZIHwFn1z2AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613644644249.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1613644644249.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///+jp7MLCxbm5vQAuOD1od5JZY3gPFSAAFSkyWG2BWWeBAAEUAO3t7cjLzq2yuaCjqcWuGfcfl/ZFAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "602e40ec72a5e1d1ef869694",
+  "sku": "126-09",
+  "mpn": "126-09",
+  "titleSeo": "Microphone Sandberg Streamer USB Desktop Microphone est le microphone parfait pour les gamers | MEGA ",
+  "desciprtionSeo": "Microphone Sandberg Streamer USB Desktop Microphone est le microphone parfait pour les gamers | MEGA ",
+  "ratingValue": "4",
+  "reviewCount": "32",
+  "priceValidUntil": "2022-04-07",
+  "referenceInterne": "126-09",
+  "title": "MICROPHONE USB SANDBERG STREAMER",
+  "title_fr": "MICROPHONE USB SANDBERG STREAMER",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>MICROPHONE USB SANDBERG STREAMER</h2>\n\n<hr />\n<p>&nbsp;</p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1679914133643.webp\" /></p>\n\n<blockquote>\n<hr />\n<p>&nbsp;</p>\n<br />\n<span style=\"font-size:22px\">Sandberg Streamer USB Desktop Microphone est le compagnon id&eacute;al pour les gamers et producteurs de vid&eacute;os voulant faire des enregistrements sonores de haute qualit&eacute;. Con&ccedil;u en m&eacute;tal robuste, peut &ecirc;tre utilis&eacute; en main ou plac&eacute; sur un tr&eacute;pied inclus. Il se connecte imm&eacute;diatement &agrave; votre PC via un port USB, sans installation de pilote.</span></blockquote>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Type: Condenseur &agrave; &eacute;lectret arri&egrave;re</span></li>\n\t<li><span style=\"font-size:22px\">Directivit&eacute;: Unidirectionnelle</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;ponse en fr&eacute;quence: 30-16 000 Hz</span></li>\n\t<li><span style=\"font-size:22px\">Sensibilit&eacute;: -27 +/- 3 dB</span></li>\n\t<li><span style=\"font-size:22px\">Rapport S / N: 70 dB</span></li>\n\t<li><span style=\"font-size:22px\">Niveau de pression acoustique max: 120 dB</span></li>\n\t<li><span style=\"font-size:22px\">Taux d&rsquo;&eacute;chantillonnage: 96 kHz / 24 bits</span></li>\n\t<li><span style=\"font-size:22px\">Tension: Aliment&eacute; par USB , DC 5.0</span></li>\n\t<li><span style=\"font-size:22px\">Mat&eacute;riau du corps principal: Zinc robuste, plastique Alu + ABS</span></li>\n\t<li><span style=\"font-size:22px\">Port USB dans le micro: USB 2.0 type B</span></li>\n</ul>\n",
+  "facilite_fr": "",
+  "notreSelection": true,
+  "marque": {
+    "_id": "601aa290560a75bf85052ef0",
+    "titre": "SANDBERG",
+    "description": "SANDBERG",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1612358293011.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-02-03T13:18:08.000Z"
+  },
+  "categorie": {
+    "_id": "5fbd4008c43710886bc4c65b",
+    "order": 11,
+    "titre": "STREAMING",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1620205193173.webp",
+    "create_date": "2020-11-24T17:16:56.000Z",
+    "update_date": "2025-04-28T10:31:45.321Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ffd66199504b9a0f1d9dded",
+    "order": 3,
+    "titre": "MICROPHONES",
+    "categorie": "5fbd4008c43710886bc4c65b",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1610442273609.webp",
+    "create_date": "2021-01-12T09:04:25.000Z",
+    "update_date": "2021-12-04T08:52:38.110Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Type",
+      "valeur": "Condenseur à électret arrière",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f2e"
+    },
+    {
+      "cle": "Directivité",
+      "valeur": "Unidirectionnelle",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f2f"
+    },
+    {
+      "cle": "Réponse en fréquence",
+      "valeur": "30-16 000 Hz",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f30"
+    },
+    {
+      "cle": "Sensibilité",
+      "valeur": "-27 +/- 3 dB",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f31"
+    },
+    {
+      "cle": "Rapport S / N",
+      "valeur": "70 dB",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f32"
+    },
+    {
+      "cle": "Niveau de pression acoustique max",
+      "valeur": "120 dB",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f33"
+    },
+    {
+      "cle": "Taux d’échantillonnage",
+      "valeur": "96 kHz / 24 bits",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f34"
+    },
+    {
+      "cle": "Tension",
+      "valeur": "Alimenté par USB , DC 5.0",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f35"
+    },
+    {
+      "cle": "Matériau du corps principal",
+      "valeur": "Zinc robuste, plastique Alu + ABS",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f36"
+    },
+    {
+      "cle": "Port USB dans le micro",
+      "valeur": "USB 2.0 type B",
+      "enable": true,
+      "_id": "61cdac36ea60c827e9332f37"
+    }
+  ],
+  "tag": [],
+  "compatibility": [
+    "601aa4c2560a75bf85052ef2",
+    "601bbd72806ffed1dd41a849",
+    "5fbe2b6be84b20a11e2e2335",
+    "5fbe35dbe84b20a11e2e233e",
+    "5f897cfb3e9bde457030a4e3",
+    "602e5bde72a5e1d1ef8696d7"
+  ],
+  "nFilsCategs": [
+    "5ffd66199504b9a0f1d9dded"
+  ],
+  "lien": "MICROPHONE-USB-SANDBERG-STREAMER",
+  "gallerie": {
+    "_id": "602e407e72a5e1d1ef869693",
+    "urlPhoto": [
+      "/uploads/gallerie/1613644629893.webp",
+      "/uploads/gallerie/1613644637157.webp",
+      "/uploads/gallerie/1613644644249.webp"
+    ],
+    "titre": "MICROPHONE USB SANDBERG STREAMER",
+    "__v": 3,
+    "create_date": "2021-02-18T10:25:02.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 6493,
+  "price": 169,
+  "sale": false,
+  "tagsSearch": [
+    "SANDBERG",
+    "STREAMING",
+    "MICROPHONES"
+  ],
+  "discount": null,
+  "stock": 8,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2021-02-18T10:26:52.833Z",
+  "update_date": "2025-10-24T14:20:08.833Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

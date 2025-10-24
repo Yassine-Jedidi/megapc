@@ -1,0 +1,184 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663416437146.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663416437146.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAJklEQVQImWP4jwQYpkyZIgUC0jExMQylpaUMDAw2NjaNjU0MyMoAJIQe7eOViPQAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663416443856.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663416443856.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APf39+jn6vLw8f///wDd3d4zMDYDAAqysrQA3NvdPj1DHRohtLK0APf39+np6/b29v///3WNIgqu7kiXAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663416443857.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663416443857.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAJElEQVQImWP4jwQY7ty5o6GhUVFRDuI0NjYyMDDIycmCOMjKALPJJDK7/6GqAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663416443858.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663416443858.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYKioqjIyMdHV1k5OTGby9vRkYGNnZOeztHRiQlQEACJIdTURFehEAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "6325ba1a8ace4ce16cf2cf60",
+  "sku": "GSP-968BLK",
+  "mpn": "0736373270626",
+  "titleSeo": "White Shark GSP-968 Mood RGB | MEGA PC",
+  "desciprtionSeo": "Haut-parleur pc - USB :  White Shark GSP-968 Mood RGB - Puissance de sortie (mW) : 5 W x 2 + 3 W x 2 - Matériel: plastique - Couleur blanche - Sensibilité d'entrée : 700 mV - Rapport signal/bruit (dB) : 85 | MEGA PC",
+  "ratingValue": "4.2",
+  "reviewCount": "35",
+  "priceValidUntil": "2023-05-08",
+  "referenceInterne": "GSP-968BLK",
+  "title": "White Shark MOOD Black RGB (GSP-968)",
+  "title_fr": "White Shark MOOD Black RGB (GSP-968)",
+  "description_fr": "<h2>White Shark MOOD Black RGB (GSP-968)</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le <strong>White Shark MOOD Black RGB (GSP-968)</strong> est un syst&egrave;me audio &eacute;l&eacute;gant et performant con&ccedil;u pour offrir une exp&eacute;rience sonore immersive. Avec une puissance de 16W RMS (compos&eacute;e de 2 haut-parleurs de 5 W et 2 de 3 W), il assure une restitution sonore claire et dynamique, adapt&eacute;e &agrave; divers types de contenu. L&#39;&eacute;clairage LED arc-en-ciel ajoute une ambiance visuelle attrayante, rendant ce haut-parleur parfait pour les soir&eacute;es ou les sessions de jeu.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Type de haut-parleur : 2.2 st&eacute;r&eacute;o</span></li>\n\t<li><span style=\"font-size:22px\">Interface : USB 2.0 (alimentation) + 3,5 mm (audio)</span></li>\n\t<li><span style=\"font-size:22px\">Puissance de sortie (mW) : 5 W x 2 / 3 W x 2</span></li>\n\t<li><span style=\"font-size:22px\">Tension de fonctionnement (V): 5</span></li>\n\t<li><span style=\"font-size:22px\">Eclairage : effet arc-en-ciel (7 couleurs)</span></li>\n\t<li><span style=\"font-size:22px\">Couleur : black</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5f886a2f3a4d1b058a8fc012",
+    "titre": "WHITE SHARK",
+    "description": "WHITE SHARK",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327730130.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-10-15T15:26:39.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "608576abed5edabde750ab17",
+    "order": 8,
+    "titre": "HAUT PARLEURS",
+    "titreSEO": "Haut Parleurs Tunisie - Achat haut-parleur jbl - bluetooth - PC Gaming",
+    "descriptionSEO": "<p>Achat&nbsp;haut-parleur&nbsp;sur MegaPC,&nbsp;Enceinte PC logitech, JBL,&nbsp;sans fil,&nbsp;enceinte&nbsp;pc&nbsp;gamer -&nbsp;Haut-parleurs d'ordinateur Chez MEGA PC</p>",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1619359420844.webp",
+    "create_date": "2021-04-25T14:03:23.000Z",
+    "reference": "HAUTPARLEURS",
+    "update_date": "2022-01-04T14:05:31.868Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Type d'enceintes",
+      "valeur": "2.2 (Stéréo)",
+      "enable": true,
+      "_id": "6278f7a96010f19d11cde7cd"
+    },
+    {
+      "cle": "Télécommande",
+      "valeur": "non",
+      "enable": true,
+      "_id": "6278f7a96010f19d11cde7cf"
+    },
+    {
+      "cle": "Puissance",
+      "valeur": "5 W",
+      "enable": true,
+      "_id": "6278f7a96010f19d11cde7d0"
+    },
+    {
+      "cle": "Fréquence Maxi",
+      "valeur": "20 KHz",
+      "enable": true,
+      "_id": "6278f7a96010f19d11cde7d1"
+    },
+    {
+      "cle": "Interface avec l'ordinateur",
+      "valeur": "Jack 3,5mm Mâle Stéréo",
+      "enable": true,
+      "_id": "6278f7a96010f19d11cde7d2"
+    },
+    {
+      "cle": "Interface avec l'ordinateur",
+      "valeur": "USB",
+      "enable": true,
+      "_id": "6278f7b66010f19d11cde7e8"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "608576abed5edabde750ab17"
+  ],
+  "lien": "White-Shark-MOOD-Black-GSP-968",
+  "gallerie": {
+    "_id": "6325b8618ace4ce16cf26b63",
+    "titre": "WHITE SHARK MOOD BLACK RGB (GSP-968)",
+    "urlPhoto": [
+      "/uploads/gallerie/1663416437146.webp",
+      "/uploads/gallerie/1663416443856.webp",
+      "/uploads/gallerie/1663416443857.webp",
+      "/uploads/gallerie/1663416443858.webp"
+    ],
+    "update_date": "2022-09-17T12:07:24.003Z",
+    "create_date": "2022-09-17T12:06:57.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 5321,
+  "price": 75,
+  "tagsSearch": [
+    "WHITE SHARK",
+    "ACCESSOIRES",
+    "HAUT PARLEURS"
+  ],
+  "stock": 6,
+  "displayForPublic": true,
+  "create_date": "2022-09-17T11:38:11.144Z",
+  "update_date": "2025-10-23T05:50:44.544Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

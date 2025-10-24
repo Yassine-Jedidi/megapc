@@ -1,0 +1,198 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686226982636.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686226982636.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImR3BsQ0AIAgEwF9AEybRnj20Yg0mJzSEvIl3IFlV3U0Sqrr3uve4O8aYZiYiAMAvIjLzAfrMHLP+hzjiAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227811493.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227811493.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AKyzs+Xx6e///5q0sgBjVkNLf5dalbQXTVwALh4GAAASJTA9PVxrAJZ6ZZuEeKuelZ+fmKJcFzmOyljDAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827215.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827215.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWP4jwQYAgMDy8vLFy1a1N3TzcDAwBgZGSUnJ8vGxsYAUfDx48cvX74AAEVbHva9phJRAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827216.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827216.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALUlEQVQImWP4jwQYPDw8oqKiWltbmpubGBgYGKKiosTFxUEsiIKPHz9++/YNACYRHfOFG2+eAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827240.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827240.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWN49+7dy5cv/4MBQ0lxISMDg46O9sSJExg2bVq/du2ajRs3TJ8+nQGiAKIMAGUsIvJcpGpPAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827249.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827249.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALUlEQVQImWP4Bgb/wYAhNiaakYHB29urubmZobamsrSkeMmSxVlZmQwQBRBlAEY5ISfh3rgRAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827255.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827255.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYLC0tdHS0ly9fnp6ezsDIwCAmKjJt2lQhIUEGZGUAHlcedhcquJcAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827278.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827278.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWP4////37+/////9///fwYHeztrK4vkpITKygoGLi6umJgYURERBgYGhv9g8OXLl2/fvgEABpsdDPItrsEAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827282.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827282.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWP4////nz+/////9///fwZra2szE+OQkKCS4mIGPj6+tLQ0QUEBBgYGhv9g8OXLl+/fvwMA/i8c1UDWV2sAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827290.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827290.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImR3BwQkAMAgEsNugfTiCKzhAO40/lxcEEa7QBCS7e2ZIwsxU9d4TERARd99rAQC/zKyqB+zQHFc515yPAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827293.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827293.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWP4////nz9//oMBg42NjZmZWVhYWGlpKQMfH19aWpqgoCADAwMDRMGXL1++f/8OAAE/HO0HgKJpAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827298.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827298.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALUlEQVQImWP4jwQY/Pz8yivKZ8+e3dHRzsDAwBAfHy8hIQFiQRR8/Pjxy5cvAD+AHrt+UytnAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827303.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686227827303.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWN4CwJv/oMBQ1FhHhsDg6mR3uRJExjWrFm1fPny9evWTpk8mQGiAKIMAGShItj9MeKlAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6481c74fc026d6db8d847a35",
+  "sku": "Bureau_Pc_v1",
+  "mpn": "0000000000000",
+  "titleSeo": "Bureau Ordinateur - Pc gamer | MEGA PC",
+  "desciprtionSeo": "Bureau Ordinateur Tunisie | Dimension : 70x150 cm | Couleur personnalisée : Noir , Blanc , Gris | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "58",
+  "priceValidUntil": "2023-09-09",
+  "referenceInterne": "Bureau_Pc_v1",
+  "title": "Bureau Pc V1 [150x70]",
+  "title_fr": "Bureau Pc V1 [150x70]",
+  "description": "",
+  "description_fr": "<h2>Bureau Ordinateur V1 [70x150]</h2>\n\n<hr />\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686238986715.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686588996242.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686588168774.webp\" /></p>\n\n<p><img alt=\"Bureau Ordinateur\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1686235944168.webp\" /></p>\n\n<p><img alt=\"Bureau Ordinateur gamer\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1686235944204.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884363.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884290.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884290.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884320.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884349.webp\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:20px\">Dimension (H-L-P) : 150 x 70 x 75&nbsp;cm</span></li>\n\t<li><span style=\"font-size:20px\">Couleur unit&eacute; de rangement&nbsp;: Noir, Blanc, Gris</span></li>\n\t<li><span style=\"font-size:20px\">Couleur Dessus de table :&nbsp;Noir, Blanc, Gris, Effet Bois</span></li>\n\t<li><span style=\"color:#ff0000\"><span style=\"font-size:22px\">frais de livraison&nbsp;50 DT</span></span></li>\n</ul>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#0066cc\">Couleurs disponibles</span></span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686659866719.webp\" /></p>\n\n<p><span style=\"font-size:18px\"><span style=\"color:#0066cc\">Couleur Dessus de table</span></span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686659866721.webp\" /></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea236cca4815052c4d1a42e",
+    "titre": "MEGA PC",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326630886.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:46:04.000Z"
+  },
+  "categorie": {
+    "_id": "61bdabf124759166ca9d2953",
+    "titre": "TABLE DE GAMING",
+    "order": 8,
+    "visible": true,
+    "update_date": "2025-04-28T10:31:22.183Z",
+    "create_date": "2021-12-18T09:37:53.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1715680958417.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "61bdafc724759166ca9e51c0",
+    "titre": "TABLE DE GAMING RGB",
+    "visible": true,
+    "order": 10,
+    "update_date": "2021-12-20T12:24:51.353Z",
+    "create_date": "2021-12-18T09:54:15.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1639821262199.webp",
+    "categorie": "61bdabf124759166ca9d2953",
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "61bdafc724759166ca9e51c0"
+  ],
+  "lien": "Bureau-Pc-V1-[150x70]",
+  "gallerie": {
+    "_id": "6481c7e9c026d6db8d84f7d9",
+    "titre": "BUREAU ORDINATEUR V1 [75X150]",
+    "urlPhoto": [
+      "/uploads/gallerie/1686226982636.webp",
+      "/uploads/gallerie/1686227811493.webp",
+      "/uploads/gallerie/1686227827215.webp",
+      "/uploads/gallerie/1686227827216.webp",
+      "/uploads/gallerie/1686227827240.webp",
+      "/uploads/gallerie/1686227827249.webp",
+      "/uploads/gallerie/1686227827255.webp",
+      "/uploads/gallerie/1686227827278.webp",
+      "/uploads/gallerie/1686227827282.webp",
+      "/uploads/gallerie/1686227827290.webp",
+      "/uploads/gallerie/1686227827293.webp",
+      "/uploads/gallerie/1686227827298.webp",
+      "/uploads/gallerie/1686227827303.webp"
+    ],
+    "update_date": "2023-06-08T12:37:07.418Z",
+    "create_date": "2023-06-08T12:22:01.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": true,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "textCommande": "Dans 10 Jours",
+  "enArrivage": false,
+  "new": true,
+  "vue": 28763,
+  "price": 799,
+  "tagsSearch": [
+    "MEGA PC",
+    "TABLE DE GAMING",
+    "TABLE DE GAMING RGB"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2023-06-08T12:19:27.956Z",
+  "update_date": "2025-10-24T16:12:54.395Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": true,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

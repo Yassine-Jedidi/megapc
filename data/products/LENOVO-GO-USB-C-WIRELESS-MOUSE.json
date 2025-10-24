@@ -1,0 +1,171 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677501233774.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677501233774.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///5aWmpWUlv///wD5+fkVFRk0Mzfu7u8A8vLyAAAHFRUZ29vcAP///1xbXkZFR/39/SoLHaSeVCG5AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677501233775.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677501233775.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP4/PlzRWXtyVOn////z7B37z5+PpGOjl4QZ9269YwMHGlpWSDOs2fPLcytS4pLb9y4AQA2CR4uxwUU+AAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677501233776.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677501233776.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APT09MLCwuPj4////wCHh4cAAABRUVHU09YA29vbOjo5GBgZjo6SAP///+Xl5ampqurq6zc8H2rQQCQWAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "63fca43f8ac974073d90d6eb",
+  "sku": "GY51C21210",
+  "mpn": "GY51C21210",
+  "titleSeo": "SOURIS LENOVO GO USB-C WIRELESS MOUSE | MEGA PC ",
+  "desciprtionSeo": "SOURIS LENOVO GO USB-C WIRELESS MOUSE | | USB-A to USB-C Charging Cable, length, 0.5 m (19.7 in.) | 5 Mice Buttons | Up to 3 million clicks | Up to 2400 DPI | Blue Optical | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2027-09-08",
+  "referenceInterne": "GY51C21210",
+  "title": "LENOVO GO USB-C WIRELESS MOUSE",
+  "title_fr": "LENOVO GO USB-C WIRELESS MOUSE",
+  "description_fr": "<h2>LENOVO GO USB-C WIRELESS MOUSE</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Con&ccedil;ue pour compl&eacute;ter le style de vie des utilisateurs d&#39;ultrabooks, la souris sans fil Lenovo Go USB-C est con&ccedil;ue pour une portabilit&eacute; et un confort sup&eacute;rieurs. Avec un capteur optique bleu qui fonctionne sur la plupart des surfaces et une connectivit&eacute; USB-C, il est pr&ecirc;t &agrave; prosp&eacute;rer dans un lieu de travail dynamique.<br />\nSa batterie ultra longue dur&eacute;e et son bouton utilitaire programmable garantissent qu&#39;il est capable de n&#39;importe quelle t&acirc;che et pr&ecirc;t &agrave; &ecirc;tre utilis&eacute; &agrave; tout moment.</span></p>\n\n<p><img alt=\"LENOVO GO USB-C WIRELESS MOUSE | MEGA PC \" src=\"https://apibackend.megapc.tn///uploads/gallerie/1677501325640.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:20px\">Couleur : Gris</span></li>\n\t<li><span style=\"font-size:20px\">Autonomie de la batterie : jusqu&#39;&agrave; 3 mois d&#39;autonomie (peut varier en fonction de l&#39;utilisation)</span></li>\n\t<li><span style=\"font-size:20px\">Type de connexion : R&eacute;cepteur sans fil 2.4G</span></li>\n\t<li><span style=\"font-size:20px\">Longueur/type de c&acirc;ble&nbsp;: c&acirc;ble de chargement USB-A vers USB-C, longueur, 0,5&nbsp;m (19,7&nbsp;pouces)</span></li>\n\t<li><span style=\"font-size:20px\">Poids souris : 71 g</span></li>\n\t<li><span style=\"font-size:20px\">Bouton souris : 5</span></li>\n\t<li><span style=\"font-size:20px\">Dur&eacute;e de vie des boutons&nbsp;: jusqu&#39;&agrave; 3&nbsp;millions de clics</span></li>\n\t<li><span style=\"font-size:20px\">Nombre DPI : 2400 DPI</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233bfa4815052c4d1a423",
+    "titre": "SOURIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206287980.webp",
+    "order": 1,
+    "descriptionSEO": "<p>Souris Pc gamer Tunisie&nbsp;optique Sans fil -&nbsp;Achat Souris Ordinateur bureau, souris Pc portable gaming RGB - Aorus, Razer, Logitech, Corsair, Steelseries</p>",
+    "titreSEO": "Souris PC gamer | sans fil pour ordinateur Pc portable | Mega PC",
+    "create_date": "2020-04-24T00:33:03.000Z",
+    "reference": "SOURIS",
+    "update_date": "2021-12-04T08:54:08.545Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "NOMBRE DE BOUTONS",
+      "valeur": "5",
+      "enable": true,
+      "_id": "63fca84d8ac974073d926287"
+    },
+    {
+      "cle": "CAPTEUR",
+      "valeur": "OPTIQUE",
+      "enable": true,
+      "_id": "63fca84d8ac974073d926288"
+    },
+    {
+      "cle": "DIMENSIONS (MM)",
+      "valeur": "154 mm x 101 mm x 55 mm",
+      "enable": true,
+      "_id": "63fca84d8ac974073d926289"
+    },
+    {
+      "cle": "RÉTRO-ÉCLAIRAGE",
+      "valeur": "NON",
+      "enable": true,
+      "_id": "63fca84d8ac974073d92628a"
+    },
+    {
+      "cle": "POIDS",
+      "valeur": "230 G",
+      "enable": true,
+      "_id": "63fca84d8ac974073d92628b"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea233bfa4815052c4d1a423"
+  ],
+  "lien": "LENOVO-GO-USB-C-WIRELESS-MOUSE",
+  "gallerie": {
+    "_id": "63fca3148ac974073d906776",
+    "titre": "LENOVO GO USB-C WIRELESS MOUSE ",
+    "urlPhoto": [
+      "/uploads/gallerie/1677501233774.webp",
+      "/uploads/gallerie/1677501233775.webp",
+      "/uploads/gallerie/1677501233776.webp"
+    ],
+    "update_date": "2023-02-27T12:34:21.574Z",
+    "create_date": "2023-02-27T12:33:24.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2872,
+  "price": 169,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "SOURIS"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-02-27T12:38:23.241Z",
+  "update_date": "2025-10-23T21:32:51.039Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

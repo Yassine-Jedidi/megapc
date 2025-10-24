@@ -1,0 +1,163 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714725528116.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714725528116.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////z+/Pv9+f3//QBMX0QeMxUACAAYKBcAV11HMTMhGRoIIyccAP///vv7+Pj49f38+9BRG3YIkY1HAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6634a1ee54c8258b90aaef09",
+  "sku": "SC0-1010-XT",
+  "mpn": "SC0-1010-XT",
+  "titleSeo": "SKhynx 8GB (1x8Go) DDR5 4800MHz | MEGA TUNISIE",
+  "desciprtionSeo": "SKhynx 8GB (1x8Go) DDR5 4800MHz | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2024-09-08",
+  "referenceInterne": "SC0-1010-XT",
+  "title": "SKhynx 8GB (1x8Go) DDR5 4800MHz",
+  "title_fr": "SKhynx 8GB (1x8Go) DDR5 4800MHz",
+  "description_fr": "<h2>SKhynx 8GB (1x8Go) DDR5 4800MHZ PCP</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La SKhynx 8GB (1x8Go) DDR5 4800MHz PCP est une barrette de m&eacute;moire vive de haute performance con&ccedil;ue pour r&eacute;pondre aux besoins des syst&egrave;mes informatiques modernes. Avec une capacit&eacute; de 8 Go, cette barrette offre une excellente quantit&eacute; de m&eacute;moire pour les t&acirc;ches informatiques quotidiennes ainsi que pour les applications plus exigeantes telles que le gaming, la cr&eacute;ation de contenu multim&eacute;dia et le montage vid&eacute;o.</span></p>\n\n<p><span style=\"font-size:22px\">Dot&eacute;e d&#39;une vitesse impressionnante de 4800 MHz, la DDR5 offre des performances rapides et r&eacute;actives, permettant un multit&acirc;che fluide et une ex&eacute;cution rapide des programmes. Cette vitesse &eacute;lev&eacute;e en fait un choix id&eacute;al pour les joueurs passionn&eacute;s et les utilisateurs professionnels &agrave; la recherche de performances maximales.</span></p>\n\n<p><span style=\"font-size:22px\">La barrette DDR5 de SKhynx est construite avec des composants de haute qualit&eacute; et b&eacute;n&eacute;ficie d&#39;une conception robuste pour assurer une fiabilit&eacute; &agrave; long terme. De plus, sa compatibilit&eacute; avec les derni&egrave;res plateformes de processeurs et de cartes m&egrave;res garantit une int&eacute;gration sans faille dans votre syst&egrave;me existant.</span></p>\n\n<p><span style=\"font-size:22px\">Que ce soit pour am&eacute;liorer les performances de votre PC de jeu, acc&eacute;l&eacute;rer les flux de travail professionnels ou simplement augmenter la r&eacute;activit&eacute; de votre syst&egrave;me, la SKhynx 8GB DDR5 4800MHz PCP offre une solution de m&eacute;moire vive fiable et performante pour r&eacute;pondre &agrave; vos besoins informatiques les plus exigeants.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Capacit&eacute; : 8 Go</span></li>\n\t<li><span style=\"font-size:22px\">Type de m&eacute;moire : DDR5</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence : 4800 MHz</span></li>\n\t<li><span style=\"font-size:22px\">Interface : SO-DIMM</span></li>\n\t<li><span style=\"font-size:22px\">Compatibilit&eacute; : Pc portable&nbsp;</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea236cca4815052c4d1a42e",
+    "titre": "MEGA PC",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326630886.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:46:04.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2328ca4815052c4d1a419",
+    "titre": "BARETTE MÉMOIRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205649078.webp",
+    "order": 3,
+    "descriptionSEO": "<p>RAM PC gamer, Barrettes mémoires | Ram ordinateur bureau - Ram PC portable prix Tunisie - barrette mémoire ddr4. Mémoire Gigabyte, Adata, pny, Corsair</p>",
+    "titreSEO": "Ram pc gamer Tunisie - Achat Ram pc portable 8go - BARRETTE MÉMOIRE",
+    "create_date": "2020-04-24T00:27:56.000Z",
+    "reference": "RAM",
+    "update_date": "2021-12-04T08:54:47.010Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "6744358599de58d4f6349c9f"
+    },
+    {
+      "cle": "Format de mémoire",
+      "valeur": "SO-DIMM",
+      "enable": true,
+      "_id": "6744358599de58d4f6349ca0"
+    },
+    {
+      "cle": "Capacité par barrette",
+      "valeur": "8 GB",
+      "enable": true,
+      "_id": "6744358599de58d4f6349ca1"
+    },
+    {
+      "cle": "Nombre de barrettes",
+      "valeur": "1",
+      "enable": true,
+      "_id": "6744358599de58d4f6349ca2"
+    },
+    {
+      "cle": "Fréquence",
+      "valeur": "4800 MHz",
+      "enable": true,
+      "_id": "6744361299de58d4f6356025"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2328ca4815052c4d1a419"
+  ],
+  "lien": "SKhynx-8GB-DDR5-4800MHz",
+  "gallerie": {
+    "_id": "6634a28b54c8258b90ab99f9",
+    "titre": "SKHYNX 8GB (1X8GO) DDR5 4800MHZ PCP",
+    "urlPhoto": [
+      "/uploads/gallerie/1714725528116.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-05-03T08:38:48.224Z",
+    "create_date": "2024-05-03T08:38:35.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 924,
+  "price": 99,
+  "tagsSearch": [
+    "MEGA PC",
+    "COMPOSANTS",
+    "BARETTE MÉMOIRE"
+  ],
+  "stock": 0,
+  "forConfig": true,
+  "displayForPublic": true,
+  "create_date": "2024-05-03T08:31:56.479Z",
+  "update_date": "2025-10-23T10:25:13.170Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

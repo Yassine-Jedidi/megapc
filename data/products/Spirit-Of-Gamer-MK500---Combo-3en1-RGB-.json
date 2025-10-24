@@ -1,0 +1,183 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1639218888552.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1639218888552.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AJSdm3d+epSMkZiYoAAsTEMBGQcgAAcgDS0Ah5aQAAAEHhofj4yKAP/+/k1BPjk7Nqq2ptX8Ej7OU2qXAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1639218899015.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1639218899015.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4jwQYCisLi3MzchIzo2LTGKS1pcW5GORYRBgYxBl+//79/cf3379+/f39BwAfyh10h32eEwAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "61b47e2eaff9fb3950cee568",
+  "sku": "CLS-MK500",
+  "mpn": "CLS-MK500",
+  "titleSeo": "COMBO Spirit of Gamer Ultimate 3-en-1- MEGA PC ",
+  "desciprtionSeo": "COMBO Spirit of Gamer Ultimate 3-en-1- | Ensemble pour gamer Spirit of Gamer Ultimate 3-en-1 avec rétroéclairage RGB  clavier filaire à membrane (AZERTY Français)  souris filaire optique 6400 dpi à 7 boutons  tapis de souris 350 x 250 x 3 mm | MEGA TUNISIE",
+  "ratingValue": "4 ",
+  "reviewCount": "55",
+  "priceValidUntil": "2022-05-04",
+  "referenceInterne": "CLS-MK500",
+  "title": "Spirit Of Gamer MK500 - Combo 3en1 RGB ",
+  "title_fr": "Spirit Of Gamer MK500 - Combo 3en1 RGB ",
+  "description_fr": "<p>&nbsp;</p>\n\n<h1>Combo Spirit of Gamer Ultimate 3-en-1</h1>\n\n<hr />\n<p><span style=\"font-size:22px\">Tirez le meilleur parti de votre jeu avec cet ensemble Spirit of Gamer Ultimate 3-en-1. Il dispose d&rsquo;un clavier &agrave; membrane filaire, d&rsquo;une souris optique &agrave; 7 boutons de 6400 dpi et d&rsquo;un tapis de souris de taille standard.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1679070851828.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Ensemble pour gamer Spirit of Gamer Ultimate 3-en-1 avec r&eacute;tro&eacute;clairage RGB&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">clavier filaire &agrave; membrane (AZERTY Fran&ccedil;ais)&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">souris filaire optique 6400 dpi &agrave; 7 boutons&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">tapis de souris 350 x 250 x 3 mm</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eab45cc1c53430470a67932",
+    "titre": "SPIRIT",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326695675.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-30T21:40:28.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ed6291b6735df04ea3dad9d",
+    "titre": "COMBO",
+    "__v": 0,
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "urlPhoto2": "/uploads/souscateg/1620206319036.webp",
+    "order": 4,
+    "descriptionSEO": "<p>Pack clavier souris gamer - Combo Souris clavier casque micro tapis gamer RGB Tunisie sans fil, logitech, MSi, Razer, Genesis, hyperx, Spirit of Gamer</p>",
+    "titreSEO": "Pack clavier souris gamer - Ensemble Clavier et Souris Sans fil Tunisie ",
+    "create_date": "2020-06-02T10:25:31.000Z",
+    "reference": "COMBO",
+    "update_date": "2021-12-04T08:53:56.621Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Modèle",
+      "valeur": "CLS-MK500",
+      "enable": true,
+      "_id": "61b481a2aff9fb3950d044a9"
+    },
+    {
+      "cle": "Rétroéclairage RGB",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "61b481a2aff9fb3950d044aa"
+    },
+    {
+      "cle": "Résolution optique",
+      "valeur": "6400 dpi",
+      "enable": true,
+      "_id": "61b481a2aff9fb3950d044ab"
+    },
+    {
+      "cle": "Type de Roulette",
+      "valeur": "Bidirectionnelle",
+      "enable": true,
+      "_id": "61b481a2aff9fb3950d044ac"
+    },
+    {
+      "cle": "Norme du clavier",
+      "valeur": "AZERTY",
+      "enable": true,
+      "_id": "61b481a2aff9fb3950d044ad"
+    },
+    {
+      "cle": "Type de touches",
+      "valeur": "À membrane",
+      "enable": true,
+      "_id": "61b481a2aff9fb3950d044ae"
+    },
+    {
+      "cle": "Nombre de boutons",
+      "valeur": "7",
+      "enable": true,
+      "_id": "61b481a2aff9fb3950d044af"
+    },
+    {
+      "cle": "Nombre de Touches",
+      "valeur": "105",
+      "enable": true,
+      "_id": "61b481a2aff9fb3950d044b0"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ed6291b6735df04ea3dad9d"
+  ],
+  "lien": "Spirit-Of-Gamer-MK500---Combo-3en1-RGB-",
+  "gallerie": {
+    "_id": "61b47ea5aff9fb3950cf2bb7",
+    "titre": "COMBO SPIRIT OF GAMER ULTIMATE 3-EN-1",
+    "urlPhoto": [
+      "/uploads/gallerie/1639218888552.webp",
+      "/uploads/gallerie/1639218899015.webp"
+    ],
+    "update_date": "2021-12-11T10:34:59.103Z",
+    "create_date": "2021-12-11T10:34:13.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": true,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 5917,
+  "price": 105,
+  "tagsSearch": [
+    "SPIRIT",
+    "ACCESSOIRES",
+    "COMBO"
+  ],
+  "stock": 8,
+  "displayForPublic": true,
+  "create_date": "2021-12-11T10:32:14.216Z",
+  "update_date": "2025-10-24T05:32:08.046Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

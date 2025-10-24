@@ -1,0 +1,206 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1658571187372.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1658571187372.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOfj64GGlG1ycv///wDAvdIFDh8cHx7q6uoAsbGyAAACCA4RxsfHANvb23R1dmFwc+To6cVlGrFQU3C0AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1658571187378.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1658571187378.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4//9/bkFBb1/f////Gf7//8/KwWFiagrlMDAysXPxghhfP38uaWqt7+0HcgAeoR6n/3wIeQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1658571187382.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1658571187382.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4//9/oH+gn5/f////Gf7//y8qIiooIAjl8PLyMTAwgjhfv34tKS4pLy8HcgDkghz/9Nn1UwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1658571198834.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1658571198834.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP7//8TEyKukrcXCxQCco6UUGh4CAAKBgIEAdXR0CgkJBAUFpaenANLS0pCQkYeHh+Pj46lsGSo3vqSJAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "62dbc57648be7071a36f75d2",
+  "sku": "GB-AC700G",
+  "mpn": "4719331552008",
+  "titleSeo": "Boitier PC Gamer - Gigabyte Aorus C700 Glass | MEGA PC",
+  "desciprtionSeo": "Gigabyte Aorus C700 Glass | BOÎTIER GRAND TOUR - 3 ventilateurs 120 mm en façade et 2 ARGB à l'arrière - Compatible watercooling 120/140/240/280/360/420 mm - Accepte les formats de cartes mères mini-ITX, micro-ATX, ATX, E-ATX | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "65",
+  "priceValidUntil": "2023-05-08",
+  "referenceInterne": "GB-AC700G",
+  "title": "Gigabyte Aorus C700 Glass",
+  "title_fr": "Gigabyte Aorus C700 Glass",
+  "description_fr": "<h2>&nbsp;Aorus C700 Glass</h2>\n\n<hr />\n<p><img alt=\"Boitier pc gamer AORUS C700\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1658575631334.webp\" /><img alt=\"AORUS C700 rgb fusion\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1658575631336.webp\" /><img alt=\"boitier aorus tunisie rgb\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1658575631338.webp\" /><img alt=\"gigabyte aorus c700 airflow\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1658575631339.webp\" /><img alt=\"Gigabyte Aorus C700 Glass io ports\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1658575631342.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format du boitier : Grand Tour</span></li>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re : mini-ITX, micro-ATX, ATX, E-ATX</span></li>\n\t<li><span style=\"font-size:22px\">4x USB 3.0, 1x USB 3.1 Type C, 1x HDMI et audio I/O</span></li>\n\t<li><span style=\"font-size:22px\">Bouton de contr&ocirc;le de la vitesse des ventilateurs</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro&eacute;clairage ARGB</span></li>\n\t<li><span style=\"font-size:22px\">8 slots d&#39;extension</span></li>\n\t<li><span style=\"font-size:22px\">Possibilit&eacute; d&#39;installation verticale de la carte graphique</span></li>\n\t<li><span style=\"font-size:22px\">3 ventilateurs 120 mm en fa&ccedil;ade et 2 ARGB &agrave; l&#39;arri&egrave;re</span></li>\n\t<li><span style=\"font-size:20px\">Compatible watercooling 120/140/240/280/360/420 mm</span></li>\n\t<li><span style=\"font-size:20px\">Filtre &agrave; poussi&egrave;re en bas</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232a5a4815052c4d1a41a",
+    "titre": "BOITIER",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205933117.webp",
+    "order": 7,
+    "descriptionSEO": "<p>Boitier PC Gamer - Case pc gamer RGB prix Tunisie - Vente Composant pc - Achat en ligne de Boîtiers PC dans un vaste choix ( Gigabyte, Antec, Thermaltake.. )</p>",
+    "titreSEO": "Boitier PC Gamer - Case pc gamer RGB prix Tunisie - Vente Composant pc",
+    "create_date": "2020-04-24T00:28:21.000Z",
+    "reference": "BOITIER",
+    "update_date": "2021-12-21T12:33:12.175Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Format du boitier",
+      "valeur": "Full Tour",
+      "enable": true,
+      "_id": "6724974b99de58d4f6d0b5f0"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Micro ATX",
+      "enable": true,
+      "_id": "6724974b99de58d4f6d0b5f1"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Mini ITX",
+      "enable": true,
+      "_id": "6724974b99de58d4f6d0b5f2"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "6724a3aa99de58d4f6d528fe"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "E-ATX",
+      "enable": true,
+      "_id": "6728b0ac99de58d4f6e5be7e"
+    },
+    {
+      "cle": "Hauteur maximale du ventilateur CPU",
+      "valeur": "198 mm",
+      "enable": true,
+      "_id": "6728b0ac99de58d4f6e5be7f"
+    },
+    {
+      "cle": "Longueur maximale de la carte graphique",
+      "valeur": "490 mm",
+      "enable": true,
+      "_id": "6728b0ac99de58d4f6e5be80"
+    },
+    {
+      "cle": "Nombre de ventilateurs",
+      "valeur": "5",
+      "enable": true,
+      "_id": "6728b0ac99de58d4f6e5be81"
+    },
+    {
+      "cle": "Compatible Watercooling",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "6728b0ac99de58d4f6e5be82"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232a5a4815052c4d1a41a"
+  ],
+  "lien": "Gigabyte-Aorus-C700-Glass",
+  "gallerie": {
+    "_id": "62dbc98d48be7071a3700dc7",
+    "titre": "GIGABYTE AORUS C700 GLASS",
+    "urlPhoto": [
+      "/uploads/gallerie/1658571187372.webp",
+      "/uploads/gallerie/1658571187378.webp",
+      "/uploads/gallerie/1658571187382.webp",
+      "/uploads/gallerie/1658571198834.webp"
+    ],
+    "update_date": "2022-07-23T10:13:19.122Z",
+    "create_date": "2022-07-23T10:12:29.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": true,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 7982,
+  "price": 1143,
+  "tagsSearch": [
+    "Gigabyte",
+    "Aorus",
+    "C700",
+    "C700G",
+    "GIGABYTE",
+    "COMPOSANTS",
+    "BOITIER"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2022-07-23T09:55:02.939Z",
+  "update_date": "2025-10-23T23:56:42.130Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

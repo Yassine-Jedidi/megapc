@@ -1,0 +1,232 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656767309.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656767309.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOnq6vb29v///+nj3ABpam5XV1mvrq26vL0AbnBxAAAGcHBwKCcoAPj4+Pr6+fT09Orq6ljtIFWZipqxAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656772383.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656772383.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWP4////7Nlz58+f////fwYQZuDg4BaCcvj5Rfj5xaGcY8eOHjt2FMgBAEEHIM+lcLsnAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656776026.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656776026.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALElEQVQImWP4//9/UVHZ5cuX////zwDCDOyenn5QjoODo7GxFZRzAgSOAzkAb8IiszhmFhoAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656778634.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656778634.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWO4d+/etOnT/////+f3b4YfP34EBYcsX778////DCDMwMDJyQnlTJo0qbW1FcgBAKFjInWQ/Ua9AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656783006.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656783006.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWOwdQ+KjYnq6upqaGhgKJ5zgUvFprezuaWllWH/qZsMfBZJCXFtbW0M//99Z2BUEFE2LSspAAAhfBSsqLzBPAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656786277.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656786277.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImSXKoQ0AMAgEwHesgCqOPco+NEyPwHyT9vSBZHfPDEmYLXeP2FUHIpKZAFQVfP68344cGk6/phgAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656788792.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656788792.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AK+3tur38e///5m1tAB3bFpil7Bzrs4mXGsANSQPAAAPMTlFM1JfAMuvm866r9/VztHQytteGuOUnJfnAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656791121.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656791121.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAL0lEQVQImWP4jwQYbGxsiouL+vv7WlpaGBgYGDIzM4WEhOTl5RkgCr59+/br1y8ANzwe0ZrHwsIAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656794767.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656794767.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWP4////379//4MBg56eXkhISFFRYW1tLQMDA0N2djYXF5e0tDQDRMG3b99+/foFABUcHbsz7xncAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656797451.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656797451.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWN4+fLlpUtXvnz58v//f4aszExGBgYDA4OZM2Yw7Ny+7eDBA4cOHVq+fCnDfyQAAF1aIzhp7q7HAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656804051.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656804051.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP49u3bkydPv3379v//f4bg4CBGBgZvb6+enh6GlubGvt6eLVu2VFdXM/xHAgBFciGcDLtmOQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656807203.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656807203.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQY9PV0dXW0li1bWlhUyMDIwKCspDRt2jR5eXkGZGUAIlIewnW01AsAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656809818.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656809818.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWP4////jx8/fv369f//fwZFRQVjQwN/X5+iwkIGBgaGnJwcJgYGCQlxhv9g8O3bt1+/fgEA6NQcWhJmVcAAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656814255.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656814255.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWP4////t2/ffv78+f//fwYFeTldHS1He7u8vDwGdnb28ooKRgYGCQkJhv9g8O3btz9//gAA4uocRTo7860AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656817658.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656817658.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImR3BwQkAMAgDwAzg30dXcDE3cPAgCEIK3kESyZmRhHciIjNhZlUFwN2h0927+wHR/BvE6Is9bAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656822409.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656822409.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImR3BsQkAQAgDwJSuYOsCzuBC1k4eEIQ8/B0kkdxdSYiIzKyq7oaZzQwAd4c+knf3AOaWHGPrmvXFAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656825743.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656825743.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAL0lEQVQImWP4jwQYLC0tS0tLOzs7mpqaGBgYGPLz83l4eKSlpRkgCr59+/bz508AM4IeqFntWncAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656829143.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726656829143.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWN4+eLF9WvXPn/+/P//f4aszHRWBgZTQ905s2cxbNq0fu/ePfv37VuwYD7DfyQAAFtPIw2V2Hw+AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "66ea9cf7ace82ffc8f009ca8",
+  "sku": "Bureau_Pc_v2_EB",
+  "mpn": "0000000000000",
+  "titleSeo": "Bureau Ordinateur v2 - Pc gamer | MEGA PC",
+  "desciprtionSeo": "Bureau Ordinateur Tunisie | Dimension : 70x180 cm | Couleur personnalisée : Noir , Blanc , Gris | MEGA PC",
+  "ratingValue": "4.2",
+  "reviewCount": "66",
+  "priceValidUntil": "2023-09-09",
+  "referenceInterne": "Bureau_Pc_v2_EB",
+  "title": "Pack Bureau Pc V2 [180x70] X CHAISE MARS GAMING MGC-ERGO Blue",
+  "title_fr": "Pack Bureau Pc V2 [180x70] X CHAISE MARS GAMING MGC-ERGO Blue",
+  "description": "",
+  "description_fr": "<h2>Pack Bureau Pc V2 [180x70] X CHAISE MARS GAMING MGC-ERGO Blue</h2>\n\n<hr />\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686238986715.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686588996242.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686588168774.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686235944169.webp\" /></p>\n\n<p><img alt=\"Bureau Ordinateur gamer\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1686235944204.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884363.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884290.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884290.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884320.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686237884349.webp\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:20px\">Dimension (H-L-P) : &nbsp;180 x 70 x 75&nbsp;cm</span></li>\n\t<li><span style=\"font-size:20px\">Couleur unit&eacute; de rangement&nbsp;: Noir, Blanc, Gris</span></li>\n\t<li><span style=\"font-size:20px\">Couleur Dessus de table :&nbsp;Noir, Blanc, Gris, Effet Bois</span></li>\n</ul>\n\n<ul>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#ff0000\"><strong>frais de livraison&nbsp;50 DT</strong></span></span></li>\n</ul>\n\n<p><span style=\"color:#0066ff\">Couleur disponibles</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686659866719.webp\" /></p>\n\n<p><span style=\"color:#0066cc\">Couleur Dessus de table</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686659866721.webp\" /></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea236cca4815052c4d1a42e",
+    "titre": "MEGA PC",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326630886.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:46:04.000Z"
+  },
+  "categorie": {
+    "_id": "61bdabf124759166ca9d2953",
+    "titre": "TABLE DE GAMING",
+    "order": 8,
+    "visible": true,
+    "update_date": "2025-04-28T10:31:22.183Z",
+    "create_date": "2021-12-18T09:37:53.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1715680958417.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "61bdafc724759166ca9e51c0",
+    "titre": "TABLE DE GAMING RGB",
+    "visible": true,
+    "order": 10,
+    "update_date": "2021-12-20T12:24:51.353Z",
+    "create_date": "2021-12-18T09:54:15.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1639821262199.webp",
+    "categorie": "61bdabf124759166ca9d2953",
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "61bdafc724759166ca9e51c0",
+    "60682a294768718d96bad2ce"
+  ],
+  "lien": "Pack-Bureau-Pc-V2-180x70-X-CHAISE-MARS-GAMING-MGC-ERGO-Blue",
+  "gallerie": {
+    "_id": "66eab0f9ace82ffc8f0927dc",
+    "titre": "PACK BUREAU PC V2 [180X70] X CHAISE MARS GAMING MGC-ERGO BLUE",
+    "urlPhoto": [
+      "/uploads/gallerie/1726656767309.webp",
+      "/uploads/gallerie/1726656772383.webp",
+      "/uploads/gallerie/1726656776026.webp",
+      "/uploads/gallerie/1726656778634.webp",
+      "/uploads/gallerie/1726656783006.webp",
+      "/uploads/gallerie/1726656786277.webp",
+      "/uploads/gallerie/1726656788792.webp",
+      "/uploads/gallerie/1726656791121.webp",
+      "/uploads/gallerie/1726656794767.webp",
+      "/uploads/gallerie/1726656797451.webp",
+      "/uploads/gallerie/1726656804051.webp",
+      "/uploads/gallerie/1726656807203.webp",
+      "/uploads/gallerie/1726656809818.webp",
+      "/uploads/gallerie/1726656814255.webp",
+      "/uploads/gallerie/1726656817658.webp",
+      "/uploads/gallerie/1726656822409.webp",
+      "/uploads/gallerie/1726656825743.webp",
+      "/uploads/gallerie/1726656829143.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-09-18T10:53:49.267Z",
+    "create_date": "2024-09-18T10:52:41.000Z",
+    "__v": 18
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "textCommande": "Dans 10 Jours",
+  "enArrivage": false,
+  "new": true,
+  "vue": 21179,
+  "price": 1528,
+  "tagsSearch": [
+    "MEGA PC",
+    "TABLE DE GAMING",
+    "CHAISE GAMING"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2023-06-08T12:19:27.956Z",
+  "update_date": "2025-10-23T21:16:14.977Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": true,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

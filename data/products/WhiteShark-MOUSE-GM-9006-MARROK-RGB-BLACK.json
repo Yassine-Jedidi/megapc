@@ -1,0 +1,178 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683283061623.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683283061623.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMklEQVQImS3HsREAIAgAMVxGrLlz/xmwQWUX34Z0ESBvujsggA7t2itNZJpVYsXxzeMDmyIjcLOBxYMAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683283061624.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683283061624.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImWP4+/fvfzD4+/cvw48fPwIDglgY2C9dvMpw6dJlfn4RK0vri+evMICkf//79///39//AK3TI/Oatz3EAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683283061626.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683283061626.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImR3BwQkAIQwEwP1alClIsNjjHgfpQY+A/sKu4AxI6iIJd69mvbe9FjKzmhXge15Iiog5fqUO1P0lHPqA7e4AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683283061627.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683283061627.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImS3K0QkAMAwCUYfIJFnC/ZdpQAQDbe/vwcF2braRhGR3f1QVgDkDSW+TtNGwJTJJ9N9+AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6454db988dd3d4fb53e04c78",
+  "sku": "GM-9006BLK",
+  "mpn": "WH318EA19VM0WNAFAMZ",
+  "titleSeo": "SOURIS GAMER WHITE SHARK GM-9006 MARROK RVB - NOIR | MEGA PC ",
+  "desciprtionSeo": "SOURIS GAMER WHITE SHARK GM-9006 MARROK RVB - NOIR | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GM-9006BLK",
+  "title": "WhiteShark MOUSE GM-9006 MARROK RGB-BLACK",
+  "title_fr": "WhiteShark MOUSE GM-9006 MARROK RGB-BLACK",
+  "description_fr": "<h2>WHITE SHARK GM-9006 MARROK RVB - NOIR</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Souris Gamer WHITE SHARK GM-9006 MARROK - Technologie de Connectivit&eacute;:&nbsp;Filaire&nbsp;- Interface:&nbsp;USB 2.0&nbsp;- Type de capteur:&nbsp;Optique&nbsp;- R&eacute;solution:&nbsp;12000&nbsp;Dpi&nbsp;-&nbsp;9 Boutons&nbsp;- Acc&eacute;l&eacute;ration:&nbsp;22,5 G&nbsp;- Mat&eacute;riel:&nbsp;Plastique&nbsp;- C&acirc;ble tress&eacute; - Longueur de c&acirc;ble :&nbsp;1.8 m&nbsp;- Rev&ecirc;tement en caoutchouc - Eclairage :&nbsp;RVB&nbsp;- Poids: 130 g - Dimensions: 123 x 83 x 46 mm - Couleur : Blanc</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1683283174772.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Marque : WHITE-SHARK</span></li>\n\t<li><span style=\"font-size:22px\">Gamer : oui</span></li>\n\t<li><span style=\"font-size:22px\">Interfac : USB</span></li>\n\t<li><span style=\"font-size:22px\">Longueur du c&acirc;ble : 1.8 M&egrave;tres</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;solution optique : 12000 dpi</span></li>\n\t<li><span style=\"font-size:22px\">Connectivite : Filaire</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions : 123x83x46 mm</span></li>\n\t<li><span style=\"font-size:22px\">Couleur : Noir</span></li>\n\t<li><span style=\"font-size:22px\">Poids : 130G</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5f886a2f3a4d1b058a8fc012",
+    "titre": "WHITE SHARK",
+    "description": "WHITE SHARK",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327730130.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-10-15T15:26:39.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233bfa4815052c4d1a423",
+    "titre": "SOURIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206287980.webp",
+    "order": 1,
+    "descriptionSEO": "<p>Souris Pc gamer Tunisie&nbsp;optique Sans fil -&nbsp;Achat Souris Ordinateur bureau, souris Pc portable gaming RGB - Aorus, Razer, Logitech, Corsair, Steelseries</p>",
+    "titreSEO": "Souris PC gamer | sans fil pour ordinateur Pc portable | Mega PC",
+    "create_date": "2020-04-24T00:33:03.000Z",
+    "reference": "SOURIS",
+    "update_date": "2021-12-04T08:54:08.545Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "CAPTEUR",
+      "valeur": "OPTIQUE",
+      "enable": true,
+      "_id": "61698efe74a6dc8ab60c288a"
+    },
+    {
+      "cle": "RÉSOLUTION OPTIQUE",
+      "valeur": "12000 DPI",
+      "enable": true,
+      "_id": "61698efe74a6dc8ab60c288b"
+    },
+    {
+      "cle": "NOMBRE DE BOUTONS",
+      "valeur": "9",
+      "enable": true,
+      "_id": "645381838dd3d4fb53c3574f"
+    },
+    {
+      "cle": "LONGEUR DE CÂBLE",
+      "valeur": "1.8 mm",
+      "enable": true,
+      "_id": "645381838dd3d4fb53c35750"
+    },
+    {
+      "cle": "RÉTROÉCLAIRAGE RVB",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "645381b08dd3d4fb53c35762"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea233bfa4815052c4d1a423"
+  ],
+  "lien": "WhiteShark-MOUSE-GM-9006-MARROK-RGB-BLACK",
+  "gallerie": {
+    "_id": "6454dc318dd3d4fb53e0c777",
+    "titre": "WHITE SHARK GM-9006 MARROK RVB - NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1683283061623.webp",
+      "/uploads/gallerie/1683283061624.webp",
+      "/uploads/gallerie/1683283061626.webp",
+      "/uploads/gallerie/1683283061627.webp"
+    ],
+    "update_date": "2023-05-05T10:38:25.881Z",
+    "create_date": "2023-05-05T10:36:33.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2784,
+  "price": 83,
+  "tagsSearch": [
+    "WHITE SHARK",
+    "ACCESSOIRES",
+    "SOURIS"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2023-05-05T10:13:57.780Z",
+  "update_date": "2025-10-23T21:27:08.535Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

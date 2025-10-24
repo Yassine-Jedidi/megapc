@@ -141,10 +141,6 @@ async function main() {
   let slugs = await getProductSlugsFromSitemap();
   console.log(`Found ${slugs.length} product slugs from sitemap.`);
   
-  // Only take the first 10
-  slugs = slugs.slice(0, 100);
-  console.log(`Processing first ${slugs.length} products...`);
-  
   const limit = pLimit(CONCURRENCY);
   let saved = 0;
 
@@ -189,7 +185,9 @@ async function main() {
           price: p.price ?? null,
           prixEnPromo: p.prixEnPromo ?? null,
           discount: discount,
-          img: p?.images?.[0]?.thumbnailImageSrc || p?.gallerie?.urlPhoto?.[0] || null
+          img: p?.images?.[0]?.thumbnailImageSrc || p?.gallerie?.urlPhoto?.[0] || null,
+          category: p.categorie?.titre || 'Other',
+          subcategory: p.filscateg?.titre || null
         });
       } catch {}
     }

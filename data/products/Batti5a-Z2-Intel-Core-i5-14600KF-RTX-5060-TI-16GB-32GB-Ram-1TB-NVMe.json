@@ -1,0 +1,192 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABUUF/4AAAT/R01T/p+z7P8AFhYW/iImIf+CiYX+n7Xb/wBJPzr+AAUH/0ZMTf5lY2b/AJWBav5rY1D/nZF1/v/93v/w+CGyCAVy0QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/j5XViZlpTWNHGxwAvKTYAABGdp6+zu7sAAAAWJCg39v//scTDAG5ma0NESd/n7UBLTGlBF4FrfjiUAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAADBP4SFBT/Vl1d/pCbo/8AYWhm/ujx7v/4///+kZuW/wBXXl7+bnd4/5KUj/6bkoT/AAABAf4ABAT/Q0tN/si+q//F+iSiJaDefQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWNQUlVhYGTjFhYxsLBgkFZSUFFXVVZTZWBhZwjxNGNgZpBRlHG0MWb4/2v3/N4sC0OlfYvKALm1CxWKc9EmAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWNg4ZfiFBSTV1eJy2xmYOCQYOATcfT1bJ99lMHd05OBic3Rzy88KZPh2cVN25Z0lRfG///zCQAcZxBz5a3PzAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPQ0lLT1NEQFBVkYGBgSE1NuHHt3KQp3bZ29gxhYYH//3/buWtTWkYmg6yctJOTQ3pmWmxYMAChhBHjfcvTYgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AM7Q17OwtI6Jjvby+ACmo7NlYGdWUVvY1uIAb21vAQABLCg5p6a0AP///39+fzIvOMjHzO8yGxQ0zVCeAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///4iIiHV0dNTU1ADY2NhZWVsYGBpvb24Ao6GjLi4vAQADYWFhAJ2dnCclJ2ppbcjIyJ47FxRpAteLAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AHJzc21tcNfU2////wBlY2Y7OEGQhKG6usEAQ0JDBAAJIRswUlJYAJaWlzs5O25tcaysrW0wFfKTTBrVAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "689a23ac38284c8443b1e4ed",
+  "sku": "Batti5a Z2",
+  "mpn": "Batti5a Z2",
+  "titleSeo": "PC Gamer Batti5a Z2 Tunisie - Intel Core i5-14600KF, RTX 5060 TI 16GB, 32GB DDR5 6000MHz, 1TB NVMe – Meilleur Prix 2025 | MEGA PC | GIGA TECH",
+  "desciprtionSeo": "Découvrez le PC Gamer Batti5a Z2 en Tunisie, la machine idéale pour les gamers et créateurs ! Doté d’un puissant processeur Intel Core i5-14600KF, d’une carte graphique MSI GeForce RTX 5060 TI 16GB, de 32GB DDR5 ultra-rapides à 6000MHz et d’un stockage NVMe de 1TB, ce PC offre des performances exceptionnelles à un prix imbattable. 🎮⚡ Disponible maintenant, équipez-vous pour une expérience gaming fluide et immersive ! #GamingTunisie #PCGamer #Batti5aZ2",
+  "ratingValue": "4.7",
+  "reviewCount": "49",
+  "priceValidUntil": "2027-04-05",
+  "referenceInterne": "Batti5a Z2",
+  "title": "Batti5a Z2 | Intel Core i5-14600KF  | RTX 5060 TI 16GB | 32GB Ram | 1TB NVMe",
+  "title_fr": "Batti5a Z2 | Intel Core i5-14600KF  | RTX 5060 TI 16GB | 32GB Ram | 1TB NVMe",
+  "description_fr": "<p><span style=\"font-size:22px\">🔥 <strong>Batti5a Z2 : La puissance Intel et NVIDIA r&eacute;unie pour une exp&eacute;rience gaming ultime !</strong> 🎮💻</span></p>\n\n<p><span style=\"font-size:22px\">Le <strong>Batti5a Z2</strong> est pens&eacute; pour les gamers qui veulent allier performance et design moderne. &Eacute;quip&eacute; du processeur puissant <strong>Intel Core i5-14600KF</strong> capable d&rsquo;atteindre jusqu&rsquo;&agrave; 5.3 GHz, il g&egrave;re sans effort les jeux les plus exigeants ainsi que le multit&acirc;che intensif. ⚡🧠</span></p>\n\n<p><span style=\"font-size:22px\">Pour les graphismes, la <strong>MSI GeForce RTX 5060 TI GAMING TRIO OC 16GB</strong> assure un rendu fluide, net et ultra d&eacute;taill&eacute;, id&eacute;al pour profiter pleinement des derniers titres en haute qualit&eacute;. 🎨🕹️</span></p>\n\n<p><span style=\"font-size:22px\">Avec <strong>32GB de RAM DDR5 Ripjaws M5 RGB NEO &agrave; 6000 MHz</strong>, le syst&egrave;me offre une rapidit&eacute; et une r&eacute;activit&eacute; exceptionnelles pour un multit&acirc;che sans ralentissement et une immersion totale. 🚀💾</span></p>\n\n<p><span style=\"font-size:22px\">Le stockage est confi&eacute; au <strong>MSI SPATIUM M470 PRO 1TB NVMe M.2 Gen4</strong>, garantissant des temps de chargement ultra-rapides pour vos jeux, logiciels et fichiers. 💽⚡</span></p>\n\n<p><span style=\"font-size:22px\">La machine est mont&eacute;e dans un &eacute;l&eacute;gant bo&icirc;tier <strong>MSI MAG PANO M100R PZ BLACK (Project Zero)</strong> qui allie esth&eacute;tique et ventilation optimale. 🖤🖥️</span></p>\n\n<p><span style=\"font-size:22px\">Pour garder le tout bien au frais, le <strong>MSI MAG CORELIQUID A13 360 RGB</strong> assure un refroidissement liquide performant et silencieux, m&ecirc;me lors des sessions gaming intenses. ❄️💧</span></p>\n\n<p><span style=\"font-size:22px\">Enfin, l&rsquo;alimentation fiable <strong>MSI MAG A750BN 750W PCIE5 80+ Bronze</strong> garantit une puissance stable et efficace pour prot&eacute;ger tous vos composants. 🔌⚡</span></p>\n\n<p><span style=\"font-size:22px\">Le <strong>Batti5a Z2</strong> est votre alli&eacute; parfait pour dominer le jeu et booster votre cr&eacute;ativit&eacute; avec style et puissance ! 🎉🔥</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🧠 <strong>Processeur :</strong> Intel Core i5-14600KF (3.5 GHz / 5.3 GHz)</span></li>\n\t<li><span style=\"font-size:22px\">🧩 <strong>Carte M&egrave;re :</strong> iCraft B760M CROSS WHITE</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte Graphique :</strong> MSI GeForce RTX 5060 TI GAMING TRIO OC 16GB</span></li>\n\t<li><span style=\"font-size:22px\">🧠 <strong>RAM :</strong> Ripjaws M5 RGB NEO 32GB (2x16GB) DDR5 6000MHz</span></li>\n\t<li><span style=\"font-size:22px\">💾 <strong>Stockage :</strong> MSI SPATIUM M470 PRO 1TB NVMe M.2 Gen4</span></li>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>Bo&icirc;tier :</strong> MSI MAG PANO M100R PZ BLACK (Project Zero)</span></li>\n\t<li><span style=\"font-size:22px\">⚡ <strong>Alimentation :</strong> MSI MAG A750BN 750W PCIE5 80+ Bronze</span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#ff0000\">❄️ <strong>Refroidissement :</strong> MSI MAG CORELIQUID A13 360 RGB</span></span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#ff0000\"><strong>Syst&egrave;me d&rsquo;exploitation</strong>&nbsp;: Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffc00c10517079547a46",
+    "titre": "CONFIG PC INTEL",
+    "description": "CONFIG PC Intel",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811592727.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:04.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Batti5a-Z2-Intel-Core-i5-14600KF-RTX-5060-TI-16GB-32GB-Ram-1TB-NVMe",
+  "gallerie": {
+    "_id": "664f5766dbc8064136ad940e",
+    "titre": "MSI MAG PANO M100R PZ NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1718808335563.webp",
+      "/uploads/gallerie/1718808335578.webp",
+      "/uploads/gallerie/1718808335582.webp",
+      "/uploads/gallerie/1718808341921.webp",
+      "/uploads/gallerie/1718808341923.webp",
+      "/uploads/gallerie/1718808341924.webp",
+      "/uploads/gallerie/1718808345577.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345579.webp",
+      "/uploads/gallerie/1718808345582.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-06-19T14:45:45.707Z",
+    "create_date": "2024-05-23T14:49:10.000Z",
+    "__v": 5
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 242,
+  "price": 4299,
+  "tagsSearch": [
+    "CONFIG PC INTEL",
+    "ORDINATEURS",
+    "PC GAMER"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2025-08-11T17:09:00.069Z",
+  "update_date": "2025-10-23T23:05:42.850Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

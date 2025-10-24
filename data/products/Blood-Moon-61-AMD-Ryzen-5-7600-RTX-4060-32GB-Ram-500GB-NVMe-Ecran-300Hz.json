@@ -1,0 +1,191 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1740397582561.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1740397582561.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMHDyMTIzZA8OstCOgATEhPz9PT3///4u74AMDg1LS8SAAAAr8bNAMjQ15qboV9hZZ2lqrmWGg8kwggbAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "67b706ad322599f4f701f995",
+  "sku": "Blood-Moon-61",
+  "mpn": "Blood-Moon-61",
+  "titleSeo": "FULL SETUP Blood Moon 61 | MEGA TUNISIE",
+  "desciprtionSeo": "FULL SETUP Blood Moon 61 |Processeur: AMD Ryzen 5 7600 (3.8 GHz / 5.1 GHz) Carte Mère : MSI PRO A620M-E DDR5 Carte Graphique : GMSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC Ram : BARETTE MEMOIRE AERO DDR5 32GB 4800 MHz Stockage : MSI SPATIUM M450 SSD M.2 Gen 4.0 NVMe 500GB Bloc d'alimentation : MARS GAMING PSU MPIII 550W 80+ Boitier : MSI MAG FORGE M100R - Black 🖥️Ecran : MSI MAG 255XF | FHD IPS | 300Hz | 0.5ms 🖥️🚀 | MEGA TUNISIE",
+  "ratingValue": "4.8",
+  "reviewCount": "4.8",
+  "priceValidUntil": "2026-07-09",
+  "referenceInterne": "Blood-Moon-61",
+  "title": "Blood Moon 61 | AMD Ryzen 5 7600 |RTX 4060 |32GB Ram|500GB NVMe + Ecran 300Hz",
+  "title_fr": "Blood Moon 61 | AMD Ryzen 5 7600 |RTX 4060 |32GB Ram|500GB NVMe + Ecran 300Hz",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Processeur:&nbsp;</strong>AMD Ryzen 5 7600 (3.8 GHz / 5.1 GHz)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Carte M&egrave;re :</strong>&nbsp;MSI PRO A620M-E DDR5</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Carte Graphique :&nbsp;</strong>MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Ram : </strong>BARETTE MEMOIRE AERO DDR5 32GB 4800 MHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Stockage :</strong>&nbsp;MSI SPATIUM M450 SSD M.2 Gen 4.0 NVMe 500GB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Bloc d&#39;alimentation :&nbsp;</strong>MSI MAG A600DN 600W 80+</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Boitier :&nbsp;</strong>MSI MAG FORGE M100R - Black</span></li>\n\t<li><span style=\"font-size:22px\"><a href=\"https://emojipedia.org/desktop-computer\"><span style=\"color:#ff0000\">🖥️</span></a><span style=\"color:#ff0000\"><strong>Ecran :&nbsp;MSI MAG 255XF | FHD IPS | 300Hz | 0.5ms&nbsp;</strong></span><a href=\"https://emojipedia.org/desktop-computer\"><span style=\"color:#ff0000\">🖥️</span></a><a href=\"https://emojipedia.org/fr/fus%C3%A9e\"><span style=\"color:#ff0000\">🚀</span></a></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": "AMD Ryzen 5 7600",
+      "enable": true,
+      "_id": "68765a9f85aee8e5d0d4afd5"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "5.10GHz",
+      "enable": true,
+      "_id": "68765a9f85aee8e5d0d4afd6"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "A620M-E",
+      "enable": true,
+      "_id": "68765a9f85aee8e5d0d4afd7"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RTX 4060 8GB",
+      "enable": true,
+      "_id": "68765a9f85aee8e5d0d4afd8"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "32GB DDR5 4800MHz",
+      "enable": true,
+      "_id": "68765a9f85aee8e5d0d4afd9"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "500GB NVMe",
+      "enable": true,
+      "_id": "68765a9f85aee8e5d0d4afda"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "600W 80+",
+      "enable": true,
+      "_id": "68765a9f85aee8e5d0d4afdb"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "MSI MAG FORGE M100R",
+      "enable": true,
+      "_id": "68765a9f85aee8e5d0d4afdc"
+    },
+    {
+      "cle": "Type de refroidissement",
+      "valeur": "Aircooling",
+      "enable": true,
+      "_id": "68765a9f85aee8e5d0d4afdd"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415",
+    "6777bda21bc678ff213f8a89",
+    "60bb4c6efe84cd04f881ad78"
+  ],
+  "lien": "Blood-Moon-61-AMD-Ryzen-5-7600-RTX-4060-32GB-Ram-500GB-NVMe-Ecran-300Hz",
+  "gallerie": {
+    "_id": "67bc5b77322599f4f727dc35",
+    "titre": "BLOOD MOON 61 | AMD RYZEN 5 7600 |RTX 4060 |32GB RAM|500GB NVME + ECRAN 300HZ",
+    "urlPhoto": [
+      "/uploads/gallerie/1740397582561.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-02-24T11:46:22.677Z",
+    "create_date": "2025-02-24T11:43:51.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": false,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 3986,
+  "price": 3269,
+  "tagsSearch": [
+    "AMD",
+    "CONFIG PC AMD",
+    "ORDINATEURS",
+    "PC GAMER",
+    "BOOM",
+    "FULL SETUP"
+  ],
+  "stock": 4,
+  "displayForPublic": true,
+  "create_date": "2025-02-20T08:47:40.816Z",
+  "update_date": "2025-10-23T18:12:02.472Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

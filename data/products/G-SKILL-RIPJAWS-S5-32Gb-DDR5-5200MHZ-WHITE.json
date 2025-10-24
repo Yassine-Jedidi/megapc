@@ -1,0 +1,184 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726134006842.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726134006842.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWP4DwYPHz16/+EDw+LFSyb0T9E3MElNy2BgYmCKj4qdOHHioUMHGc6eOfPk8SOIYgBaCiDs6s1x2wAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726134006854.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726134006854.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYwsPCVq9aHRISYmFhweDh4ZGbk8PEwCDAz8+ArAwAOgge3VJlrhsAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726134006873.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726134006873.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWP4++/vr1+//oMBw5KFiw/sP1JdXefp6ckQGx3T2tbKyMDg4+PN8PnL5zdvXkNUAgCHFSFrIQOWHgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "66e2b3caace82ffc8fdbcc75",
+  "sku": "F5-5200J4040A16GX2-RS5W",
+  "mpn": "J4040A16GX2-RS5W",
+  "titleSeo": "Ripjaws S5 32 GB (2 x 16 GB) DDR5 5200 MHz WHITE | MEGA ",
+  "desciprtionSeo": "Ripjaws S5 32 GB (2 x 16 GB) DDR5 5200 MHz WHITE | MEGA ",
+  "ratingValue": "4",
+  "reviewCount": "45",
+  "priceValidUntil": "2024-09-08 ",
+  "referenceInterne": "F5-5200J4040A16GX2-RS5W",
+  "title": "G.SKILL RIPJAWS S5 32Gb(2x16GB) DDR5 5200MHZ WHITE",
+  "title_fr": "G.SKILL RIPJAWS S5 32Gb(2x16GB) DDR5 5200MHZ WHITE",
+  "description_fr": "<h2>Ripjaws S5 32 GB (2 x 16 GB) DDR5 5200 MHz WHITE</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La G.SKILL Ripjaws S5 se distingue par son design &eacute;l&eacute;gant et sobre en noir, ce qui s&#39;int&egrave;gre parfaitement dans la plupart des configurations de PC modernes. Les modules sont &eacute;galement construits pour une compatibilit&eacute; maximale avec les derni&egrave;res plateformes Intel et AMD, assurant une installation sans souci et une performance optimale.</span></p>\n\n<p><span style=\"font-size:22px\">En r&eacute;sum&eacute;, la G.SKILL Ripjaws S5 32 GB DDR5 5200 MHz CL40 est une solution de m&eacute;moire avanc&eacute;e, id&eacute;ale pour ceux qui recherchent une performance de pointe, que ce soit pour le jeu, le montage vid&eacute;o, ou d&#39;autres applications exigeantes.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Capacit&eacute; Totale</strong> : 32 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Modules</strong> : 2 x 16 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Type de M&eacute;moire</strong> : DDR5</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence</strong> : 5200 MHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Latence CAS (CL)</strong> : CL40</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Tension</strong> : 1.25V</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ec166644a2e400482a013c4",
+    "titre": "G.SKILL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327154907.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-17T16:29:24.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2328ca4815052c4d1a419",
+    "titre": "BARETTE MÉMOIRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205649078.webp",
+    "order": 3,
+    "descriptionSEO": "<p>RAM PC gamer, Barrettes mémoires | Ram ordinateur bureau - Ram PC portable prix Tunisie - barrette mémoire ddr4. Mémoire Gigabyte, Adata, pny, Corsair</p>",
+    "titreSEO": "Ram pc gamer Tunisie - Achat Ram pc portable 8go - BARRETTE MÉMOIRE",
+    "create_date": "2020-04-24T00:27:56.000Z",
+    "reference": "RAM",
+    "update_date": "2021-12-04T08:54:47.010Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2abe"
+    },
+    {
+      "cle": "Format de mémoire",
+      "valeur": "DIMM",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2abf"
+    },
+    {
+      "cle": "Nombre de barrettes",
+      "valeur": "2",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2ac2"
+    },
+    {
+      "cle": "Fréquence",
+      "valeur": "5200 MHz",
+      "enable": true,
+      "_id": "6744474299de58d4f6401716"
+    },
+    {
+      "cle": "Capacité",
+      "valeur": "16 GB",
+      "enable": true,
+      "_id": "6744498b99de58d4f640db14"
+    },
+    {
+      "cle": "RGB",
+      "valeur": "NON",
+      "enable": true,
+      "_id": "6744498b99de58d4f640db15"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2328ca4815052c4d1a419"
+  ],
+  "lien": "G-SKILL-RIPJAWS-S5-32Gb-DDR5-5200MHZ-WHITE",
+  "gallerie": {
+    "_id": "66e2b6ebace82ffc8fdc863d",
+    "titre": "G.SKILL RIPJAWS S5 32GB(2X16GB) DDR5 5200MHZ WHITE",
+    "urlPhoto": [
+      "/uploads/gallerie/1726134006842.webp",
+      "/uploads/gallerie/1726134006854.webp",
+      "/uploads/gallerie/1726134006873.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-09-12T09:40:07.069Z",
+    "create_date": "2024-09-12T09:39:55.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 2350,
+  "price": 369,
+  "tagsSearch": [
+    "G.SKILL",
+    "CONSOLES",
+    "COMPOSANTS",
+    "BARETTE MÉMOIRE",
+    "J4040A16GX2-RS5W"
+  ],
+  "stock": 0,
+  "forConfig": true,
+  "displayForPublic": true,
+  "create_date": "2024-07-24T10:12:54.395Z",
+  "update_date": "2025-10-23T11:38:46.253Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

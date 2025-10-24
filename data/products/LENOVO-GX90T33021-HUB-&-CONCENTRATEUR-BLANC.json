@@ -1,0 +1,174 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677488936151.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677488936151.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAK0lEQVQImS3HQREAMAwCMNwhqTrQgSyE0NutvwRtk9huix9JF9szcyEJPCwcKSUqITNxQQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677488969865.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677488969865.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAJ0lEQVQImWP4jwQY9u7dWwAGc+fOZUhKSmJgYLh79+7Zs2cZkJUBALbvJLtd8nVLAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "63fc73b48ac974073d813696",
+  "sku": "GX90T33021",
+  "mpn": "GX90T33021",
+  "titleSeo": "CABLE LENOVO GX90T33021 HUB & CONCENTRATEUR BLANC | MEGA PC ",
+  "desciprtionSeo": "CABLE LENOVO GX90T33021 HUB & CONCENTRATEUR BLANC | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GX90T33021",
+  "title": "LENOVO GX90T33021 HUB & CONCENTRATEUR BLANC",
+  "title_fr": "LENOVO GX90T33021 HUB & CONCENTRATEUR BLANC",
+  "description_fr": "<h2>LENOVO GX90T33021 HUB &amp; CONCENTRATEUR BLANC</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le concentrateur Lenovo USB-C&trade; 3-en-1 est une extension naturelle pour les utilisateurs d&#39;ordinateurs portables USB-C&trade; qui souhaitent utiliser des &eacute;crans externes et des p&eacute;riph&eacute;riques USB. D&#39;un poids de seulement 38 grammes, il est &eacute;l&eacute;gant et facile &agrave; glisser dans votre poche ou dans votre sac de transport et vous l&#39;aurez ainsi toujours &agrave; port&eacute;e de main. Plug and play, sans pilote 4K@30Hz&nbsp;via HDMI&trade; ou 1920*1080p@60Hz&nbsp;via VGA ou deux &eacute;crans<br />\nTransfert de donn&eacute;es rapide via USB 3.0 &agrave; 5 Gbit/s</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1677489030069.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Interface mat&eacute;rielle :&nbsp; VGA, USB, USB Type C</span></li>\n\t<li><span style=\"font-size:22px\">Appareils compatibles : Projecteurs, moniteurs, ordinateurs portables</span></li>\n\t<li><span style=\"font-size:22px\">Taux de transfert de donn&eacute;es : 5 Gigabits par seconde</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions de l&#39;article : LxLxH 13,58 x 7,87 x 3,94 pouces</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "601826eb229f832bd05d2713",
+    "order": 6,
+    "titre": "Câbles & Adaptateurs",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1612252491797.webp",
+    "create_date": "2021-02-01T16:06:03.000Z",
+    "reference": "ADAPTATEURS",
+    "update_date": "2022-01-07T11:25:30.420Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Interface matérielle",
+      "valeur": "VGA",
+      "enable": true,
+      "_id": "63fc75d78ac974073d8283d1"
+    },
+    {
+      "cle": "Interface matérielle",
+      "valeur": "USB",
+      "enable": true,
+      "_id": "63fc75d78ac974073d8283d2"
+    },
+    {
+      "cle": "Interface matérielle",
+      "valeur": "USB Type C",
+      "enable": true,
+      "_id": "63fc75d78ac974073d8283d3"
+    },
+    {
+      "cle": "Appareils compatibles",
+      "valeur": "Projecteurs",
+      "enable": true,
+      "_id": "63fc75d78ac974073d8283d4"
+    },
+    {
+      "cle": "Appareils compatibles",
+      "valeur": "moniteurs",
+      "enable": true,
+      "_id": "63fc75d78ac974073d8283d5"
+    },
+    {
+      "cle": "Appareils compatibles",
+      "valeur": "ordinateurs portables",
+      "enable": true,
+      "_id": "63fc75d78ac974073d8283d6"
+    },
+    {
+      "cle": "Taux de transfert de données",
+      "valeur": "5 Gigabits par seconde",
+      "enable": true,
+      "_id": "63fc75d78ac974073d8283d7"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "601826eb229f832bd05d2713"
+  ],
+  "lien": "LENOVO-GX90T33021-HUB-&-CONCENTRATEUR-BLANC",
+  "gallerie": {
+    "_id": "63fc72f78ac974073d813683",
+    "titre": "LENOVO GX90T33021 HUB & CONCENTRATEUR BLANC",
+    "urlPhoto": [
+      "/uploads/gallerie/1677488936151.webp",
+      "/uploads/gallerie/1677488969865.webp"
+    ],
+    "update_date": "2023-02-27T09:09:29.969Z",
+    "create_date": "2023-02-27T09:08:07.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2611,
+  "price": 119,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "Câbles & Adaptateurs"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-02-27T09:11:16.219Z",
+  "update_date": "2025-10-23T20:01:30.825Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

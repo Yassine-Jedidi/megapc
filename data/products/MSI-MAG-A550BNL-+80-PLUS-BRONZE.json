@@ -1,0 +1,178 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723204508729.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723204508729.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAARUlEQVQImWNgYGBg+P//P9fTp0+5QWyGxsbGspqamu8dHR2/a2pqyhk6OjqSAwMDXzo5OX0MDAzMBqtiYGBgY2Bg4ASxAIVcFZ9idTiVAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723204533691.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723204533691.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAASUlEQVQImWN4+eKFzssXL4L///9vwQACmzdvnn7q1Kn/s2bN2gMWqKiomNXY2Pg/Ozv7YmpqqgxDdna2dmhoqF92drZ7eHi4JACwgh7+Fq5WywAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723204533692.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723204533692.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWNgQAd3796t/vbt65X///8f+vbtmx3DgQMHKrZv3/bnyJEjj86ePeMJVmVsbMzDwMDABOIAAHiXGgNP+v50AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723204533696.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723204533696.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAARklEQVQImWP4//8/c3FREevEiRNZGECgr69vy6JFi15VVlY+jomJcWcoKCjY3tXV9TIpKemZn59fEkgRMwMDAxsDAwNYCwDJEBbeTBgFsAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "66b604ec7cfb23ff3cca667a",
+  "sku": "306-7ZPAY11-809",
+  "mpn": "306-7ZPAY11-809",
+  "titleSeo": "BOITE ALIMENTATION MSI MAG A550BNL +80 PLUS BRONZE | MEGA",
+  "desciprtionSeo": "BOITE ALIMENTATION MSI MAG A550BNL +80 PLUS BRONZE | MEGA",
+  "ratingValue": "4",
+  "reviewCount": "45",
+  "priceValidUntil": "2024-09-08 ",
+  "referenceInterne": "306-7ZPAY11-809",
+  "title": "MSI MAG A550BNL +80 PLUS BRONZE",
+  "title_fr": "MSI MAG A550BNL +80 PLUS BRONZE",
+  "description_fr": "<h2>MSI MAG A550BNL +80 PLUS BRONZE</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le MSI MAG A550BNL est une alimentation certifi&eacute;e 80 PLUS Bronze avec une puissance de 550W. Elle est &eacute;quip&eacute;e d&#39;un ventilateur &agrave; faible bruit de 120 mm et ajuste la vitesse en fonction de la temp&eacute;rature. Elle offre une protection industrielle compl&egrave;te (OCP, OVP, OPP, SCP) et une conception PFC active pour une efficacit&eacute; &eacute;nerg&eacute;tique optimale. Les c&acirc;bles plats facilitent l&#39;organisation interne.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Puissance</strong> : 550W</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Certification</strong> : 80 PLUS Bronze</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Ventilateur</strong> : 120 mm, silencieux</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Protections</strong> : OCP, OVP, OPP, SCP</span></li>\n\t<li><span style=\"font-size:22px\"><strong>PFC</strong> : Actif</span></li>\n\t<li><span style=\"font-size:22px\"><strong>C&acirc;bles</strong> : Plats</span></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2327aa4815052c4d1a418",
+    "titre": "ALIMENTATION",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205726337.webp",
+    "order": 5,
+    "descriptionSEO": "<p>Alimentation Pc gamer Pc&nbsp;Bureau, au meilleurs prix en Tunisie. Alimentation Gigabyte, Corsair, Aerocool, Aorus, Antec 80+ Gold 1200w, 850w, 750w, 550w</p>",
+    "titreSEO": "Alimentation PC Tunisie - Achat Alimentation pc gamer pas cher",
+    "create_date": "2020-04-24T00:27:38.000Z",
+    "reference": "ALIMENTATION",
+    "update_date": "2022-01-19T16:49:06.035Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Puissance",
+      "valeur": "550 W",
+      "enable": true,
+      "_id": "6744523999de58d4f6447d86"
+    },
+    {
+      "cle": "Modulaire",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "6744523999de58d4f6447d88"
+    },
+    {
+      "cle": "Format Alimentation",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "6744523999de58d4f6447d89"
+    },
+    {
+      "cle": "Certification 80 PLUS",
+      "valeur": "Bronze",
+      "enable": true,
+      "_id": "6744592d99de58d4f6485ada"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2327aa4815052c4d1a418"
+  ],
+  "lien": "MSI-MAG-A550BNL-+80-PLUS-BRONZE",
+  "gallerie": {
+    "_id": "66b6035a7cfb23ff3cca657a",
+    "titre": "MSI MAG A550BNL - 80 PLUS BRONZE",
+    "urlPhoto": [
+      "/uploads/gallerie/1723204508729.webp",
+      "/uploads/gallerie/1723204533691.webp",
+      "/uploads/gallerie/1723204533692.webp",
+      "/uploads/gallerie/1723204533696.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-08-09T11:55:33.805Z",
+    "create_date": "2024-08-09T11:54:02.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2892,
+  "price": 149,
+  "tagsSearch": [
+    "MSI",
+    "COMPOSANTS",
+    "ALIMENTATION",
+    "550",
+    "A550 BNL"
+  ],
+  "stock": 87,
+  "displayForPublic": true,
+  "create_date": "2024-08-09T12:00:44.329Z",
+  "update_date": "2025-10-24T10:37:44.140Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

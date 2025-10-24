@@ -1,0 +1,187 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744014755592.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744014755592.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///v////v7+vj49gCpqKZoZWVLSUmKiYgATkxHAgAAIyAgiIeFAPT08vz8+/Hx8Pb29VIIH8ukx3hfAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "67e7b637711a4ce5a45e443b",
+  "sku": "911-A520MA-PRO",
+  "mpn": "911-A520MA-PRO",
+  "titleSeo": "MSI A520M-A PRO | MEGA PC ",
+  "desciprtionSeo": "MSI A520M-A PRO Micro ATX Socket AM4 AMD A520 - 2x DDR4 - M.2 PCIe NVMe - USB 3.0 - 1x PCI-Express 3.0 16x | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08 ",
+  "referenceInterne": "911-A520MA-PRO",
+  "title": "MSI A520M-A PRO + 2x8GB DDR4 AERO",
+  "title_fr": "MSI A520M-A PRO + 2x8GB DDR4 AERO",
+  "description_fr": "<h2>MSI A520M-A PRO + 2x8GB DDR4 AERO</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Pr&ecirc;te &agrave; accueillir les processeurs AMD Ryzen 3000/4000, la carte m&egrave;re MSI A520M-A PRO permettra l&#39;assemblage d&#39;une configuration multim&eacute;dia ou bureautique &agrave; moindre co&ucirc;t tout &eacute;tant &eacute;quip&eacute;e d&#39;un processeur performant et en conservant une taille r&eacute;duite.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1689342547654.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1689342547685.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1689342547717.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1689342547741.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re :&nbsp;Micro ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket :&nbsp;AMD AM4</span></li>\n\t<li><span style=\"font-size:22px\">Chipset : AMD A520</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 64 Go&nbsp;DDR4 3200 MHz ( 2 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 : 1</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "675311184583082f207d5d03",
+    "titre": "EVENTS",
+    "reference": "",
+    "order": 7,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:31:12.208Z",
+    "create_date": "2024-12-06T14:58:32.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1733559629835.webp",
+    "urlPhoto": "/uploads/categorie/1733559616584.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "67d7f084711a4ce5a40f87db",
+    "titre": "BANKAI",
+    "visible": false,
+    "order": 0,
+    "categorie": "675311184583082f207d5d03",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-10-16T17:00:56.206Z",
+    "create_date": "2025-03-17T09:51:00.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1742206147820.webp",
+    "urlPhoto2": "/uploads/souscateg/1742206155479.webp"
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "AMD AM4",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0c"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "AMD A520",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0d"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Micro ATX",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0e"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR4",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0f"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "2",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b10"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "64 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b11"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "32 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b12"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "3200 MHz",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b13"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c",
+    "67d7f084711a4ce5a40f87db",
+    "681ce4f0c75bcce7a27d6891"
+  ],
+  "lien": "MSI-A520M-A-PRO-2x8GB-DDR4-AERO",
+  "gallerie": {
+    "_id": "67f38d9a711a4ce5a4d4a3ea",
+    "titre": "MSI A520M-A PRO + 2X8GB DDR4 AERO",
+    "urlPhoto": [
+      "/uploads/gallerie/1744014755592.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-07T08:32:35.701Z",
+    "create_date": "2025-04-07T08:32:26.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 10243,
+  "price": 249,
+  "tagsSearch": [
+    "MSI",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "CARTE GRAPHIQUE",
+    "EVENTS",
+    "BANKAI",
+    "BAC_2K25"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2023-07-14T13:53:00.900Z",
+  "update_date": "2025-10-23T21:14:34.811Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,154 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1622038726747.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1622038726747.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/9/4Jcol9Bedva3AD67v9vP5hKI2nLyM4A9u3/ViCCMwZXysfNAPr5/C0fNxAAGdfW2RkDHHMiIymEAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "60ad076fbf2002152c8c30fb",
+  "sku": "WD80PURZ",
+  "mpn": "718037856094",
+  "titleSeo": "Disque dur de surveillance WD Purple de Western Digital 8TB - MEGA TUNISIE",
+  "desciprtionSeo": "Disque dur de surveillance WD Purple de Western Digital 8TB - MEGA TUNISIE",
+  "ratingValue": "4.1",
+  "reviewCount": "59",
+  "priceValidUntil": "2023-05-08",
+  "referenceInterne": "WD80PURZ",
+  "title": "Western Digital WD Purple Surveillance Hard Drive 8 TB SATA 6Gb/s",
+  "title_fr": "Western Digital WD Purple Surveillance Hard Drive 8 TB SATA 6Gb/s",
+  "description_fr": "<h2><span style=\"color:#000000\">Western Digital WD Purple Surveillance Hard Drive 8 TB SATA 6Gb/s</span></h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le disque dur Western Digital WD Purple Surveillance de 8 To est une solution id&eacute;ale pour les syst&egrave;mes de vid&eacute;osurveillance, offrant une capacit&eacute; ample pour stocker de grandes quantit&eacute;s de s&eacute;quences vid&eacute;o en haute r&eacute;solution. Con&ccedil;u pour les environnements de surveillance, il utilise une interface SATA III &agrave; 6 Gb/s et fonctionne &agrave; une vitesse de rotation de 5400 tr/min, avec un cache de 128 Mo qui assure des performances fluides. Ce mod&egrave;le est dot&eacute; d&rsquo;une vitesse de transfert soutenu de 210 Mo/s, et il peut supporter jusqu&rsquo;&agrave; 300 000 cycles de d&eacute;marrage/arr&ecirc;t. Sa conception robuste lui permet de fonctionner dans des temp&eacute;ratures allant de 0 &agrave; 65 &deg;C, avec une temp&eacute;rature hors fonctionnement de -40 &agrave; 70 &deg;C. Il r&eacute;siste &eacute;galement &agrave; des chocs allant jusqu&rsquo;&agrave; 30 G en fonctionnement et 250 G hors fonctionnement. Avec des dimensions de 3,5 pouces (Hauteur : 26,1 mm, Largeur : 101,6 mm, Profondeur : 147 mm) et un poids de 650 g, ce disque dur allie fiabilit&eacute; et robustesse, garantissant la protection continue de vos donn&eacute;es dans des conditions exigeantes.</span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Capacit&eacute;</strong> : 8 To</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Interface</strong> : SATA III 6 Gb/s</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Vitesse de rotation</strong> : 5400 tr/min</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cache</strong> : 128 Mo</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Vitesse de transfert soutenu</strong> : 210 Mo/s</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cycles d&eacute;marrage/arr&ecirc;t</strong> : 300 000</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Temp&eacute;rature de fonctionnement</strong> : 0 - 65 &deg;C</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Temp&eacute;rature hors fonctionnement</strong> : -40 - 70 &deg;C</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Choc durant le fonctionnement</strong> : 30 G</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Choc hors fonctionnement</strong> : 250 G</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Dimensions</strong> : 3,5 pouces (Hauteur : 26,1 mm, Largeur : 101,6 mm, Profondeur : 147 mm)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Poids</strong> : 650 g</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb19acc4a2e400482a012e6",
+    "titre": "WESTERN DIGITAL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326902466.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:56:44.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5f5fc86dc0300232c01fb0ec",
+    "titre": "DISQUE-HDD",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205919916.webp",
+    "order": 8,
+    "descriptionSEO": "<p>Disque dur HDD Tunisie | Disque dur interne Western Digital, Seagate Technology, Toshiba, Sauvegardez vos données grâce à nos disques durs internes.</p>",
+    "titreSEO": "Disque dur HDD Tunisie | Disque Dur Interne pc gamer - Mega pc",
+    "create_date": "2020-09-14T19:45:49.000Z",
+    "reference": "HDD",
+    "update_date": "2021-12-16T10:58:30.220Z",
+    "visible": false,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "FORMAT DE DISQUE",
+      "valeur": "3.5 POUCES",
+      "enable": true,
+      "_id": "60ae5822fe84cd04f8819c53"
+    },
+    {
+      "cle": "CAPACITÉ DE STOCKAGE",
+      "valeur": "8 TB",
+      "enable": true,
+      "_id": "60ae5822fe84cd04f8819c54"
+    },
+    {
+      "cle": "TAILLE DU CACHE",
+      "valeur": "128 MB",
+      "enable": true,
+      "_id": "60ae5822fe84cd04f8819c55"
+    },
+    {
+      "cle": "VITESSE DE ROTATION",
+      "valeur": "5400 RPM",
+      "enable": true,
+      "_id": "60ae5822fe84cd04f8819c56"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f5fc86dc0300232c01fb0ec"
+  ],
+  "lien": "Western-Digital-Surveillance-Hard-Drive-8-TB",
+  "gallerie": {
+    "_id": "60ae58befe84cd04f8819c5c",
+    "urlPhoto": [
+      "/uploads/gallerie/1622038726747.webp"
+    ],
+    "titre": "WESTERN DIGITAL WD PURPLE SURVEILLANCE HARD DRIVE 8 TB SATA 6GB/S",
+    "__v": 1,
+    "create_date": "2021-05-26T14:18:38.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "enArrivage": false,
+  "new": false,
+  "vue": 884,
+  "price": 699,
+  "tagsSearch": [
+    "WESTERN DIGITAL",
+    "COMPOSANTS",
+    "DISQUE-HDD"
+  ],
+  "stock": 10,
+  "forConfig": false,
+  "displayForPublic": true,
+  "create_date": "2021-05-25T14:19:27.248Z",
+  "update_date": "2025-10-23T22:13:55.887Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

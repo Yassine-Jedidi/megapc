@@ -1,0 +1,157 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677321608824.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677321608824.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APv8/ICVo52vu/7//gDr7u4AMkobT2vR2+AAvb/BAAYjAClGvcfQAOrp6Rs0Rhs5TNXY3B1JG/WkfTPKAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677321614168.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677321614168.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///6a4wpGjsvb39wD19vcgRF0AJ0LJ0NYA7/HyACQ7AAMjv8bMAPj5+TtMXBwyQtbY3DdGHPLNqSu7AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677321619544.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677321619544.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///5OmtJOmtP7//wDm7O8AM0wAMkza4ugA2t/kABAoAAUixMzSAOXm5hApOAckNc7Q0x9cG4f6Z+juAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "63f9e46e8ac974073d5ea52b",
+  "sku": "GX40Q17226 ",
+  "mpn": "GX40Q17226 ",
+  "titleSeo": "SAC A DOS Lenovo 15.6\" inch Laptop Backpack B210 (Blue) | MEGA PC ",
+  "desciprtionSeo": "SAC A DOS Lenovo 15.6\" inch Laptop Backpack B210 (Blue) | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "11",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GX40Q17226 ",
+  "title": "Lenovo Laptop Backpack B210 - 15.6\" (Blue) ",
+  "title_fr": "Lenovo Laptop Backpack B210 - 15.6\" (Blue) ",
+  "description_fr": "<h2>Lenovo Laptop Backpack B210 -&nbsp;15.6&quot; (Blue)&nbsp;</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le sac &agrave; dos d&eacute;contract&eacute; Lenovo 15,6&quot; B210 utilise un tissu hydrofuge et un design &eacute;pur&eacute; et &eacute;pur&eacute; pour cr&eacute;er un &eacute;tui parfaitement adapt&eacute; &agrave; la vie moderne. Il offre un compartiment pour ordinateur portable int&eacute;gr&eacute; confortablement qui s&#39;adapte &agrave; la plupart des ordinateurs portables jusqu&#39;&agrave; 15,6 pouces une gamme de des poches pour les accessoires indispensables et un compartiment principal spacieux pour les livres et autres articles.Design d&eacute;contract&eacute; et &eacute;l&eacute;gant;Tissu de haute qualit&eacute;, durable et hydrofuge;Grande capacit&eacute; de stockage - convient aux ordinateurs portables jusqu&#39;&agrave; 15,6&quot;; Compartiments et poches id&eacute;alement plac&eacute;s</span></p>\n\n<p><img alt=\"Lenovo 15.6&quot; inch Laptop Backpack B210 (Blue) | MEGA PC \" src=\"https://apibackend.megapc.tn///uploads/gallerie/1677322484104.webp\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Design d&eacute;contract&eacute; et &eacute;l&eacute;gant</span></li>\n\t<li><span style=\"font-size:22px\">Tissu de haute qualit&eacute;, durable et hydrofuge</span></li>\n\t<li><span style=\"font-size:22px\">Grande capacit&eacute; de stockage convient aux ordinateurs portables jusqu&#39;&agrave; 15,6&quot;</span></li>\n\t<li><span style=\"font-size:22px\">Compartiments et poches id&eacute;alement plac&eacute;s</span></li>\n\t<li><span style=\"font-size:22px\">&nbsp;Dimensions: 255 x 22 x 362 mm</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "601d6f15051d693aa4208ca1",
+    "order": 9,
+    "titre": "SAC À DOS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1612541733987.webp",
+    "create_date": "2021-02-05T16:15:17.000Z",
+    "reference": "SACADOS",
+    "update_date": "2022-01-04T14:06:13.573Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "COULEUR DU PRODUIT",
+      "valeur": "BLEU",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb0f"
+    },
+    {
+      "cle": "DIMENSIONS (MM)\t",
+      "valeur": "255 x 22 x 362 mm",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb10"
+    },
+    {
+      "cle": "CAPACITÉ",
+      "valeur": "15,6\"",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb11"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "601d6f15051d693aa4208ca1"
+  ],
+  "lien": "Lenovo-Laptop-Backpack-B210-BLEU",
+  "gallerie": {
+    "_id": "63f9e48c8ac974073d5f20a0",
+    "titre": "LENOVO 15.6\" INCH LAPTOP BACKPACK B210 (BLUE) ",
+    "urlPhoto": [
+      "/uploads/gallerie/1677321608824.webp",
+      "/uploads/gallerie/1677321614168.webp",
+      "/uploads/gallerie/1677321619544.webp"
+    ],
+    "update_date": "2023-02-25T10:40:19.689Z",
+    "create_date": "2023-02-25T10:35:56.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 2868,
+  "price": 59,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "SAC À DOS"
+  ],
+  "stock": 8,
+  "displayForPublic": true,
+  "create_date": "2023-02-25T10:35:26.945Z",
+  "update_date": "2025-10-23T21:32:01.682Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

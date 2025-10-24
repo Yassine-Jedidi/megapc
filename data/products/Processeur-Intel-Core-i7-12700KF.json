@@ -1,0 +1,214 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1637054795817.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1637054795817.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APX//3aZynGd077Y+ACkvuQAOoUANn9xlsQApcDmAECKACdpY4W3ALnK5gApbQAATlBxp+PgGLogJsE9AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1637054795817.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1637054795817.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APX//3aZynGd077Y+ACkvuQAOoUANn9xlsQApcDmAECKACdpY4W3ALnK5gApbQAATlBxp+PgGLogJsE9AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1637054795818.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1637054795818.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APX//16BsG2Ku9vu/wDT4/oAPIQAJ3dVgLYAxtfvADiGAD+NWICyALLE3wAATwAbZXKPveQbGRhBV/U2AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6193804fafe34e958ce504a9",
+  "sku": "BX8071512700KF",
+  "mpn": "0735858498982",
+  "titleSeo": "Processeur Intel Core i7-12700KF | MEGA PC",
+  "desciprtionSeo": "Processeur Intel Core i7-12700KF MEGA PC | FRÉQUENCE CPU : 3.60 GHZ FRÉQUENCE CPU MODE TURBO : 5.0 GHZ NOMBRE DE THREADS : 20 THREADS NOMBRE DE COEURS : 12 CORES | TUNISIE",
+  "ratingValue": "4.5",
+  "reviewCount": "30",
+  "priceValidUntil": "2027-07-07",
+  "referenceInterne": "CPU_I7_12700KF",
+  "title": "Intel Core i7-12700KF (3.6 GHz / 5.0 GHz)",
+  "title_fr": "Intel Core i7-12700KF (3.6 GHz / 5.0 GHz)",
+  "description_fr": "<h2>Intel Core i7-12700KF (3.6 GHz / 5.0 GHz)</h2>\n\n<hr />\n<p><span style=\"font-size:20px\">Intel&#39;s Alder Lake processors heralded a minor revolution in the world of x86 architecture by employing hybrid technology that combines two types of cores on the same chip: Performance-Cores and Efficient-Cores. 12th Generation Intel processors are ready for next-generation gaming, PCI-Express 5.0 graphics, and DDR5 RAM because they have more cores and more power.</span></p>\n\n<h2>DES COEURS &Agrave; L&#39;OUVRAGE</h2>\n\n<hr />\n<p><span style=\"font-size:20px\">La nouvelle architecture hybride haute performance d&rsquo;Intel combine deux familles de c&oelig;urs sur un seul processeur pour une exp&eacute;rience de jeu plus fluide. Intel Thread Director hi&eacute;rarchise et g&egrave;re les charges de travail en d&eacute;terminant quel c&oelig;ur est le mieux adapt&eacute; &agrave; chaque t&acirc;che. Les c&oelig;urs de performance sont destin&eacute;s aux charges de travail monothread, telles que les t&acirc;ches de jeu ou de productivit&eacute;. En r&eacute;duisant les temps d&rsquo;arr&ecirc;t associ&eacute;s aux t&acirc;ches secondaires, les c&oelig;urs d&rsquo;efficacit&eacute; sont optimis&eacute;s pour le multithreading.</span></p>\n\n<p><img alt=\"Processeur Intel Core i7-12700KF prix tunisie \" src=\"https://apibackend.megapc.tn///uploads/gallerie/1639663814956.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1639664413745.webp\" /></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence CPU :&nbsp;3.6 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence en mode Turbo :&nbsp;5 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de core : 12</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de Threads : 20</span></li>\n\t<li><span style=\"font-size:22px\">Chipset graphique :&nbsp;Aucun</span></li>\n\t<li><span style=\"font-size:22px\">Contr&ocirc;leur m&eacute;moire :&nbsp;DDR4 / DDR5</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb18ed34a2e400482a012c9",
+    "titre": "INTEL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326790165.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:05:39.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.60 GHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a00"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "5.0 GHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a01"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "12",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a02"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "20",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a03"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "12 MB",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a04"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "25 MB",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a05"
+    },
+    {
+      "cle": "Puissance de base du processeur",
+      "valeur": "125 W",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a06"
+    },
+    {
+      "cle": "Puissance turbo maximale",
+      "valeur": "190 W",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a07"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a08"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR5 4800 MHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a09"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR4 3200 MHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a0a"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "Processeur-Intel-Core-i7-12700KF",
+  "gallerie": {
+    "_id": "61937910afe34e958ce4e9f8",
+    "urlPhoto": [
+      "/uploads/gallerie/1637054795817.webp",
+      "/uploads/gallerie/1637054795817.webp",
+      "/uploads/gallerie/1637054795818.webp"
+    ],
+    "titre": "INTEL CORE I7-12700KF (3.6 GHZ / 5.0 GHZ)",
+    "__v": 1,
+    "create_date": "2021-11-16T09:25:36.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 8183,
+  "price": 979,
+  "tagsSearch": [
+    "INTEL",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "CPU",
+    "GAMING",
+    "700KF",
+    "I7 12TH",
+    "12700KF"
+  ],
+  "discount": null,
+  "stock": 998,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2021-11-16T09:56:31.092Z",
+  "update_date": "2025-10-23T19:30:58.204Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,188 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918762958.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918762958.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///vPx7tjZ3Ma7lgC5wcQAQEoAPEm+wcQAr7O1ABkcAA4TpaenAMbGxrm0tLWxsMXFxiPXHTz4eUSeAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918768554.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918768554.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////r6+ra2ts3NzQD19PVdXGAUFRl2dncAtbq6AAILWFxg4uLiAN3d3ZSgoeLk5P///0xaIBRz3al+AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918771088.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918771088.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APDw78PDw66uruDf3wDf3+B6eXqtrq74+PgAl5aXAAMJBRsdnZ2eAP///9bY2JKUlufm5m1LIJRfgbmCAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918773914.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918773914.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWMwNdAuKMx9cHbf/+93GAT5eCVFRdXV1Q1NzRjkJcVYGRiYGBgU5GQZ7CxMi2obZi9fs3b7PgCUZg92eXiybgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918777601.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918777601.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAQAAf4sIhz//6p+/v/lsP8AHh8f/icmJf9TUVT+hW1f/wBRKSf+Ozo8/1tgY/5MUlX/AD4hIP4aFhf/OD09/rjEvv8TBB8/pTlhoQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918780287.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918780287.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AK6tpP7tyLn//+rQ/v/Ck/8AtbKp/tSnmf//uqP+/86c/wA7Ojn+ooN3/+2Zgf7/to//AAAAA/5gTkn/PSsn/jYpJP9sKyrtXveO1AAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918782996.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918782996.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AKWkov4VCwz/IR8o/hcbKf8A/v/4/i8pKP8IAAD+EAQI/wCOjYj+T0pI/xUFBf4fBgL/AIeHgf4nIyH/GAoK/jMZGP/X1xuwngTzmgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918785759.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918785759.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AB0SEf9APkH/cHR1/6qurf8AIBMS/0lCP/+KioX/5enf/wAQBAH/TEhJ/6GklP/+//b/AAoAAP8wLCv/aWdh/8vMxP9uASN+LypT5gAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918792450.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918792450.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AEkmIv4rFg7//55l/v/Efv8AICQm/s91Tf//0Yf+/7R4/wB/gHr+OCUg//+aaf7/wYL/AFFMSf4DAAH/KhoZ/v+oev/sYSUr4K97ggAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918795589.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1754918795589.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAATUlEQVQImWP4v6vz//8Hs/7/P9ny//+WvP8MWpLi/6s9Tf+/bY35/39n3X8GVgam/yCsLy39f15a9H8GTmaW/5L8/P9tjAz/VxXl/gcAO+EigQb+0BsAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "688b8d5a38284c84436f4675",
+  "sku": "A16",
+  "mpn": "F010754",
+  "titleSeo": "PC Portable Gamer GIGABYTE GAMING A16 – i7-13620H | RTX 5060 | 16GB DDR5 | 1To SSD | Écran 16\" FHD+ 165Hz au Meilleur Prix Tunisie 🇹🇳 | MEGA PC | GIGA TECH",
+  "desciprtionSeo": "Dominez vos jeux avec le GIGABYTE GAMING A16, un PC portable gamer ultra performant ! Avec son processeur Intel Core i7-13620H, sa carte graphique RTX 5060 8GB GDDR7, 16 Go de RAM DDR5 et son SSD 1 To ultra rapide, ce monstre est prêt pour tous les défis. Son écran IPS de 16 pouces Full HD+ à 165Hz offre une immersion totale 🎮🖥️. Que vous soyez gamer, créateur ou étudiant en ingénierie, c'est la machine idéale. Disponible maintenant au meilleur prix en Tunisie 🇹🇳⚡",
+  "ratingValue": "4.7",
+  "reviewCount": "49",
+  "priceValidUntil": "2027-04-05",
+  "referenceInterne": "F010754",
+  "title": "GIGABYTE GAMING A16 CVH | FHD+ 165Hz | Intel Core i7-13620H | RTX 5060 | 16GB RAM | 1TB NVMe",
+  "title_fr": "GIGABYTE GAMING A16 CVH | FHD+ 165Hz | Intel Core i7-13620H | RTX 5060 | 16GB RAM | 1TB NVMe",
+  "description_fr": "<h2><span style=\"font-size:22px\">💻 GIGABYTE GAMING A16 &ndash; Intel Core i7-13620H | RTX 5060 | 16GB DDR5 | SSD 1To | FHD+ 165Hz &ndash; L&#39;&eacute;quilibre parfait entre puissance et fluidit&eacute; 🎮⚡</span></h2>\n\n<p><span style=\"font-size:22px\">Le <strong>GIGABYTE GAMING A16</strong> s&rsquo;impose comme une machine redoutable taill&eacute;e pour le jeu et la productivit&eacute;. Con&ccedil;u autour d&rsquo;un <strong>&eacute;cran IPS de 16 pouces</strong> au <strong>format 16:10</strong>, il offre une exp&eacute;rience visuelle immersive gr&acirc;ce &agrave; une <strong>r&eacute;solution Full HD+ (1920 x 1200 pixels)</strong> combin&eacute;e &agrave; un <strong>taux de rafra&icirc;chissement ultra fluide de 165 Hz</strong>. Que ce soit pour le gaming comp&eacute;titif ou les t&acirc;ches cr&eacute;atives, cet &eacute;cran garantit confort, d&eacute;tails et r&eacute;activit&eacute;. 🖥️✨</span></p>\n\n<p><span style=\"font-size:22px\">Sous le capot, on retrouve un puissant <strong>processeur Intel Core i7-13620H</strong>, avec 10 c&oelig;urs (6 performants et 4 efficients) et une fr&eacute;quence boost allant jusqu&rsquo;&agrave; <strong>4.9 GHz</strong>, offrant une excellente gestion multit&acirc;che et des performances &eacute;lev&eacute;es en jeu comme en cr&eacute;ation. Coupl&eacute; &agrave; une <strong>Carte Graphique NVIDIA GeForce RTX 5060 8GB GDDR7</strong>, de la nouvelle g&eacute;n&eacute;ration RTX 50 series, ce PC portable est pr&ecirc;t pour affronter les derniers jeux en haute qualit&eacute; graphique, avec <strong>Ray Tracing et IA</strong> embarqu&eacute;e. 🎮🔥</span></p>\n\n<p><span style=\"font-size:22px\">Le tout est soutenu par <strong>16 Go de RAM DDR5 cadenc&eacute;e &agrave; 5200 MHz</strong>, assurant une grande rapidit&eacute; dans l&rsquo;ex&eacute;cution des applications et des jeux, ainsi qu&rsquo;un <strong>SSD NVMe de 1 To</strong>, qui garantit des temps de chargement quasi instantan&eacute;s pour vos fichiers, jeux et logiciels. 🚀💾</span></p>\n\n<p><span style=\"font-size:22px\">Avec son ch&acirc;ssis sobre et robuste, le <strong>GIGABYTE GAMING A16</strong> combine puissance, vitesse et qualit&eacute; d&rsquo;affichage dans un format &eacute;l&eacute;gant, id&eacute;al pour les gamers nomades, les &eacute;tudiants en fili&egrave;res techniques ou les professionnels de la cr&eacute;ation. Disponible d&egrave;s maintenant &agrave; un <strong>excellent rapport qualit&eacute;/prix en Tunisie</strong> ! 🇹🇳💸</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>&Eacute;cran</strong> : 16&quot; IPS | FHD+ (1920x1200) | 165Hz | Format 16:10</span></li>\n\t<li><span style=\"font-size:22px\">🧠 <strong>Processeur</strong> : Intel Core i7-13620H (10 c&oelig;urs jusqu&#39;&agrave; 4.9 GHz)</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte Graphique</strong> : NVIDIA GeForce RTX 5060 8GB GDDR7</span></li>\n\t<li><span style=\"font-size:22px\">🧠 <strong>RAM</strong> : 16GB DDR5 5200 MHz</span></li>\n\t<li><span style=\"font-size:22px\">💾 <strong>Stockage</strong> : 1 To SSD NVMe</span></li>\n\t<li><span style=\"font-size:22px\">🔋 <strong>Batterie</strong> : 76 Wh</span></li>\n\t<li><span style=\"font-size:22px\">🌐 <strong>Connectivit&eacute;</strong> : Wi-Fi 6E, Bluetooth 5.2, HDMI 2.1, USB-C, RJ45</span></li>\n\t<li><span style=\"font-size:22px\">🎹 <strong>Clavier</strong> : AZERTY&nbsp;r&eacute;tro&eacute;clair&eacute; RGB</span></li>\n\t<li><span style=\"font-size:22px\">⚖️ <strong>Poids</strong> : 2.2 kg</span></li>\n\t<li><span style=\"font-size:22px\">🛡️ <strong>Syst&egrave;me</strong> : FreeDos</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "61bb23c7a14a1b547a40a936",
+    "titre": "PC PORTABLE",
+    "order": 2,
+    "visible": true,
+    "update_date": "2025-04-28T10:29:51.496Z",
+    "create_date": "2021-12-16T11:32:23.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1639654349693.png",
+    "reference": "externe",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "61bb354da14a1b547a472912",
+    "titre": "PC PORTABLE GAMER",
+    "visible": true,
+    "order": 0,
+    "categorie": "61bb23c7a14a1b547a40a936",
+    "update_date": "2021-12-17T08:54:55.630Z",
+    "create_date": "2021-12-16T12:47:09.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1639731295537.webp",
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "61bb354da14a1b547a472912"
+  ],
+  "lien": "GIGABYTE-GAMING-A16-FHD-165Hz-Intel-Core-i7-13620H-RTX-5060-16GB-RAM-1TB-NVMe",
+  "gallerie": {
+    "_id": "6895d16938284c8443a2e35f",
+    "titre": "F010754",
+    "urlPhoto": [
+      "/uploads/gallerie/1754918762958.webp",
+      "/uploads/gallerie/1754918768554.webp",
+      "/uploads/gallerie/1754918771088.webp",
+      "/uploads/gallerie/1754918773914.webp",
+      "/uploads/gallerie/1754918777601.webp",
+      "/uploads/gallerie/1754918780287.webp",
+      "/uploads/gallerie/1754918782996.webp",
+      "/uploads/gallerie/1754918785759.webp",
+      "/uploads/gallerie/1754918792450.webp",
+      "/uploads/gallerie/1754918795589.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-08-11T13:26:35.715Z",
+    "create_date": "2025-08-08T10:28:57.000Z",
+    "__v": 24
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": false,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 3071,
+  "price": 4069,
+  "tagsSearch": [
+    "CONFIG PC INTEL",
+    "PC GAMER",
+    "PC PORTABLE",
+    "PC PORTABLE GAMER",
+    "Gigabyte A16 CVH",
+    "GB-A16-CVH",
+    "GIGABYTE"
+  ],
+  "discount": null,
+  "stock": 99,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2025-07-31T15:35:54.161Z",
+  "update_date": "2025-10-24T16:43:14.150Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

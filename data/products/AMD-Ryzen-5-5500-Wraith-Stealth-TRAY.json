@@ -1,0 +1,232 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1719662047196.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1719662047196.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AODg36KbnMC7uf///wDe3doTAAoQAAHr6uoA6enpHiAlPzpD0c7QAPX19ZGVmr7Axff29iItHzrpkQpmAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "667ff8c2ded88b5e10cc0234",
+  "sku": "100-100000644BOX",
+  "mpn": "0730143314114",
+  "titleSeo": "processeur AMD Ryzen 5 5500 Wraith Stealth | MEGA PC",
+  "desciprtionSeo": "processeur AMD Ryzen 5 5500 Wraith Stealth | MEGA PC",
+  "ratingValue": "4.7",
+  "reviewCount": "58",
+  "priceValidUntil": "2027-09-09",
+  "referenceInterne": "100-100000644BOX",
+  "title": "AMD Ryzen 5 5500 (3.6 GHz / 4.2 GHz) TRAY",
+  "title_fr": "AMD Ryzen 5 5500 (3.6 GHz / 4.2 GHz) TRAY",
+  "description_fr": "<h2>AMD Ryzen 5 5500 Wraith Stealth : Rehausser le plaisir de l&rsquo;excellence informatique</h2>\n\n<p><span style=\"font-size:22px\">Faites l&rsquo;exp&eacute;rience d&rsquo;un tout nouveau niveau de plaisir dans l&rsquo;informatique avec l&rsquo;AMD Ryzen 5 5500 Wraith Stealth. Ce processeur, qui repose sur l&rsquo;architecture AM4 d&rsquo;AMD, offre une exp&eacute;rience joyeuse en plus de performances exceptionnelles. Avec une horloge de base de 3,6 GHz et un turbo boost de 4,2 GHz, les sessions informatiques deviennent une c&eacute;l&eacute;bration de l&rsquo;efficacit&eacute; et de la vitesse.</span></p>\n\n<h2>Zen 3 Architecture : cr&eacute;er le bonheur dans le silicium</h2>\n\n<p><span style=\"font-size:22px\">Fondamentalement, le Ryzen 5 5500 est une manifestation de l&rsquo;architecture Zen 3, minutieusement con&ccedil;ue &agrave; un niveau de d&eacute;tail de 7 nm. Ses 6 c&oelig;urs et ses 12 threads offrent une capacit&eacute; multit&acirc;che bien &eacute;quilibr&eacute;e, garantissant que votre exp&eacute;rience informatique est non seulement puissante mais aussi incroyablement joyeuse. &Agrave; cette heureuse &eacute;quation, le Thermal Design Power (TDP) de 65 W ajoute de l&rsquo;efficacit&eacute;.</span></p>\n\n<h2>M&eacute;moire DDR4 double canal : des performances exceptionnelles</h2>\n\n<p><span style=\"font-size:22px\">Avec le contr&ocirc;leur de m&eacute;moire DDR4, qui prend en charge des d&eacute;bits de 2666 MHz, 3200 MHz et 2933 MHz, vous pouvez profiter du plaisir d&rsquo;un multit&acirc;che sans faille. La conception de la m&eacute;moire Dual Channel du processeur Ryzen 5 5500 garantit une vitesse et une efficacit&eacute; in&eacute;gal&eacute;es lors du traitement des donn&eacute;es.</span></p>\n\n<h2>Wraith Stealth Cooling : Garder la joie fra&icirc;che et sereine</h2>\n\n<p><span style=\"font-size:22px\">Le refroidisseur Wraith Stealth fait partie du kit, ce qui garantit que votre amour de l&rsquo;informatique reste cool et calme. Plus qu&rsquo;un simple processeur, l&rsquo;AMD Ryzen 5 5500 est une invitation &agrave; un monde o&ugrave; l&rsquo;efficacit&eacute;, la performance et l&rsquo;informatique joyeuse coexistent en parfaite harmonie.</span></p>\n\n<h2><br />\n&nbsp;</h2>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence CPU :&nbsp;3.6 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence en mode Turbo :&nbsp;4.2 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de core : 6&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de Threads : 12</span></li>\n\t<li><span style=\"font-size:22px\">Chipset graphique :&nbsp;Aucun</span></li>\n\t<li><span style=\"font-size:22px\">Contr&ocirc;leur m&eacute;moire :&nbsp;DDR4&nbsp;</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb192424a2e400482a012cd",
+    "titre": "AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326818201.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:20:18.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.60 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cc"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "4.20 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cd"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "6",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cf"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "12",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23d0"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR4 2933MHz",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e3"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "3 Mo",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e4"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "16 Mo",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e5"
+    },
+    {
+      "cle": "TDP",
+      "valeur": "65W",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e6"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "AMD AM4",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e7"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD A520",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e6421e"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD B350",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e6421f"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD B450",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e64220"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD B550",
+      "enable": true,
+      "_id": "655b3d6f25297c77ecde96e4"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD X370",
+      "enable": true,
+      "_id": "655b3d6f25297c77ecde96e5"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD X470",
+      "enable": true,
+      "_id": "655b3d6f25297c77ecde96e6"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD X570",
+      "enable": true,
+      "_id": "655b3d6f25297c77ecde96e7"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "AMD-Ryzen-5-5500-Wraith-Stealth-TRAY",
+  "gallerie": {
+    "_id": "667ff5ceded88b5e10cc0175",
+    "titre": "AMD RYZEN 5 5600 WRAITH STEALTH (3.5 GHZ / 4.4 GHZ) TRY",
+    "urlPhoto": [
+      "/uploads/gallerie/1719662047196.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-06-29T11:54:07.351Z",
+    "create_date": "2024-06-29T11:53:50.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 8947,
+  "price": 342,
+  "tagsSearch": [
+    "AMD",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "promo pross"
+  ],
+  "discount": null,
+  "stock": 10,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2023-03-02T16:09:49.943Z",
+  "update_date": "2025-10-24T05:54:28.663Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

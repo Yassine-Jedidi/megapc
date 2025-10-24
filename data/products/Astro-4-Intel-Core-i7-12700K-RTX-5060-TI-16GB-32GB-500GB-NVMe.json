@@ -1,0 +1,196 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744904593277.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744904593277.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWNgYOTUNLGxcw8REFNk0LV0WbTl2M///wOyqhkSixoyavqqq1vyqtoZCut63ALyrK2tcvLLALhIEuRsgkK0AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "68011f6ac75bcce7a2e6c6e5",
+  "sku": "Astro-4",
+  "mpn": "Astro-4",
+  "titleSeo": "PC Gamer Astro 4 | i7-12700K + RTX 5060 Ti 16GB + 32GB RAM + 500GB NVMe | MEGA PC | GIGA TECH",
+  "desciprtionSeo": "Découvrez le PC Gamer Astro 4, une configuration puissante équipée d’un Intel Core i7-12700K, de la Gigabyte RTX 5060 Ti 16GB, de 32GB RAM DDR4 RGB, et d’un SSD NVMe 500GB Gen 4.0. Ce monstre de puissance est refroidi par un watercooling MSI M240 RGB et embarqué dans un boîtier MSI airflow, avec une alimentation 750W PCIE5 pour une stabilité optimale. Idéal pour le gaming en ultra, le streaming ou le multitâche intensif. Disponible maintenant chez MEGA PC | GIGA TECH.",
+  "ratingValue": "4.8",
+  "reviewCount": "93",
+  "priceValidUntil": "2026-09-08",
+  "referenceInterne": "Astro-4",
+  "title": "Astro 4 🧑‍🚀 | Intel Core i7-12700K | RTX 5060 TI 16GB | 32GB | 500GB NVMe",
+  "title_fr": "Astro 4 🧑‍🚀 | Intel Core i7-12700K | RTX 5060 TI 16GB | 32GB | 500GB NVMe",
+  "description_fr": "<p><span style=\"font-size:22px\"><strong>Le Astro 4 🧑&zwj;🚀</strong> est une b&ecirc;te de guerre taill&eacute;e pour les gamers exigeants et les cr&eacute;ateurs de contenu. Son processeur Intel Core i7-12700K, avec 12 c&oelig;urs (8 Performance + 4 Efficient), monte jusqu&rsquo;&agrave; <strong>5.0 GHz</strong> pour offrir une puissance de calcul brutale. Il est parfait pour le gaming ultra fluide, le streaming, ou le multit&acirc;che intensif.</span></p>\n\n<p><span style=\"font-size:22px\">La <strong>RTX 5060 Ti 16GB</strong> assure des performances graphiques de haut niveau pour faire tourner les derniers jeux AAA avec des graphismes au max, tout en profitant des technologies DLSS 3.5 et ray tracing.</span></p>\n\n<p><span style=\"font-size:22px\">Avec <strong>32GB de RAM DDR4 RGB</strong>, la fluidit&eacute; est totale, m&ecirc;me avec plusieurs applis lourdes ouvertes. Le <strong>SSD NVMe Gen 4.0</strong> de 500GB garantit des temps de chargement fulgurants et une r&eacute;activit&eacute; imm&eacute;diate.</span></p>\n\n<p><span style=\"font-size:22px\">Le refroidissement est g&eacute;r&eacute; par un <strong>WaterCooling MSI M240 RGB</strong>, combin&eacute; &agrave; un <strong>bo&icirc;tier airflow MSI</strong> et une <strong>alimentation 750W PCIE5</strong> pour une stabilit&eacute; parfaite, m&ecirc;me sous forte charge.</span></p>\n\n<p><span style=\"font-size:22px\">Bref, <strong>Astro 4</strong>, c&rsquo;est la fus&eacute;e haut de gamme qu&rsquo;il te faut pour aller d&eacute;crocher les &eacute;toiles ⭐</span></p>\n",
+  "miniDescription": "",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\">✅ <strong>Processeur :</strong> Intel Core i7-12700K (3.6 GHz / 5.0 GHz)<br />\n✅ <strong>Carte Graphique :</strong> Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 16GB<br />\n✅ <strong>RAM :</strong> XPG SPECTRIX D35G 32Go (2x16Go) DDR4 3200MHz BLACK RGB<br />\n✅ <strong>Carte M&egrave;re :</strong> MSI PRO B760M-P DDR4<br />\n✅ <strong>Stockage :</strong> IMATION X732 NVMe Gen3 512Go</span><br />\n<span style=\"font-size:22px\">✅ <strong>Bo&icirc;tier :</strong> MSI MAG FORGE 320R AIRFLOW<br />\n✅ <strong>Alimentation :</strong> MSI MAG A750BN PCIE5<br />\n✅ <strong>WaterCooling :</strong> MSI MAG CORELIQUID M240 RGB</span></p>\n\n<p><span style=\"color:#ff0000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffc00c10517079547a46",
+    "titre": "CONFIG PC INTEL",
+    "description": "CONFIG PC Intel",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811592727.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:04.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": "Intel Core i7-12700K",
+      "enable": true,
+      "_id": "6877a3f385aee8e5d0d8864e"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "5GHz",
+      "enable": true,
+      "_id": "6877a3f385aee8e5d0d8864f"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "B760M-P",
+      "enable": true,
+      "_id": "6877a3f385aee8e5d0d88650"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RTX 5060 Ti 16GB",
+      "enable": true,
+      "_id": "6877a3f385aee8e5d0d88651"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "32GB DDR4 3200MHz",
+      "enable": true,
+      "_id": "6877a3f385aee8e5d0d88652"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "500GB NVMe",
+      "enable": true,
+      "_id": "6877a3f385aee8e5d0d88653"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "750W PCIE5 80+ Bronze",
+      "enable": true,
+      "_id": "6877a3f385aee8e5d0d88654"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "MSI MAG FORGE 320R AIRFLOW",
+      "enable": true,
+      "_id": "6877a3f385aee8e5d0d88655"
+    },
+    {
+      "cle": "Type de refroidissement",
+      "valeur": "Watercooling",
+      "enable": true,
+      "_id": "6877a3f385aee8e5d0d88656"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Astro-4-Intel-Core-i7-12700K-RTX-5060-TI-16GB-32GB-500GB-NVMe",
+  "gallerie": {
+    "_id": "68012188c75bcce7a2e7956f",
+    "titre": "ASTRO 4 🧑‍🚀 | INTEL CORE I7-12700K | RTX 5060 TI 16GB | 32GB | 500GB NVME",
+    "urlPhoto": [
+      "/uploads/gallerie/1744904593277.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-17T15:43:13.395Z",
+    "create_date": "2025-04-17T15:43:04.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2099,
+  "price": 4179,
+  "tagsSearch": [
+    "CONFIG PC AMD",
+    "CONFIG PC INTEL",
+    "PRE-ORDER",
+    "ORDINATEURS",
+    "PC GAMER",
+    "PREBUILD",
+    "5060ti",
+    "506ti",
+    "506 ti",
+    "560ti",
+    "560 ti"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2024-11-05T13:06:55.325Z",
+  "update_date": "2025-10-23T21:25:36.610Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

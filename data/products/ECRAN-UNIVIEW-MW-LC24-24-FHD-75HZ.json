@@ -1,0 +1,220 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730294537922.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730294537922.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOHd27i1tMPAv+bo6QB/cWUZAAAjEwCIjpYAtLCtcmtnaV9ZubKtAP///+no6uzs7v///+3SHw0OEhBPAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730294545742.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730294545742.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImWPYuXPnLDDYvXs3g4WFBQMDAxsbm4uzC0NHR0doaGh0dHR/fz/D////79279/Dhw////wMAS80aCvI9GcwAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730294548205.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730294548205.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP49u3bMjD4+fMnw+LFixlAgGn58uUMs2bN4OXll5GRW7lyJcPbt29Xrly5efPm////AwDH7BuwOvhyUwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730294552586.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730294552586.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAL0lEQVQImWP4////3r17165d+///f4b////r6enFxsZCOQwMDAhOSEhIbW0tkAMAhiwhUsnOIWUAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "6722366899de58d4f6bdf429",
+  "sku": "MW-LC24",
+  "mpn": "MW-LC24",
+  "titleSeo": "ECRAN UNIVIEW MW-LC24 - 24'' FHD | 75HZ | MEGA TUNISIE",
+  "desciprtionSeo": "ECRAN UNIVIEW MW-LC24 - 24'' FHD | 75HZ | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "45",
+  "priceValidUntil": "2028-09-08",
+  "referenceInterne": "MW-LC24",
+  "title": "ECRAN UNIVIEW MW-LC24 - 24'' FHD | 75HZ",
+  "title_fr": "ECRAN UNIVIEW MW-LC24 - 24'' FHD | 75HZ",
+  "description_fr": "<h2>ECRAN UNIVIEW MW-LC24 - 24&#39;&#39; FHD | 75HZ</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">L&#39;&eacute;cran UNIVIEW MW-LC24 est un moniteur de 24 pouces avec une r&eacute;solution Full HD de 1920 x 1080 pixels et un taux de rafra&icirc;chissement de 75 Hz. Il offre un angle de vision large de 178&deg; dans toutes les directions pour un confort visuel optimal. Son temps de r&eacute;ponse est de 14 ms, et il dispose d&#39;un contraste dynamique de 3000:1, garantissant des images nettes et des couleurs profondes. Avec une luminosit&eacute; de 250 cd/m&sup2; et un filtre de lumi&egrave;re bleue int&eacute;gr&eacute;, cet &eacute;cran est con&ccedil;u pour r&eacute;duire la fatigue oculaire. Il est &eacute;quip&eacute; de connecteurs VGA et HDMI pour une connectivit&eacute; polyvalente.&nbsp; &nbsp;</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Taille</strong> : 24&quot;</span></li>\n\t<li><span style=\"font-size:22px\"><strong>R&eacute;solution</strong> : 1920 x 1080 (Full HD)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Taux de rafra&icirc;chissement</strong> : 75 Hz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Temps de r&eacute;ponse</strong> : 14 ms</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Angle de vision</strong> : 178&deg;/178&deg;</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Contraste dynamique</strong> : 3000:1</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Luminosit&eacute;</strong> : 250 cd/m&sup2;</span></li>\n\t<li><span style=\"font-size:22px\"><strong>R&eacute;duction de lumi&egrave;re bleue</strong> : Oui</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Connecteurs</strong> : VGA, HDMI</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fbfa781490b3ace6127719b",
+    "titre": "UNIVIEW",
+    "description": "UNIVIEW",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606395784648.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-11-26T13:02:57.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b0c1c9a7315fc2fc035",
+    "order": 6,
+    "titre": "ECRANS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162254514.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205181622.webp",
+    "description": "<h1 style=\"text-align: center;\">Ecran pc tunisie<br></h1><p><span style=\"background-color: transparent; color: rgb(36, 36, 36);\">L’</span><strong style=\"background-color: transparent; color: rgb(36, 36, 36);\">écran pour ordinateur</strong><span style=\"background-color: transparent; color: rgb(36, 36, 36);\"> est un must-have dès qu’il s’agit de profiter de votre PC. Que ce soit pour du </span><a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\" target=\"_blank\" style=\"background-color: transparent; color: rgb(17, 85, 204);\"><strong>gaming</strong></a><a href=\"/shop/ORDINATEURS/PC-GAMER\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(36, 36, 36);\"> </a><span style=\"background-color: transparent; color: rgb(36, 36, 36);\">ou du </span><strong style=\"background-color: transparent; color: rgb(17, 85, 204);\">professionnel</strong><span style=\"background-color: transparent; color: rgb(36, 36, 36);\">, l’écran pour ordinateur se doit de vous offrir un confort visuel optimal tout en s’assurant de vous offrir un rendu à la fois net et soucieux de votre santé. Avec les technologies anti-scintillement et les filtres anti-lumière bleue, les écrans PC d’aujourd’hui, qu’ils soient </span><strong style=\"background-color: transparent; color: rgb(17, 85, 204);\">22”</strong><span style=\"background-color: transparent; color: rgb(36, 36, 36);\">, </span><strong style=\"background-color: transparent; color: rgb(17, 85, 204);\">24”</strong><span style=\"background-color: transparent; color: rgb(36, 36, 36);\"> ou </span><strong style=\"background-color: transparent; color: rgb(17, 85, 204);\">27”</strong><span style=\"background-color: transparent; color: rgb(36, 36, 36);\">, vous permettent de profiter de vos jeux-vidéos favoris et de votre contenu multimédia de la meilleure des façons. </span></p>",
+    "create_date": "2020-04-10T13:56:28.000Z",
+    "reference": "ECRAN",
+    "update_date": "2025-04-28T10:31:00.845Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5f8d9ccb3e9bde457030bf85",
+    "titre": "ECRANS PRO",
+    "categorie": "5e907b0c1c9a7315fc2fc035",
+    "__v": 0,
+    "order": 0,
+    "urlPhoto2": "/uploads/souscateg/1607157607836.webp",
+    "descriptionSEO": "<p>Ecran PC Professionnel - chat Ecran PC pour professionnels avec MEGA PC, Ecran IPS design étalonnage vidéo, graphique professionnel. Dell, Benq, asus</p>",
+    "titreSEO": "Ecran PC Professionnel - Achat Écran PC au meilleur prix en Tunisie",
+    "create_date": "2020-10-19T14:03:55.000Z",
+    "reference": "ECRANSPRO",
+    "update_date": "2021-12-04T08:53:14.830Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Taille de l'écran",
+      "valeur": "24''",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8d8"
+    },
+    {
+      "cle": "Type de dalle",
+      "valeur": "LED",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8d9"
+    },
+    {
+      "cle": "Entrées vidéo",
+      "valeur": "1x HDMI",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8da"
+    },
+    {
+      "cle": "Entrées vidéo",
+      "valeur": "1x VGA",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8db"
+    },
+    {
+      "cle": "Fréquence",
+      "valeur": "75 Hz",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8dc"
+    },
+    {
+      "cle": "Temps de réponse",
+      "valeur": "14 ms",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8dd"
+    },
+    {
+      "cle": "Ecran incurvé",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8de"
+    },
+    {
+      "cle": "Résolution",
+      "valeur": "1920 x 1080",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8df"
+    },
+    {
+      "cle": "Luminosité",
+      "valeur": "250 cd/m²",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8e0"
+    },
+    {
+      "cle": "Rapport de contraste",
+      "valeur": "3000:1",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8e1"
+    },
+    {
+      "cle": "Surface de l'écran",
+      "valeur": "Non-glare",
+      "enable": true,
+      "_id": "673c525c99de58d4f6cbf8e2"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f8d9ccb3e9bde457030bf85"
+  ],
+  "lien": "ECRAN-UNIVIEW-MW-LC24-24-FHD-75HZ",
+  "gallerie": {
+    "_id": "672232f899de58d4f6bdf3cc",
+    "titre": "ECRAN UNIVIEW MW-LC22 - 22'' FHD | 75HZ",
+    "urlPhoto": [
+      "/uploads/gallerie/1730294537922.webp",
+      "/uploads/gallerie/1730294545742.webp",
+      "/uploads/gallerie/1730294548205.webp",
+      "/uploads/gallerie/1730294552586.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-10-30T13:22:32.705Z",
+    "create_date": "2024-10-30T13:22:00.000Z",
+    "__v": 4
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2760,
+  "price": 259,
+  "tagsSearch": [
+    "UNIVIEW",
+    "ECRANS",
+    "ECRANS GAMING",
+    "ECRANS PRO"
+  ],
+  "stock": 4,
+  "displayForPublic": true,
+  "create_date": "2024-10-30T13:23:18.381Z",
+  "update_date": "2025-10-24T13:03:51.042Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

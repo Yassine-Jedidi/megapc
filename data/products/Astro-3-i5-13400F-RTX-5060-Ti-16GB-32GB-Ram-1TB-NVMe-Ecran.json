@@ -1,0 +1,194 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744890693566.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1744890693566.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWNgYOTStXB0D4wVklBm0Ld2W7Xvwu///yOKmhiK2qa1TFvh5m6bWBTF0Lt4d1rtbEkJIXllOQDIkRJ0y+rUqQAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "6800e88ac75bcce7a2e426b6",
+  "sku": "Astro-3",
+  "mpn": "Astro-3",
+  "titleSeo": "PC Gamer Astro 3 avec Écran | i5-13400F + RTX 5060 Ti 16GB + Watercooling + 32GB RAM + 1TB NVMe | MEGA PC | GIGA TECH | TUNISIE ",
+  "desciprtionSeo": "Le PC Gamer Astro 3 est une configuration haut de gamme avec Intel Core i5-13400F, RTX 5060 Ti 16GB, 32GB de RAM RGB, et un SSD NVMe 1TB PCIe 4.0. Il est refroidi efficacement par le DeepCool AG400 Digital ARGB et monté dans un boîtier MSI airflow avec alimentation 650W Bronze. Ce pack inclut un écran MSI 25\" FHD IPS 180Hz, idéal pour les gamers exigeants. Disponible chez MEGA PC | GIGA TECH.",
+  "ratingValue": "4.8",
+  "reviewCount": "45",
+  "priceValidUntil": "2027-09-08 ",
+  "referenceInterne": "Astro-3",
+  "title": "Astro 3 🧑‍🚀 | i5-13400F | RTX 5060 Ti 16GB | 32GB Ram | 1TB NVMe + Ecran",
+  "title_fr": "Astro 3 🧑‍🚀 | i5-13400F | RTX 5060 Ti 16GB | 32GB Ram | 1TB NVMe + Ecran",
+  "description_fr": "<p><span style=\"font-size:22px\">Le <strong>Astro 3 🧑&zwj;🚀</strong> est une machine pr&ecirc;te pour les batailles les plus intenses. Propuls&eacute; par un <strong>Intel Core i5-13400F</strong> boost&eacute; jusqu&rsquo;&agrave; <strong>4.6 GHz</strong>, il est &eacute;paul&eacute; par la puissante <strong>RTX 5060 Ti 16GB</strong> pour une performance graphique ultime. Avec <strong>32GB de RAM RGB</strong> et un <strong>SSD 1TB PCIe Gen 4</strong>, les temps de chargement disparaissent et la fluidit&eacute; est totale.<br />\nLe tout est refroidi par le <strong>DeepCool AG400 Digital ARGB</strong>, un ventirad performant et styl&eacute;, le tout dans un <strong>bo&icirc;tier MSI airflow</strong> aliment&eacute; par une <strong>alimentation 650W Bronze</strong>.<br />\nEt pour couronner le tout : un <strong>&eacute;cran MSI 25&rdquo; IPS FHD 180Hz</strong>, parfait pour l&rsquo;e-sport et les jeux comp&eacute;titifs.<br />\n<strong>Astro 3</strong>, c&rsquo;est le confort, la puissance et le style, dans un seul pack.</span></p>\n",
+  "miniDescription": "",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\">✅ <strong>Processeur :</strong> Intel Core i5-13400F (2.5 GHz / 4.6 GHz)<br />\n✅ <strong>Carte Graphique :</strong> Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 16GB<br />\n✅ <strong>Carte M&egrave;re :</strong> MSI PRO B760M-P DDR4<br />\n✅ <strong>RAM :</strong> XPG SPECTRIX DT50 32GB (2x16GB) DDR4 3200MHz RGB<br />\n✅ <strong>Stockage :</strong> MSI SPATIUM M460 SSD 1TB M.2 PCIe 4.0 NVMe<br />\n✅ <strong>Bo&icirc;tier :</strong> MSI MAG FORGE 320R AIRFLOW<br />\n✅ <strong>Alimentation :</strong> MSI MAG A650BNL 650W 80+ Bronze<br />\n✅ <strong>Refroidissement :</strong> DeepCool AG400 Digital ARGB<br />\n✅ <strong>&Eacute;cran :</strong> MSI MAG 256F 25&quot; FHD SS IPS 180Hz 1ms</span></p>\n\n<p><span style=\"color:#800000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffc00c10517079547a46",
+    "titre": "CONFIG PC INTEL",
+    "description": "CONFIG PC Intel",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811592727.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:04.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": "Intel Core i5-13400F",
+      "enable": true,
+      "_id": "68792a0938284c844316ce05"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "4.60GHz",
+      "enable": true,
+      "_id": "68792a0938284c844316ce06"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "B760M-P",
+      "enable": true,
+      "_id": "68792a0938284c844316ce07"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RTX 5060 Ti 16GB",
+      "enable": true,
+      "_id": "68792a0938284c844316ce08"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "32GB DDR4 3200MHz",
+      "enable": true,
+      "_id": "68792a0938284c844316ce09"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "1TB NVMe",
+      "enable": true,
+      "_id": "68792a0938284c844316ce0a"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "650W 80+ Bronze",
+      "enable": true,
+      "_id": "68792a0938284c844316ce0b"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "MSI MAG FORGE 320R AIRFLOW",
+      "enable": true,
+      "_id": "68792a0938284c844316ce0c"
+    },
+    {
+      "cle": "Type de refroidissement",
+      "valeur": "Aircooling",
+      "enable": true,
+      "_id": "68792a0938284c844316ce0d"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "Astro-3-i5-13400F-RTX-5060-Ti-16GB-32GB-Ram-1TB-NVMe-Ecran",
+  "gallerie": {
+    "_id": "6800eb3bc75bcce7a2e5d2df",
+    "titre": "ASTRO 3 🧑‍🚀 | I5-13400F | RTX 5060 TI 16GB | 32GB RAM | 1TB NVME + ECRAN",
+    "urlPhoto": [
+      "/uploads/gallerie/1744890693566.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-17T11:51:33.681Z",
+    "create_date": "2025-04-17T11:51:23.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 748,
+  "price": 5549,
+  "tagsSearch": [
+    "CONFIG PC INTEL",
+    "ORDINATEURS",
+    "PC GAMER",
+    "PREBUILD",
+    "5060ti",
+    "506ti",
+    "506 ti",
+    "560ti",
+    "560 ti"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2024-12-12T15:19:10.076Z",
+  "update_date": "2025-10-23T15:54:36.058Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

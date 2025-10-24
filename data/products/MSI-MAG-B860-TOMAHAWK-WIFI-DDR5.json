@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630969443.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630969443.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAAAAP4PDw7+FBUS/hISEf4Aamtk/szMw//Ky8T/xsfC/gBCRD/+gIF6/+zt5/////n+ACcnJv42NzX+cHJm/oCEeP5ejSSO/PvXwAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630987945.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630987945.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABgZFv4EBQD/Jyci/0hJRf4AKy4q/01OSf9tbmj////7/wAaGxj/QkE3/zc3MP/DxL//AAABAP4AAQD/HiAU/5+gi/6mDh0vXcxzPQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630991071.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630991071.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABERDv40NTH/3N7N//7/+P4AbGxi/11fV//y8+3/29zX/wBdXlX/ODk1/7K0sf+Bgn3/ADg5Nf4AAAD/WVxO/zQ1Mv4/0iVx/V6j5QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630993518.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630993518.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ABkZGpyenF9gXwAABABWVlj+//ng4dUcHRwAYmNj6+zl1dfOmJiUAF1fXtvb05GUi8TEw0TFGeo/nLJSAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630997294.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746630997294.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAS0lEQVQImWP4DwXHjx/7f+bMmf8Mhw8f/zd7zsJ/LAwM/0KCAv8xZGQX/TextPnPz8P1Pycr/T/D58+f/968eePvq1ev/n79+vUvAC4pLgf0F4B2AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631000517.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631000517.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AN7d3P97eXX/vLy7//////8A2NfX/gYAAP4yLy7++vr6/gD09PP/HBoY/xAMBf/n5ub/APz8/P1fXVz9Q0JB/eHg4P0LyyyOEj/muwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631003479.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631003479.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAASElEQVQImQXBwQ2AIAxA0SZuookzGJVBcQ2ZiZtwsMFD037fEwBVpfdORCDfGJHOPSaRuHIOKeVmXWbSsVFrRczMW3tc9XXAf6yRMmRIvuBnAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631005582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746631005582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWP4jwYYvDw8/omJiv4TFxb65+7q/I/B0cH+PysT039WBob/1pYW/xn+////FxkDAMHtK2z0mgY7AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "679a3cdf322599f4f78452d3",
+  "sku": "911-7E39-001",
+  "mpn": "911-7E39-001",
+  "titleSeo": "MSI MAG B860 TOMAHAWK WIFI DDR5 | MEGA TUNISIE ",
+  "desciprtionSeo": "MSI MAG B860 TOMAHAWK WIFI DDR5 | Processeur : Intel Core Ultra (Série 2), socket LGA 1851 Mémoire : Jusqu'à 256 Go DDR5, vitesses 4800 à 9200 MT/s Slots PCIe : 2x PCIe x16, 1x PCIe x1 Stockage : 3x M.2 NVMe, 4x SATA 6Gb/s Graphismes : HDMI 2.1, DisplayPort 1.4, Thunderbolt 4 Audio : Realtek ALC897, son 7.1 LAN : Intel Killer E5000 5Gbps Wi-Fi : Wi-Fi 7 Intel Killer BE1750x USB : 12 ports (USB 2.0, 3.2, Type A, Type C) OS : Windows 11 64-bit | MEGA TUNISIE ",
+  "ratingValue": "4.7",
+  "reviewCount": "93",
+  "priceValidUntil": "2026-07-09",
+  "referenceInterne": "911-7E39-001",
+  "title": "MSI MAG B860 TOMAHAWK WIFI DDR5",
+  "title_fr": "MSI MAG B860 TOMAHAWK WIFI DDR5",
+  "description_fr": "<h2>MSI MAG B860 TOMAHAWK WIFI DDR5</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La <strong>MSI MAG B860 TOMAHAWK WIFI DDR5</strong> est une carte m&egrave;re haut de gamme con&ccedil;ue pour les utilisateurs exigeants, compatible avec les processeurs <strong>Intel&nbsp;Core Ultra (S&eacute;rie 2)</strong> sur socket <strong>LGA 1851</strong>. Elle prend en charge jusqu&#39;&agrave; <strong>256 Go de m&eacute;moire DDR5</strong> r&eacute;partis sur quatre slots, avec des vitesses de m&eacute;moire allant de 4800 &agrave; 9200 MT/s, offrant ainsi des performances exceptionnelles pour les applications intensives. Elle int&egrave;gre des technologies avanc&eacute;es telles qu&rsquo;Intel XMP 3.0 et la gestion de la m&eacute;moire en mode Dual-Channel et Dual-Controller, ainsi que la prise en charge de l&#39;overclocking pour des performances optimales.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:22px\">C&ocirc;t&eacute; graphismes, la carte dispose de multiples options d&#39;affichage, dont un port <strong>HDMI&nbsp;2.1</strong> pour une r&eacute;solution jusqu&#39;&agrave; <strong>8K@60Hz</strong> et un port <strong>DisplayPort 1.4</strong> avec une r&eacute;solution maximale de <strong>4K@60Hz</strong>. De plus, elle offre un port <strong>USB Type-C DisplayPort Thunderbolt 4</strong> capable de g&eacute;rer des r&eacute;solutions jusqu&#39;&agrave; <strong>8K@60Hz</strong> ou <strong>4K@120Hz</strong>, mais cela d&eacute;pend du processeur install&eacute;. Pour les extensions, la carte m&egrave;re propose deux slots <strong>PCIe x16</strong> dont un en <strong>Gen 5.0</strong> pour des performances graphiques et de calcul maximales, ainsi qu&#39;un slot <strong>PCIe x1</strong> pour d&#39;autres p&eacute;riph&eacute;riques.</span></p>\n\n<p><span style=\"font-size:22px\">Pour le stockage, la <strong>MAG B860 TOMAHAWK</strong> int&egrave;gre trois slots <strong>M.2 NVMe</strong> avec des vitesses allant jusqu&#39;&agrave; <strong>PCIe 5.0 x4</strong> pour des transferts ultra-rapides, accompagn&eacute;s de quatre ports <strong>SATA 6Gb/s</strong>. La prise en charge des configurations RAID 0, 1, 5 et 10 permet une gestion flexible et performante du stockage. Le son est assur&eacute; par le codec <strong>Realtek ALC897</strong> offrant un son <strong>7.1 haute d&eacute;finition</strong> avec sortie S/PDIF. En mati&egrave;re de r&eacute;seau, elle est &eacute;quip&eacute;e de la <strong>technologie Intel Killer E5000</strong> pour un LAN 5Gbps ultra-rapide et du Wi-Fi 7 <strong>Intel Killer BE1750x</strong> avec une vitesse allant jusqu&#39;&agrave; <strong>5.8 Gbps</strong> et une prise en charge du Bluetooth 5.4 pour une connectivit&eacute; sans faille.</span></p>\n\n<p><span style=\"font-size:22px\">La carte dispose &eacute;galement de plusieurs options USB, dont des ports <strong>USB 2.0</strong>, <strong>USB 3.2</strong> et <strong>USB Type-C</strong>, permettant de connecter facilement des p&eacute;riph&eacute;riques &agrave; haute vitesse. Un port <strong>Thunderbolt 4</strong> est pr&eacute;sent &agrave; l&#39;arri&egrave;re, offrant des d&eacute;bits allant jusqu&rsquo;&agrave; <strong>40Gbps</strong> et la possibilit&eacute; de cha&icirc;ner jusqu&#39;&agrave; trois p&eacute;riph&eacute;riques Thunderbolt. En termes de refroidissement, elle inclut de nombreux connecteurs pour ventilateurs et pompes afin de maintenir des temp&eacute;ratures optimales sous charge. Compatible avec <strong>Windows 11 64-bit</strong>, cette carte m&egrave;re MSI repr&eacute;sente un choix de premier ordre pour ceux qui recherchent des performances de pointe, une connectivit&eacute; avanc&eacute;e et une &eacute;volutivit&eacute; maximale pour leurs configurations.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1738161883985.JPG\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1738161887436.JPG\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1738161893888.JPG\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Processeur</strong> : Intel Core Ultra (S&eacute;rie 2), socket <strong>LGA 1851</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>M&eacute;moire</strong> : Jusqu&#39;&agrave; <strong>256 Go DDR5</strong>, vitesses <strong>4800 &agrave; 9200 MT/s</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>Slots PCIe</strong> : 2x <strong>PCIe x16</strong>, 1x <strong>PCIe x1</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>Stockage</strong> : 3x <strong>M.2 NVMe</strong>, 4x <strong>SATA 6Gb/s</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>Graphismes</strong> : <strong>HDMI 2.1</strong>, <strong>DisplayPort 1.4</strong>, <strong>Thunderbolt 4</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>Audio</strong> : <strong>Realtek&nbsp;ALC897</strong>, son <strong>7.1</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>LAN</strong> : <strong>Intel Killer E5000 5Gbps</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>Wi-Fi</strong> : <strong>Wi-Fi 7 Intel Killer BE1750x</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>USB</strong> : 12 ports (USB 2.0, 3.2, Type A, Type C)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>OS</strong> : <strong>Windows 11 64-bit</strong></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "MSI-MAG-B860-TOMAHAWK-WIFI-DDR5",
+  "gallerie": {
+    "_id": "681b7932c75bcce7a279468e",
+    "titre": "911-7E39-001",
+    "urlPhoto": [
+      "/uploads/gallerie/1746630969443.webp",
+      "/uploads/gallerie/1746630987945.webp",
+      "/uploads/gallerie/1746630991071.webp",
+      "/uploads/gallerie/1746630993518.webp",
+      "/uploads/gallerie/1746630997294.webp",
+      "/uploads/gallerie/1746631000517.webp",
+      "/uploads/gallerie/1746631003479.webp",
+      "/uploads/gallerie/1746631005582.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-05-07T15:16:45.693Z",
+    "create_date": "2025-05-07T15:16:02.000Z",
+    "__v": 8
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1192,
+  "price": 919,
+  "priceHt": null,
+  "tagsSearch": [
+    "MSI",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "realap",
+    "MAG B860 TOMAHAWK WIFI"
+  ],
+  "discount": null,
+  "stock": 100,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2025-01-29T14:36:15.492Z",
+  "update_date": "2025-10-24T09:22:45.798Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

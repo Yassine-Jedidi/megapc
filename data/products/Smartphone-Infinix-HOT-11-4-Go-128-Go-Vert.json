@@ -1,0 +1,177 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1716991414375.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1716991414375.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APv//56/vafN0fz9/wC2x8MAHBgABy7bvbsAscC+ABYIAEZYvMzOAPj+/p+8upjKxfL//xxyHq7vN/FpAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "66574167eb3678a4bd3b51f1",
+  "sku": "INFINIX-X662B-PB",
+  "mpn": "INFINIX-X662B-PB",
+  "titleSeo": "Smartphone Infinix HOT 11 4 Go 128 Go | tunisie",
+  "desciprtionSeo": "Smartphone Infinix HOT 11 4 Go 128 Go [ Écran: 6,6 pouces LCD IPS (1080 x 2408 pixels) Processeur: Mediatek Helio G70 Octa-core Système d’exploitation: Android 11 Mémoire RAM: 4 Go [  tunisie",
+  "ratingValue": "4",
+  "reviewCount": "42",
+  "priceValidUntil": "2024-09-08",
+  "referenceInterne": "INFINIX-X662B-PB",
+  "title": "Smartphone Infinix HOT 11 4 Go 128 Go Vert",
+  "title_fr": "Smartphone Infinix HOT 11 4 Go 128 Go Vert",
+  "description_fr": "<h2>Smartphone Infinix HOT 11 4 Go 128 Go Vert</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">D&eacute;couvrez le smartphone Infinix HOT 11, une combinaison parfaite de performance et de fonctionnalit&eacute;. Il est &eacute;quip&eacute; d&#39;un &eacute;cran LCD IPS de 6,6 pouces avec une r&eacute;solution de 1080 x 2408 pixels, offrant une exp&eacute;rience visuelle claire et immersive. Sous le capot, le processeur octa-core Mediatek Helio G70 assure une performance fluide et rapide, id&eacute;al pour le multit&acirc;che et les applications gourmandes en ressources.</span></p>\n\n<p><span style=\"font-size:22px\">Fonctionnant sous Android 11, le HOT 11 dispose de 4 Go de m&eacute;moire RAM et de 128 Go de stockage, vous offrant suffisamment d&#39;espace pour toutes vos applications, photos et fichiers. Pour la photographie, il est &eacute;quip&eacute; d&#39;un appareil photo arri&egrave;re de 13 MP avec ouverture f/1.8, autofocus &agrave; d&eacute;tection de phase (PDAF) et un flash Quad-LED, permettant de capturer des images nettes et lumineuses. La cam&eacute;ra frontale de 8 MP avec ouverture f/2.0 garantit des selfies de qualit&eacute;.</span></p>\n\n<p><span style=\"font-size:22px\">En termes de connectivit&eacute;, le HOT 11 prend en charge la 4G, le WiFi, le Bluetooth et offre une fonctionnalit&eacute; double SIM. Sa batterie de 5200 mAh assure une autonomie prolong&eacute;e, vous permettant de rester connect&eacute; toute la journ&eacute;e. De plus, il dispose d&#39;un capteur d&rsquo;empreinte digitale et de la reconnaissance faciale pour une s&eacute;curit&eacute; et une commodit&eacute; accrues.</span></p>\n\n<p><span style=\"font-size:22px\">Le smartphone Infinix HOT 11 est un excellent choix pour ceux qui recherchent un appareil fiable, performant et bien &eacute;quip&eacute; pour r&eacute;pondre &agrave; tous leurs besoins quotidiens.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>&Eacute;cran</strong>: 6,6 pouces LCD IPS (1080 x 2408 pixels)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Processeur</strong>: Mediatek Helio G70 Octa-core</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Syst&egrave;me d&rsquo;exploitation</strong>: Android 11</span></li>\n\t<li><span style=\"font-size:22px\"><strong>M&eacute;moire RAM</strong>: 4 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Stockage</strong>: 128 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Appareil Photo Arri&egrave;re</strong>: 13 MP f/1.8 (large) PDAF, Flash Quad-LED</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Appareil Photo Frontale</strong>: 8 MP f/2.0 (large)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Connectivit&eacute;</strong>: 4G, WiFi, Bluetooth, Double SIM</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Batterie</strong>: Li-Po 5200 mAh</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Capteur d&rsquo;empreinte Digitale</strong>: Oui</span></li>\n\t<li><span style=\"font-size:22px\"><strong>D&eacute;verrouillage facial</strong>: Oui</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": null,
+  "categorie": {
+    "_id": "64d4c7c2d86a54d556a915bd",
+    "titre": "SMARTPHONE",
+    "order": 15,
+    "visible": true,
+    "update_date": "2025-04-28T10:32:18.547Z",
+    "create_date": "2023-08-10T11:19:30.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1715431603227.webp",
+    "urlPhoto2": "/uploads/categorie/1715431607414.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "662f7d91f0d88c8c60e73467",
+    "titre": "ANDROID",
+    "visible": true,
+    "order": 0,
+    "categorie": "64d4c7c2d86a54d556a915bd",
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-06-12T16:48:22.243Z",
+    "create_date": "2024-04-29T10:59:29.000Z",
+    "__v": 0,
+    "targetMobile": true,
+    "urlPhoto": "/uploads/souscateg/1715242782960.gif",
+    "urlPhoto2": "/uploads/souscateg/1715242787790.gif"
+  },
+  "attributes": [
+    {
+      "cle": "Ecran",
+      "valeur": "6.6 LCD IPS (1080 x 2408 pixels)",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d29"
+    },
+    {
+      "cle": "Système d’exploitation",
+      "valeur": "Android 11",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2a"
+    },
+    {
+      "cle": "Processeur",
+      "valeur": "Mediatek Helio G70 Octa-core",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2b"
+    },
+    {
+      "cle": "Mémoire RAM",
+      "valeur": "4Go",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2c"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "128Go",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2d"
+    },
+    {
+      "cle": "Appareil Photo Arrière",
+      "valeur": "Dual 13.0 MP",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2e"
+    },
+    {
+      "cle": "Appareil Photo Frontale",
+      "valeur": "8 MP",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d2f"
+    },
+    {
+      "cle": "Connectivité",
+      "valeur": "4G, Wifi, Bluetooth et Double SIM",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d30"
+    },
+    {
+      "cle": "Batterie",
+      "valeur": "Li-Po 5200 mAh",
+      "enable": true,
+      "_id": "663c90c7359e8f86d0f15d31"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "662f7d91f0d88c8c60e73467"
+  ],
+  "lien": "Smartphone-Infinix-HOT-11-4-Go-128-Go-Vert",
+  "gallerie": {
+    "_id": "6657359ceb3678a4bd39ed52",
+    "titre": "SMARTPHONE INFINIX HOT 11 4 GO 128 GO GREEN",
+    "urlPhoto": [
+      "/uploads/gallerie/1716991414375.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-05-29T14:03:34.486Z",
+    "create_date": "2024-05-29T14:03:08.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 310,
+  "price": 579,
+  "tagsSearch": [
+    "INFINIX",
+    "SMARTPHONE",
+    "ANDROID"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2024-05-29T14:06:21.329Z",
+  "update_date": "2025-10-23T15:17:31.704Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,152 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623919898227.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623919898227.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP3//uzu7/j4///+/wB9jHgsLDA7O0JrXHIAbGlbAAANHRYUPDVEALqspmlvXWJ2aYaZm+y2GB6DxpS1AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623919902681.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623919902681.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP7//tzg5sfC1uba6wCZpJYlJSwmIyyJdpUAlI+DAgACHhcLdnSJAOvj4J6plWmHf6W4w+32GnA9FRw1AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623919908389.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623919908389.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP49+/f/3//IYDh////nz9/vnv37t+/fxnuv7hk52ykpqBk5eHIsPrwSgYWBlEBfh52ZgAKcR4xFivuuAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623919912763.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1623919912763.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APbz7r+/vpCSlMrLywDMxqIhIhQAAACUkY8Ao7ejDAwNLis4rbS5AMbL1J+Fpd/g6/7//8koHAr7W3ZIAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "60cb0fafe1183604d8294e24",
+  "sku": "SOG-PADMRGB",
+  "mpn": "SOG-PADMRGB",
+  "titleSeo": "TAPIS DE SOURIS GAMING SOG SKUL RGB M | MEGA TUNISIE ",
+  "desciprtionSeo": "TAPIS DE SOURIS GAMING SOG SKUL RGB M | Dimensions : 300 x 230 x 3 mm Éclairage : 10 modes RGB (3 effets prédéfinis) Surface : Micro-texturée pour une glisse rapide Base : Antidérapante Interface : Câble USB en nylon tressé (170 cm) Poids : 330 g Couleur : Noir | MEGA TUNISIE ",
+  "ratingValue": "4",
+  "reviewCount": "47",
+  "priceValidUntil": "2022-08-08",
+  "referenceInterne": "SOG-PADMRGB",
+  "title": "Spirit of Gamer Skull RGB Gaming Mouse Pad M",
+  "title_fr": "Spirit of Gamer Skull RGB Gaming Mouse Pad M",
+  "description_fr": "<h2>Spirit of Gamer Skull RGB Gaming Mouse Pad M</h2>\n\n<hr />\n<p><span style=\"font-size:22px\"><span style=\"color:#000000\">Le Spirit of Gamer Skull RGB Gaming Mouse Pad vous vous fera gagner en pr&eacute;cision, en vitesse et en fluidit&eacute; dans tous vos jeux.</span></span></p>\n\n<p><span style=\"font-size:22px\"><span style=\"color:#000000\">Ce mod&egrave;le au design durable avec bordure r&eacute;tro-&eacute;clair&eacute;e cousue, de taille M, est parfaitement adapt&eacute; pour les souris laser ou optique et dispose d&#39;une &eacute;paisseur de 3 mm. Sa conception micro textur&eacute; vous offrira une exp&eacute;rience de glisse rapide et un confort ultime.</span></span></p>\n\n<p><span style=\"font-size:22px\"><span style=\"color:#000000\">Quand &agrave; sa base anti-d&eacute;rapante en caoutchouc, elle vous fera b&eacute;n&eacute;ficier d&#39;une grande stabilit&eacute; tout en d&#39;&eacute;vitant les d&eacute;collements de rev&ecirc;tement li&eacute;s &agrave; une utilisation intensive.</span></span></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Antid&eacute;rapant</span></li>\n\t<li><span style=\"font-size:22px\">Souple Structure </span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro&eacute;clairage : RGB&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Couleur : Noir&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">Taille : M&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">230 mm Largeur - 300 mm Longueur - 3 mm epaisseur</span></li>\n\t<li><span style=\"font-size:22px\">Poids 330 G</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eab45cc1c53430470a67932",
+    "titre": "SPIRIT",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326695675.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-30T21:40:28.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233d4a4815052c4d1a424",
+    "titre": "TAPIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206298045.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Tapis souris PC gamer | Vente Tapis de Souris Pour PC Portable et PC de Bureau à prix pas cher - Tapis de souris pour Pc bureau professionnels.</p>",
+    "titreSEO": "Tapis souris PC gamer | Tapis souris Tunisie au meilleurs prix",
+    "create_date": "2020-04-24T00:33:24.000Z",
+    "reference": "TAPIS",
+    "update_date": "2021-12-04T08:54:04.361Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "DIMENSIONS",
+      "valeur": "30 X 23 X 0.3 MM",
+      "enable": true,
+      "_id": "60cb0fafe1183604d8294e25"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea233d4a4815052c4d1a424"
+  ],
+  "lien": "Spirit-of-Gamer-Skull-RGB-Gaming-Mouse-Pad-M",
+  "gallerie": {
+    "_id": "60cb0d0fe1183604d8294e21",
+    "urlPhoto": [
+      "/uploads/gallerie/1623919898227.webp",
+      "/uploads/gallerie/1623919902681.webp",
+      "/uploads/gallerie/1623919908389.webp",
+      "/uploads/gallerie/1623919912763.webp"
+    ],
+    "titre": "SPIRIT OF GAMER SKULL RGB GAMING MOUSE PAD M",
+    "__v": 4,
+    "create_date": "2021-06-17T08:51:27.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2331,
+  "price": 65,
+  "tagsSearch": [
+    "SPIRIT",
+    "ACCESSOIRES",
+    "TAPIS"
+  ],
+  "stock": 7,
+  "displayForPublic": true,
+  "create_date": "2021-06-17T09:02:39.605Z",
+  "update_date": "2025-10-22T21:45:44.710Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

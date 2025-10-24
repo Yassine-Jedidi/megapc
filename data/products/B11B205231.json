@@ -1,0 +1,171 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226017663.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226017663.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAL0lEQVQImWP4jwQYpkydrqGlz8DIvnzFCob+/kmyckqaOvrr129ggCj4+/cvUBkAT8sgwugo4XEAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226017664.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226017664.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVQImWP4jwQYtm3b5uHlk5ySNm/+fIYZM2cJCgkxMDKVlVcwICsDAHdNIVo7sU+IAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226017665.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1714226017665.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP4DwZ///79//8/w4OHDxcsWiIppzh7/nyGSZOmqKiqMzAwFxQWMfz48ePbt2+/f//+8eMHAJGGIcmMz6Q4AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "662d0264f0d88c8c60dfda4e",
+  "sku": "B11B205231",
+  "mpn": "B11B205231",
+  "titleSeo": "",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "B11B205231",
+  "title": "SCANNER PROFESSIONNEL SCANNER EPSON WORKFORCE DS-6500",
+  "title_fr": "SCANNER PROFESSIONNEL SCANNER EPSON WORKFORCE DS-6500",
+  "description_fr": "<h2>Scanner professionnel Epson WorkForce DS-6500</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le scanner professionnel Epson WorkForce DS-6500 est une solution de num&eacute;risation haut de gamme con&ccedil;ue pour r&eacute;pondre aux besoins des environnements de bureau exigeants. Avec sa capacit&eacute; &agrave; num&eacute;riser des documents recto-verso au format A4, ce scanner offre une polyvalence exceptionnelle pour la gestion des documents.</span></p>\n\n<p><span style=\"font-size:22px\">Dot&eacute; d&#39;une r&eacute;solution de num&eacute;risation impressionnante de 1200 ppp x 1200 ppp, le DS-6500 garantit une reproduction fid&egrave;le et d&eacute;taill&eacute;e des documents, des images et des graphiques. Sa vitesse de num&eacute;risation rapide allant jusqu&#39;&agrave; 25 pages par minute, que ce soit en noir et blanc ou en couleur, assure une productivit&eacute; accrue sans compromis sur la qualit&eacute;.</span></p>\n\n<p><span style=\"font-size:22px\">&Eacute;quip&eacute; d&#39;un chargeur automatique de documents pouvant contenir jusqu&#39;&agrave; 100 feuilles, ce scanner est parfait pour les volumes de num&eacute;risation importants, avec une capacit&eacute; pouvant atteindre jusqu&#39;&agrave; 3000 pages par jour. Cela permet de g&eacute;rer efficacement les flux de travail &agrave; forte intensit&eacute; documentaire sans interruption.</span></p>\n\n<p><span style=\"font-size:22px\">Connectez facilement le scanner &agrave; votre ordinateur via son port Hi-Speed USB pour une configuration simple et rapide. De plus, avec une garantie de 1 an, vous b&eacute;n&eacute;ficiez d&#39;une tranquillit&eacute; d&#39;esprit suppl&eacute;mentaire quant &agrave; la fiabilit&eacute; et &agrave; la durabilit&eacute; de votre investissement.</span></p>\n\n<p><span style=\"font-size:22px\">En r&eacute;sum&eacute;, le scanner Epson WorkForce DS-6500 est un choix id&eacute;al pour les entreprises et les professionnels cherchant une solution de num&eacute;risation performante, rapide et fiable pour r&eacute;pondre &agrave; leurs besoins de gestion documentaire quotidienne.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Recto-verso</span></li>\n\t<li><span style=\"font-size:22px\">A4 - 1200 ppp x 1200 ppp</span></li>\n\t<li><span style=\"font-size:22px\">Jusqu&#39;&agrave; 25 ppm (mono) | jusqu&#39;&agrave; 25 ppm (couleur)</span></li>\n\t<li><span style=\"font-size:22px\">Chargeur automatique de documents ( 100 feuilles )</span></li>\n\t<li><span style=\"font-size:22px\">jusqu&#39;&agrave; 3000 pages par jour</span></li>\n\t<li><span style=\"font-size:22px\">Hi-Speed USB</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "658d34c652b5a275b6d678f1",
+    "titre": "EPSON",
+    "update_date": "2023-12-28T08:41:42.659Z",
+    "create_date": "2023-12-28T08:41:42.000Z",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "categorie": {
+    "_id": "5f60ba4f01f417289807e75b",
+    "order": 19,
+    "titre": "IMPRESSION",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1715428998314.webp",
+    "create_date": "2020-09-15T12:57:51.000Z",
+    "update_date": "2025-04-28T10:32:54.398Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false,
+    "urlPhoto": "/uploads/categorie/1715429007654.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "662cffd0f0d88c8c60df2fe4",
+    "titre": "SCANNER",
+    "visible": true,
+    "order": 0,
+    "categorie": "5f60ba4f01f417289807e75b",
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-05-11T12:03:52.877Z",
+    "create_date": "2024-04-27T13:38:24.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1715429027924.webp",
+    "urlPhoto2": "/uploads/souscateg/1715429032745.webp",
+    "targetMobile": true
+  },
+  "attributes": [
+    {
+      "cle": "Type de Scanner",
+      "valeur": "Scanner De Document",
+      "enable": true,
+      "_id": "6630cdf4f0d88c8c60f921ef"
+    },
+    {
+      "cle": "Interface",
+      "valeur": "USB 2.0",
+      "enable": true,
+      "_id": "6630cdf4f0d88c8c60f921f0"
+    },
+    {
+      "cle": "formats",
+      "valeur": "A4",
+      "enable": true,
+      "_id": "6630cdf4f0d88c8c60f921f1"
+    },
+    {
+      "cle": "Connectivite",
+      "valeur": "Réseau",
+      "enable": true,
+      "_id": "6630cdf4f0d88c8c60f921f2"
+    },
+    {
+      "cle": "Vitesse de numérisation",
+      "valeur": "noir et blanc: 25 ppm - couleur: 25 ppm",
+      "enable": true,
+      "_id": "6630cdf4f0d88c8c60f921f3"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "662cffd0f0d88c8c60df2fe4"
+  ],
+  "lien": "B11B205231",
+  "gallerie": {
+    "_id": "662d0356f0d88c8c60e083ef",
+    "titre": "SCANNER PROFESSIONNEL SCANNER EPSON WORKFORCE DS-6500",
+    "urlPhoto": [
+      "/uploads/gallerie/1714226017663.webp",
+      "/uploads/gallerie/1714226017664.webp",
+      "/uploads/gallerie/1714226017665.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "update_date": "2024-04-27T13:53:37.820Z",
+    "create_date": "2024-04-27T13:53:26.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2149,
+  "price": 2299,
+  "tagsSearch": [
+    "IMPRESSION",
+    "IMPRIMANTE",
+    "EPSON",
+    "SCANNER"
+  ],
+  "stock": 40,
+  "displayForPublic": true,
+  "create_date": "2023-09-28T14:26:31.485Z",
+  "update_date": "2025-10-23T21:08:57.181Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "__v": 0
+}

@@ -1,0 +1,256 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335563.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABUUF/4AAAT/R01T/p+z7P8AFhYW/iImIf+CiYX+n7Xb/wBJPzr+AAUH/0ZMTf5lY2b/AJWBav5rY1D/nZF1/v/93v/w+CGyCAVy0QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/j5XViZlpTWNHGxwAvKTYAABGdp6+zu7sAAAAWJCg39v//scTDAG5ma0NESd/n7UBLTGlBF4FrfjiUAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808335582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAADBP4SFBT/Vl1d/pCbo/8AYWhm/ujx7v/4///+kZuW/wBXXl7+bnd4/5KUj/6bkoT/AAABAf4ABAT/Q0tN/si+q//F+iSiJaDefQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341921.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWNQUlVhYGTjFhYxsLBgkFZSUFFXVVZTZWBhZwjxNGNgZpBRlHG0MWb4/2v3/N4sC0OlfYvKALm1CxWKc9EmAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341923.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWNg4ZfiFBSTV1eJy2xmYOCQYOATcfT1bJ99lMHd05OBic3Rzy88KZPh2cVN25Z0lRfG///zCQAcZxBz5a3PzAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808341924.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPQ0lLT1NEQFBVkYGBgSE1NuHHt3KQp3bZ29gxhYYH//3/buWtTWkYmg6yctJOTQ3pmWmxYMAChhBHjfcvTYgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345577.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AM7Q17OwtI6Jjvby+ACmo7NlYGdWUVvY1uIAb21vAQABLCg5p6a0AP///39+fzIvOMjHzO8yGxQ0zVCeAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345578.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOXk5ePi4v/+/+Pk6wCLio2FgIGdm7Z3f5QAX11gBgAAMDRQQUxiALa0uJiUlHd8go+TmTFqG3sDj8qyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345579.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///4iIiHV0dNTU1ADY2NhZWVsYGBpvb24Ao6GjLi4vAQADYWFhAJ2dnCclJ2ppbcjIyJ47FxRpAteLAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1718808345582.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AHJzc21tcNfU2////wBlY2Y7OEGQhKG6usEAQ0JDBAAJIRswUlJYAJaWlzs5O25tcaysrW0wFfKTTBrVAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "67dad1dc711a4ce5a45ea33f",
+  "sku": "PC-Gamer-Wave-1",
+  "mpn": "PC-Gamer-Wave-1",
+  "titleSeo": "PC Gamer Wave 1 | Ryzen 7 7800X3D | RTX 5070 Ti | 32GB DDR5 | 1TB NVMe | MEGA PC | GIGA TECH",
+  "desciprtionSeo": "🌊 PC Gamer Wave 1 combine des performances exceptionnelles avec un design élégant pour offrir une expérience de jeu fluide et immersive. Avec un AMD Ryzen 7 7800X3D, une RTX 5070 Ti, et une mémoire DDR5 rapide de 32 Go, ce PC est prêt à tout affronter. 💥 Optimisé avec un SSD PCIe 4.0 de 1 To, un refroidissement liquide et une alimentation modulaire.",
+  "ratingValue": "4.9",
+  "reviewCount": "67",
+  "priceValidUntil": "2027-07-09",
+  "referenceInterne": "PC-Gamer-Wave-1",
+  "title": "PC Gamer Wave 1 | Ryzen 7 7800X3D | RTX 5070 Ti | 48GB RAM | 1TB NVMe",
+  "title_fr": "PC Gamer Wave 1 | Ryzen 7 7800X3D | RTX 5070 Ti | 48GB RAM | 1TB NVMe",
+  "description_fr": "<p><span style=\"font-size:22px\">🔥 <strong>PC Gamer Wave 1 &ndash; Ryzen 7 7800X3D &amp; RTX 5070 Ti : La Puissance au Service du Gaming Extr&ecirc;me en Tunisie</strong> 🔥</span></p>\n\n<p><span style=\"font-size:22px\">💻 D&eacute;couvrez le <strong>PC Gamer Wave 1</strong>, une v&eacute;ritable machine de guerre pens&eacute;e pour les joueurs exigeants et les cr&eacute;ateurs de contenu. &Eacute;quip&eacute; du <strong>AMD Ryzen 7 7800X3D</strong> cadenc&eacute; jusqu&rsquo;&agrave; <strong>5.0 GHz</strong>, il offre une performance explosive pour les jeux les plus gourmands et les t&acirc;ches multit&acirc;ches intensives. Sa <strong>Carte Graphique GIGABYTE GeForce RTX 5070 Ti WINDFORCE SFF 16Gb</strong> garantit des graphismes ultra-fluides et r&eacute;alistes, avec un ray tracing d&rsquo;exception et des fr&eacute;quences &eacute;lev&eacute;es pour un confort visuel optimal.</span></p>\n\n<p><span style=\"font-size:22px\">⚡ C&ocirc;t&eacute; rapidit&eacute;, la <strong>RAM G.Skill Ripjaws M5 RGB 48Gb (2x24GB) 5200MHz</strong> permet un multit&acirc;che sans limites, tandis que le <strong>SSD MSI SPATIUM M560 1To PCIe 5.0 NVMe</strong> assure des chargements quasi instantan&eacute;s et une r&eacute;activit&eacute; maximale. La <strong>Carte M&egrave;re MSI B650M PROJECT ZERO</strong> garantit stabilit&eacute; et connectivit&eacute; derni&egrave;re g&eacute;n&eacute;ration, le tout aliment&eacute; par la <strong>MSI MPG A850GS PCIE5 80+ Gold</strong> pour une efficacit&eacute; &eacute;nerg&eacute;tique et une fiabilit&eacute; exemplaires.</span></p>\n\n<p><span style=\"font-size:22px\">❄️ Le refroidissement est confi&eacute; au <strong>Watercooling MSI MAG CORELIQUID A13 360 RGB</strong>, maintenant des temp&eacute;ratures optimales m&ecirc;me en pleine session gaming. Le tout est int&eacute;gr&eacute; dans le <strong>bo&icirc;tier MSI MAG PANO M100R PZ - BLACK</strong>, combinant airflow optimis&eacute; et design gaming premium.</span></p>\n\n<p><span style=\"font-size:22px\">💰 <strong>Frais d&#39;installation de Windows : 30 DT</strong></span></p>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\">✅ <strong>Processeur :</strong> AMD Ryzen 7 7800X3D (4.2 GHz / 5.0 GHz)<br />\n✅ <strong>Carte Graphique :</strong>&nbsp;GIGABYTE GeForce RTX 5070 Ti WINDFORCE SFF 16Gb</span><br />\n<span style=\"font-size:22px\">✅ <strong>Carte M&egrave;re :</strong> MSI B650M PROJECT ZERO<br />\n✅ <strong>RAM :</strong> G.Skill Ripjaws M5 RGB 48Gb (2x24GB) 5200MHz Intel/AMD - BLACK<br />\n✅ <strong>Stockage :</strong> Disque Dur Interne MSI SPATIUM M560 1To SSD PCIe 5.0 NVMe M.2<br />\n✅ <strong>Alimentation :</strong> MSI MPG A850GS PCIE5 80+ Gold<br />\n✅ <strong>Bo&icirc;tier :</strong> MSI MAG PANO M100R PZ - BLACK<br />\n✅ <strong>Watercooling :</strong> MSI MAG CORELIQUID A13 360 RGB - Black</span><br />\n<span style=\"font-size:22px\"><span style=\"color:#800080\">Frais d&#39;installation de Windows : 30 DT</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": " AMD Ryzen 7 7800X3D",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b382"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "5.00 GHz",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b383"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RTX 5070 Ti",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b384"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "B650M-P",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b385"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "32 GB",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b386"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "1 TB",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b387"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "850W 80+ Gold",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b388"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "DeepCool CG580",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b389"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415"
+  ],
+  "lien": "PC-Gamer-Wave-1-Ryzen-7-7800X3D-RTX-5070-Ti-32GB-RAM-1TB-NVMe",
+  "gallerie": {
+    "_id": "664f5766dbc8064136ad940e",
+    "titre": "MSI MAG PANO M100R PZ NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1718808335563.webp",
+      "/uploads/gallerie/1718808335578.webp",
+      "/uploads/gallerie/1718808335582.webp",
+      "/uploads/gallerie/1718808341921.webp",
+      "/uploads/gallerie/1718808341923.webp",
+      "/uploads/gallerie/1718808341924.webp",
+      "/uploads/gallerie/1718808345577.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345578.webp",
+      "/uploads/gallerie/1718808345579.webp",
+      "/uploads/gallerie/1718808345582.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-06-19T14:45:45.707Z",
+    "create_date": "2024-05-23T14:49:10.000Z",
+    "__v": 5
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2176,
+  "price": 7659,
+  "tagsSearch": [
+    "PC Gamer",
+    "Gaming Setup",
+    "5080",
+    "tunisie",
+    "gamer",
+    "master race",
+    "4k gaming",
+    "streaming",
+    "esports",
+    "rgb setup",
+    "pro gamer",
+    "hardware",
+    "high end",
+    "build",
+    "cybertek",
+    "PREBUILD",
+    "CONFIG PC AMD",
+    "Ryzen 7 7800X3D"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2025-03-12T08:50:50.922Z",
+  "update_date": "2025-10-24T12:33:23.445Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

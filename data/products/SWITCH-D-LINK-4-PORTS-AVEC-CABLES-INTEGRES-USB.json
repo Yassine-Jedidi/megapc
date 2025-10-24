@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750851342539.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750851342539.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANElEQVQImWP4jwQYTl+8tO3o8eXLli6Yv4Chp28CAwu7lqa6q4srw6cPHx7du/fr1y+gMgC9liLOBu2fRgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "68597d6a99437548fd87c316",
+  "sku": "DKVM-4U-MT",
+  "mpn": "DKVM-4U-MT",
+  "titleSeo": "Switch D-LINK 4 ports avec câbles intégrés USB | MEGA PC | MEILLEUR PRIX TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "46",
+  "priceValidUntil": "2028-06-23",
+  "referenceInterne": "DKVM-4U-MT",
+  "title": "Switch D-LINK 4 ports avec câbles intégrés USB",
+  "title_fr": "Switch D-LINK 4 ports avec câbles intégrés USB",
+  "description_fr": "<div style=\"font-size:22px\">\n<p><span style=\"color:#000000\">Switch D-Link -<strong> </strong>Permet de contr&ocirc;ler jusqu&#39;&agrave; 4 PCs avec un seul moniteur, clavier et souris - LED d&#39;indication :<strong> 4 LED</strong> pour indiquer quel PC est actif - Connecteurs :<strong>4 x connecteurs vid&eacute;o DB-15 HDDB, 4 x connecteurs USB 2.0 Type B - 1 x connecteur vid&eacute;o DB-15 HDDB (pour moniteur) ,1 x connecteur USB Type A (pour clavier) ,1 x connecteur USB (pour souris) </strong>- R&eacute;solution vid&eacute;o support&eacute;e :<strong> Jusqu&#39;&agrave; 2048 x 1536 &agrave; 75Hz (bande passante jusqu&#39;&agrave; 400MHz) </strong>- S&eacute;lection des PC : Via bouton poussoir ou touches de raccourci (hot keys) .</span><br />\n&nbsp;</p>\n</div>\n",
+  "miniDescription": "<div style=\"font-size:22px\">\n<p>&nbsp;</p>\n</div>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\"><span style=\"color:#000000\">Switch D-Link -<strong> </strong>Permet de contr&ocirc;ler jusqu&#39;&agrave; 4 PCs avec un seul moniteur, clavier et souris - LED d&#39;indication :<strong> 4 LED</strong> pour indiquer quel PC est actif - Connecteurs :<strong>4 x connecteurs vid&eacute;o DB-15 HDDB, 4 x connecteurs USB 2.0 Type B - 1 x connecteur vid&eacute;o DB-15 HDDB (pour moniteur) ,1 x connecteur USB Type A (pour clavier) ,1 x connecteur USB (pour souris) </strong>- R&eacute;solution vid&eacute;o support&eacute;e :<strong> Jusqu&#39;&agrave; 2048 x 1536 &agrave; 75Hz (bande passante jusqu&#39;&agrave; 400MHz) </strong>- S&eacute;lection des PC : Via bouton poussoir ou touches de raccourci (hot keys) .</span></span><br />\n&nbsp;</p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "68597d18fd2984d47c666123",
+    "titre": "D-LINK",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:13:12.243Z",
+    "create_date": "2025-06-23T16:13:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "6676a6a5670b0ae15899d459",
+    "titre": "SÉCURITÉ & PROTECTION",
+    "order": 21,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:33:08.972Z",
+    "create_date": "2024-06-22T10:25:41.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1719396231511.webp",
+    "urlPhoto2": "/uploads/categorie/1720013029366.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "68597cd1fd2984d47c66611d",
+    "titre": "RESEAUX SECURITE",
+    "marge": null,
+    "tva": null,
+    "visible": true,
+    "order": 4,
+    "categorie": "6676a6a5670b0ae15899d459",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:19:53.025Z",
+    "create_date": "2025-06-23T16:12:01.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1750695588029.webp",
+    "urlPhoto2": "/uploads/souscateg/1750695592930.webp"
+  },
+  "qte": 99,
+  "attributes": [
+    {
+      "cle": "gtin",
+      "valeur": "DKVM-4U",
+      "enable": true,
+      "_id": "68597d6a99437548fd87c317"
+    },
+    {
+      "cle": "Marque",
+      "valeur": "DLINK",
+      "enable": true,
+      "_id": "68597d6a99437548fd87c318"
+    },
+    {
+      "cle": "Nombre de Ports",
+      "valeur": "4 Ports",
+      "enable": true,
+      "_id": "68597d6a99437548fd87c319"
+    },
+    {
+      "cle": "Administrable",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "68597d6a99437548fd87c31a"
+    },
+    {
+      "cle": "Gigabit",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "68597d6a99437548fd87c31b"
+    },
+    {
+      "cle": "Compatibilité POE",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "68597d6a99437548fd87c31c"
+    },
+    {
+      "cle": "Poids",
+      "valeur": "275g",
+      "enable": true,
+      "_id": "68597d6a99437548fd87c31d"
+    },
+    {
+      "cle": "Dimensions",
+      "valeur": "178 x 105 x 30.5 mm",
+      "enable": true,
+      "_id": "68597d6a99437548fd87c31e"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "68597cd1fd2984d47c66611d"
+  ],
+  "lien": "SWITCH-D-LINK-4-PORTS-AVEC-CABLES-INTEGRES-USB",
+  "gallerie": {
+    "_id": "685bdf04fd2984d47c79f542",
+    "titre": "SWITCH D-LINK 4 PORTS AVEC CÂBLES INTÉGRÉS USB",
+    "urlPhoto": [
+      "/uploads/gallerie/1750851342539.jpg"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-25T11:35:42.638Z",
+    "create_date": "2025-06-25T11:35:32.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 60,
+  "price": 195,
+  "tagsSearch": [],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2025-06-23T16:14:34.053Z",
+  "update_date": "2025-10-22T17:23:11.174Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

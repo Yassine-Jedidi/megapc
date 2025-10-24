@@ -1,0 +1,178 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683278902428.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683278902428.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP4////hg0benq6//37x/D//38vLy8GBoYPHz6COFGhMYpyql++fAFxaiobnOzc///7BwBZjx/TOigp7QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683278902429.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683278902429.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APz8/O7u7vf39////wBpZm0aGB0/QECrq60A0M7UXV1iAAMALTAwAP////r5+srIyvDw8DyxHyKKA5gnAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683278902430.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683278902430.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYTh0/ERsZb2JsWVtbx1BTUi7BLcrMwG5jacOArAwAV2kfySAIraoAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683278902430.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1683278902430.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYTh0/ERsZb2JsWVtbx1BTUi7BLcrMwG5jacOArAwAV2kfySAIraoAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "6454cd658dd3d4fb53dd91d8",
+  "sku": "GM-5010",
+  "mpn": "736373269361",
+  "titleSeo": "SOURIS GAMER : WHITE SHARK WARLOCK GM-5010 - NOIR | MEGA PC ",
+  "desciprtionSeo": "SOURIS GAMER : WHITE SHARK WARLOCK GM-5010 - NOIR | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08 ",
+  "referenceInterne": "GM-5010",
+  "title": "WHITE SHARK WARLOCK GM-5010 - NOIR",
+  "title_fr": "WHITE SHARK WARLOCK GM-5010 - NOIR",
+  "description_fr": "<h2>WHITE SHARK WARLOCK GM-5010 - NOIR</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Souris&nbsp;Gamer White Shark&nbsp;WARLOCK GM-5010 -&nbsp;Interface&nbsp;USB 2.0&nbsp;- Type de capteur&nbsp;Optique - Chipset&nbsp;SUNPLUS 199&nbsp;-&nbsp;R&eacute;solution&nbsp;6400 Dpi&nbsp;- Type de souris Gaming&nbsp;7D&nbsp;7&nbsp;boutons&nbsp;- &Eacute;clairage&nbsp;RGB&nbsp;16.8 millions de couleurs -&nbsp;Mat&eacute;riel&nbsp;Plastique&nbsp;-&nbsp;Longueur du c&acirc;ble&nbsp;1.8 m&nbsp;tress&eacute; - Dimensions&nbsp;122 x 67 x 36 mm -&nbsp;Poids 125 g - Couleur Noir</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1683278996556.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Type : 7D - 7 boutons</span></li>\n\t<li><span style=\"font-size:22px\">Acc&eacute;l&eacute;ration : 12 G</span></li>\n\t<li><span style=\"font-size:22px\">Logiciel : Oui</span></li>\n\t<li><span style=\"font-size:22px\">Couleur : Noir</span></li>\n\t<li><span style=\"font-size:22px\">Longueur de c&acirc;ble (m) : 1,8</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions (mm) : 122x67x36</span></li>\n\t<li><span style=\"font-size:22px\">Type de capteur : Optique</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;solution (ppp): 6400</span></li>\n\t<li><span style=\"font-size:22px\">Taux d&#39;interrogation (Hz): 125</span></li>\n\t<li><span style=\"font-size:22px\">Poids (g): 125</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5f886a2f3a4d1b058a8fc012",
+    "titre": "WHITE SHARK",
+    "description": "WHITE SHARK",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327730130.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-10-15T15:26:39.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233bfa4815052c4d1a423",
+    "titre": "SOURIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206287980.webp",
+    "order": 1,
+    "descriptionSEO": "<p>Souris Pc gamer Tunisie&nbsp;optique Sans fil -&nbsp;Achat Souris Ordinateur bureau, souris Pc portable gaming RGB - Aorus, Razer, Logitech, Corsair, Steelseries</p>",
+    "titreSEO": "Souris PC gamer | sans fil pour ordinateur Pc portable | Mega PC",
+    "create_date": "2020-04-24T00:33:03.000Z",
+    "reference": "SOURIS",
+    "update_date": "2021-12-04T08:54:08.545Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "CAPTEUR",
+      "valeur": "OPTIQUE",
+      "enable": true,
+      "_id": "61698efe74a6dc8ab60c288a"
+    },
+    {
+      "cle": "RÉSOLUTION OPTIQUE",
+      "valeur": "6400 DPI",
+      "enable": true,
+      "_id": "61698efe74a6dc8ab60c288b"
+    },
+    {
+      "cle": "NOMBRE DE BOUTONS",
+      "valeur": "7",
+      "enable": true,
+      "_id": "645381838dd3d4fb53c3574f"
+    },
+    {
+      "cle": "TYPE D'ALIMENTATION",
+      "valeur": "USB",
+      "enable": true,
+      "_id": "645381838dd3d4fb53c35750"
+    },
+    {
+      "cle": "RÉTROÉCLAIRAGE RGB",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "645381b08dd3d4fb53c35762"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea233bfa4815052c4d1a423"
+  ],
+  "lien": "WHITE-SHARK-WARLOCK-GM-5010-NOIR",
+  "gallerie": {
+    "_id": "6454cbfb8dd3d4fb53dd914c",
+    "titre": "WHITE SHARK WARLOCK GM-5010 - NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1683278902428.webp",
+      "/uploads/gallerie/1683278902429.webp",
+      "/uploads/gallerie/1683278902430.webp",
+      "/uploads/gallerie/1683278902430.webp"
+    ],
+    "update_date": "2023-05-05T09:28:22.544Z",
+    "create_date": "2023-05-05T09:27:23.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 4261,
+  "price": 29,
+  "tagsSearch": [
+    "WHITE SHARK",
+    "ACCESSOIRES",
+    "SOURIS"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2023-05-05T09:33:25.783Z",
+  "update_date": "2025-10-23T09:51:47.479Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,210 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1605715226011.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1605715226011.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APz6+rmfpMK+v/7//wDRzM2xm5+jo6O6uroAy8vLGhgaAQAEurq6APn5+aGgoXh3ePT09HzsIISbrRN9AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1605715226013.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1605715226013.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP4////hQsXDh069P//f4b///+3t7WnpqRDOUaGxowMLFDOpk2b5syZA+QAAMV3I+gI6wsZAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1605715226014.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1605715226014.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AO7u7omJiLu7vf///wDPz9ARBhIjChLJxcYA1NTVBwAKIxUY0MzMAPb29p6cnMG+wf///wEgHfrMU1acAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "5fb549b52ad25d0424bc02e4",
+  "sku": "GHS-1641-BLACK",
+  "mpn": "0616320534141",
+  "titleSeo": "WHITE SHARK GHS-1641 PANTHER Noir Tunisie | Mega pc ",
+  "desciprtionSeo": "WHITE SHARK GHS-1641 PANTHER Noir Tunisie | Mega pc ",
+  "ratingValue": "4",
+  "reviewCount": "41",
+  "priceValidUntil": "2022-08-09",
+  "title": "WHITE SHARK GH-1641 PANTHER Noir",
+  "title_fr": "WHITE SHARK GH-1641 PANTHER Noir",
+  "description": "",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>Micro casque Gamer WHITE SHARK GHS-1641 PANTHER Noir</h2>\n\n<hr />\n<p><span style=\"font-size:18px\">Micro <a href=\"https://megapc.tn/shop/ACCESSOIRES/CASQUE\" target=\"_blank\">casque</a> Gamer <a href=\"https://megapc.tn/shop/ACCESSOIRES/CASQUE?brand=WHITE%20SHARK\" target=\"_blank\">WHITE SHARK</a>&nbsp; - Style de casque: Gaming Headset - Taille du pilote (mm): 50 -R&eacute;ponse en fr&eacute;quence: 20Hz - 20kHz -Imp&eacute;dance (&Omega;): 32 -Sensibilit&eacute;: 105 dB &plusmn; 3dB -Dimensions du microphone: 6mm x 5mm -Directivit&eacute;: Omnidirectionnelle -Imp&eacute;dance du microphone (&Omega;): 2200 -Sensibilit&eacute; du microphone: -62 dB &plusmn; 3dB-&nbsp;Interface: 3,5 mm-&nbsp;Longueur du c&acirc;ble (cm): 220 - Mat&eacute;riel: Plastique / Faux cuir -Couleur: Noir / Rouge.</span></p>\n\n<hr />\n<p><img alt=\"casque WHITE SHARK GHS-1641 PANTHER prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1642678705365.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li>MARQUE : WHITE SHARK</li>\n\t<li>MOD&Egrave;LE : GHS-1641-BLACK</li>\n\t<li>TYPE DE MICRO/CASQUE : MICRO-CASQUE</li>\n\t<li>COUPLAGE AURICULAIRE : CIRCUMAURAL</li>\n\t<li>SURROUND : NON</li>\n\t<li>COMPATIBILIT&Eacute; : PC</li>\n\t<li>FR&Eacute;QUENCE MINI : 20 HZ</li>\n\t<li>FR&Eacute;QUENCE MAXI : 20 KHZ</li>\n\t<li>IMP&Eacute;DANCE : 32 OHM</li>\n\t<li>MICRO AMOVIBLE : OUI</li>\n\t<li>LONGUEUR DU C&Acirc;BLE : 2.2 M</li>\n\t<li>CONTR&Ocirc;LE DU VOLUME : OUI</li>\n\t<li>COULEUR : NOIR</li>\n\t<li>LED RGB : NON</li>\n</ul>\n",
+  "facilite_fr": "<p><img src=\"https://apibackend.mega-pc.net///uploads/gallerie/1647998183195.png\" /></p>\n",
+  "notreSelection": false,
+  "marque": {
+    "_id": "5f886a2f3a4d1b058a8fc012",
+    "titre": "WHITE SHARK",
+    "description": "WHITE SHARK",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327730130.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-10-15T15:26:39.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23366a4815052c4d1a420",
+    "titre": "CASQUE",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206307664.webp",
+    "order": 3,
+    "descriptionSEO": "<p>Micro Casque Gamer à prix pas cher en Tunisie. Casque microphone gaming Pc, Ps4, XBOX.&nbsp;Casque micro sans fil professionnel USB, Logitech, Msi, Razer</p>",
+    "titreSEO": "Micro Casque Gamer à prix pas cher en Tunisie | casque microphone",
+    "create_date": "2020-04-24T00:31:34.000Z",
+    "reference": "CASQUE",
+    "update_date": "2021-12-04T08:54:24.050Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "SURROUND",
+      "valeur": "NON",
+      "enable": false,
+      "_id": "610aa14527499ec15bb96694"
+    },
+    {
+      "cle": "COMPATIBILITÉ",
+      "valeur": "PC",
+      "enable": true,
+      "_id": "610aa14527499ec15bb96695"
+    },
+    {
+      "cle": "FRÉQUENCE",
+      "valeur": "20 KHz",
+      "enable": false,
+      "_id": "610aa14527499ec15bb96697"
+    },
+    {
+      "cle": "IMPÉDANCE",
+      "valeur": "32 OHM",
+      "enable": false,
+      "_id": "610aa14527499ec15bb96698"
+    },
+    {
+      "cle": "MICRO AMOVIBLE",
+      "valeur": "OUI",
+      "enable": false,
+      "_id": "610aa14527499ec15bb9669a"
+    },
+    {
+      "cle": "LONGUEUR DU CÂBLE",
+      "valeur": "2.2 M",
+      "enable": true,
+      "_id": "610aa14527499ec15bb9669b"
+    },
+    {
+      "cle": "SANS-FIL",
+      "valeur": "NON",
+      "enable": true,
+      "_id": "610aa14527499ec15bb9669d"
+    },
+    {
+      "cle": "COULEUR",
+      "valeur": "NOIR",
+      "enable": true,
+      "_id": "610aa14527499ec15bb9669f"
+    },
+    {
+      "cle": "LED RGB",
+      "valeur": "NON",
+      "enable": true,
+      "_id": "610aa14527499ec15bb966a0"
+    }
+  ],
+  "tag": [],
+  "compatibility": [
+    "5fd23ff26c4a9703cc6cbe32",
+    "606b2a924768718d96bad435",
+    "60ef09993ad8ba4cd25836a4",
+    "60d73390c9da412168710c39",
+    "5f886a533a4d1b058a8fc013",
+    "60ab90abbf2002152c8c2def"
+  ],
+  "nFilsCategs": [
+    "5ea23366a4815052c4d1a420",
+    "6230cab36010f19d11dbea23"
+  ],
+  "lien": "WHITE-SHARK-GHS-1641-PANTHER-Noir",
+  "gallerie": {
+    "_id": "5fb545102ad25d0424bc02d3",
+    "urlPhoto": [
+      "/uploads/gallerie/webp/1605715226011.webp",
+      "/uploads/gallerie/webp/1605715226013.webp",
+      "/uploads/gallerie/webp/1605715226014.webp"
+    ],
+    "titre": "WHITE SHARK GHS-1641 PANTHER NOIR",
+    "__v": 1,
+    "create_date": "2020-11-18T16:00:16.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": false,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 4406,
+  "price": 50,
+  "sale": false,
+  "tagsSearch": [
+    "GH-1641",
+    "PANTHER",
+    "White Shark",
+    "WHITE SHARK",
+    "ACCESSOIRES",
+    "CASQUE",
+    "FOIRE"
+  ],
+  "discount": null,
+  "stock": 1,
+  "prixEnPromo": null,
+  "displayForPublic": false,
+  "create_date": "2020-11-18T16:20:05.676Z",
+  "update_date": "2025-10-24T01:54:57.473Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

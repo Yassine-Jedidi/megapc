@@ -1,0 +1,151 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231756755.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231756755.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMjQy97h4f38/9rg3gANNyE2SEItLDRHXlMAFT0mAAkANjQ7o6qnAKy8scDHwv/////+/6cTGrPF/SACAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231768459.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231768459.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP4////37//IYBhzrzFjEJKpY19Fy7fYHj1+o2RmQMDk/iSlRsZ/v////v373dv3wGVAQCbQSM2lw0huwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231768460.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231768460.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP49+/ffxhg2LZjb1hC7ppN2x4/fsbw8+ev3okzGRhF27qnMEAUvHr99vefPwDyNCYN/zM4/AAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231768461.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231768461.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////7+/vv7+////wDa2tpkZWgKDxh/gIMAra2wAAAQQkZLy8zNAP///+zs7fj4+P///4UXIlBYw8nAAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231773305.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1644231773305.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///+jp6e3t7f///wDk5OXp6epnaGptb3EA6OfoAAAEdHV3ycrLAP///729va+xtv///9WZJCvd7idOAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6200fa159ab354172fa2d1df",
+  "sku": "88884113",
+  "mpn": "88884113",
+  "titleSeo": "inter Tech Argus hg-25620 rack pour disque dur HDD 2.5\" ",
+  "desciprtionSeo": "inter Tech Argus hg-25620 rack pour disque dur HDD 2.5\" | MEGA PC",
+  "ratingValue": "26",
+  "reviewCount": "20",
+  "priceValidUntil": "2022-08-08",
+  "referenceInterne": "GD-25620",
+  "title": "Argus HD-25620 2.5\" (Rack pour disque Dur)",
+  "title_fr": "Argus HD-25620 2.5\" (Rack pour disque Dur)",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>HDD Interface :</strong> 1x 2.5&quot; S-ATA I, II, III</span></li>\n\t<li><span style=\"font-size:22px\"><strong>HDD capacity :</strong> max. 6TB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>HDD height :</strong> max. 9.5mm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Host Connector :</strong> USB 3.0</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Max. Data Transfer Rate :</strong> 5Gbit/s</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Dimension (h/w/d) :</strong> 13 x 78 x 120 mm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Retro cassette design</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>tool-free assembly</strong></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ec157a94a2e400482a01399",
+    "titre": "INTER-TECH",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326978980.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-17T15:26:33.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5f5fc86dc0300232c01fb0ec",
+    "titre": "DISQUE-HDD",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205919916.webp",
+    "order": 8,
+    "descriptionSEO": "<p>Disque dur HDD Tunisie | Disque dur interne Western Digital, Seagate Technology, Toshiba, Sauvegardez vos données grâce à nos disques durs internes.</p>",
+    "titreSEO": "Disque dur HDD Tunisie | Disque Dur Interne pc gamer - Mega pc",
+    "create_date": "2020-09-14T19:45:49.000Z",
+    "reference": "HDD",
+    "update_date": "2021-12-16T10:58:30.220Z",
+    "visible": false,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f5fc86dc0300232c01fb0ec"
+  ],
+  "lien": "Argus-HD-25620",
+  "gallerie": {
+    "_id": "6200fc359ab354172fa323fc",
+    "titre": "ARGUS HD-25620 2.5\" (RACK POUR DISQUE DUR)",
+    "urlPhoto": [
+      "/uploads/gallerie/1644231756755.webp",
+      "/uploads/gallerie/1644231768459.webp",
+      "/uploads/gallerie/1644231768460.webp",
+      "/uploads/gallerie/1644231768461.webp",
+      "/uploads/gallerie/1644231773305.webp"
+    ],
+    "update_date": "2022-02-07T11:02:53.447Z",
+    "create_date": "2022-02-07T11:02:13.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 5240,
+  "price": 25,
+  "tagsSearch": [
+    "INTER-TECH",
+    "ACCESSOIRES",
+    "DISQUE-HDD"
+  ],
+  "stock": 9,
+  "displayForPublic": true,
+  "create_date": "2022-02-07T10:53:09.844Z",
+  "update_date": "2025-10-23T21:06:14.256Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

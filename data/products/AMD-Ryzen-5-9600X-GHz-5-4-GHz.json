@@ -1,0 +1,202 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723463632672.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1723463632672.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVQImQE0AMv/AP///LOxrXp4d9ra2gDX0s1RRTUNAACrqKMAvbm3OCcXHwQAo6OgAO3t7q2jna+imOLj4+X2HDkyL86YAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "66b9f84e7cfb23ff3ccd3465",
+  "sku": "9600X",
+  "mpn": "100-100001405WOF",
+  "titleSeo": "AMD Ryzen 5 9600X (3.9 GHz / 5.4 GHz) | MEGA TUNISIE",
+  "desciprtionSeo": "AMD Ryzen 5 9600X (3.9 GHz / 5.4 GHz) | MEGA TUNISIE",
+  "ratingValue": "4.8",
+  "reviewCount": "91",
+  "priceValidUntil": "2026-09-08 ",
+  "referenceInterne": "9600X",
+  "title": "AMD Ryzen 5 9600X (3.9 GHz / 5.4 GHz) BOX",
+  "title_fr": "AMD Ryzen 5 9600X (3.9 GHz / 5.4 GHz) BOX",
+  "description_fr": "<h2>AMD Ryzen 5 9600X (3.9 GHz / 5.4 GHz)</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le <strong>AMD Ryzen&nbsp;5 9600X</strong> est un processeur de bureau de la s&eacute;rie Ryzen 9000, bas&eacute; sur l&#39;architecture Zen 5 avec un ancien nom de code Granite Ridge AM5. Il dispose de 6 c&oelig;urs, 12 threads, et une fr&eacute;quence boost maximale de 5,4 GHz. Il est con&ccedil;u pour les passionn&eacute;s, avec un TDP de 65 W et supporte l&#39;overclocking (d&eacute;bloqu&eacute;). Ce processeur utilise la prise AM5 et est compatible avec les chipsets A620, X670E, X670, B650E, B650, X870E, X870. Il n&eacute;cessite un refroidisseur d&#39;air haut de gamme pour des performances optimales.</span></p>\n\n<p><img alt=\"AMD RYZEN 7 9700X | TUNISIE\" src=\"https://www.lttlabs.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fucz66fbi61yq%2F1N4Kay7NwnljBbwz126yZ1%2F73921cccbe1988b022c0b514fd96bebe%2FRyzen_9000_4.png&amp;w=3840&amp;q=75\" /></p>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\"><strong>Processeur</strong>: AMD Ryzen&nbsp;5 9600X<br />\n<strong>Architecture&nbsp;</strong>: Zen 5<br />\n<strong>C&oelig;urs/Threads&nbsp;</strong>: 6 c&oelig;urs, 12 threads<br />\n<strong>Horloge de base&nbsp;</strong>: 3,9 GHz<br />\n<strong>Horloge Boost max.</strong>: Jusqu&#39;&agrave; 5,4 GHz<br />\n<strong>Cache</strong>: L1 - 480 Ko, L2 - 6 Mo, L3 - 32 Mo<br />\n<strong>TDP</strong>: 65 W<br />\n<strong>Socket</strong>: AM5<br />\n<strong>Chipsets compatibles</strong>: A620, X670E, X670, B650E, B650, X870E, X870</span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb192424a2e400482a012cd",
+    "titre": "AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326818201.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:20:18.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.90 GHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a00"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "5.40 GHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a01"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "6",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a02"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "12",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a03"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "5 MB",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a04"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "12 MB",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a05"
+    },
+    {
+      "cle": "Cache L1",
+      "valeur": "384 Ko",
+      "enable": true,
+      "_id": "673b1f2299de58d4f6bad4b7"
+    },
+    {
+      "cle": "Puissance de base du processeur",
+      "valeur": "65 W",
+      "enable": true,
+      "_id": "673b1f2299de58d4f6bad4b8"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "AMD AM5",
+      "enable": true,
+      "_id": "673b1f2299de58d4f6bad4b9"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR4 3600 MHz",
+      "enable": true,
+      "_id": "673b1f2299de58d4f6bad4ba"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR5 5600 MHz",
+      "enable": true,
+      "_id": "673b1f2299de58d4f6bad4bb"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "AMD-Ryzen-5-9600X-GHz-5-4-GHz",
+  "gallerie": {
+    "_id": "66b9f7937cfb23ff3ccd3447",
+    "titre": "AMD RYZEN 5 9600X (3.9 GHZ / 5.4 GHZ)",
+    "urlPhoto": [
+      "/uploads/gallerie/1723463632672.jpg"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-08-12T11:53:52.801Z",
+    "create_date": "2024-08-12T11:52:51.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 4295,
+  "price": 865,
+  "tagsSearch": [
+    "AMD",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "F090252"
+  ],
+  "discount": null,
+  "stock": 10,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2024-08-12T11:55:58.421Z",
+  "update_date": "2025-10-24T11:49:29.211Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

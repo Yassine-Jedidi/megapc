@@ -1,0 +1,177 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091571885.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091571885.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAASElEQVQImSXIsQmAQAxA0TSREwIpLw6QWc4pxCsVJxB0bxu/ha98ojrQ5kZmUsaCRAQvD9d9UmtFRITt2Fn6irv/YWbEFKgqH3qRGV754bZCAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091574058.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091574058.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AP7/+P5NTkv+JScn/gAABP4AOjs6/k9QTP9NTkv/SEtL/wBeYV3+U1VS/01QUP7ay77+AE5QTv42Njb/pKKa/uDb0v9ZGyL47uWj5AAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091578889.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091578889.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AG9wbP78//v+XV9d/gAAAP4AoaWf/pOUj/8SEhH/HR0c/wA8Ozn+OTs5/zM0Mv4jJCH+ABobGv5PUEz/i4uI/mhpZv9tih/Uqjq3NgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091581266.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091581266.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAS0lEQVQImWNw9/D49/v/73/1jXX/BAUF/zE0t7T8a2lr+j9nwbz/VtbW/xmmTJvyT15R/n9zWytERXpG+j9RUZH/ru5u/xgYGP4DANGqISnwcnPZAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091584911.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091584911.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///5ycn2NiZZGRlAD///+CgYUREBQAAAUAm5ubPDw/IyQmRkVIAIuKiQUDBi0tL39/gHWTE++h6rnFAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091587412.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091587412.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP39/by8vaKio////wDj4+OGh4kCAASZmZoA1NTVTExQHh0hvb2+ANfX1y0sLl1dX/b29jeSHSJiXbN7AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091590178.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091590178.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImR3BsQ3AIAwEwGcWGIuMBK1L2MsjuP9AYX2k3EESyXuOJERE70+tba0Nd59jFMDMoN9LZuYHq8kjt9CZU88AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091592618.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746091592618.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYyitqQkMjJaXkYuKSGKJj4o2MTBkY2b19/BiQlQEAIiAeYIvg2nIAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "6800c4b20bcba347f9e04764",
+  "sku": "90MB1J20-M0EAY0",
+  "mpn": "90MB1J20-M0EAY0",
+  "titleSeo": "Carte Mère ASUS PRIME B840M-A WIFI – Micro-ATX, Socket AM5, DDR5, Wi-Fi 6E, PCIe 4.0 | MEGA PC | PC GAMER TUNISIE ",
+  "desciprtionSeo": "Découvrez la carte mère ASUS PRIME B840M-A WIFI, idéale pour les PC de nouvelle génération. Compatible avec les processeurs AMD Ryzen™ 9000/8000/7000, elle prend en charge jusqu'à 256 Go de mémoire DDR5 à 7600+ MHz, offre une connectivité ultra-rapide avec le Wi-Fi 6E, Ethernet 2.5Gb et trois ports M.2 PCIe. Parfaite pour les créateurs, gamers ou utilisateurs professionnels à la recherche de performance, stabilité et connectivité avancée dans un format micro-ATX compact. | MEGA PC | PC GAMER TUNISIE ",
+  "ratingValue": "4.7",
+  "reviewCount": "55",
+  "priceValidUntil": "2027-07-09",
+  "referenceInterne": "90MB1J20-M0EAY0",
+  "title": "ASUS PRIME B840M-A WIFI",
+  "title_fr": "ASUS PRIME B840M-A WIFI",
+  "description_fr": "<h2><span style=\"font-size:22px\">💻 Nouvelle g&eacute;n&eacute;ration de performance : D&eacute;couvrez la carte m&egrave;re <strong>ASUS PRIME B840M-A WIFI</strong></span></h2>\n\n<p><span style=\"font-size:22px\">Avec l&rsquo;arriv&eacute;e des processeurs <strong>AMD Ryzen&trade; s&eacute;rie 9000</strong>, la carte m&egrave;re <strong>ASUS PRIME B840M-A WIFI</strong> s&rsquo;impose comme une solution incontournable pour les passionn&eacute;s d&rsquo;informatique &agrave; la recherche de performances, de fiabilit&eacute; et de connectivit&eacute; de pointe. Con&ccedil;ue sur le chipset <strong>AMD B840</strong>, cette carte micro-ATX compacte concentre puissance et fonctionnalit&eacute;s avanc&eacute;es dans un format accessible &agrave; tous.</span></p>\n\n<h3><span style=\"font-size:22px\">🔧 Compatibilit&eacute; Processeur &amp; Chipset de derni&egrave;re g&eacute;n&eacute;ration</span></h3>\n\n<p><span style=\"font-size:22px\">Cette carte m&egrave;re est compatible avec les processeurs <strong>AMD Ryzen&trade; des s&eacute;ries 9000, 8000 et 7000</strong> sur socket <strong>AM5</strong>, offrant ainsi une base id&eacute;ale pour les plateformes de nouvelle g&eacute;n&eacute;ration. Que vous montiez une machine gaming, multim&eacute;dia ou d&eacute;di&eacute;e &agrave; la productivit&eacute;, cette carte est pr&ecirc;te &agrave; accueillir les processeurs les plus puissants d&#39;AMD.</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🧠 M&eacute;moire DDR5 jusqu&rsquo;&agrave; 7600+ MT/s (OC)</span></h3>\n\n<p><span style=\"font-size:22px\">L&rsquo;ASUS PRIME B840M-A WIFI prend en charge jusqu&rsquo;&agrave; <strong>256 Go de m&eacute;moire DDR5</strong> sur <strong>4 emplacements DIMM</strong>, avec des fr&eacute;quences atteignant <strong>7600+ MT/s en overclocking</strong>. Gr&acirc;ce aux profils <strong>AMD EXPO&trade;</strong> et <strong>AEMP d&rsquo;ASUS</strong>, l&rsquo;optimisation des performances m&eacute;moire devient un jeu d&rsquo;enfant, tout en assurant la compatibilit&eacute; avec les modules ECC et non-ECC (non bufferis&eacute;s).</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🎮 Connectivit&eacute; graphique avanc&eacute;e</span></h3>\n\n<p><span style=\"font-size:22px\">Dot&eacute;e de <strong>2 ports DisplayPort</strong> (jusqu&rsquo;&agrave; <strong>8K@30Hz</strong>) et d&rsquo;un port <strong>HDMI 2.1</strong> (jusqu&rsquo;&agrave; <strong>4K@60Hz</strong>), cette carte m&egrave;re permet une gestion efficace du multi-affichage et offre une solution graphique embarqu&eacute;e si votre processeur le permet. Id&eacute;al pour les configurations de bureautique ou de cr&eacute;ation multim&eacute;dia.</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">⚙️ Extension &amp; Stockage : &agrave; la hauteur des exigences modernes</span></h3>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>3 emplacements M.2</strong> (PCIe 4.0 et 3.0) pour SSD ultra-rapides</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>4 ports SATA 6Gb/s</strong> pour le stockage traditionnel</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">Prise en charge du <strong>RAID 0/1/5/10</strong> selon la s&eacute;rie Ryzen utilis&eacute;e</span></p>\n\t</li>\n</ul>\n\n<p><span style=\"font-size:22px\">Pour les gamers, cr&eacute;ateurs ou professionnels, le stockage n&rsquo;aura jamais &eacute;t&eacute; aussi flexible et rapide.</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🌐 Connectivit&eacute; r&eacute;seau &amp; sans fil</span></h3>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>Wi-Fi 6E (2x2)</strong> avec support 2.4/5/6GHz</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>Bluetooth 5.3</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>Port Ethernet 2.5 Gb Realtek</strong> avec <strong>ASUS LANGuard</strong> pour une connexion stable et prot&eacute;g&eacute;e</span></p>\n\t</li>\n</ul>\n\n<p><span style=\"font-size:22px\">Avec une telle connectivit&eacute;, vous &ecirc;tes pr&ecirc;t pour le streaming, les jeux en ligne, ou les transferts de donn&eacute;es lourdes sans interruption.</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🔌 USB &agrave; profusion</span></h3>\n\n<p><span style=\"font-size:22px\">Entre l&rsquo;arri&egrave;re et l&rsquo;avant, cette carte propose jusqu&rsquo;&agrave; <strong>14 ports USB</strong>, dont :</span></p>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>3 ports USB 10Gbps</strong> (Type-A et Type-C)</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>3 ports USB 5Gbps</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>8 ports USB 2.0</strong></span></p>\n\t</li>\n</ul>\n\n<p><span style=\"font-size:22px\">De quoi connecter tous vos p&eacute;riph&eacute;riques sans compromis !</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🎧 Son immersif 7.1 &amp; conception audio haut de gamme</span></h3>\n\n<p><span style=\"font-size:22px\">Le codec audio <strong>Realtek HD 7.1</strong> est &eacute;paul&eacute; par des <strong>condensateurs premium</strong>, une isolation des signaux et une conception en couches s&eacute;par&eacute;es pour une clart&eacute; sonore optimale. Que vous soyez audiophile ou streamer, cette carte garantit une exp&eacute;rience sonore sans distorsion.</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🔒 Fiabilit&eacute; &amp; s&eacute;curit&eacute; ASUS 5X PROTECTION III</span></h3>\n\n<p><span style=\"font-size:22px\">ASUS ne n&eacute;glige pas la s&eacute;curit&eacute; et la durabilit&eacute; :</span></p>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>DIGI+ VRM</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>SafeSlot Core+</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>Protection contre les surtensions</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>Plaque arri&egrave;re en acier inoxydable</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>BIOS FlashBack&trade;</strong> pour mises &agrave; jour simplifi&eacute;es</span></p>\n\t</li>\n</ul>\n\n<hr />\n<h3><span style=\"font-size:22px\">🌈 Aura Sync &amp; gestion thermique optimis&eacute;e</span></h3>\n\n<p><span style=\"font-size:22px\">Personnalisez votre setup avec les <strong>en-t&ecirc;tes RGB Gen 2</strong> compatibles Aura Sync. C&ocirc;t&eacute; refroidissement, profitez de :</span></p>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:22px\">Radiateurs M.2 et VRM</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">5 connecteurs ventilateurs dont pompe AIO</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">Contr&ocirc;le via <strong>Fan Xpert 2+</strong> dans Armoury Crate</span></p>\n\t</li>\n</ul>\n\n<hr />\n<h3><span style=\"font-size:22px\">📦 Inclus dans la bo&icirc;te</span></h3>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:22px\">2 c&acirc;bles SATA</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">Antenne Wi-Fi Q</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">Visserie M.2</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">Guide de d&eacute;marrage rapide</span></p>\n\t</li>\n</ul>\n\n<hr />\n<h3><span style=\"font-size:22px\">📐 Format &amp; compatibilit&eacute;</span></h3>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>Format : micro-ATX</strong> (24,4 x 24,4 cm)</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">Compatible <strong>Windows 11 &amp; 10 64 bits</strong></span></p>\n\t</li>\n</ul>\n\n<hr />\n<h3><span style=\"font-size:22px\">💡 Conclusion</span></h3>\n\n<p><span style=\"font-size:22px\">La <strong>ASUS PRIME B840M-A WIFI</strong> est une carte m&egrave;re ultra-compl&egrave;te, pens&eacute;e pour ceux qui veulent tirer pleinement parti de l&rsquo;architecture AM5 sans faire de compromis sur les fonctionnalit&eacute;s modernes : DDR5, PCIe 4.0, Wi-Fi 6E, audio premium, USB rapide, et bien plus.</span></p>\n\n<p><span style=\"font-size:22px\">Parfaite pour un PC gaming compact, une station de travail ou un setup polyvalent !</span></p>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\">✅ <strong>Socket</strong> : AMD AM5 (Ryzen&trade; 9000/8000/7000)&nbsp;🔌<br />\n✅ <strong>M&eacute;moire</strong> : 4x DDR5 jusqu&rsquo;&agrave; 256 Go &mdash; Jusqu&rsquo;&agrave; 7600+ MT/s ⚡<br />\n✅ <strong>PCIe</strong> : 1x PCIe 4.0 x16 🎯 + 2x PCIe 3.0 x1<br />\n✅ <strong>Stockage</strong> : 3x M.2 ⚙️ + 4x SATA 6Gb/s<br />\n✅ <strong>Affichage</strong> : 2x DisplayPort 🖥️ + 1x HDMI 2.1<br />\n✅ <strong>Wi-Fi</strong> : Wi-Fi 6E 📡 (2.4/5/6 GHz)<br />\n✅ <strong>Audio</strong> : Realtek 7.1 HD 🎧<br />\n✅ <strong>R&eacute;seau</strong> : Ethernet 2.5Gb 🔗<br />\n✅ <strong>USB arri&egrave;re</strong> : 2x USB 10Gbps ⚡ + 1x USB-C 5Gbps + 4x USB 2.0<br />\n✅ <strong>Refroidissement</strong> : VRM + M.2 Heatsinks + 5x headers ventilo ❄️<br />\n✅ <strong>RGB</strong> : Aura Sync + 3x headers ARGB 🌈<br />\n✅ <strong>Fonctions pratiques</strong> : BIOS FlashBack&trade; 🔁, Q-Latch, Q-Antenna, Q-LED<br />\n✅ <strong>Format</strong> : micro-ATX (24.4 x 24.4 cm) 📐<br />\n✅ <strong>OS support&eacute;s</strong> : Windows 11 / 10 64-bit 🪟</span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23603a4815052c4d1a428",
+    "titre": "ASUS",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326391751.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:42:43.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "ASUS-PRIME-B840M-A-WIFI",
+  "gallerie": {
+    "_id": "68133e2ac75bcce7a2530bfe",
+    "titre": "90MB1J20-M0EAY0",
+    "urlPhoto": [
+      "/uploads/gallerie/1746091571885.webp",
+      "/uploads/gallerie/1746091574058.webp",
+      "/uploads/gallerie/1746091578889.webp",
+      "/uploads/gallerie/1746091581266.webp",
+      "/uploads/gallerie/1746091584911.webp",
+      "/uploads/gallerie/1746091587412.webp",
+      "/uploads/gallerie/1746091590178.webp",
+      "/uploads/gallerie/1746091592618.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-05-01T09:26:32.717Z",
+    "create_date": "2025-05-01T09:26:02.000Z",
+    "__v": 8
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1492,
+  "price": 599,
+  "tagsSearch": [
+    "ASUS",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "Wi-Fi 6E",
+    "micro-ATX",
+    "realap"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-04-17T09:06:58.969Z",
+  "update_date": "2025-10-23T16:26:15.713Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

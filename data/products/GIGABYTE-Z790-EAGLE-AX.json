@@ -1,0 +1,199 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724426283258.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724426283258.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////7+/u/v7/r6+gCEYU1BVVw4OTtYV1gAFhALAAQJDxIWLSksAMzP0NHLy8fGyNDOz+KCGhVpkVwrAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724426292654.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724426292654.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AO/v8GNiZXJxcuTj5ADGxccSERIZFxefn6AA6OjpIR8jAQAErq6vAP///zc1ODo4O8vKy5uSGH9RuAA0AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724426292741.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724426292741.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOjn53l5eqampv///wDW1dYRDxMTERLOzc4A4ODiJCIkAwAGyMfIAOvr6zw6O0RBRdzc3ODEGqEU79oJAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724426292766.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724426292766.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYUlKSNTS0NDU0XR2cGBydHBkYmDlYOPR19BmQlQEA6fMcNJ9Tt6AAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "66c8a8814be90f7c7ba162a3",
+  "sku": "Z790-EAGLE-AX",
+  "mpn": "Z790-EAGLE-AX",
+  "titleSeo": "Gigabyte Z790 EAGLE AX | MEGA TUNISIE",
+  "desciprtionSeo": "Gigabyte Z790 EAGLE AX ATX Socket 1700 Intel Z790 Express Motherboard - 4x DDR5 - M.2 PCIe 4.0 - USB 3.1 - PCI-Express 5.0 16x - LAN 2.5 GbE - Wi-Fi 6E/Bluetooth 5.3  | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "45",
+  "priceValidUntil": "2024-09-08 ",
+  "referenceInterne": "Z790-EAGLE-AX",
+  "title": "GIGABYTE Z790 EAGLE AX",
+  "title_fr": "GIGABYTE Z790 EAGLE AX",
+  "description_fr": "<h2>GIGABYTE Z790 EAGLE AX</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Bas&eacute;e sur le&nbsp;chipset&nbsp;<strong>Intel Z790 Express , la carte m&egrave;re&nbsp;</strong><strong>Gigabyte Z790 EAGLE AX</strong>&nbsp;servira de base &agrave; votre PC de jeu avec un processeur hautes performances et des fonctionnalit&eacute;s exclusives Gigabyte telles que Smart Fan 6. Elle prend en charge les processeurs Intel Core de 12e, 13e et 14e g&eacute;n&eacute;ration, les cartes graphiques PCI-Express 5.0 16x, les SSD PCIe 4.0 M.2, la RAM DDR5 ainsi que les p&eacute;riph&eacute;riques USB 3.0 et 3.1.</span></p>\n\n<p><img src=\"https://media.ldlc.com/bo/images/fiches/carte-mere/Gigabyte/z790/gigabyte_z790_eagle_ax.jpg\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re : ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket : Intel 1700</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;Intel Z790 Express</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 192 Go&nbsp;DDR5 7600 MHz ( 4 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 : 3</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0c"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "Intel Z790",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0d"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0e"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0f"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "4",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b10"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "192 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b11"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "48 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b12"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "7600 MHz",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b13"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "GIGABYTE-Z790-EAGLE-AX",
+  "gallerie": {
+    "_id": "66c8a8044be90f7c7ba16217",
+    "titre": "GIGABYTE Z790 EAGLE AX",
+    "urlPhoto": [
+      "/uploads/gallerie/1724426283258.webp",
+      "/uploads/gallerie/1724426292654.webp",
+      "/uploads/gallerie/1724426292741.webp",
+      "/uploads/gallerie/1724426292766.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-08-23T15:18:13.047Z",
+    "create_date": "2024-08-23T15:17:24.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1201,
+  "price": 809,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE MÈRE"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2024-08-23T15:19:29.466Z",
+  "update_date": "2025-10-24T08:49:03.778Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

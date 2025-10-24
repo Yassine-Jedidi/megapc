@@ -1,0 +1,198 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1742208561795.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1742208561795.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APT4+bvN0Jp6evDg3gCVm50qN0BDKSrEra0Am6ipAAQOPWBk3PDuAGhCRWx6en6Rkfr//+SoGzxgsfSbAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "67d81d80711a4ce5a42b0047",
+  "sku": "BX8071514900KF-30",
+  "mpn": "BX8071514900KF-30",
+  "titleSeo": "Intel Core i9-14900KF (3.2 GHz / 5.8 GHz) | MEGA PC | GIGA TECH | PROMO | TUNISIE",
+  "desciprtionSeo": "Intel Core i9-14900KF (3.2 GHz / 5.8 GHz) Processeur 24-Core (8 Performance-Cores + 16 Efficient-Cores) 32-Threads Socket 1700 Cache L3 36 Mo 0.010 micron (version boîte sans ventilateur | MEGA PC ",
+  "ratingValue": "4.7",
+  "reviewCount": "61",
+  "priceValidUntil": "2026-09-08",
+  "referenceInterne": "BX8071514900KF-30",
+  "title": "Intel Core i9-14900KF (3.2 GHz / 6 GHz) TRAY | With custom build",
+  "title_fr": "Intel Core i9-14900KF (3.2 GHz / 6 GHz) TRAY | With custom build",
+  "description_fr": "<h1>Intel Core i9-14900KF :</h1>\n\n<h1><img alt=\"Processeur Intel Core i9-14900KF Tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1702467769890.webp\" /></h1>\n\n<h2>Intel Core i9-14900KF : l&rsquo;informatique atteint des sommets de performances joyeuses</h2>\n\n<p><span style=\"font-size:22px\">L&rsquo;Intel Core i9-14900KF est une merveille d&rsquo;ordinateur qui pr&eacute;sente une combinaison bien &eacute;quilibr&eacute;e de puissance et de sophistication. Ce processeur n&rsquo;est pas seulement un concentr&eacute; de puissance &ndash; sa fr&eacute;quence de base de 3,2 GHz et sa brillance turbocompress&eacute;e atteignant 5,8 GHz &ndash; mais aussi un hommage au plaisir d&rsquo;une performance in&eacute;gal&eacute;e.</span></p>\n\n<h2>Architecture de rafra&icirc;chissement de Raptor Lake : la pionni&egrave;re d&rsquo;une nouvelle &egrave;re en mati&egrave;re de prouesses de traitement</h2>\n\n<p><span style=\"font-size:22px\">L&rsquo;architecture r&eacute;volutionnaire Raptor Lake Refresh, minutieusement construite &agrave; 10 nm, est au c&oelig;ur de l&rsquo;architecture, ouvrant la voie &agrave; une nouvelle &egrave;re de l&rsquo;&eacute;l&eacute;gance informatique. Ce processeur, dot&eacute; d&rsquo;une puissance de conception thermique (TDP) remarquable de 125 W, cr&eacute;e une symphonie de plaisir multit&acirc;che avec 24 c&oelig;urs et 32 threads fonctionnant en harmonie.</span></p>\n\n<h2>DDR4 et DDR5 Symphony : cr&eacute;er une m&eacute;lodie de ma&icirc;trise multit&acirc;che</h2>\n\n<p><span style=\"font-size:22px\">Ma&icirc;tre du multit&acirc;che, le i9-14900KF prend facilement en charge les types de m&eacute;moire DDR4 et DDR5 dans une configuration &agrave; double canal. Avec des fr&eacute;quences de m&eacute;moire DDR4 atteignant jusqu&rsquo;&agrave; 3200 MHz et des fr&eacute;quences de m&eacute;moire DDR5 atteignant un nombre stup&eacute;fiant de 5600 MHz, chaque projet informatique devient un travail d&rsquo;efficacit&eacute; et de joie.</span></p>\n\n<h2>Gaming Nirvana : un paradis pour les joueuses passionn&eacute;es</h2>\n\n<p><span style=\"font-size:22px\">Le i9-14900KF a &eacute;t&eacute; cr&eacute;&eacute; pour les joueurs, et il r&eacute;pond &agrave; leurs besoins tout en acceptant sa place dans l&rsquo;informatique de bureau. Ce processeur, qui a &eacute;t&eacute; d&eacute;pouill&eacute; de graphiques int&eacute;gr&eacute;s pour se concentrer sur la puissance de calcul pure, offre aux joueurs un canevas in&eacute;gal&eacute;, affichant avec pr&eacute;cision chaque image et apportant de la joie &agrave; chaque session de jeu.</span></p>\n\n<h2>&nbsp;</h2>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence CPU :&nbsp;3.2 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence en mode Turbo :&nbsp;5.8 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de core :&nbsp;24</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de Threads : 32</span></li>\n\t<li><span style=\"font-size:22px\">Chipset graphique :&nbsp;Aucun</span></li>\n\t<li><span style=\"font-size:22px\">Contr&ocirc;leur m&eacute;moire :&nbsp;DDR4 / DDR5</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb18ed34a2e400482a012c9",
+    "titre": "INTEL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326790165.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:05:39.000Z"
+  },
+  "categorie": {
+    "_id": "675311184583082f207d5d03",
+    "titre": "EVENTS",
+    "reference": "",
+    "order": 7,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:31:12.208Z",
+    "create_date": "2024-12-06T14:58:32.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1733559629835.webp",
+    "urlPhoto": "/uploads/categorie/1733559616584.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "67d7f084711a4ce5a40f87db",
+    "titre": "BANKAI",
+    "visible": false,
+    "order": 0,
+    "categorie": "675311184583082f207d5d03",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-10-16T17:00:56.206Z",
+    "create_date": "2025-03-17T09:51:00.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1742206147820.webp",
+    "urlPhoto2": "/uploads/souscateg/1742206155479.webp"
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.20 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cc"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "5.80 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cd"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "24",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cf"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "32",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23d0"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR5 5600 MHz",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e3"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "32 MB",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e4"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "36 MB",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e5"
+    },
+    {
+      "cle": "Puissance de base du processeur",
+      "valeur": "125 W",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e6"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e7"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR4 3200 MHz",
+      "enable": true,
+      "_id": "673b4ee099de58d4f6c55f3a"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "67d7f084711a4ce5a40f87db",
+    "67472c9b91e54111256c51c1"
+  ],
+  "lien": "Intel-Core-i9-14900KF-TRAY-PROMO",
+  "gallerie": {
+    "_id": "67d7fdcf711a4ce5a41516f9",
+    "titre": "INTEL CPU 30",
+    "urlPhoto": [
+      "/uploads/gallerie/1742208561795.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-03-17T10:49:23.091Z",
+    "create_date": "2025-03-17T10:47:43.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 8021,
+  "price": 1540,
+  "tagsSearch": [
+    "INTEL",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "EVENTS",
+    "BANKAI",
+    "CUSTOM BUILD"
+  ],
+  "discount": 29.968167348794907,
+  "stock": 100,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2023-10-27T10:27:56.737Z",
+  "update_date": "2025-10-23T20:03:46.328Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

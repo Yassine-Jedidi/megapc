@@ -1,0 +1,203 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551157332.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551157332.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAAAAP4tLS/+UVFR/iAkJf4AiIeH/t7g3v/k3N//eXZ8/gCvr6v+/f/7/9TGyv9XTVT+AD49PP5/gH7+XV5d/iAhIv7bQSYRPf+2dAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551159824.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551159824.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ACMkJP7Q0M//1M3O/y8xM/4AdHV0//3/+/+nnqH/FRES/wAjJCT/7Obj/7ixsf8AAAD/AAQHB/5RT07/mZSS/zs6Nv4oESTfwmqaIgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551161701.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551161701.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AL3DvNvf18fKwXt6fgCzta+0tK78//dxeHYAXmBgl5abqqqmysXDAAABAUFISzs7OK6nozTsG7+S3LH+AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551163477.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551163477.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AAgIDHx1d3N0gBYYGgABAQq+rsm5sscAAAgAGxwe4+Dmubm+DA0PALm6tOLk3/3/+7a4s8v/Funew5LgAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551165459.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551165459.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AF9RVuTg4p+rr7+yuwD57/XKy8qfnp2fipIAucjE/P/7x8jCMjQ0AFZTT42MiRkZGQAAAETrG67nauyoAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551178977.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551178977.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AIGDfYiLhpuen9LIwQC1uLF8goR8g4rn7esApqeo///46+7mr7a1AAQGCdLQ1Xl3dwABACAVHOw1pK4AAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551183183.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551183183.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ADk6OmBjXXd5dJmgmwAdHiQ8PTlsbGZKTEoAqq+tAAEALCwnHyAbANjc1r/Aufv/+FFSTsCuE7pk0rhJAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551185719.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551185719.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ABYWFiAhICIiIgAAAADN1ND4//vm5+KUj4oAiIqL7vb2wMzK5+ruAEdBQpycoayvsOz9/05MG+tlK668AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551187684.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551187684.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWPYsuUKx4X//zkZYODH//8L3j//9f/q5Xvnd+zaX8bw+uP/yruXnx69cv76hWOnLrXAVcIAANGJH1v7Op1HAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551189794.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551189794.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///9rY2uzr7v///wDq6upoaGgAAgBfY2IAnp2bY2VmKS0rkJGQAPn5+NTU1LCzs/n5+VxkIAVZIqyqAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551192198.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551192198.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APj09sDAxKuys7O2tAD9//9sbm4AAgBXXF0A7+/vm5ycgoiInaOjAObl5JaXmLvAwc7R0UHhH95rQ5egAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551194244.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746551194244.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYoiIjMzIyAgIDKisrGSwsLBgYGEXFJFJTUxmQlQEAKUkepGGC5fYAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "67d93ed5711a4ce5a4359cac",
+  "sku": "iCraft-B760M",
+  "mpn": "iCraft-B760M",
+  "titleSeo": "Carte Mère MAXSUN iCraft B760M CROSS DDR5 Intel B760 avec Wi-Fi 6E et PCIe 5.0 | MEGA PC | PC GAMING TUNISIE",
+  "desciprtionSeo": "Découvrez la MAXSUN iCraft B760M CROSS DDR5 en Tunisie, une carte mère Intel B760 idéale pour les processeurs Intel Core 12ᵉ/13ᵉ/14ᵉ génération. Avec Wi-Fi 6E, PCIe 5.0 x16, jusqu’à 192 Go de mémoire DDR5, et trois slots M.2 PCIe 4.0 x4, boostez vos performances gaming et travail intensif. Profitez d’une connectivité ultra-rapide, de 16 ports USB et de graphismes en 4K. La carte mère parfaite pour les gamers et les créateurs en Tunisie MAXSUN iCraft B760M CROSS DDR5, carte mère Intel B760, carte mère DDR5, Wi-Fi 6E Tunisie, PCIe 5.0 Tunisie, carte mère gaming Tunisie, processeur Intel Core Tunisie, performance PC Tunisie, carte mère pour gamers, carte mère 4K Tunisie, DDR5 7600 Tunisie, stockage rapide Tunisie",
+  "ratingValue": "4.7",
+  "reviewCount": "55",
+  "priceValidUntil": "2027-07-09",
+  "referenceInterne": "iCraft-B760M",
+  "title": "MAXSUN iCraft B760M CROSS DDR5",
+  "title_fr": "MAXSUN iCraft B760M CROSS DDR5",
+  "description_fr": "<h2><span style=\"font-size:22px\">🏆 <strong>MAXSUN iCraft B760M CROSS DDR5 : La Carte M&egrave;re Gamer Qui Repousse les Limites !</strong></span></h2>\n\n<p><span style=\"font-size:22px\">Les passionn&eacute;s de gaming et de performances PC savent &agrave; quel point une carte m&egrave;re fiable et puissante est essentielle. La <strong>MAXSUN iCraft B760M CROSS DDR5</strong> est une v&eacute;ritable b&ecirc;te de comp&eacute;tition, con&ccedil;ue pour offrir une exp&eacute;rience ultime avec les derniers processeurs <strong>Intel 12, 13&nbsp;et 14&nbsp;g&eacute;n&eacute;ration</strong>. 🎮🔥</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">⚙️ <strong>Un Chipset Puissant pour une Exp&eacute;rience Fluide</strong></span></h3>\n\n<p><span style=\"font-size:22px\">La carte est &eacute;quip&eacute;e du <strong>chipset Intel B760</strong>, garantissant une compatibilit&eacute; parfaite avec les <strong>processeurs Intel Core, Pentium Gold et Celeron</strong> sur socket <strong>LGA 1700</strong>. Que vous soyez un cr&eacute;ateur de contenu ou un gamer exigeant, cette carte offre des performances stables et optimis&eacute;es. 🚀</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🛠️ <strong>M&eacute;moire DDR5 : Ultra-Vitesse et Stabilit&eacute; !</strong></span></h3>\n\n<p><span style=\"font-size:22px\">Gr&acirc;ce &agrave; <strong>quatre emplacements DDR5</strong>, la <strong>MAXSUN iCraft B760M CROSS</strong> supporte jusqu&#39;&agrave; <strong>192 Go</strong> de RAM avec des fr&eacute;quences impressionnantes allant jusqu&#39;&agrave; <strong>7600 MHz en overclocking</strong>. Fini les ralentissements, place &agrave; une r&eacute;activit&eacute; in&eacute;gal&eacute;e ! ⚡</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🎮 <strong>Graphismes et Connectivit&eacute; Vid&eacute;o</strong></span></h3>\n\n<p><span style=\"font-size:22px\">Avec <strong>un port HDMI&trade; et un DisplayPort 1.4</strong>, cette carte vous permet d&#39;afficher vos contenus en <strong>4K@30Hz</strong>. Que ce soit pour du <strong>gaming, du streaming ou du montage vid&eacute;o</strong>, profitez d&rsquo;une qualit&eacute; d&rsquo;image exceptionnelle ! 📺✨</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🚀 <strong>PCIe 5.0 : L&#39;Avantage du Futur !</strong></span></h3>\n\n<p><span style=\"font-size:22px\">L&rsquo;un des plus gros atouts de cette carte, c&rsquo;est son <strong>slot PCIe 5.0 x16</strong>, offrant une <strong>bande passante ultra-rapide</strong> pour votre carte graphique. De plus, elle dispose &eacute;galement de :<br />\n✔ <strong>1x PCIe 3.0 x4</strong><br />\n✔ <strong>1x PCIe 3.0 x1</strong><br />\nId&eacute;al pour ajouter des cartes d&rsquo;extension comme des SSD NVMe, cartes son ou cartes r&eacute;seau suppl&eacute;mentaires. 💨</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">💾 <strong>Stockage : Rapidit&eacute; et Capacit&eacute; Maximales !</strong></span></h3>\n\n<p><span style=\"font-size:22px\">La <strong>MAXSUN iCraft B760M CROSS DDR5</strong> prend en charge un <strong>stockage ultra-performant</strong> gr&acirc;ce &agrave; :<br />\n✔ <strong>3x M.2 PCIe 4.0 x4</strong> (compatibles avec les SSD NVMe pour des vitesses de transfert &eacute;clairs)<br />\n✔ <strong>4x ports SATA 6Gb/s</strong> (pour vos disques durs ou SSD 2,5&quot;)<br />\nAvec la compatibilit&eacute; <strong>RAID 0, 1, 5 et 10</strong>, vous pouvez s&eacute;curiser et acc&eacute;l&eacute;rer vos donn&eacute;es en toute simplicit&eacute;. 🔥</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🌐 <strong>R&eacute;seau et Connectivit&eacute; : Ultra-Rapide et Sans Latence</strong></span></h3>\n\n<p><span style=\"font-size:22px\">💻 <strong>Ethernet 2.5G</strong> (Realtek&reg; RTL8125BG) pour un r&eacute;seau ultra-rapide sans latence.<br />\n📡 <strong>Wi-Fi 6E (Intel&reg; AX211)</strong> avec support du <strong>6 GHz</strong> pour une connexion sans-fil fluide.<br />\n🔵 <strong>Bluetooth 5.3</strong> pour connecter vos p&eacute;riph&eacute;riques facilement.</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🎧 <strong>Son Immersif et Exp&eacute;rience Multim&eacute;dia</strong></span></h3>\n\n<p><span style=\"font-size:22px\">Gr&acirc;ce au <strong>codec Realtek ALC897</strong>, profitez d&rsquo;un <strong>son haute d&eacute;finition 7.1 canaux</strong> pour une immersion totale en jeu ou en streaming. 🎵🔥</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🖥️ <strong>Connectique : Une Multitude de Ports USB !</strong></span></h3>\n\n<p><span style=\"font-size:22px\">Avec <strong>16 ports USB au total</strong>, la carte m&egrave;re offre une connectivit&eacute; incroyable :<br />\n✔ <strong>7 ports USB en fa&ccedil;ade</strong> (dont 1x USB-C 10Gbps)<br />\n✔ <strong>9 ports USB &agrave; l&rsquo;arri&egrave;re</strong> (dont 1x USB-C 20Gbps)<br />\nPeu importe vos besoins, vous aurez toujours un port USB disponible ! 🔌</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🎨 <strong>Un Design Gamer avec RGB et Debug LED !</strong></span></h3>\n\n<p><span style=\"font-size:22px\">Avec ses <strong>effets RGB personnalisables</strong>, la <strong>MAXSUN iCraft B760M CROSS DDR5</strong> ajoute une touche styl&eacute;e &agrave; votre setup ! 🖤💜<br />\nElle int&egrave;gre &eacute;galement <strong>4 Debug LED</strong> pour un diagnostic rapide en cas de probl&egrave;me.</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">📏 <strong>Format et Compatibilit&eacute;</strong></span></h3>\n\n<p><span style=\"font-size:22px\">🖥️ <strong>Format</strong> : Micro-ATX (245 x 245 mm)<br />\n🖥️ <strong>Compatibilit&eacute; OS</strong> : Windows 10 &amp; 11 64-bit</span></p>\n\n<hr />\n<h3><span style=\"font-size:22px\">🎯 <strong>Pourquoi Choisir la MAXSUN iCraft B760M CROSS DDR5 ?</strong></span></h3>\n\n<p><span style=\"font-size:22px\">✅ <strong>Chipset Intel B760</strong> pour les processeurs Intel r&eacute;cents<br />\n✅ <strong>Support DDR5 jusqu&#39;&agrave; 192 Go &amp; 7600 MHz</strong><br />\n✅ <strong>Slot PCIe 5.0 x16 pour des performances graphiques maximales</strong><br />\n✅ <strong>Stockage ultra-rapide avec 3x M.2 PCIe 4.0 x4</strong><br />\n✅ <strong>Wi-Fi 6E, Bluetooth 5.3 et Ethernet 2.5G</strong><br />\n✅ <strong>RGB &amp; Debug LED pour un look gaming futuriste</strong></span></p>\n\n<p><span style=\"font-size:22px\">Que vous montiez un <strong>PC gaming puissant</strong>, un <strong>setup pour le streaming</strong> ou une <strong>station de travail ultra-rapide</strong>, la <strong>MAXSUN iCraft B760M CROSS DDR5</strong> est une carte m&egrave;re <strong>fiable, performante et tourn&eacute;e vers l&rsquo;avenir</strong> ! 🚀🔥</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Mod&egrave;le</strong> : MAXSUN iCraft B760M CROSS DDR5</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Chipset</strong> : Intel B760</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Compatibilit&eacute; processeurs</strong> : Intel Core 12ᵉ, 13ᵉ et 14ᵉ g&eacute;n&eacute;ration (LGA 1700)</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>M&eacute;moire</strong> : 4x DDR5, jusqu&rsquo;&agrave; 192 Go, fr&eacute;quence jusqu&#39;&agrave; DDR5-7600(OC)</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Slots d&#39;extension</strong> : 1x PCIe 5.0 x16, 1x PCIe 3.0 x4, 1x PCIe 3.0 x1</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Stockage</strong> : 3x M.2 PCIe 4.0 x4, 4x SATA 6Gb/s</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>USB</strong> : 1x USB 3.2 Gen2 Type-C (20Gbps), 4x USB 3.2 Gen1 Type-A, 4x USB 2.0</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>R&eacute;seau</strong> : Realtek RTL8125BG 2.5G LAN, Intel Wi-Fi 6E AX211, Bluetooth 5.3</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Sortie vid&eacute;o</strong> : 1x DisplayPort 1.4, 1x HDMI&nbsp; 4K 30Hz</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Audio</strong> : Realtek ALC897, 7.1-Channel Audio</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Syst&egrave;me d&rsquo;exploitation</strong> : Windows 11/10 64-bit</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Format</strong> : M-ATX (245mm x 245mm)</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "67d93f40711a4ce5a4359cfe",
+    "titre": "MAXSUN",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-03-18T09:39:12.536Z",
+    "create_date": "2025-03-18T09:39:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "MAXSUN-iCraft-B760M-CROSS-DDR5",
+  "gallerie": {
+    "_id": "681a4170c75bcce7a277862e",
+    "titre": "ICRAFT-B760M",
+    "urlPhoto": [
+      "/uploads/gallerie/1746551157332.webp",
+      "/uploads/gallerie/1746551159824.webp",
+      "/uploads/gallerie/1746551161701.webp",
+      "/uploads/gallerie/1746551163477.webp",
+      "/uploads/gallerie/1746551165459.webp",
+      "/uploads/gallerie/1746551178977.webp",
+      "/uploads/gallerie/1746551183183.webp",
+      "/uploads/gallerie/1746551185719.webp",
+      "/uploads/gallerie/1746551187684.webp",
+      "/uploads/gallerie/1746551189794.webp",
+      "/uploads/gallerie/1746551192198.webp",
+      "/uploads/gallerie/1746551194244.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-05-06T17:06:34.355Z",
+    "create_date": "2025-05-06T17:05:52.000Z",
+    "__v": 12
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 1247,
+  "price": 664,
+  "tagsSearch": [
+    "MAXSUN",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "carte mère Intel B760",
+    "fx1",
+    "iCraft B760M CROSS  WHITE"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2025-03-18T09:37:25.674Z",
+  "update_date": "2025-10-24T13:45:07.110Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

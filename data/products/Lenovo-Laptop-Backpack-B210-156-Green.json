@@ -1,0 +1,163 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677324700831.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677324700831.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP4////hw/vXr189v//f4b///831hT6upp9/vQRxPFyMBFmYHj88AGIM6W/MzUu9OvXLwDM5SKcFfXFlQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677324700832.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677324700832.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP4////7euXDu3b+f//f4b///+nRvs6mqp8/vQJxLE2VBFjYLhz5zaI093WmJsa//v3bwCSUiEa0KLRIwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677324700834.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677324700834.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///9nY1dbUzv///wD///9eVUVNQTL08vAA/Pz8JRwNFAAA5ePhAPr6+lpTS0pDO+vr65I+H/JxZNfnAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677324700875.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677324700875.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWP4////g8ePJ07o+/j+DcOh46c8A8KkhHnmz5rM8P///4riPFEGhkXzZ4E4b169nNBW/+TxIwBDph+meQzCAAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "63f9f21e8ac974073d604a2a",
+  "sku": "GX40Q17228",
+  "mpn": "GX40Q17228",
+  "titleSeo": "SAC A DOS Lenovo 15.6\" inch Laptop Backpack B210 (green) | MEGA PC ",
+  "desciprtionSeo": "SAC A DOS Lenovo 15.6\" inch Laptop Backpack B210 (green) | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "11",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GX40Q17228",
+  "title": "Lenovo Laptop Backpack B210 - 15.6\" (Green) ",
+  "title_fr": "Lenovo Laptop Backpack B210 - 15.6\" (Green) ",
+  "description_fr": "<h2>Lenovo Laptop Backpack B210 -&nbsp;15.6&quot; (Green)&nbsp;</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le sac &agrave; dos d&eacute;contract&eacute; Lenovo 15,6&quot; B210 utilise un tissu hydrofuge et un design &eacute;pur&eacute; et &eacute;pur&eacute; pour cr&eacute;er un &eacute;tui parfaitement adapt&eacute; &agrave; la vie moderne. Il offre un compartiment pour ordinateur portable int&eacute;gr&eacute; confortablement qui s&#39;adapte &agrave; la plupart des ordinateurs portables jusqu&#39;&agrave; 15,6 pouces une gamme de des poches pour les accessoires indispensables et un compartiment principal spacieux pour les livres et autres articles.Design d&eacute;contract&eacute; et &eacute;l&eacute;gant;Tissu de haute qualit&eacute;, durable et hydrofuge;Grande capacit&eacute; de stockage - convient aux ordinateurs portables jusqu&#39;&agrave; 15,6&quot;; Compartiments et poches id&eacute;alement plac&eacute;s</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1678721496487.webp\" /></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:20px\">Design d&eacute;contract&eacute; et &eacute;l&eacute;gant</span></li>\n\t<li><span style=\"font-size:20px\">Tissu de haute qualit&eacute;, durable et hydrofuge</span></li>\n\t<li><span style=\"font-size:20px\">Grande capacit&eacute; de stockage convient aux ordinateurs portables jusqu&#39;&agrave; 15,6&quot;</span></li>\n\t<li><span style=\"font-size:20px\">Compartiments et poches id&eacute;alement plac&eacute;s</span></li>\n\t<li><span style=\"font-size:20px\">&nbsp;Dimensions: 255 x 22 x 362 mm</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "601d6f15051d693aa4208ca1",
+    "order": 9,
+    "titre": "SAC À DOS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1612541733987.webp",
+    "create_date": "2021-02-05T16:15:17.000Z",
+    "reference": "SACADOS",
+    "update_date": "2022-01-04T14:06:13.573Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "COULEUR DU PRODUIT",
+      "valeur": "Green",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb0f"
+    },
+    {
+      "cle": "DIMENSIONS (MM)\t",
+      "valeur": "255 x 22 x 362 mm",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb10"
+    },
+    {
+      "cle": "CAPACITÉ",
+      "valeur": "15,6\"",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb11"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "601d6f15051d693aa4208ca1"
+  ],
+  "lien": "Lenovo-Laptop-Backpack-B210-156-Green",
+  "gallerie": {
+    "_id": "63f9f18b8ac974073d5fdb2d",
+    "titre": "LENOVO 15.6\" INCH LAPTOP BACKPACK B210 (GREEN)",
+    "urlPhoto": [
+      "/uploads/gallerie/1677324700831.webp",
+      "/uploads/gallerie/1677324700832.webp",
+      "/uploads/gallerie/1677324700834.webp",
+      "/uploads/gallerie/1677324700875.webp"
+    ],
+    "update_date": "2023-02-25T11:31:40.987Z",
+    "create_date": "2023-02-25T11:31:23.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 2615,
+  "price": 59,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "SAC À DOS"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-02-25T11:33:50.680Z",
+  "update_date": "2025-10-23T15:35:27.713Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,188 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753521019205.png",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753521019205.png",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAT0lEQVQImQFEALv/AOXm5P+Znpz/xcrK//7///8Au769/zxAP/+UlJX/5ebm/wC9wb3/AAEA/ywsLf/T1NP/ANrc2/9WWln/cnZ1/+zt7f9TUi4fb+Wl0wAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "68849a0338284c84433fd067",
+  "sku": "100-100000662WOF",
+  "mpn": "100-100000662WOF",
+  "titleSeo": "AMD Ryzen 9 9900X (4.4 GHz / 5.6 GHz) | MEGA TUNISIE ",
+  "desciprtionSeo": "AMD Ryzen 9 9900X (4.4 GHz / 5.6 GHz) ",
+  "ratingValue": "4.8",
+  "reviewCount": "45",
+  "priceValidUntil": "2028-09-08 ",
+  "referenceInterne": "100-100000662WOF",
+  "title": "AMD Ryzen 9 9900X (4.4 GHz / 5.6 GHz) TRAY",
+  "title_fr": "AMD Ryzen 9 9900X (4.4 GHz / 5.6 GHz) TRAY",
+  "description_fr": "<h2>AMD Ryzen 9 9900X (4.4 GHz / 5.6 GHz) TRAY&nbsp;</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le <strong>processeur AMD Ryzen&trade; 9 9900X</strong> appartient &agrave; la s&eacute;rie Ryzen 9000, con&ccedil;ue pour les passionn&eacute;s d&#39;ordinateurs de bureau. Il utilise l&#39;architecture Zen 5 et est fabriqu&eacute; avec une technologie FinFET de 4 nm pour les c&oelig;urs et de 6 nm pour la matrice d&#39;E/S. Ce mod&egrave;le dispose de 12 c&oelig;urs et 24 fils, avec une horloge de base de 4,4 GHz et une horloge Boost pouvant atteindre 5,6 GHz. Il offre un cache L1 de 960 Ko, un cache L2 de 12 Mo et un cache L3 de 64 Mo. Le TDP par d&eacute;faut est de 120 W, et le processeur est d&eacute;bloqu&eacute; pour l&#39;overclocking, prenant en charge la technologie AMD EXPO&trade; et les fonctionnalit&eacute;s de Boost de pr&eacute;cision 2. Il est compatible avec les chipsets A620, X670E, X670, B650E, B650, X870E et X870, et se fixe sur un socket AM5. Le refroidisseur liquide est recommand&eacute; pour des performances optimales, et la temp&eacute;rature de fonctionnement maximale est de 95&deg;C. Ce processeur prend en charge une large gamme d&#39;instructions et d&#39;extensions, et est disponible mondialement &agrave; partir du 15 ao&ucirc;t 2024, compatible avec Windows 10 et 11, ainsi que certains syst&egrave;mes Linux.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1724327229761.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Nom</strong> : AMD Ryzen&nbsp;9 9900X</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Architecture</strong> : Zen 5</span></li>\n\t<li><span style=\"font-size:22px\"><strong>C&oelig;urs/Threads</strong> : 12/24</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Horloge</strong> : 4,4 GHz (de base), jusqu&#39;&agrave; 5,6 GHz (Boost)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cache</strong> : L1 960 Ko, L2 12 Mo, L3 64 Mo</span></li>\n\t<li><span style=\"font-size:22px\"><strong>TDP</strong> : 120 W</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Technologie</strong> : FinFET 4 nm (c&oelig;urs), 6 nm (E/S)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Socket</strong> : AM5</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Chipsets compatibles</strong> : A620, X670E, X670, B650E, B650, X870E, X870</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Overclocking</strong> : Oui</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Refroidissement recommand&eacute;</strong> : Liquide</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Temp&eacute;rature max.</strong> : 95&deg;C</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb192424a2e400482a012cd",
+    "titre": "AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326818201.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:20:18.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "4.40 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cc"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "5.60 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cd"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "12",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cf"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "24",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23d0"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR5 5600 MHz",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e3"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "12 MB",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e4"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "64 MB",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e5"
+    },
+    {
+      "cle": "Puissance de base du processeur",
+      "valeur": "120 W",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e6"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "AMD AM5",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e7"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "AMD-Ryzen-9-9900X-4-4-GHz-5-6-GHz-TRAY",
+  "gallerie": {
+    "_id": "68849aaf38284c844340ac5c",
+    "titre": "AMD RYZEN 9 9900X (4.4 GHZ / 5.6 GHZ) TRAY",
+    "urlPhoto": [
+      "/uploads/gallerie/1753521019205.png"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-07-26T09:10:42.927Z",
+    "create_date": "2025-07-26T09:06:55.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2165,
+  "price": 1579,
+  "tagsSearch": [
+    "AMD",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "F090257"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2024-08-22T11:37:27.953Z",
+  "update_date": "2025-10-23T23:09:49.056Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

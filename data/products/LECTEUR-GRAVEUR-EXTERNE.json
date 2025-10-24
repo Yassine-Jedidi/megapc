@@ -1,0 +1,147 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990100881.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990100881.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AM7Ozv///+fm5+vn5wC7u7tBQkQNCxG8trYAubi4U1JVAQABuLOzAMfCwvDp6ejf3+jj5EM4H8PleQNnAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990100890.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990100890.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///83LzsTDxnV0dwDMy82Eg4WMi48yMjMAo6KjXFxdNTQ1PTw+AHNzdgAABBsaHCkoKeCSFbvMrFhkAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990101020.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990101020.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APHx8d/f3uvr6v///wBLS0sAAAMpKS3Y19kA0dDPOT1HDhIkeXZ8AP///+zr7Onp6fr4+iFFH1tTW7IeAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990109232.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990109232.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPoaO9qaGjOzEyrrKxk2LP7wP//j27f6+zvr2OwsrJhYGAQFmJNTU5mSEpM0tExNDOz7mjvAABqjBSmrbeOsQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990356662.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681990356662.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APr6+tbW1szLy////wCFhYUFBQUAAAS5ubsAfHt5TVBbACBGIzNWAP37+/j4+cLF0by+y/SHHJJgovN5AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "644128988ac974073d5bc2dd",
+  "sku": "GP60NB60",
+  "mpn": "8806087302905",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "title": "LECTEUR GRAVEUR EXTERNE LG DVD GP60NB60 NOIR",
+  "title_fr": "LECTEUR GRAVEUR EXTERNE LG DVD GP60NB60 NOIR",
+  "description_fr": "<h2>LECTEUR GRAVEUR EXTERNE LG DVD GP60NB60 NOIR</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Graveur DVD Externe LG -&nbsp;Type de lecteur optique&nbsp;DVD &plusmn; RW&nbsp;-&nbsp;Interface&nbsp;USB 2.0&nbsp;-&nbsp;Super-Multi Portable Slim 8x DVD -&nbsp;Vitesse de lecture CD 24x DVD : 8x Vitesse d&#39;&eacute;criture CDR : 24x CDRW : 24x DVDR : 8x DVDRW : 6x DVD + RW -&nbsp;Temps d&#39;acc&egrave;s CDROM: 140 ms DVDROM: 160 ms DVDRAM : 200 ms -&nbsp;Taille du tampon 0.75 Mo -&nbsp;Dimensions 144 x 135.5 x 14 mm&nbsp;-&nbsp;Poids 200 g - Couleur Noir - Garantie 1 an</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1681990873175.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Dimensions :&nbsp;144 x 135.5 x 14 mm</span></li>\n\t<li><span style=\"font-size:22px\">Poids : 200 g</span></li>\n\t<li><span style=\"font-size:22px\">Taille du tampon : 0.75 Mo</span></li>\n\t<li><span style=\"font-size:22px\">Temps d&#39;acc&egrave;s CDROM: 140 ms</span></li>\n\t<li><span style=\"font-size:22px\">DVDROM: 160</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "60c24d0c71cea264579fadcb",
+    "titre": "LG",
+    "description": "LG",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-06-10T17:34:04.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "606bfd99e8ff02f7796cb01a",
+    "order": 9,
+    "titre": "ACCESSOIRES PC PORTABLE",
+    "titreSEO": "Achat Accessoires PC portable Gamer - MEGA PC",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1617690464917.webp",
+    "create_date": "2021-04-06T06:20:09.000Z",
+    "reference": "ACCESSOIRESPCPORTABLE",
+    "update_date": "2021-12-04T08:51:35.989Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "606bfd99e8ff02f7796cb01a"
+  ],
+  "lien": "LECTEUR-GRAVEUR-EXTERNE",
+  "gallerie": {
+    "_id": "6441214a8ac974073d5a5505",
+    "titre": "LECTEUR GRAVEUR EXTERNE LG DVD GP60NB60 NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1681990100881.webp",
+      "/uploads/gallerie/1681990100890.webp",
+      "/uploads/gallerie/1681990101020.webp",
+      "/uploads/gallerie/1681990109232.webp",
+      "/uploads/gallerie/1681990356662.webp"
+    ],
+    "update_date": "2023-04-20T11:32:36.792Z",
+    "create_date": "2023-04-20T11:26:02.000Z",
+    "__v": 4
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 2087,
+  "price": 109,
+  "tagsSearch": [
+    "LG",
+    "ACCESSOIRES",
+    "ACCESSOIRES PC PORTABLE"
+  ],
+  "stock": 5,
+  "displayForPublic": true,
+  "create_date": "2023-04-20T11:57:12.096Z",
+  "update_date": "2025-10-23T16:08:34.190Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

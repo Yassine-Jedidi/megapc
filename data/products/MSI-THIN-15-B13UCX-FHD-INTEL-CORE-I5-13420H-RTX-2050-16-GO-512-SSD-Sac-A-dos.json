@@ -1,0 +1,216 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730807569246.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730807569246.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APDw8O7u7/H0+/DmwABAPj4zAAkrAAa8kqMAZWVlTD5FPzE6qp6gAP////X29u/x8ff5+fqJHlRQPLccAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730807577067.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730807577067.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWO4euz8gr6Zdy7e/P//P8Pylk5JBobZRQ0gzu7de2UMjKPS0t6+es3w+/efjZs2b9265fmz5wA6ziCALzBZMQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730807580135.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730807580135.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP7+/v////Dv7/v5+QDq6upvamp5dnb9/PwAi4iICAAAh4SE9vX2AOvq6tHP0NPS0+rp6tV4JIXilwWjAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "672a062899de58d4f602677c",
+  "sku": "9S7-16R831-2607-16G",
+  "mpn": "9S7-16R831-2607-16G",
+  "titleSeo": "PC PORTABLE MSI THIN 15 B13UCX | MEGA TUNISIE",
+  "desciprtionSeo": "PC PORTABLE MSI THIN 15 FHD B13UCX  | INTEL CORE I5-13420H | RTX 2050 | 16 GO | 512 SSD | MEGA TUNISIE",
+  "ratingValue": "4.8",
+  "reviewCount": "73",
+  "priceValidUntil": "2028-09-08",
+  "referenceInterne": "9S7-16R831-2607-16G",
+  "title": "MSI THIN 15 B13UCX FHD | INTEL CORE I5-13420H | RTX 2050 | 16 GO | 512 SSD + Sac A dos",
+  "title_fr": "MSI THIN 15 B13UCX FHD | INTEL CORE I5-13420H | RTX 2050 | 16 GO | 512 SSD + Sac A dos",
+  "description_fr": "<h2>MSI THIN 15&#39;&#39; FHD | INTEL CORE I5-13420H | RTX 2050 | 16 GO | 512 SSD</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le MSI Thin 15 est un PC portable gamer compact, con&ccedil;u pour ceux qui recherchent une exp&eacute;rience de jeu fluide dans un format portable. Il est &eacute;quip&eacute; d&rsquo;un &eacute;cran Full HD de 15,6 pouces (1920 x 1080) offrant une qualit&eacute; visuelle optimale pour les jeux et le multim&eacute;dia. Au c&oelig;ur de l&#39;appareil, le processeur Intel Core i5-13420H de 13ᵉ g&eacute;n&eacute;ration assure des performances solides, soutenu par 16 Go de m&eacute;moire vive et un stockage SSD rapide de 512 Go. La carte graphique NVIDIA GeForce RTX 2050, avec ses 4 Go de VRAM, permet de g&eacute;rer les jeux et les applications cr&eacute;atives l&eacute;g&egrave;res avec aisance. Ce mod&egrave;le fonctionne sous FreeDOS, ce qui laisse le choix du syst&egrave;me d&#39;exploitation &agrave; l&#39;utilisateur.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>&Eacute;cran</strong> : 15,6&quot; Full HD (1920 x 1080)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Processeur</strong> : Intel Core i5-13420H (13ᵉ g&eacute;n&eacute;ration)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>M&eacute;moire vive (RAM)</strong> : 16 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Stockage</strong> : SSD 512 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Carte graphique</strong> : NVIDIA GeForce RTX 2050, 4 Go VRAM</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Syst&egrave;me d&#39;exploitation</strong> : FreeDOS</span></li>\n\t<li><span style=\"color:#ff0000\"><span style=\"font-size:22px\"><strong>+ Sac &Agrave; Dos MSI Offert</strong></span></span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "61bb23c7a14a1b547a40a936",
+    "titre": "PC PORTABLE",
+    "order": 2,
+    "visible": true,
+    "update_date": "2025-04-28T10:29:51.496Z",
+    "create_date": "2021-12-16T11:32:23.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1639654349693.png",
+    "reference": "externe",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "61bb354da14a1b547a472912",
+    "titre": "PC PORTABLE GAMER",
+    "visible": true,
+    "order": 0,
+    "categorie": "61bb23c7a14a1b547a40a936",
+    "update_date": "2021-12-17T08:54:55.630Z",
+    "create_date": "2021-12-16T12:47:09.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1639731295537.webp",
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Résolution Max",
+      "valeur": "FHD (1920 x 1080)",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540f1"
+    },
+    {
+      "cle": "Type de Dalle",
+      "valeur": "IPS",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540f2"
+    },
+    {
+      "cle": "Taille de l'écran",
+      "valeur": "16\"",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540f3"
+    },
+    {
+      "cle": "Taux de rafraîchissement",
+      "valeur": "144 Hz",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540f4"
+    },
+    {
+      "cle": "Processeur",
+      "valeur": "Intel Core i5-13420H",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540f5"
+    },
+    {
+      "cle": "Fréquence CPU Turbo",
+      "valeur": "4.60 GHz",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540f6"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "16 GB",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540f7"
+    },
+    {
+      "cle": "Chipset Graphique",
+      "valeur": "RTX 2050",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540f8"
+    },
+    {
+      "cle": "Taille de la mémoire vidéo",
+      "valeur": "4 GB",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540f9"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "512 SSD",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540fa"
+    },
+    {
+      "cle": "Système d'exploitation",
+      "valeur": "FreeDos",
+      "enable": true,
+      "_id": "673f61d799de58d4f61540fb"
+    },
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.40 GHz",
+      "enable": true,
+      "_id": "6740820f99de58d4f62fc75d"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "61bb354da14a1b547a472912"
+  ],
+  "lien": "MSI-THIN-15-B13UCX-FHD-INTEL-CORE-I5-13420H-RTX-2050-16-GO-512-SSD-Sac-A-dos",
+  "gallerie": {
+    "_id": "672a06eb99de58d4f6032494",
+    "titre": "MSI THIN 15 B13UCX FHD | INTEL CORE I5-13420H | RTX 2050 | 16 GO | 512 SSD + SAC A DOS",
+    "urlPhoto": [
+      "/uploads/gallerie/1730807569246.webp",
+      "/uploads/gallerie/1730807577067.webp",
+      "/uploads/gallerie/1730807580135.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-11-05T11:53:00.241Z",
+    "create_date": "2024-11-05T11:52:11.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 3556,
+  "price": 2129,
+  "tagsSearch": [
+    "MSI",
+    "PC PORTABLE",
+    "PC PORTABLE GAMER"
+  ],
+  "discount": 4.697040864255519,
+  "stock": 93,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2024-10-29T11:29:54.432Z",
+  "update_date": "2025-10-24T14:04:37.850Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

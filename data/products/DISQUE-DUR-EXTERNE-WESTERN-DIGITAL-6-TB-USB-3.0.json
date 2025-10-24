@@ -1,0 +1,147 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1624288813939.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1624288813939.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP4//9/Q0NDdHT0q1evGN6/f8/PL8DAwHDjxg0QR09PT1VV9e7duwz//v2LiopSUlJ68OABAN3PGzuu3h4dAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1624288820147.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1624288820147.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWP4//9/dXV1YWHh////Gf7//29sbMrAwAzleHh4qqlpQDkBAYF+fv5ADgAm8R50l/9GowAAAABJRU5ErkJggg=="
+    }
+  ],
+  "productpriv": false,
+  "specialproduct": false,
+  "_id": "60d0affae1183604d8295565",
+  "sku": "WDBBGB0060HBK-EESN",
+  "mpn": "WDBBGB0060HBK-EESN",
+  "titleSeo": "DISQUE DUR EXTERNE WESTERN DIGITAL 6TO USB 3.0 - MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "38",
+  "priceValidUntil": "2022-05-07",
+  "title": "DISQUE DUR EXTERNE WESTERN DIGITAL 6 TB USB 3.0",
+  "title_fr": "DISQUE DUR EXTERNE WESTERN DIGITAL 6 TB USB 3.0",
+  "description_fr": "<p><br></p><h2>DISQUE DUR EXTERNE WESTERN DIGITAL 6TO USB 3.0<hr><p>Référence WDBBGB0060HBK-EESN</p><hr><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">- Disque Dur Externe WESTERN DIGITAL My Book</span></p><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>- Capacité:</strong><span style=\"font-size: 18px;\"> 6TB</span></span></p><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>- Type de Disque: </strong><span style=\"font-size: 18px;\">HDD</span></span></p><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>- Connecteur :</strong><span style=\"font-size: 18px;\"> USB 3.0/ USB 2.0</span></span></p><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>- Dimensions :</strong><span style=\"font-size: 18px;\"> 139,3 mm x 49 mm x 170,6 mm</span></span></p><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>- Format de Disque:</strong><span style=\"font-size: 18px;\"> 3.5\"</span></span></p><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>- Compatibilité :</strong><span style=\"font-size: 18px;\"> Windows® 10, Windows 8.1 / macOS 10.13+</span></span></p><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><strong>- Couleur:</strong><span style=\"font-size: 18px;\"> Noir</span></span></p><p></p></h2>",
+  "miniDescription_fr": "<p>DISQUE DUR EXTERNE WESTERN DIGITAL 6TB -&nbsp;USB 3.0/ USB 2.0 -&nbsp;Format de Disque: 3.5\" - Compatibilité: Windows® 10, Windows 8.1 / macOS 10.13+ - Couleur: Noir</p>",
+  "notreSelection": false,
+  "marque": {
+    "_id": "5eb19acc4a2e400482a012e6",
+    "titre": "WESTERN DIGITAL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326902466.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:56:44.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "606c0ef0e8ff02f7796cb01f",
+    "order": 10,
+    "titre": "STOCKAGE EXTERNE",
+    "titreSEO": "Clé USB au meilleur prix en Tunisie | Disque dur externe - MEGA",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1617694454723.webp",
+    "create_date": "2021-04-06T07:34:08.000Z",
+    "reference": "STOCKAGE",
+    "update_date": "2021-12-17T14:04:10.124Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "CAPACITÉ DE STOCKAGE",
+      "valeur": "6 TB",
+      "enable": true,
+      "_id": "60d0affae1183604d8295566"
+    },
+    {
+      "cle": "FORMAT DE DISQUE",
+      "valeur": "3.5 POUCES",
+      "enable": true,
+      "_id": "60d0affae1183604d8295567"
+    },
+    {
+      "cle": "TYPE DISQUE DUR",
+      "valeur": "EXTERNE",
+      "enable": true,
+      "_id": "60d0affae1183604d8295568"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "606c0ef0e8ff02f7796cb01f"
+  ],
+  "lien": "DISQUE-DUR-EXTERNE-WESTERN-DIGITAL-6-TB-USB-3.0",
+  "gallerie": {
+    "_id": "60d0ae1de1183604d8295562",
+    "urlPhoto": [
+      "/uploads/gallerie/webp/1624288813939.webp",
+      "/uploads/gallerie/webp/1624288820147.webp"
+    ],
+    "titre": "DISQUE DUR EXTERNE WESTERN DIGITAL",
+    "__v": 2,
+    "create_date": "2021-06-21T15:19:57.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "enArrivage": false,
+  "new": false,
+  "vue": 3902,
+  "price": 639,
+  "stock": 10,
+  "create_date": "2021-06-21T15:27:54.233Z",
+  "ccpu": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "__v": 0,
+  "update_date": "2025-10-24T09:57:29.418Z",
+  "displayForPublic": true,
+  "tagsSearch": [
+    "WESTERN DIGITAL",
+    "ACCESSOIRES",
+    "STOCKAGE EXTERNE"
+  ],
+  "targetGiga": true,
+  "targetMega": true
+}

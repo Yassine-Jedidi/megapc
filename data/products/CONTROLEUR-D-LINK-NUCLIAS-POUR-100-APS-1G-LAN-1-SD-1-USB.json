@@ -1,0 +1,200 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772821076.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772821076.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAIAAAA7ljmRAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMklEQVQImQEnANj/AP///9nZ2Z6ensrKygBNTU0uLi4AAABubm8AtLS0ra2t6Ojo9/f3sBcWPWYGvsAAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772824764.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750772824764.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQYVq1atXjx4t7e3uTkZIa2trb6+npPT08GBgYGZGUAoKUiipaEXoIAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "68597e4c99437548fd87c418",
+  "sku": "DNH-100-MT",
+  "mpn": "DNH-100-MT",
+  "titleSeo": "Contrôleur D-Link Nuclias pour 100 APs 1G LAN 1 SD 1 USB | MEGA PC | MEILLEUR PRIX TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "46",
+  "priceValidUntil": "2028-06-23",
+  "referenceInterne": "DNH-100-MT",
+  "title": "Contrôleur D-Link Nuclias pour 100 APs 1G LAN 1 SD 1 USB",
+  "title_fr": "Contrôleur D-Link Nuclias pour 100 APs 1G LAN 1 SD 1 USB",
+  "description_fr": "<div style=\"font-size:22px\">\n<p><span style=\"color:#000000\">Contr&ocirc;leur D-LINK Nuclias Connect - Normes: <strong>IEEE 802.3u/ab, Contr&ocirc;le de flux IEEE 802.3x</strong> - G&eacute;rez <strong>jusqu&#39;&agrave; 100 points </strong>d&#39;acc&egrave;s sans fil - Vitesse du r&eacute;seau: <strong>1&nbsp;Gbit/s </strong>- Temps moyen entre d&eacute;faillances (MTBF): <strong>&gt;30000 heures</strong> - Les bandes de fr&eacute;quences g&eacute;r&eacute;es automatiquement et la d&eacute;couverte de points d&#39;acc&egrave;s <strong>L2/L3</strong> garantissent que les appareils connect&eacute;s b&eacute;n&eacute;ficient de la meilleure couverture disponible - Compatible pour <strong>DAP2230, DAP2360, DAP2610</strong> - Dimensions: 190 x 100 x 31 mm - Couleur: Blanc</span></p>\n</div>\n",
+  "miniDescription": "<div style=\"font-size: 22px\"><p>Contrôleur D-LINK Nuclias Connect - Normes: <span style=\"color: #ff0000;\"><strong>IEEE 802.3u/ab, Contrôle de flux IEEE 802.3x</strong></span> - Gérez <span style=\"color: #ff0000;\"><strong>jusqu'à 100 points </strong></span>d'accès sans fil - Vitesse du réseau: <span style=\"color: #ff0000;\"><strong>1&nbsp;Gbit/s </strong></span>- Temps moyen entre défaillances (MTBF):<span style=\"color: #ff0000;\"> <strong>&gt;30000 heures</strong></span> - Les bandes de fréquences gérées automatiquement et la découverte de points d'accès <strong>L2/L3</strong> garantissent que les appareils connectés bénéficient de la meilleure couverture disponible - Compatible pour <span style=\"color: #ff0000;\"><strong>DAP2230, DAP2360, DAP2610</strong></span> - Dimensions: <span style=\"color: #000000;\">190 x 100 x 31 mm </span>- Couleur: <span style=\"color: #000000;\">Blanc</span></p>\n<div style=\"background: #E3E0E3; width: 100%; font-size: 11px; font-weight: bold; padding: 10px 0 10px 0px;\"><span style=\"color: #000000;\">Retrait en Magasin ou Livraison</span> <span style=\"color: #d0121a; font-size: 13px;\">Gratuite</span> <span style=\"color: #000000;\">pour Cet Article</span></div></div>",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\"><span style=\"color:#000000\">Contr&ocirc;leur D-LINK Nuclias Connect - Normes: <strong>IEEE 802.3u/ab, Contr&ocirc;le de flux IEEE 802.3x</strong> - G&eacute;rez <strong>jusqu&#39;&agrave; 100 points </strong>d&#39;acc&egrave;s sans fil - Vitesse du r&eacute;seau: <strong>1&nbsp;Gbit/s </strong>- Temps moyen entre d&eacute;faillances (MTBF): <strong>&gt;30000 heures</strong> - Les bandes de fr&eacute;quences g&eacute;r&eacute;es automatiquement et la d&eacute;couverte de points d&#39;acc&egrave;s <strong>L2/L3</strong> garantissent que les appareils connect&eacute;s b&eacute;n&eacute;ficient de la meilleure couverture disponible - Compatible pour <strong>DAP2230, DAP2360, DAP2610</strong> - Dimensions: 190 x 100 x 31 mm - Couleur: Blanc</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "68597d18fd2984d47c666123",
+    "titre": "D-LINK",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:13:12.243Z",
+    "create_date": "2025-06-23T16:13:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "6676a6a5670b0ae15899d459",
+    "titre": "SÉCURITÉ & PROTECTION",
+    "order": 21,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:33:08.972Z",
+    "create_date": "2024-06-22T10:25:41.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1719396231511.webp",
+    "urlPhoto2": "/uploads/categorie/1720013029366.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "68597cd1fd2984d47c66611d",
+    "titre": "RESEAUX SECURITE",
+    "marge": null,
+    "tva": null,
+    "visible": true,
+    "order": 4,
+    "categorie": "6676a6a5670b0ae15899d459",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:19:53.025Z",
+    "create_date": "2025-06-23T16:12:01.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1750695588029.webp",
+    "urlPhoto2": "/uploads/souscateg/1750695592930.webp"
+  },
+  "qte": 99,
+  "attributes": [
+    {
+      "cle": "gtin",
+      "valeur": "DNH-100",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c419"
+    },
+    {
+      "cle": "Marque",
+      "valeur": "DLINK",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c41a"
+    },
+    {
+      "cle": "Normes réseau",
+      "valeur": "IEEE 802.3u/ab, Contrôle de flux IEEE 802.3x",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c41b"
+    },
+    {
+      "cle": "Interface Réseau",
+      "valeur": "RJ45",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c41c"
+    },
+    {
+      "cle": "Connectivité Sans Fil",
+      "valeur": "WiFi",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c41d"
+    },
+    {
+      "cle": "Vitesse de transfert de données",
+      "valeur": "1 Gbit/s",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c41e"
+    },
+    {
+      "cle": "Nombre de Ports",
+      "valeur": "2 Ports",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c41f"
+    },
+    {
+      "cle": "Connecteurs",
+      "valeur": "1 x port GE, 1 x port console, 1 x USB 3.0, 1 x MicroSD",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c420"
+    },
+    {
+      "cle": "Couleur",
+      "valeur": "Blanc",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c421"
+    },
+    {
+      "cle": "Dimensions",
+      "valeur": "190 x 100 x 31 mm",
+      "enable": true,
+      "_id": "68597e4c99437548fd87c422"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "68597cd1fd2984d47c66611d"
+  ],
+  "lien": "CONTROLEUR-D-LINK-NUCLIAS-POUR-100-APS-1G-LAN-1-SD-1-USB",
+  "gallerie": {
+    "_id": "685aac49fd2984d47c74e52e",
+    "titre": "CONTRÔLEUR D-LINK NUCLIAS POUR 100 APS 1G LAN 1 SD 1 USB",
+    "urlPhoto": [
+      "/uploads/gallerie/1750772821076.jpg",
+      "/uploads/gallerie/1750772824764.jpg"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-24T13:47:04.859Z",
+    "create_date": "2025-06-24T13:46:49.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 106,
+  "price": 1099,
+  "tagsSearch": [],
+  "discount": 0,
+  "stock": 0,
+  "prixEnPromo": 689,
+  "displayForPublic": true,
+  "create_date": "2025-06-23T16:18:20.967Z",
+  "update_date": "2025-10-23T11:34:14.430Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,179 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1676909485590.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1676909485590.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///62sqp6cnPHw8AD2+PUqMjwAAAfGw8IA9/b2JzAzFRoYxcTEAP///7aoqnB2euHi5S3yHoOxRM8LAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1676909488374.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1676909488374.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImWP4////7TvXPrx/////f4b///+qGzk7OgZDOP+zyioZOBiuXrwE4nz88G73zo1v37wGAMUjJEqA7yh2AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1676909502895.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1676909502895.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWP4////vm1bFsyc+e/Xb4b///+nxiYyMDE8vv+A4dfP3yb6lgrysjduXAPJ9Pb0l5VV////HwBd8CAkkGiBIAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "63f39d048ac974073d0180ab",
+  "sku": "S-EM70RF",
+  "mpn": "S-EM70RF",
+  "titleSeo": "Souris gaming Spirit of Gamer Elite M70 Wireless | MEGA PC ",
+  "desciprtionSeo": "Souris gaming Spirit of Gamer Elite M70 Wireless - droitier - capteur optique 4800 dpi - 8 boutons programmables - rétroéclairage RGB | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "11",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "S-EM70RF",
+  "title": "Spirit of Gamer Elite M70 Wireless",
+  "title_fr": "Spirit of Gamer Elite M70 Wireless",
+  "description_fr": "<h2>SPIRIT OF GAMER ELITE M70 WIRELESS&nbsp;</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La souris sans fil Spirit of Gamer Elite M70 offre confort et pr&eacute;cision. Elle offre un capteur PixArt 3312 avec r&eacute;solution jusqu&#39;&agrave; 4800 DPI, une acc&eacute;l&eacute;ration de 10G, une vitesse de mouvement jusqu&#39;&agrave; 30 ips et un polling rate personnalisable de 1000 Hz.</span></p>\n\n<p><img alt=\"SPIRIT OF GAMER ELITE M70 WIRELESS  | MEGA PC \" src=\"https://apibackend.megapc.tn///uploads/gallerie/1676909555278.webp\" /></p>\n\n<h2>Souris sans fil d&eacute;di&eacute;e aux Gamers</h2>\n\n<p><span style=\"font-size:22px\">La&nbsp;souris sans fil Spirit of Gamer Elite M70&nbsp;offre confort et pr&eacute;cision. Elle offre un capteur PixArt 3312 avec r&eacute;solution jusqu&#39;&agrave; 4800 DPI, une acc&eacute;l&eacute;ration de 10G, une vitesse de mouvement jusqu&rsquo;&agrave; 30 ips et un polling rate personnalisable de 1000 Hz.</span></p>\n\n<p><img alt=\"SPIRIT OF GAMER ELITE M70 WIRELESS  | MEGA PC \" src=\"https://apibackend.megapc.tn///uploads/gallerie/1676909555281.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Souris Gamer avec ou sans fil</span></li>\n\t<li><span style=\"font-size:22px\">Mini r&eacute;cepteur USB avec technologie RF 2.4 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Capteur optique Pixart 3312 jusqu&#39;&agrave; 4800 dpi</span></li>\n\t<li><span style=\"font-size:22px\">Acc&eacute;l&eacute;ration : 10 G</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse maximale de suivi : 30 ips</span></li>\n\t<li><span style=\"font-size:22px\">Polling Rate : 1000 Hz</span></li>\n\t<li><span style=\"font-size:22px\">8 boutons programmables</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro&eacute;clairage RGB personnalisable</span></li>\n\t<li><span style=\"font-size:22px\">Juqu&#39;&agrave; 4 profils param&eacute;trables</span></li>\n</ul>\n",
+  "notreSelection": false,
+  "marque": {
+    "_id": "5eab45cc1c53430470a67932",
+    "titre": "SPIRIT",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326695675.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-30T21:40:28.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233bfa4815052c4d1a423",
+    "titre": "SOURIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206287980.webp",
+    "order": 1,
+    "descriptionSEO": "<p>Souris Pc gamer Tunisie&nbsp;optique Sans fil -&nbsp;Achat Souris Ordinateur bureau, souris Pc portable gaming RGB - Aorus, Razer, Logitech, Corsair, Steelseries</p>",
+    "titreSEO": "Souris PC gamer | sans fil pour ordinateur Pc portable | Mega PC",
+    "create_date": "2020-04-24T00:33:03.000Z",
+    "reference": "SOURIS",
+    "update_date": "2021-12-04T08:54:08.545Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "TYPE DE CAPTEUR",
+      "valeur": "OPTIQUE",
+      "enable": true,
+      "_id": "63f3a2418ac974073d01ee98"
+    },
+    {
+      "cle": "RÉSOLUTION OPTIQUE",
+      "valeur": "4800 DPI",
+      "enable": true,
+      "_id": "63f3a2418ac974073d01ee99"
+    },
+    {
+      "cle": "SANS-FIL",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "63f3a2418ac974073d01ee9a"
+    },
+    {
+      "cle": "NOMBRE DE BOUTONS",
+      "valeur": "8",
+      "enable": true,
+      "_id": "63f3a2418ac974073d01ee9b"
+    },
+    {
+      "cle": "RÉTRO-ÉCLAIRAGE",
+      "valeur": "RGB",
+      "enable": true,
+      "_id": "63f3a2418ac974073d01ee9c"
+    },
+    {
+      "cle": "POIDS",
+      "valeur": "118 G",
+      "enable": true,
+      "_id": "63f3a2418ac974073d01ee9d"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea233bfa4815052c4d1a423"
+  ],
+  "lien": "Spirit-of-Gamer-Elite-M70-Wireless",
+  "gallerie": {
+    "_id": "63f39b858ac974073dffe2c3",
+    "titre": "SPIRIT OF GAMER ELITE M70 WIRELESS",
+    "urlPhoto": [
+      "/uploads/gallerie/1676909485590.webp",
+      "/uploads/gallerie/1676909488374.webp",
+      "/uploads/gallerie/1676909502895.webp"
+    ],
+    "update_date": "2023-02-20T16:11:42.994Z",
+    "create_date": "2023-02-20T16:10:45.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 4253,
+  "price": 69,
+  "priceHt": null,
+  "tagsSearch": [
+    "SPIRIT",
+    "ACCESSOIRES",
+    "SOURIS",
+    "SPIRIT OG GAMER"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2023-02-20T16:17:08.018Z",
+  "update_date": "2025-10-23T20:15:34.792Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

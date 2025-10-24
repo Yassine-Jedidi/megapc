@@ -1,0 +1,195 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745408522557.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745408522557.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ABwVGYeVoHWClAkADQD/2r7A1uLb192IfIYA+eLEutzr59je//bwAEAuNDo7RjU/S1BGTbYQGnHOYBHCAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "67e6669b711a4ce5a41d1aa8",
+  "sku": "PC-Gamer-Crystal-4",
+  "mpn": "PC-Gamer-Crystal-4",
+  "titleSeo": "PC Gamer Crystal 4 | Ryzen 5 7600 | RX 9070 | 32GB DDR5 6000MHz | 500GB NVMe | Windows 11 | MEGA PC | GIGA TECH",
+  "desciprtionSeo": "🔥 PC Gamer Crystal 4 : Un PC ultra-performant équipé d’un Ryzen 5 7600, une RX 9070, 32GB DDR5 6000MHz et 500GB NVMe. Puissance, rapidité et design premium pour une expérience gaming ultime !",
+  "ratingValue": "4.7",
+  "reviewCount": "94",
+  "priceValidUntil": "2027-09-08 ",
+  "referenceInterne": "PC-Gamer-Crystal-4",
+  "title": "PC Gamer Crystal 4 | Ryzen 5 7600 | RX 9070 | 32GB DDR5 | 500GB NVMe",
+  "title_fr": "PC Gamer Crystal 4 | Ryzen 5 7600 | RX 9070 | 32GB DDR5 | 500GB NVMe",
+  "description_fr": "<p><span style=\"font-size:22px\">Le <strong>PC Gamer Crystal 4</strong> est une machine taill&eacute;e pour les gamers exigeants ! Gr&acirc;ce &agrave; son <strong>AMD Ryzen 5 7600</strong>, son <strong>Gigabyte Radeon RX 9070 GAMING OC 16G</strong> et ses <strong>32 Go de RAM DDR5 6000MHz</strong>, il offre des performances exceptionnelles en 1440p et 4K.</span></p>\n\n<p><span style=\"font-size:22px\">Son <strong>SSD NVMe MSI Spatium M450 500GB</strong> assure des chargements ultra-rapides, tandis que le <strong>bo&icirc;tier Cooler Master MasterBox TD500 Cristal</strong> apporte une touche de style et une excellente circulation d&#39;air. Le <strong>syst&egrave;me de refroidissement avanc&eacute;</strong> avec le <strong>Mars Gaming MCPU-XU9 Dual Tower</strong> permet de garder le processeur &agrave; des temp&eacute;ratures optimales, m&ecirc;me sous forte charge.</span></p>\n\n<p><span style=\"font-size:22px\">🔧 <strong>Processeur AMD Ryzen 5 7600</strong> :<br />\n✅ <strong>6 c&oelig;urs / 12 threads</strong> pour une puissance multit&acirc;che<br />\n✅ <strong>Fr&eacute;quence jusqu&rsquo;&agrave; 5.1 GHz</strong> pour des performances optimales<br />\n✅ <strong>Wraith Stealth Cooler inclus</strong></span></p>\n\n<p><span style=\"font-size:22px\">⚡ <strong>M&eacute;moire et stockage ultra-rapides</strong> :<br />\n✅ <strong>32 Go de RAM Ripjaws M5 RGB NEO DDR5 6000MHz (2x16GB)</strong><br />\n✅ IMATION X732 NVMe Gen3 512Go</span></p>\n\n<p><span style=\"font-size:22px\">❄️ <strong>Refroidissement et bo&icirc;tier haut de gamme</strong> :<br />\n✅ <strong>Mars Gaming MCPU-XU9 Dual Tower avec 2 ventilateurs puissants</strong><br />\n✅ <strong>Bo&icirc;tier Cooler Master MasterBox TD500 Cristal</strong> avec un design premium et un excellent airflow</span></p>\n\n<p><span style=\"font-size:22px\">🔌 <strong>Alimentation fiable et performante</strong> :<br />\n✅ <strong>Gigabyte GP-UD750GM 750W 80+ Gold Modulaire PCIe 5</strong> pour une stabilit&eacute; &eacute;nerg&eacute;tique parfaite</span></p>\n\n<p><span style=\"font-size:22px\">💻 <strong>Syst&egrave;me d&rsquo;exploitation :</strong> Windows 11 pour une exp&eacute;rience utilisateur moderne et fluide.</span></p>\n",
+  "miniDescription_fr": "<p><span style=\"font-size:22px\">✅ <strong>Processeur :</strong> Ryzen 5 7600 Wraith Stealth (3.8 GHz / 5.1 GHz)<br />\n✅ <strong>Carte M&egrave;re :</strong> MSI PRO A620M-E DDR5<br />\n✅ <strong>RAM :</strong> Ripjaws M5 RGB NEO 32GB (2x16GB) DDR5 6000MHz<br />\n✅ <strong>Stockage :</strong> IMATION X732 NVMe Gen3 512Go</span><br />\n<span style=\"font-size:22px\">✅ <strong>Carte Graphique :</strong> Gigabyte Radeon RX 9070 GAMING OC 16G<br />\n✅ <strong>Alimentation :</strong> Gigabyte GP-UD750GM 750W 80+ Gold Modulaire PCIe 5<br />\n✅ <strong>Bo&icirc;tier :</strong> Cooler Master MasterBox TD500 Cristal<br />\n✅ <strong>Air Cooling :</strong> Mars Gaming MCPU-XU9, Dual Tower, 2x Fan</span></p>\n\n<p><span style=\"font-size:22px\"><span style=\"color:#0000cd\">Frais d&#39;installation de Windows : 30 DT</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5fc5ffd20c10517079547a47",
+    "titre": "CONFIG PC AMD",
+    "description": "CONFIG PC AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1606811608461.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-12-01T08:33:22.000Z"
+  },
+  "categorie": {
+    "_id": "5e907aa91c9a7315fc2fc033",
+    "order": 0,
+    "titre": "ORDINATEURS",
+    "__v": 0,
+    "description": "<h1>pc gamer tunisie<br></h1><p>Retrouvez le meilleur <strong>Pc GAMER</strong> en Tunisie sur Megapc.tn . Puissance de calcul, <a href=\"https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE\">carte graphique</a>, ou mémoire vive, sélectionnez le <strong>PC Gaming</strong> adapté à vos besoins.</p><p>Du <strong>PC de bureau</strong> sur mesure à l'ordinateur portable gamer, nos experts alimentent régulièrement les gammes d'ordinateurs en nouveautés pour satisfaire aux exigences des logiciels &amp; derniers jeux Vidéo.</p><p>Trouvez le PC Gamer de vos rêves chez MEGA PC. Config PC Gamer sur mesure; PC Gamer fixe, PC gaming complet!</p>",
+    "urlPhoto": "/uploads/categorie/1596623778969.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205162725.webp",
+    "create_date": "2020-04-10T13:54:49.000Z",
+    "update_date": "2024-05-06T12:12:56.357Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23237a4815052c4d1a415",
+    "titre": "PC GAMER",
+    "categorie": "5e907aa91c9a7315fc2fc033",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1623073866853.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Achat PC Gamer Tunisie, PC de bureau Gamer sur mesure. Ordinateur Gamer Processeur intel, Ryzen, Carte graphique RTX. Pc gamer tunisie 1000 dt Prix.</p>",
+    "titreSEO": "PC Gamer Tunisie - Achat PC Gamer sur mesure - Intel | RYZEN -MEGA PC",
+    "create_date": "2020-04-24T00:26:31.000Z",
+    "update_date": "2021-12-15T10:41:08.763Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Processeur",
+      "valeur": "AMD Ryzen 5 7600",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b382"
+    },
+    {
+      "cle": "Fréquence du processeur",
+      "valeur": "5.10GHz",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b383"
+    },
+    {
+      "cle": "Carte Mère",
+      "valeur": "A620M-E",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b385"
+    },
+    {
+      "cle": "Ram",
+      "valeur": "32GB DDR5 6000MHz",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b386"
+    },
+    {
+      "cle": "Stockage",
+      "valeur": "500GB NVMe",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b387"
+    },
+    {
+      "cle": "Bloc d'alimentation",
+      "valeur": "750W PCIE5 80+ Gold",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b388"
+    },
+    {
+      "cle": "Boitier",
+      "valeur": "COOLER MASTER MASTERBOX TD500 CRYSTAL",
+      "enable": true,
+      "_id": "67d156d5711a4ce5a4d3b389"
+    },
+    {
+      "cle": "Carte Graphique",
+      "valeur": "RX 9070 16GB",
+      "enable": true,
+      "_id": "67db3237711a4ce5a46a0820"
+    },
+    {
+      "cle": "Type de refroidissement",
+      "valeur": "Aircooling",
+      "enable": true,
+      "_id": "6878dc6c38284c844311a398"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23237a4815052c4d1a415",
+    "67d7f084711a4ce5a40f87db"
+  ],
+  "lien": "PC-Gamer-Crystal-4-Ryzen-5-7600-RX-9070-32GB-DDR5-500GB-NVMe",
+  "gallerie": {
+    "_id": "6808d200c75bcce7a2091ea4",
+    "titre": "PC GAMER CRYSTAL 4 | RYZEN 5 7600 | RX 9070 | 32GB DDR5 | 500GB NVME",
+    "urlPhoto": [
+      "/uploads/gallerie/1745408522557.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-23T11:42:02.707Z",
+    "create_date": "2025-04-23T11:41:52.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1171,
+  "price": 4699,
+  "priceHt": null,
+  "tagsSearch": [
+    "PC GAMER",
+    "BANKAI",
+    "ORDINATEURS",
+    "MEGA PC",
+    "PC Gamer",
+    "GAMING",
+    "HIGHEND",
+    "HIGH END",
+    "CONFIG PC AMD"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2025-03-19T19:48:23.934Z",
+  "update_date": "2025-10-23T21:24:26.444Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

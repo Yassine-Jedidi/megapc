@@ -1,0 +1,206 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1675845499349.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1675845499349.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ANLS1VpaX6+trPz7+gCMi40AAAWEbWC9raAAl5eZCQ4QX0hHs5uQAObm6WlpbI6NjP/78bCMGsnZEIdHAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "63e35eca8ac974073d6c3a20",
+  "sku": "100-100000263BOX",
+  "mpn": "0730143313377",
+  "titleSeo": "AMD Ryzen 7 5700G Wraith Stealth (3.8 GHz / 4.6 GHz) | MEGA",
+  "desciprtionSeo": "AMD Ryzen 7 5700G Wraith Stealth (3.8 GHz / 4.6 GHz) Fréquence CPU : 3.8 GHz Fréquence en mode Turbo : 4.6 GHz Nombre de core : 8 / Threads : 16 | MEGA",
+  "ratingValue": "3",
+  "reviewCount": "58",
+  "priceValidUntil": "2023-09-09",
+  "referenceInterne": "100-100000263BOX",
+  "title": "AMD Ryzen 7 5700G (3.8 GHz / 4.6 GHz)",
+  "title_fr": "AMD Ryzen 7 5700G (3.8 GHz / 4.6 GHz)",
+  "description_fr": "<h2>AMD Ryzen 7 5700G Wraith Stealth : embrasser l&rsquo;euphorie du bonheur informatique</h2>\n\n<p><span style=\"font-size:22px\">Voici l&rsquo;AMD Ryzen 7 5700G Wraith Stealth, un phare de l&rsquo;industrie des processeurs hautes performances. Avec ses 8 c&oelig;urs et ses 16 threads fonctionnant &agrave; une fr&eacute;quence de base de 3,8 GHz et turbocompress&eacute;s &agrave; 4,6 GHz, cette merveille d&rsquo;ing&eacute;nierie, log&eacute;e dans une d&eacute;licatesse d&rsquo;h&eacute;liogravure de 7 nm, d&eacute;gage du plaisir sous le design de C&eacute;zanne.</span></p>\n\n<h2>Zen 3 Brilliance : une symphonie de multit&acirc;ches joyeux</h2>\n\n<p><span style=\"font-size:22px\">L&rsquo;architecture Zen 3, qui combine huit c&oelig;urs et seize threads pour cr&eacute;er une symphonie agr&eacute;able, est au c&oelig;ur de ce processeur. Le Ryzen 7 5700G offre un &eacute;quilibre parfait entre puissance et efficacit&eacute; avec une puissance de conception thermique (TDP) de 65 W, garantissant une exp&eacute;rience informatique agr&eacute;able pour tout votre travail.</span></p>\n\n<h2>Vega Graphics Elegance : la joie visuelle d&eacute;cha&icirc;n&eacute;e</h2>\n\n<p><span style=\"font-size:22px\">Profitez du plaisir visuel de la carte graphique AMD Radeon Vega 8 int&eacute;gr&eacute;e, qui fonctionne &agrave; 2000 MHz. Le chipset est parfaitement adapt&eacute; au processeur, offrant &agrave; la fois un plaisir visuel et informatique, ce qui le rend parfait pour les aficionados d&rsquo;ordinateurs de bureau et les joueurs.</span></p>\n\n<h2>Wraith Stealth Comfort : se rafra&icirc;chir joyeusement et silencieusement</h2>\n\n<p><span style=\"font-size:22px\">Avec le refroidisseur Wraith Stealth qui l&rsquo;accompagne, vous pouvez profiter pleinement du confort d&rsquo;une informatique heureuse. Con&ccedil;u pour maintenir le contr&ocirc;le de la temp&eacute;rature tout en conservant le style, le Ryzen 7 5700G garantit une exp&eacute;rience informatique paisible en &eacute;quilibrant puissance et performances.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence CPU :&nbsp;3.8 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence en mode Turbo :&nbsp;4.6 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de core :&nbsp;4</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de Threads :&nbsp;16</span></li>\n\t<li><span style=\"font-size:22px\">Chipset graphique :&nbsp;AMD Radeon Vega 8 Graphics</span></li>\n\t<li><span style=\"font-size:22px\">Contr&ocirc;leur m&eacute;moire :&nbsp;DDR4</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb192424a2e400482a012cd",
+    "titre": "AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326818201.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:20:18.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.8 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cc"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "4.6 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cd"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "8",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cf"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "16",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23d0"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR4 3200 MHz",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e3"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "4 Mo",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e4"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "16 Mo",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e5"
+    },
+    {
+      "cle": "TDP",
+      "valeur": "65 W",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e6"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "AMD AM4",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e7"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD A520",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e6421e"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD B550",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e6421f"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD X570",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e64220"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "AMD-Ryzen-7-5700G-Wraith-Stealth",
+  "gallerie": {
+    "_id": "63e35f588ac974073d6ca6df",
+    "titre": "AMD RYZEN 7 5700G WRAITH STEALTH (3.8 GHZ / 4.6 GHZ)",
+    "urlPhoto": [
+      "/uploads/gallerie/1675845499349.webp"
+    ],
+    "update_date": "2023-02-08T08:38:19.581Z",
+    "create_date": "2023-02-08T08:37:44.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 7318,
+  "price": 669,
+  "sale": false,
+  "tagsSearch": [
+    "AMD",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "AMD Ryzen 7 5700G"
+  ],
+  "discount": null,
+  "stock": 100,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2023-02-08T08:35:22.845Z",
+  "update_date": "2025-10-24T16:03:38.963Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

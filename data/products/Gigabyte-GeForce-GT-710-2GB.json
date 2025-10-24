@@ -1,0 +1,218 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761056802605.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761056802605.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAP0lEQVQImQE0AMv/APb299XW1re5wfb19wCtr6UAAA0ySTnl694A0tbGdHVyXV9OsLCnAP/////+/u/u7/v5+V4/InNv5xNbAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761056808265.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761056808265.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQY+vv73N3dra2tFy5cyJCZkc7AwMDJydnZ2cmArAwASZgf7Og3O1wAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761056808266.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761056808266.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAMUlEQVQImWP48eP7t29f/4MBw8dPnzzcXD09fZ89e8bw////vOwsFgaGI4cOgThwAADUiiV8bGWkPAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761056835726.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761056835726.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANElEQVQImWP4jwQYdmzfWl5WxsDAUFZSzHDj2lUpMSFlBend2zcx/P////PnT3///gUqAwB5vyHpRuH5dAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "6482df41c026d6db8d97fd71",
+  "sku": "GV-N710D3-2GL",
+  "mpn": "0000000000000",
+  "titleSeo": "Gigabyte GeForce GT 710 : 2 Go DDR3 - HDMI/DVI low profile bracket  | MEGA PC ",
+  "desciprtionSeo": "Gigabyte GeForce GT 710 : 2 Go DDR3 - HDMI/DVI low profile bracket  | MEGA PC ",
+  "ratingValue": "4.7",
+  "reviewCount": "69",
+  "priceValidUntil": "2027-05-08",
+  "referenceInterne": "GV-N710D3-2GL",
+  "title": "Gigabyte GeForce GT 710 2GB",
+  "title_fr": "Gigabyte GeForce GT 710 2GB",
+  "description_fr": "<h2>Gigabyte GeForce GT 710</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La carte graphique Gigabyte GeForce GT 710 GV-N710D3-2GL vous propose des solutions graphiques qui vous offrent une exp&eacute;rience plus immersive et plus rapide sur toutes vos applications favorites ! Au format Low Profile et &eacute;quip&eacute;e d&#39;un syst&egrave;me de refroidissement efficace, la Gigabyte GeForce GT 710 GV-N710D3-2GL est id&eacute;ale pour les configurations multim&eacute;dia de type HTPC et PC Home Cinema. Profitez donc de bonnes performances &agrave; tout petit prix.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1689588216665.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">MOD&Egrave;LE : NVIDIA GeForce GT 710</span></li>\n\t<li><span style=\"font-size:22px\">TAILLE M&Eacute;MOIRE&nbsp; : 2 GB</span></li>\n\t<li><span style=\"font-size:22px\">TYPE DE M&Eacute;MOIRE : DDR3</span></li>\n\t<li><span style=\"font-size:22px\">NOMBRE D&#39;&Eacute;CRAN(S) : 3</span></li>\n\t<li><span style=\"font-size:22px\">FR&Eacute;QUENCE M&Eacute;MOIRE VID&Eacute;O : 954&nbsp;MHz</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232b7a4815052c4d1a41b",
+    "titre": "CARTE GRAPHIQUE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205659932.webp",
+    "order": 4,
+    "descriptionSEO": "<p>Carte graphique pc Gamer , ordinateur bureau Nvidia RTX 3060Ti, RTX 3060, RTX 3070, RTX 3080, RTX 3090 GIGABYTE, ASUS, MSI, PNY GTX. Prix Tunisie. </p>",
+    "titreSEO": "carte graphique Tunisie | Carte graphique pc gamer Nvidia RTX - MegaPC",
+    "create_date": "2020-04-24T00:28:39.000Z",
+    "reference": "GPU",
+    "update_date": "2021-10-15T15:28:01.148Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Support Direct X (version)",
+      "valeur": "12",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1df"
+    },
+    {
+      "cle": "Fréquence mémoire vidéo",
+      "valeur": "5010 MHz",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e0"
+    },
+    {
+      "cle": "Consommation",
+      "valeur": "19 W",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e1"
+    },
+    {
+      "cle": "Interface mémoire",
+      "valeur": "64 bit(s)",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e2"
+    },
+    {
+      "cle": "Taille mémoire vidéo",
+      "valeur": "2 Go",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e3"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "GDDR5",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e4"
+    },
+    {
+      "cle": "Nombre de slots",
+      "valeur": "1",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e5"
+    },
+    {
+      "cle": "VR Ready (réalité virtuelle)",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e6"
+    },
+    {
+      "cle": "Sorties vidéo",
+      "valeur": "1 X HDMI Femelle",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e7"
+    },
+    {
+      "cle": "Sorties vidéo",
+      "valeur": "1 X DVI Femelle",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e8"
+    },
+    {
+      "cle": "Sorties vidéo",
+      "valeur": "1 X VGA (D-sub 15 Femelle)",
+      "enable": true,
+      "_id": "663a075d359e8f86d0dda1e9"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232b7a4815052c4d1a41b"
+  ],
+  "lien": "Gigabyte-GeForce-GT-710-2GB",
+  "gallerie": {
+    "_id": "6482df55c026d6db8d987b4f",
+    "titre": "GIGABYTE GEFORCE GT 710",
+    "urlPhoto": [
+      "/uploads/gallerie/1761056802605.jpg",
+      "/uploads/gallerie/1761056808265.jpg",
+      "/uploads/gallerie/1761056808266.jpg",
+      "/uploads/gallerie/1761056835726.jpg"
+    ],
+    "update_date": "2025-10-21T14:27:15.842Z",
+    "create_date": "2023-06-09T08:14:13.000Z",
+    "__v": 4,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 6056,
+  "price": 169,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE GRAPHIQUE",
+    "arrive1"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2023-06-09T08:13:53.647Z",
+  "update_date": "2025-10-23T21:20:56.422Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

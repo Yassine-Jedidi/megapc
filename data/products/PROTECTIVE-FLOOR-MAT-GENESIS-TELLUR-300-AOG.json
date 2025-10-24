@@ -1,0 +1,157 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591208629556.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591208629556.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVQImQ3KQQ3AQAgEwDWAQjTgBy+Y4XVFAVwTkm3nPSD53tvdu4uZMTNVrSpEhIgAcHeQfM7JzL99tjgjFuvFiQQAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591208629730.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591208629730.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWP4jwQYLoHB2rVr+/r6GCZMmCAkJMTAwJCbm8vw////e/fu3bp1C6gMAMTwIuFIoBXHAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591208629813.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591208629813.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImS3HMQ0AUQhEwXVBT4kKlGEOL1RYIO/nkutmBOxudwMCqioi/piZ9EF3l5nuPjMPor4gCJcI9GEAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591208630198.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591208630198.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImQXBQREAMAgDsMqoA8yDgDrY8eTQQ5fA9sy892xjdyOCpCR0N0kAmQnbkqrq7j47Ph8AwEgjcAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "productpriv": false,
+  "specialproduct": false,
+  "_id": "5ed7eade4ab2c80b462cb03d",
+  "sku": "floor-protect-mat-gen-300AOG",
+  "mpn": "5901969420395",
+  "titleSeo": "TAPIS PROTECTIVE FLOOR MAT GENESIS TELLUR 300 AOG GAMING",
+  "ratingValue": "4",
+  "reviewCount": "49",
+  "priceValidUntil": "2022-06-03",
+  "referenceInterne": "MP_GEN_AOG",
+  "title": "PROTECTIVE FLOOR MAT GENESIS TELLUR 300 AOG",
+  "title_fr": "PROTECTIVE FLOOR MAT GENESIS TELLUR 300 AOG",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>TAPIS PROTECTEUR GENESIS TELLUR 300 AOG</h2>\n\n<hr />\n<blockquote><strong><span style=\"color:#1155cc\">Tapis protecteur Genesis TELLUR 300 AOG</span></strong> - Mat&eacute;riel <strong><span style=\"color:#1155cc\">Polyester </span></strong>- Couleur <span style=\"color:#1155cc\"><strong>Noir </strong></span>- Diam&egrave;tre <span style=\"color:#1155cc\"><strong>100 cm</strong></span> - EAN <span style=\"color:#1155cc\"><strong>5901969420395 </strong></span>- Num&eacute;ro de catalogue <strong><span style=\"color:#1155cc\">NDG-1462</span></strong></blockquote>\n\n<p><img alt=\"TAPIS PROTECTEUR GENESIS TELLUR 300 AOG prix tunisie\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1614084470820.webp\" /></p>\n",
+  "miniDescription_fr": "<p>Tapis protecteur Genesis TELLUR 300 AOG - Matériel Polyester - Couleur\tNoir - Diamètre 100 cm - EAN 5901969420395 - Numéro de catalogue NDG-1462<br></p>",
+  "notreSelection": false,
+  "marque": {
+    "_id": "5ec4fd354a2e400482a01418",
+    "titre": "GENESIS",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327442875.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-20T09:49:41.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233d4a4815052c4d1a424",
+    "titre": "TAPIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206298045.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Tapis souris PC gamer | Vente Tapis de Souris Pour PC Portable et PC de Bureau à prix pas cher - Tapis de souris pour Pc bureau professionnels.</p>",
+    "titreSEO": "Tapis souris PC gamer | Tapis souris Tunisie au meilleurs prix",
+    "create_date": "2020-04-24T00:33:24.000Z",
+    "reference": "TAPIS",
+    "update_date": "2021-12-04T08:54:04.361Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "DIAMÈTRE",
+      "valeur": "100 MM",
+      "enable": true,
+      "_id": "5ed7ec2f4ab2c80b462cb043"
+    }
+  ],
+  "tag": [],
+  "compatibility": [
+    "5fb510cd2ad25d0424bc0298",
+    "6023b39e5a363f3e599716d2",
+    "5ed7ebb04ab2c80b462cb03f",
+    "602e62fb72a5e1d1ef8696f5",
+    "5ffd6d549504b9a0f1d9ddf4",
+    "60ed61fc3ad8ba4cd24f9762"
+  ],
+  "nFilsCategs": [
+    "5ea233d4a4815052c4d1a424"
+  ],
+  "lien": "PROTECTIVE-FLOOR-MAT-GENESIS-TELLUR-300-AOG",
+  "gallerie": {
+    "_id": "5ed7eaae4ab2c80b462cb03c",
+    "urlPhoto": [
+      "/uploads/gallerie/webp/1591208629556.webp",
+      "/uploads/gallerie/webp/1591208629730.webp",
+      "/uploads/gallerie/webp/1591208629813.webp",
+      "/uploads/gallerie/webp/1591208630198.webp"
+    ],
+    "titre": "PROTECTIVE FLOOR MAT GENESIS TELLUR 300 AOG",
+    "__v": 1,
+    "create_date": "2020-06-03T18:23:42.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 3873,
+  "price": 79,
+  "tagsSearch": [
+    "GENESIS",
+    "ACCESSOIRES",
+    "TAPIS"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2020-06-03T18:24:30.476Z",
+  "update_date": "2025-10-23T21:34:01.817Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

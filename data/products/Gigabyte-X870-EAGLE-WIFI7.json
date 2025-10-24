@@ -1,0 +1,178 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848716048.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848716048.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AFVXWv5/gH7+HB0e/gAABP4AfoB//v//9v98g4H/U11c/wA5Ozz+m5uY/5ihnP5gZF7+ADc4OP5VVVD/V1dS/kM+Pf+UXCKWnAA0DwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848718327.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848718327.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AIiKiP6cnZv+VllW/gAAAP4AhImE/v//+f+Xl5L/QURD/wBHSkv+lpyc/3Z2cv5aaGj+AB8iI/5oaWn/Zmlo/mlraP/3qiStSbGetgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848720450.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848720450.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ACUnKf6JjIn+HR8h/gACBP4AFxgb/v3/+P+0t7L/GRkc/wAAAgj+kJGM/7a8uP5fYWD+AAAABf5KTEz/mZ2b/pWYlf8pRCGB3HFtCwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848722888.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848722888.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AOL///5qcGn+EgAA/nx4cP4AT0xI/jEkIP8BAQD/Hh4c/wBKTUz+RUhH/zc5M/45OTb+AC0vLf5ZWVf/ZmVg/khJRv8bex3IoD+k/AAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848725370.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848725370.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AHZ5eP5JTEn+ISUj/gABAf4AsrKs/mdpZf8hJSP/AgUF/wD+//X+g4aA/8DCvP4yNDP+AC0uLP5zdXD/xMW+/kFBQP9RfyKLr1umeQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848728542.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848728542.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP4DwL/Hj969OnTJ4ZNM9o9I+NVtfRTElMYgn1dGTgFxaRkw8MjGO7df3D94oVbN268ePkSAA8pHJum27TQAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848731126.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848731126.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APz8/ZSUl4B/gvX19QDKys0tKzACAAS2tLYA3t7fKygtGRgdyMnKAP///15dYGFjZfHy8+tZG//gvcfAAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848734014.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848734014.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMvLy1RUVXJxcv///gCsrK0SEBMCAAK9vb0AxMTFJiUnGhoewMHCANPS0h8eHzQ1ONrb3HlqF35gTgO4AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "680bcd82c75bcce7a2331e27",
+  "sku": "F090139",
+  "mpn": "F090139",
+  "titleSeo": "💥 Carte Mère Gigabyte X870 EAGLE WIFI7 — AM5, DDR5, USB4, Wi-Fi 7 ⚡ | Meilleur Prix en Tunisie 🇹🇳 | MEGA PC | GIGA TECH | PC GAMER TUNISIE ",
+  "desciprtionSeo": "Découvrez la puissance ultime de la Gigabyte X870 EAGLE WIFI7, une carte mère haut de gamme compatible avec les processeurs AMD Ryzen™ 9000, 8000 et 7000, offrant des performances de pointe avec DDR5 jusqu’à 8200 MHz, Wi-Fi 7, USB4, et un support complet PCIe 5.0. Idéale pour les gamers et créateurs exigeants, elle est conçue pour booster votre PC avec une stabilité inégalée. 🛠️ Disponible au meilleur prix en Tunisie 🇹🇳 — ne ratez pas cette opportunité de monter un PC de nouvelle génération ! | Carte mère Gigabyte X870 prix Tunisie  Gigabyte X870 EAGLE WIFI7 Tunisie  Carte mère AM5 DDR5 Wi-Fi 7 Tunisie  Carte mère Ryzen 9000 Tunisie  Gigabyte X870 meilleur prix  Carte mère PCIe 5.0 USB4 Tunisie  Gigabyte carte mère gamer Tunisie",
+  "ratingValue": "4.7",
+  "reviewCount": "55",
+  "priceValidUntil": "2027-07-09",
+  "referenceInterne": "9MB76DS35-00-G10",
+  "title": "Gigabyte X870 EAGLE WIFI7 1.1",
+  "title_fr": "Gigabyte X870 EAGLE WIFI7 1.1",
+  "description_fr": "<p><span style=\"font-size:22px\">🎯 <strong>Carte M&egrave;re Gigabyte X870 EAGLE WIFI7 &ndash; L&rsquo;alliance ultime de performance et de connectivit&eacute; haut de gamme !</strong></span></p>\n\n<p><span style=\"font-size:22px\">💻 En qu&ecirc;te d&rsquo;une carte m&egrave;re taill&eacute;e pour les performances extr&ecirc;mes, la Gigabyte X870 EAGLE WIFI7 d&eacute;barque en Tunisie avec tout ce qu&rsquo;il faut pour propulser votre configuration au sommet 🚀. Compatible avec les <strong>processeurs AMD Ryzen&trade; 9000, 8000 et 7000</strong>, elle exploite le chipset <strong>AMD X870</strong>, offrant une base puissante pour les gamers exigeants et les cr&eacute;ateurs de contenu.</span></p>\n\n<p><span style=\"font-size:22px\">⚡ Niveau m&eacute;moire, elle supporte jusqu&rsquo;&agrave; <strong>256 Go de DDR5</strong> avec des fr&eacute;quences impressionnantes allant jusqu&rsquo;&agrave; <strong>8200 MHz en OC</strong> ! La double compatibilit&eacute; <strong>AMD EXPO&trade;</strong> et <strong>Intel XMP</strong> permet un overclocking facile et s&eacute;curis&eacute; 🧠.</span></p>\n\n<p><span style=\"font-size:22px\">🎮 C&ocirc;t&eacute; graphismes, la carte g&egrave;re parfaitement la sortie <strong>HDMI 2.1</strong> et <strong>USB4&reg; Type-C avec DisplayPort</strong>, prenant en charge des r&eacute;solutions jusqu&rsquo;&agrave; <strong>3840x2160@240 Hz</strong> &ndash; id&eacute;al pour les moniteurs 4K/240Hz 🖥️.</span></p>\n\n<p><span style=\"font-size:22px\">🔊 L&rsquo;audio est pris en charge par le codec <strong>Realtek HD Audio</strong>, supportant les syst&egrave;mes jusqu&rsquo;&agrave; <strong>7.1 canaux</strong>, pour une immersion sonore exceptionnelle 🎧.</span></p>\n\n<p><span style=\"font-size:22px\">🌐 Pour la connectivit&eacute;, c&rsquo;est du lourd : <strong>Wi-Fi 7</strong> nouvelle g&eacute;n&eacute;ration avec Bluetooth 5.4, et un <strong>port LAN 2.5GbE</strong> pour des transferts ultra-rapides. Que vous soyez joueur comp&eacute;titif ou streamer, vous resterez toujours connect&eacute; ⚙️📶.</span></p>\n\n<p><span style=\"font-size:22px\">📦 C&ocirc;t&eacute; stockage, la X870 EAGLE embarque <strong>3 ports M.2</strong>, dont un compatible <strong>PCIe 5.0 x4</strong>, ainsi que <strong>4 ports SATA 6 Gb/s</strong>, le tout avec gestion <strong>RAID 0/1/5/10</strong> pour la performance et la s&eacute;curit&eacute; de vos donn&eacute;es 💾🔥.</span></p>\n\n<p><span style=\"font-size:22px\">🔌 Elle regorge de ports USB : <strong>USB 3.2 Gen 2x2</strong>, <strong>USB 3.2 Gen 2</strong>, <strong>USB 3.2 Gen 1</strong>, <strong>USB2.0</strong>, et surtout <strong>2 ports USB4&reg; Type-C</strong>, pour une compatibilit&eacute; maximale avec vos p&eacute;riph&eacute;riques modernes ⚡.</span></p>\n\n<p><span style=\"font-size:22px\">🛠️ Con&ccedil;ue au format <strong>ATX</strong>, elle propose une grande vari&eacute;t&eacute; de connecteurs internes (RGB Gen2, ventilateurs, watercooling, USB-C, TPM&hellip;) pour une personnalisation compl&egrave;te de votre PC 🖱️🧩.</span></p>\n\n<p><span style=\"font-size:22px\">📘 Avec le <strong>GIGABYTE Control Center (GCC)</strong>, la gestion de votre syst&egrave;me devient intuitive. Profitez aussi des fonctionnalit&eacute;s <strong>Q-Flash Plus</strong> et <strong>Smart Backup</strong> pour mettre &agrave; jour ou restaurer votre BIOS sans souci.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🧠 <strong>Socket Processeur</strong> : AMD AM5 (Ryzen 9000/8000/7000)</span></li>\n\t<li><span style=\"font-size:22px\">⚙️ <strong>Chipset</strong> : AMD X870</span></li>\n\t<li><span style=\"font-size:22px\">🧬 <strong>M&eacute;moire</strong> : DDR5 jusqu&rsquo;&agrave; 8200 MHz (256 Go max, Dual Channel)</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Graphiques int&eacute;gr&eacute;s</strong> : USB4 + HDMI 2.1 (jusqu&rsquo;&agrave; 4K 240Hz)</span></li>\n\t<li><span style=\"font-size:22px\">🔊 <strong>Audio</strong> : Realtek 7.1 HD Audio</span></li>\n\t<li><span style=\"font-size:22px\">🌐 <strong>R&eacute;seau</strong> : 2.5GbE LAN + Wi-Fi 7 + Bluetooth 5.4</span></li>\n\t<li><span style=\"font-size:22px\">🚀 <strong>PCIe</strong> : 1x PCIe 5.0 x16 + 2x PCIe 3.0 x1</span></li>\n\t<li><span style=\"font-size:22px\">💾 <strong>Stockage</strong> : 3x M.2 NVMe (PCIe 5.0 / 4.0) + 4x SATA 6Gb/s</span></li>\n\t<li><span style=\"font-size:22px\">🔌 <strong>USB</strong> : USB4, USB 3.2 Gen2x2, USB-C, USB-A</span></li>\n\t<li><span style=\"font-size:22px\">💡 <strong>RGB</strong> : Connecteurs ARGB/RGB Gen2</span></li>\n\t<li><span style=\"font-size:22px\">📏 <strong>Format</strong> : ATX (30.5 cm x 24.4 cm)</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "Gigabyte-X870-EAGLE-WIFI7",
+  "gallerie": {
+    "_id": "680f8980c75bcce7a23e1010",
+    "titre": "GIGABYTE-X870-EAGLE-WIFI7",
+    "urlPhoto": [
+      "/uploads/gallerie/1745848716048.webp",
+      "/uploads/gallerie/1745848718327.webp",
+      "/uploads/gallerie/1745848720450.webp",
+      "/uploads/gallerie/1745848722888.webp",
+      "/uploads/gallerie/1745848725370.webp",
+      "/uploads/gallerie/1745848728542.webp",
+      "/uploads/gallerie/1745848731126.webp",
+      "/uploads/gallerie/1745848734014.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T13:58:54.112Z",
+    "create_date": "2025-04-28T13:58:24.000Z",
+    "__v": 8
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1325,
+  "price": 799,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "X870 EAGLE WIFI7",
+    "Ryzen 9000",
+    "GIGA-X870E",
+    "realap"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2025-04-25T17:59:30.370Z",
+  "update_date": "2025-10-24T16:54:48.938Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

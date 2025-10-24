@@ -1,0 +1,141 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724253421956.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724253421956.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AJaz/11aagIAAAASPgBoY12/wMhNWoccHykAOTk3WlpdfZLNaHnKANDR4sPI7srO8un6//y2GGZc7TMrAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "65a7a05e0ba0330b65d3bb17",
+  "sku": "BoostX 15",
+  "mpn": "BoostX 15",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "title": "Pack Upgrade BoostX 15 | Intel Core I9-14900KF | Gigabyte Z790 GAMING X AX",
+  "title_fr": "Pack Upgrade BoostX 15",
+  "description_fr": "",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Processeur :&nbsp;</strong>Intel Core&nbsp;I9-14900KF TRAY</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Carte M&eacute;re : </strong>Gigabyte Z790 GAMING X AX DDR5</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "6027f329df6a5a739c5f603c",
+    "order": 10,
+    "titre": "KIT UPGRADE PC",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1613230899991.webp",
+    "create_date": "2021-02-13T15:41:29.000Z",
+    "reference": "KITUPGRADEPC",
+    "update_date": "2021-12-21T12:33:45.757Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "PROCESSEUR\t",
+      "valeur": "INTEL CORE I9-14900KF",
+      "enable": true,
+      "_id": "65a795f10ba0330b65c962d8"
+    },
+    {
+      "cle": "CARTE MÈRE ",
+      "valeur": "Gigabyte Z790 GAMING X AX",
+      "enable": true,
+      "_id": "65a795f10ba0330b65c962d9"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "6027f329df6a5a739c5f603c"
+  ],
+  "lien": "Pack-Upgrade-BoostX-15",
+  "gallerie": {
+    "_id": "65a8f1880ba0330b65ea4bef",
+    "titre": "PACK UPGRADE BOOSTX 15",
+    "urlPhoto": [
+      "/uploads/gallerie/1724253421956.webp"
+    ],
+    "update_date": "2024-08-21T15:17:05.562Z",
+    "create_date": "2024-01-18T09:38:16.000Z",
+    "__v": 2,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 767,
+  "price": 3199,
+  "tagsSearch": [
+    "MEGA PC",
+    "COMPOSANTS",
+    "KIT UPGRADE PC",
+    "GIGABYTE"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2024-01-17T08:51:04.913Z",
+  "update_date": "2025-10-24T07:42:33.657Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

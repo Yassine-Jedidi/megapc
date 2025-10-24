@@ -1,0 +1,157 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677337499285.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677337499285.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8TExNDQ0P///wCpqak4Nzk8PD/KyssAhISFBQMIAQADh4eIANfX2Jycno+Pkbu7vRVyG+Xtaoj3AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677337503151.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677337503151.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOnq6qKjpNHR0v///wC3trcwLDBCQUfHx8gA5OLiX1VWAAAHgH+BAP///+zs7qqqq8/PzzebH1Ao4EBdAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677337521745.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677337521745.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////T09MrKy/7+/gD6+vqKiopxcXLd3d0A29vbBAQEFBQUq6urAOLi4gAAAB4eHtnZ2ZhyHg8PFZ2EAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "63fa24608ac974073d6dd93e",
+  "sku": "GX40Q17229",
+  "mpn": "GX40Q17229",
+  "titleSeo": "SAC A MAIN Lenovo T210 - Laptop Casual Toploader 15.6\" (NOIR) | MEGA PC",
+  "desciprtionSeo": "SAC A MAIN Lenovo T210 - Laptop Casual Toploader 15.6\" (NOIR) | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GX40Q17229",
+  "title": "Lenovo T210 - Laptop Casual Toploader 15.6\" (NOIR) ",
+  "title_fr": "Lenovo T210 - Laptop Casual Toploader 15.6\" (NOIR) ",
+  "description_fr": "<h2>Lenovo T210 - Laptop Casual Toploader 15.6&quot; (NOIR)</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le Lenovo 15,6&quot; Laptop Casual Toploader T210 combine un tissu hydrofuge avec un design &eacute;pur&eacute; et &eacute;pur&eacute; pour cr&eacute;er un &eacute;tui pour ordinateur portable parfaitement adapt&eacute; &agrave; la vie moderne. Il offre un compartiment pour ordinateur portable int&eacute;gr&eacute; qui s&#39;adapte confortablement &agrave; la plupart des ordinateurs portables jusqu&#39;&agrave; 15,6 pouces.Une gamme de poches int&eacute;rieures pour les accessoires indispensables et un compartiment principal spacieux pour les livres et autres objets</span></p>\n\n<p><img alt=\"Lenovo T210 - Laptop Casual Toploader 15.6&quot; (NOIR) | MEGA PC\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1677337628945.webp\" /></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:20px\">Design d&eacute;contract&eacute; et &eacute;l&eacute;gant Tissu de haute qualit&eacute;, durable et hydrofuge</span></li>\n\t<li><span style=\"font-size:20px\">Grande capacit&eacute; de stockage - convient aux ordinateurs portables jusqu&#39;&agrave; 15,6&quot;</span></li>\n\t<li><span style=\"font-size:20px\">Compartiments et poches id&eacute;alement plac&eacute;s</span></li>\n\t<li><span style=\"font-size:20px\">Sangle de bagage int&eacute;gr&eacute;e pour un voyage plus pratique</span></li>\n\t<li><span style=\"font-size:20px\">362 x 22 x 250 mm (14.2 x 0.8 x 9.8 in)</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "601d6f15051d693aa4208ca1",
+    "order": 9,
+    "titre": "SAC À DOS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1612541733987.webp",
+    "create_date": "2021-02-05T16:15:17.000Z",
+    "reference": "SACADOS",
+    "update_date": "2022-01-04T14:06:13.573Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "COULEUR DU PRODUIT",
+      "valeur": "NOIR",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb0f"
+    },
+    {
+      "cle": "DIMENSIONS (MM)\t",
+      "valeur": "362 x 22 x 250 mm",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb10"
+    },
+    {
+      "cle": "CAPACITÉ",
+      "valeur": "15,6\"",
+      "enable": true,
+      "_id": "63f9efdf8ac974073d5fdb11"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "601d6f15051d693aa4208ca1"
+  ],
+  "lien": "Lenovo-T210-Laptop-Casual-Toploader-NOIR",
+  "gallerie": {
+    "_id": "63fa22ea8ac974073d6d6a29",
+    "titre": "LENOVO T210 - LAPTOP CASUAL TOPLOADER 15.6\" (BLACK)",
+    "urlPhoto": [
+      "/uploads/gallerie/1677337499285.webp",
+      "/uploads/gallerie/1677337503151.webp",
+      "/uploads/gallerie/1677337521745.webp"
+    ],
+    "update_date": "2023-02-25T15:05:21.860Z",
+    "create_date": "2023-02-25T15:02:02.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 1921,
+  "price": 59,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "SAC À DOS"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-02-25T15:08:16.055Z",
+  "update_date": "2025-10-23T03:52:23.304Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

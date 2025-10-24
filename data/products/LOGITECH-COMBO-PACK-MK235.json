@@ -1,0 +1,169 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636719123543.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636719123543.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYioqKDAwMNDQ0MjMzGezs7BgYGIyNja2tbRmQlQEACigdiOOL404AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636719123544.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1636719123544.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYKioqHB0dfX1958+fzxAcHMzAwKCoqJiZmcmArAwAPMcfb8iFZP0AAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "618e5d1323ed78316633a599",
+  "sku": "920-007907",
+  "mpn": "5099206063853",
+  "titleSeo": "Logitech MK235 Wireless Keyboard and Mouse Combo - GREY - FRA - 2.4GHZ (GREY KEYS GREY BTM) TUNISIE - MEGA PC ",
+  "desciprtionSeo": "LOGITECH COMBO PACK MK235 | Ensemble clavier/souris Connexion sans fil puissante et fiable Portée : 10 m Facile à transporter Touches ultra-plates, 15 touches de fonction Résiste aux éclaboussures Autonomie : 36 mois pour le clavier et 12 mois pour la souris Prêt à l'emploi Compatible Windows 7/8/10, Chrome OS, Noyau Linux 2.6 ou version ultérieure | MEGA TUNISIE",
+  "ratingValue": "4.7",
+  "reviewCount": "69",
+  "priceValidUntil": "2027-05-09",
+  "referenceInterne": "920-007907",
+  "title": "LOGITECH Wireless Combo FR MK235",
+  "title_fr": "LOGITECH Wireless Combo FR MK235",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>LOGITECH COMBO PACK MK235</h2>\n\n<hr />\n<p><img alt=\"LOGITECH COMBO PACK MK235 PRIX TUNISIE\" src=\"https://apibackend.megapc.tn///uploads/gallerie/1636719177182.webp\" /></p>\n\n<h3>&nbsp;</h3>\n\n<hr />\n<p><br />\nPRINCIPALES CARACT&Eacute;RISTIQUES :</p>\n\n<p><span style=\"font-size:20px\">- Ensemble clavier et souris<br />\n- 2.4 GHz<br />\n- Distance de fonctionnement max. : Jusqu&#39;&agrave; 10 m<br />\n- Clavier num&eacute;rique</span></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Ensemble clavier/souris</span></li>\n\t<li><span style=\"font-size:22px\">Connexion sans fil puissante et fiable</span></li>\n\t<li><span style=\"font-size:22px\">Port&eacute;e : 10 m</span></li>\n\t<li><span style=\"font-size:22px\">Facile &agrave; transporter</span></li>\n\t<li><span style=\"font-size:22px\">Touches ultra-plates, 15 touches de fonction</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;siste aux &eacute;claboussures</span></li>\n\t<li><span style=\"font-size:22px\">Autonomie :&nbsp;36 mois pour le clavier et 12 mois pour la souris</span></li>\n\t<li><span style=\"font-size:22px\">Pr&ecirc;t &agrave; l&#39;emploi</span></li>\n\t<li><span style=\"font-size:22px\">Compatible Windows 7/8/10, Chrome OS, Noyau Linux 2.6 ou version ult&eacute;rieure</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ed6153e6735df04ea3dad84",
+    "titre": "LOGITECH",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327524058.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-06-02T09:00:46.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ed6291b6735df04ea3dad9d",
+    "titre": "COMBO",
+    "__v": 0,
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "urlPhoto2": "/uploads/souscateg/1620206319036.webp",
+    "order": 4,
+    "descriptionSEO": "<p>Pack clavier souris gamer - Combo Souris clavier casque micro tapis gamer RGB Tunisie sans fil, logitech, MSi, Razer, Genesis, hyperx, Spirit of Gamer</p>",
+    "titreSEO": "Pack clavier souris gamer - Ensemble Clavier et Souris Sans fil Tunisie ",
+    "create_date": "2020-06-02T10:25:31.000Z",
+    "reference": "COMBO",
+    "update_date": "2021-12-04T08:53:56.621Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Pavé numérique",
+      "valeur": "10 touches",
+      "enable": true,
+      "_id": "61c9902faa748d6af93d7dc4"
+    },
+    {
+      "cle": "Autonomie",
+      "valeur": "36 mois",
+      "enable": true,
+      "_id": "61c9902faa748d6af93d7dc5"
+    },
+    {
+      "cle": "Technologie de capteur",
+      "valeur": "Suivi optique fluide",
+      "enable": true,
+      "_id": "61c9902faa748d6af93d7dc6"
+    },
+    {
+      "cle": "Nombre de boutons",
+      "valeur": "3",
+      "enable": true,
+      "_id": "61c9902faa748d6af93d7dc7"
+    },
+    {
+      "cle": "Longévité de la pile",
+      "valeur": "12 mois",
+      "enable": true,
+      "_id": "61c9902faa748d6af93d7dc8"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ed6291b6735df04ea3dad9d"
+  ],
+  "lien": "LOGITECH-COMBO-PACK-MK235",
+  "gallerie": {
+    "_id": "618e59ff23ed7831663395f2",
+    "urlPhoto": [
+      "/uploads/gallerie/1636719123543.webp",
+      "/uploads/gallerie/1636719123544.webp"
+    ],
+    "titre": "LOGITECH COMBO PACK MK235  TUNISIE ",
+    "__v": 1,
+    "create_date": "2021-11-12T12:11:43.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "textCommande": "",
+  "enArrivage": false,
+  "new": false,
+  "vue": 4604,
+  "price": 76,
+  "tagsSearch": [
+    "LOGITECH",
+    "ACCESSOIRES",
+    "COMBO",
+    "Ensemble Clavier Souris Sans Fil Logitech MK23",
+    "LOGITECH MK235 Wireless Combo - GREY - FRA",
+    "Logitech MK235 Wireless Keyboard and Mouse Combo - GREY - FRA - 2.4GHZ (GREY KEYS GREY BTM)"
+  ],
+  "stock": 100,
+  "forConfig": false,
+  "displayForPublic": true,
+  "create_date": "2021-11-12T12:24:51.345Z",
+  "update_date": "2025-10-24T10:28:16.692Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

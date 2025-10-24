@@ -1,0 +1,189 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1721816947650.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1721816947650.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWP4DwY/f/769+8fQ/+sxe62PvpqSpMnTWJobWiUZGCIiQjauW0bw99//759+wVRDABffCFOcCMRoAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1721816951744.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1721816951744.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APr//+/59/b29f79/QBwd3IADAATERB0cXEAd3JnFQAADwYJcW1uAP39/vDw8/Lx8v79/vWHHQht/J/FAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1721816989119.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1721816989119.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWN49uXL3Xef/oMBQ0q0L4Mkk4uHb1tjI8P0id3+no7sDAxhwcEMEAVvXr169+4dABDQHiHZj3IwAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "66a0d7f6e3f72fbb3b83b1a7",
+  "sku": "J4040A16GX2-RM5RK",
+  "mpn": "J4040A16GX2-RM5RK",
+  "titleSeo": "G.Skill Ripjaws M5 RGB 32 Go (2 x 16 Go) DDR5 5200 MHz CL40 - Noir | MEGA TUNISIE",
+  "desciprtionSeo": "G.Skill Ripjaws M5 RGB 32 Go (2 x 16 Go) DDR5 5200 MHz CL40 - Noir | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "45",
+  "priceValidUntil": "2024-09-08 ",
+  "referenceInterne": "J4040A16GX2-RM5RK",
+  "title": "G.Skill Ripjaws M5 RGB 32 Go (2 x 16 Go) DDR5 5200 MHz CL40 - Noir",
+  "title_fr": "G.Skill Ripjaws M5 RGB 32 Go (2 x 16 Go) DDR5 5200 MHz CL40 - Noir",
+  "description_fr": "<h2>G.Skill Ripjaws M5 RGB 32 Go (2 x 16 Go) DDR5 5200 MHz CL40 - Noir</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Les modules G.Skill Ripjaws M5 RGB sont une s&eacute;rie de m&eacute;moires RAM DDR5 hautes performances. Dot&eacute;s de dissipateurs thermiques en aluminium mat noir ou blanc et d&#39;un &eacute;clairage RGB personnalisable, les modules Ripjaws M5 RGB de G.Skill sont disponibles dans une large gamme de capacit&eacute;s et de fr&eacute;quences.</span></p>\n\n<ul>\n\t<li><span style=\"font-size:22px\">La s&eacute;rie Ripjaws M5 RGB est con&ccedil;ue pour extraire le potentiel de vitesse de la m&eacute;moire DDR5 afin d&#39;apporter des performances &eacute;lev&eacute;es aux joueurs et aux overclockeurs.</span></li>\n\t<li><span style=\"font-size:22px\">La m&eacute;moire DRAM DDR5 de la s&eacute;rie Ripjaws M5 RGB est livr&eacute;e avec des dissipateurs thermiques en aluminium mat et prend en charge l&#39;&eacute;clairage&nbsp;<strong>RVB personnalisable</strong>&nbsp;.</span></li>\n\t<li><span style=\"font-size:22px\">Chaque kit de m&eacute;moire Ripjaws M5 est test&eacute; selon le processus de validation rigoureux de G.Skill.</span></li>\n\t<li><span style=\"font-size:22px\">Vous pouvez utiliser Asus Aura Sync, Gigabyte RGB Fusion, MSI Mystic Light ou ASRock Polychrome Sync pour personnaliser les couleurs et les effets de votre m&eacute;moire Ripjaws M5 RGB sur les cartes m&egrave;res compatibles.</span></li>\n\t<li><span style=\"font-size:22px\">Profils XMP 3.0</span></li>\n</ul>\n\n<p><img src=\"https://media.ldlc.com/bo/images/fiches/RAM/Gskill/ripjaws_m5/gskill_ripjaws_m5_rgb_black.jpg\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Capacit&eacute; Totale</strong>&nbsp;: 32 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Modules</strong>&nbsp;: 2 x 16 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Type de M&eacute;moire</strong>&nbsp;: DDR5</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence</strong>&nbsp;: 5200 MHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Latence CAS (CL)</strong>&nbsp;: CL40</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Tension</strong>&nbsp;: 1.10V</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ec166644a2e400482a013c4",
+    "titre": "G.SKILL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327154907.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-17T16:29:24.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2328ca4815052c4d1a419",
+    "titre": "BARETTE MÉMOIRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205649078.webp",
+    "order": 3,
+    "descriptionSEO": "<p>RAM PC gamer, Barrettes mémoires | Ram ordinateur bureau - Ram PC portable prix Tunisie - barrette mémoire ddr4. Mémoire Gigabyte, Adata, pny, Corsair</p>",
+    "titreSEO": "Ram pc gamer Tunisie - Achat Ram pc portable 8go - BARRETTE MÉMOIRE",
+    "create_date": "2020-04-24T00:27:56.000Z",
+    "reference": "RAM",
+    "update_date": "2021-12-04T08:54:47.010Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2abe"
+    },
+    {
+      "cle": "Format de mémoire",
+      "valeur": "DIMM",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2abf"
+    },
+    {
+      "cle": "Capacité par barrette",
+      "valeur": "16 GB",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2ac1"
+    },
+    {
+      "cle": "Nombre de barrettes",
+      "valeur": "2",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2ac2"
+    },
+    {
+      "cle": "Fréquence",
+      "valeur": "5200 MHz",
+      "enable": true,
+      "_id": "6744474299de58d4f6401716"
+    },
+    {
+      "cle": "Capacité",
+      "valeur": "32 GB",
+      "enable": true,
+      "_id": "6744498b99de58d4f640db14"
+    },
+    {
+      "cle": "RGB",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "6744498b99de58d4f640db15"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2328ca4815052c4d1a419"
+  ],
+  "lien": "G-Skill-Ripjaws-M5-RGB-32-GoDDR5-5200-MHz-CL40-Noir",
+  "gallerie": {
+    "_id": "66a0d765e3f72fbb3b83b145",
+    "titre": "G.SKILL RIPJAWS M5 RGB 32 GO (2 X 16 GO) DDR5 5200 MHZ CL40 - NOIR",
+    "urlPhoto": [
+      "/uploads/gallerie/1721816947650.webp",
+      "/uploads/gallerie/1721816951744.webp",
+      "/uploads/gallerie/1721816989119.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-07-24T10:30:10.095Z",
+    "create_date": "2024-07-24T10:28:53.000Z",
+    "__v": 4
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 2385,
+  "price": 449,
+  "tagsSearch": [
+    "G.SKILL",
+    "COMPOSANTS",
+    "BARETTE MÉMOIRE",
+    "f5-5200j4040a16gx2-rm5rk"
+  ],
+  "stock": 0,
+  "forConfig": true,
+  "displayForPublic": true,
+  "create_date": "2024-07-24T10:31:18.829Z",
+  "update_date": "2025-10-24T09:50:29.726Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

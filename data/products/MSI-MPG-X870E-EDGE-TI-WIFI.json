@@ -1,0 +1,188 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456764407.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456764407.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABoaGv4jJCP+BQYH/gAAAv4Aubu4/tvd1/9xdXf/UFJb/gCBgn/+/P/7/6Ojov9BPjz+ADk5OP6Ji4b+SEdE/goFBP5SXCILPDCjuAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456766748.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456766748.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AHt/fdrc1ayuqaesrgD7//zCw72Hh4KUlJEAv8LBmZuX8PXud3dxAF5gX7m9uYOEgAAAAE98HZpjVWe6AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456768689.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456768689.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAAAAP6WnJv/f4F//wAAAP4AAAAA/7e7uf/9//f/ExMT/wAPDw//3uDZ/9fZ0v9RVFb/ABkZGf7Lzcj/lJaR/2NmZP57OyRkSEt+8QAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456771282.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456771282.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWP49f/XjNlTzM1NmRgYGBpb6x0c7UxNjSUkxBimz5rS2duRV5CjoqrMIK8gM2lK39pNa5mZmQH1xRHEpdn4CAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456773921.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456773921.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AGVmZFteW4KDfv3/+wCco59fX1qfoZrZ29QAd3h2sbSttLeyQUI/ALvCv6esp4mLggAADsOkGkYxvEGWAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456776154.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456776154.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWO4e/fe2zdv/4MBQ2tjq5iEdPfS9YtXbGSYOnmyhLQ8g6AEGwMDw/Pnz7dt3bpl/brD+/cCACecHGmbzVwdAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456778511.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456778511.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP7//8TFyHt7e9LS0gDp6e5kY2kDAACsqqwA5OPkXltchoOG5uXmAOrp6oB/gKupqvHw8EJUIDW5fn+JAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456780896.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456780896.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP7//6usroKCgtnZ2QDm5+xcW2MDAAKVlJQA1dTVWldaVlRYxMPEAOfn51pXWmhmaM/OzxJ7HOAoK+t5AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456783127.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456783127.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImQXBsQ2AMAwEwM8uZBuyEpE8k4dx6Tq0LxrLeu4gqao+srshycwGxn423H1ec90rIkAyM99zJP2d4iL1JkQ1vwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456785365.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746456785365.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYtm3bFh8fr6ut09fXyzB16lRZKRlmBuaC/HwGZGUAZeYgu77LIaoAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "67ee66ce711a4ce5a4aef9a3",
+  "sku": "911-7E59-001",
+  "mpn": "911-7E59-001",
+  "titleSeo": "MSI MPG X870E EDGE TI WIFI – Carte Mère Gaming Ultra-Puissante pour Ryzen 9000/8000/7000 | PCIe 5.0 | Wi-Fi 7 | USB4 40Gbps | MEGA PC | GIGATECH | CARTE MERE gaming Tunisie",
+  "desciprtionSeo": "Carte Mère MSI MPG X870E EDGE TI WIFI – Ultra-Puissante pour Ryzen 9000/8000/7000 | PCIe 5.0 | Wi-Fi 7 | USB4 40Gbps |  Boostez votre PC avec la MSI MPG X870E EDGE TI WIFI, une carte mère AM5 haut de gamme conçue pour les processeurs Ryzen™ 9000/8000/7000. Dotée du chipset AMD X870E, elle prend en charge jusqu’à 256 Go de DDR5 à 8400+ MT/s (OC), offrant des performances extrêmes pour le gaming et la création de contenu.  Avec le PCIe 5.0 x16, 4x M.2 NVMe (PCIe 5.0 & 4.0), le Wi-Fi 7 ultra-rapide (5.8 Gbps) et les ports USB4 Type-C 40Gbps, profitez d’une connectivité de pointe et d’une évolutivité sans compromis. Son audio Realtek ALC4080 7.1, ses nombreuses options de refroidissement et son RGB personnalisable en font un choix idéal pour les gamers et overclockers exigeants.  🔥 Performance, vitesse et connectivité réunies dans une seule carte mère | MEGA PC | GIGATECH | CARTE MERE gaming Tunisie",
+  "ratingValue": "4.7",
+  "reviewCount": "55",
+  "priceValidUntil": "2027-07-09",
+  "referenceInterne": "911-7E59-001",
+  "title": "MSI MPG X870E EDGE TI WIFI",
+  "title_fr": "MSI MPG X870E EDGE TI WIFI",
+  "description_fr": "<h1><span style=\"font-size:22px\"><strong>MSI MPG X870E EDGE TI WIFI : La carte m&egrave;re ultime pour Ryzen 9000 ! 🔥</strong></span></h1>\n\n<p><span style=\"font-size:22px\">Si vous cherchez une carte m&egrave;re puissante, pr&ecirc;te pour l&#39;avenir et con&ccedil;ue pour les joueurs et cr&eacute;ateurs exigeants, la <strong>MSI MPG X870E EDGE TI WIFI</strong> est faite pour vous ! 💪 Avec un <strong>chipset AMD X870E</strong> et un <strong>socket AM5</strong>, elle supporte les derniers processeurs <strong>AMD Ryzen&trade; 9000, 8000 et 7000</strong> pour des performances exceptionnelles.</span></p>\n\n<h2><span style=\"font-size:22px\">⚡ <strong>Puissance et compatibilit&eacute; DDR5</strong></span></h2>\n\n<p><span style=\"font-size:22px\">👉 4 slots <strong>DDR5 UDIMM</strong> jusqu&#39;&agrave; <strong>256 Go</strong><br />\n👉 Overclocking jusqu&#39;&agrave; <strong>8400+ MT/s</strong> 🚀<br />\n👉 Support <strong>AMD EXPO&trade;</strong> et <strong>Dual-Channel</strong></span></p>\n\n<p><span style=\"font-size:22px\">Que vous soyez gamer ou cr&eacute;ateur de contenu, cette carte m&egrave;re offre une m&eacute;moire ultra-rapide pour des performances optimales ! 🎮🎬</span></p>\n\n<h2><span style=\"font-size:22px\">🎥 <strong>Graphismes et connectivit&eacute; vid&eacute;o</strong></span></h2>\n\n<p><span style=\"font-size:22px\">👉 <strong>1x HDMI&trade; 2.1</strong> (8K 60Hz) 🖥<br />\n👉 <strong>2x USB4&reg; Type-C avec DisplayPort 1.4</strong> (4K 60Hz) 🌟</span></p>\n\n<p><span style=\"font-size:22px\">Si vous utilisez un processeur avec GPU int&eacute;gr&eacute;, profitez d&rsquo;un affichage ultra-net ! 👀</span></p>\n\n<h2><span style=\"font-size:22px\">🎮 <strong>Extension PCIe 5.0 et stockage ultra-rapide</strong></span></h2>\n\n<p><span style=\"font-size:22px\">👉 <strong>3x PCIe x16</strong><br />\n🔹 <strong>PCI-E 5.0 x16</strong> pour Ryzen 9000/7000<br />\n🔹 <strong>PCI-E 4.0 x8/x4</strong> pour les autres g&eacute;n&eacute;rations</span></p>\n\n<p><span style=\"font-size:22px\">👉 <strong>4x M.2 NVMe PCIe</strong> (dont <strong>2 en PCIe 5.0</strong> pour des SSD ultra-rapides) 🚀<br />\n👉 <strong>4x SATA 6G</strong> pour le stockage classique</span></p>\n\n<p><span style=\"font-size:22px\">Stockage ultra-rapide = <strong>temps de chargement r&eacute;duits et transferts instantan&eacute;s !</strong> 💾💨</span></p>\n\n<h2><span style=\"font-size:22px\">🔊 <strong>Audio haute performance</strong></span></h2>\n\n<p><span style=\"font-size:22px\">🎵 <strong>Realtek&reg; ALC4080</strong><br />\n🎵 <strong>7.1-Channel USB High-Performance Audio</strong><br />\n🎵 <strong>S/PDIF &amp; prise en charge 32-Bit/384 kHz</strong></span></p>\n\n<p><span style=\"font-size:22px\">Un son immersif pour vos jeux et films ! 🎧🎶</span></p>\n\n<h2><span style=\"font-size:22px\">🌍 <strong>Connectivit&eacute; ultra-rapide : Wi-Fi 7 &amp; 5G LAN</strong></span></h2>\n\n<p><span style=\"font-size:22px\">🚀 <strong>Wi-Fi 7</strong> (6 GHz, jusqu&#39;&agrave; 5.8 Gbps)<br />\n📡 <strong>Bluetooth&reg; 5.4</strong><br />\n🔗 <strong>5G LAN Realtek&reg; 8126</strong></span></p>\n\n<p><span style=\"font-size:22px\">Adieu les lags et bonjour la vitesse ultime ! 📶💨</span></p>\n\n<h2><span style=\"font-size:22px\">🔌 <strong>Ports USB en pagaille !</strong></span></h2>\n\n<p><span style=\"font-size:22px\">👉 <strong>2x USB 40Gbps Type-C</strong><br />\n👉 <strong>1x USB 20Gbps Type-C</strong><br />\n👉 <strong>5x USB 10Gbps Type-A</strong><br />\n👉 <strong>4x USB 5Gbps Type-A</strong><br />\n👉 <strong>8x USB 2.0</strong></span></p>\n\n<p><span style=\"font-size:22px\">Parfait pour brancher tous vos p&eacute;riph&eacute;riques sans contrainte ! 🎮⌨️🖱️</span></p>\n\n<h2><span style=\"font-size:22px\">🛠 <strong>Autres caract&eacute;ristiques cl&eacute;s</strong></span></h2>\n\n<p><span style=\"font-size:22px\">✅ <strong>EZ Debug LED &amp; EZ Digi-Debug LED</strong> 🔧<br />\n✅ <strong>RGB avec 3x connecteurs Addressable V2</strong> 🌈<br />\n✅ <strong>Flash BIOS Button</strong> pour une mise &agrave; jour rapide 🛠</span></p>\n\n<h2><span style=\"font-size:22px\">🎁 <strong>Contenu de la bo&icirc;te</strong></span></h2>\n\n<p><span style=\"font-size:22px\">📦 <strong>Carte m&egrave;re ATX (243.84mm x 304.8mm)</strong><br />\n📦 Accessoires &amp; documentation</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">✅<strong>Socket</strong> AM5 &ndash; Ryzen 9000/8000/7000 ⚡</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Chipset</strong> AMD X870E 🔧</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>M&eacute;moire</strong> 4x DDR5 (8400+ MT/s OC) &ndash; 256GB max 🖥️</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>PCIe</strong> 1x PCIe 5.0 x16, 1x PCIe 4.0 x4, 1x PCIe 3.0 x1 🎮</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Stockage</strong> 4x M.2 (PCIe 5.0 &amp; 4.0) + 4x SATA 6G 💾</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>USB</strong> USB4 40Gbps, USB-C 20Gbps, USB-A 10Gbps/5Gbps/2.0 🔌</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>R&eacute;seau</strong> 5G LAN + Wi-Fi 7 (5.8Gbps) + Bluetooth 5.4 🌐</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Audio</strong> Realtek&nbsp;ALC4080 7.1, S/PDIF, 32-Bit/384 kHz 🎵</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Affichage</strong> HDMI 8K 60Hz, 2x USB-C DisplayPort 4K 60Hz 🖥️</span></li>\n\t<li><span style=\"font-size:22px\">✅&nbsp;<strong>Format</strong> ATX 📏</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "MSI-MPG-X870E-EDGE-TI-WIFI",
+  "gallerie": {
+    "_id": "6818d0b7c75bcce7a26b0a3a",
+    "titre": "911-7E59-001",
+    "urlPhoto": [
+      "/uploads/gallerie/1746456764407.webp",
+      "/uploads/gallerie/1746456766748.webp",
+      "/uploads/gallerie/1746456768689.webp",
+      "/uploads/gallerie/1746456771282.webp",
+      "/uploads/gallerie/1746456773921.webp",
+      "/uploads/gallerie/1746456776154.webp",
+      "/uploads/gallerie/1746456778511.webp",
+      "/uploads/gallerie/1746456780896.webp",
+      "/uploads/gallerie/1746456783127.webp",
+      "/uploads/gallerie/1746456785365.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-05-05T14:53:05.475Z",
+    "create_date": "2025-05-05T14:52:39.000Z",
+    "__v": 10
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1706,
+  "price": 1029,
+  "tagsSearch": [
+    "MSI",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "realap"
+  ],
+  "stock": 98,
+  "displayForPublic": true,
+  "create_date": "2025-04-03T10:45:34.651Z",
+  "update_date": "2025-10-24T16:58:56.299Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

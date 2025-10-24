@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731149178524.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731149178524.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AJ+Zh/v/36qwmkkzIAApHwvJ1bvz+/u5rrYAIgwATkY78OX//+r/ACQSAhUAAIx8gbGanMD+GVGAedC9AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731149184825.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731149184825.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP//+76fgOvq0vj7/AC9m4Pz1sCup5Wvo4wAiVktNCocAAATTTw0ACMZEwAEAEY5IZNoPh72Fx4XMKAcAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731149187524.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731149187524.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWOI99I5unb2//9P3327xMAgKSUsIJUR7nv40BwGJXVNBgYpHRnJuiAVhvIQc005hVAzxfYwAwAbihEcdnc9LgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731149190354.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1731149190354.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYiuPiJSUZGNj52ko6GSrSMtRUuBkkxNrLexiQlQEADWseNqaffp4AAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "672f3ae299de58d4f64b2ada",
+  "sku": "MK80WRUS",
+  "mpn": "MK80WRUS",
+  "titleSeo": "MARS GAMING MK80 MECHANICAL TKL KEYBOARD, RED Switch ,White | MEGA | GIGA TECH",
+  "desciprtionSeo": "Clavier gaming ,format TKL - interrupteurs mécaniques rouges - rétroéclairage RGB - QWERTY, Anglais, RED Switch",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "MK80WRUS",
+  "title": "MARS GAMING MK80 MECHANICAL TKL KEYBOARD, RED Switch ,White",
+  "title_fr": "MARS GAMING MK80 MECHANICAL TKL KEYBOARD, RED Switch ,White",
+  "description_fr": "<h2>MARS GAMING MK80 MECHANICAL TKL KEYBOARD, RED Switch - WHITE</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Jouez sans restriction gr&acirc;ce &agrave; la structure compacte du clavier Mars Gaming&nbsp;MK80. Gr&acirc;ce &agrave; cet astucieux clavier compact d&eacute;placez votre souris librement, profitez de l&#39;espace suppl&eacute;mentaire qu&#39;il vous procure sur votre bureau sans pour autant sacrifier les performances.</span></p>\n\n<p><img alt=\"COMPACT SIZE TKL\" src=\"https://www.marsgaming.eu/uploads/_thumnails/MK80-detail_960x480.png\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Clavier pour gamer au format TKL</span></li>\n\t<li><span style=\"font-size:22px\">Interrupteurs m&eacute;caniques rouge</span></li>\n\t<li><span style=\"font-size:22px\">Force d&#39;activation : 50g</span></li>\n\t<li><span style=\"font-size:22px\">Point d&#39;actionnement : 2 mm</span></li>\n\t<li><span style=\"font-size:22px\">Anti-ghosting complet</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro-&eacute;clairage RGB personnalisable &agrave; 12 effets</span></li>\n\t<li><span style=\"font-size:22px\">Connectique : USB</span></li>\n\t<li><span style=\"font-size:22px\">Compatible PC, PS4, PS5, Xbox One, Xbox Series X|S</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions :&nbsp;348 x 119 x 35&nbsp;mm</span></li>\n\t<li><span style=\"font-size:22px\">Poids : 539 g</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "61697a5b74a6dc8ab60ba36c",
+    "titre": "MARS",
+    "description": "Mars Gaming Tunisie",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-10-15T12:55:55.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23388a4815052c4d1a421",
+    "titre": "CLAVIER",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206277489.webp",
+    "order": 0,
+    "descriptionSEO": "<p>Clavier Pc gamer Filaire USB, clavier pc bureau, clavier mécanique Tunisie, accessoires gaming, Aorus, HyperX, Spirit of Gamer, Corsair, Razer, Msi.</p>",
+    "titreSEO": "Clavier pc gamer Tunisie | clavier azerty ordinateur sans fil RGB",
+    "create_date": "2020-04-24T00:32:08.000Z",
+    "reference": "CLAVIER",
+    "update_date": "2021-12-04T09:59:08.867Z",
+    "visible": true,
+    "marge": 1.12,
+    "tva": 1.07,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "TYPE DE TOUCHES",
+      "valeur": "MÉCANIQUE",
+      "enable": true,
+      "_id": "616a9015835644bdb7f31809"
+    },
+    {
+      "cle": "MODÈLE",
+      "valeur": "MK80",
+      "enable": true,
+      "_id": "616a9015835644bdb7f3180a"
+    },
+    {
+      "cle": "NORME DU CLAVIER",
+      "valeur": "QWERTY",
+      "enable": true,
+      "_id": "616a9015835644bdb7f3180b"
+    },
+    {
+      "cle": "RÉTROÉCLAIRAGE RGB",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "616a9015835644bdb7f3180c"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23388a4815052c4d1a421"
+  ],
+  "lien": "MARS-GAMING-MK80-RW",
+  "gallerie": {
+    "_id": "672f3d5599de58d4f64be9ba",
+    "titre": "MARS GAMING MK80 MECHANICAL TKL KEYBOARD, RED SWITCH ,WHITE",
+    "urlPhoto": [
+      "/uploads/gallerie/1731149178524.webp",
+      "/uploads/gallerie/1731149184825.webp",
+      "/uploads/gallerie/1731149187524.webp",
+      "/uploads/gallerie/1731149190354.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-11-09T10:46:30.459Z",
+    "create_date": "2024-11-09T10:45:41.000Z",
+    "__v": 5
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 6799,
+  "price": 109,
+  "tagsSearch": [
+    "MARS",
+    "ACCESSOIRES",
+    "CLAVIER",
+    "REALAP",
+    "enarrivage"
+  ],
+  "discount": null,
+  "stock": 0,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2023-04-01T09:01:22.704Z",
+  "update_date": "2025-10-22T18:20:37.462Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

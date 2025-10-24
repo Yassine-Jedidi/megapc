@@ -1,0 +1,227 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604003702.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604003702.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP48ePHfzD49+8fw6NHj2JiYlasWvX//3+Gv3//ZmVmMjAxHD9+nOH///9fvnxpbGi8dOEiAPviJOgEE8iTAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604008604.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604008604.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP49+/ffzD49+8fw/cfP1q7utzd3bdv386QW1DIwMAaH5Nw985dhk2bNi2ct+j37z////8HAKu/IlOqc0cjAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604008605.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604008605.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMklEQVQImWP4////3bt3z5079///f4b////b2tqKi4lBOQaGhgyMjFBOamqqnaMjkAMAi58gZ9aitvEAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604008606.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604008606.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVQImWP4jwQYXr9+XVFR4eDgsGbNGob169eLiooyMDB4enoyICsDAJaOIf11WFOyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604008607.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604008607.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYjh496u7unp6efufOHYaCggIGBgYODo7e3l4GZGUAhzoh5c/3ulEAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604014775.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604014775.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP4////mzdv7t69+///f4b///+HhYWpqqpCOcYmJgwMIAYIL16y3NfXD8gBALI/IiYzrIiLAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604014776.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604014776.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImS3HMQEAQARAUWooYtdGjFPPINJ3g7c9Abp7ZgABIsLMLu4uqpfMfFU/C4tWITKbDBMyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604014777.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604014777.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP4Dwa/f//+9/8/w69fvzra2xkYmJKSkhmOHTvGzc0tIyO7YN4Cho8fP7569er9+/f///8HAIYzIZbViN3VAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604014778.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604014778.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImQXBMQEAQAQF0B9ABarpoYEaV8EqjtFq5d7D7mZmRMwM3ntEBMDM4O7MLCKqirvr7qra3Q/QxBxvWXP3rQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604020546.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604020546.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///+vu7ujs7P///wDAwMA3OTkvMjSmpKcAaGhoAAAAAwIDOTk7ANXV1bm5ubu7u8jIyiJIHBM0u3PeAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604020548.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1666604020548.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP4////mzdvHj189P//f4b////X1dWFhYVBOfb29gwMIAYIT5kypby8HMgBANoVI6w+/gLHAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "63565b655e57311ffa6ce5c6",
+  "sku": "GY51H47350",
+  "mpn": "0195892041030",
+  "titleSeo": "Lenovo Tunisie - Legion M300s RGB Noir | MEGA PC",
+  "desciprtionSeo": "Lenovo Legion M300s RGB Noir | Lenovo Tunisie | souris Filaire via USB 2.0 | 6 boutons programmables | 8 000 DPI | Pixart 3327 | Poids : 57 g | Longueur de câble : 1.8 m | MEGA PC",
+  "ratingValue": "4.2",
+  "reviewCount": "69",
+  "priceValidUntil": "2023-09-09",
+  "referenceInterne": "GY51H47350",
+  "title": "Lenovo Legion M300s RGB Noir",
+  "title_fr": "Lenovo Legion M300s RGB Noir",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2>Souris de jeu RGB : Lenovo Legion M300s Noir</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Imagin&eacute;e pour r&eacute;pondre aux besoins de vitesse et d&rsquo;endurance, la Lenovo Legion M300s offre des performances optimales, et ce, dans un format ultra-l&eacute;ger qui ne p&egrave;se que 57 g. Elle est dot&eacute;e de tout ce dont vous avez besoin pour dominer vos adversaires, comme par exemple 6 boutons tactiques, des pieds de souris 100 % PTFE, un capteur 8 000 PPP et des boutons de microswitch m&eacute;caniques. Son petit plus ? Le logo Legion est rehauss&eacute; d&rsquo;une LED &eacute;l&eacute;gante et personnalisable avec 16,8 millions de couleurs RGB.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1678961823749.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Type de connexion Filaire via USB 2.0</span></li>\n\t<li><span style=\"font-size:22px\">C&acirc;ble ultra-doux 1.8 m</span></li>\n\t<li><span style=\"font-size:22px\">Poids : 57 g</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro&eacute;clairage RGB</span></li>\n\t<li><span style=\"font-size:22px\">6 boutons programmables</span></li>\n\t<li><span style=\"font-size:22px\">Jusqu&rsquo;&agrave; 8 000 DPI</span></li>\n\t<li><span style=\"font-size:22px\">Capteur de souris : Pixart 3327</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233bfa4815052c4d1a423",
+    "titre": "SOURIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206287980.webp",
+    "order": 1,
+    "descriptionSEO": "<p>Souris Pc gamer Tunisie&nbsp;optique Sans fil -&nbsp;Achat Souris Ordinateur bureau, souris Pc portable gaming RGB - Aorus, Razer, Logitech, Corsair, Steelseries</p>",
+    "titreSEO": "Souris PC gamer | sans fil pour ordinateur Pc portable | Mega PC",
+    "create_date": "2020-04-24T00:33:03.000Z",
+    "reference": "SOURIS",
+    "update_date": "2021-12-04T08:54:08.545Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "MARQUE",
+      "valeur": "LENOVO",
+      "enable": true,
+      "_id": "61c6e16aaa748d6af92a8b19"
+    },
+    {
+      "cle": "NOMBRE DE BOUTONS",
+      "valeur": "6",
+      "enable": true,
+      "_id": "61c6e16aaa748d6af92a8b1a"
+    },
+    {
+      "cle": "RÉTRO-ÉCLAIRAGE",
+      "valeur": "OUI ",
+      "enable": true,
+      "_id": "61c6e16aaa748d6af92a8b1b"
+    },
+    {
+      "cle": "LED RGB",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "61c6e16aaa748d6af92a8b1c"
+    },
+    {
+      "cle": "TYPE DE CAPTEUR",
+      "valeur": "OPTIQUE",
+      "enable": true,
+      "_id": "61c6e16aaa748d6af92a8b1e"
+    },
+    {
+      "cle": "RÉSOLUTION OPTIQUE",
+      "valeur": "8000 dpi",
+      "enable": true,
+      "_id": "61c6e16aaa748d6af92a8b1f"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea233bfa4815052c4d1a423"
+  ],
+  "lien": "Lenovo-Legion-M300s-RGB-Noir",
+  "gallerie": {
+    "_id": "63565bc75e57311ffa6d4ad7",
+    "titre": "LENOVO TUNISIE - SOURIS LEGION M300S RGB",
+    "urlPhoto": [
+      "/uploads/gallerie/1666604003702.webp",
+      "/uploads/gallerie/1666604008604.webp",
+      "/uploads/gallerie/1666604008605.webp",
+      "/uploads/gallerie/1666604008606.webp",
+      "/uploads/gallerie/1666604008607.webp",
+      "/uploads/gallerie/1666604014775.webp",
+      "/uploads/gallerie/1666604014776.webp",
+      "/uploads/gallerie/1666604014777.webp",
+      "/uploads/gallerie/1666604014778.webp",
+      "/uploads/gallerie/1666604020546.webp",
+      "/uploads/gallerie/1666604020548.webp"
+    ],
+    "update_date": "2022-10-24T09:33:40.681Z",
+    "create_date": "2022-10-24T09:32:55.000Z",
+    "__v": 4
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "textCommande": "Lenovo Tunisie ♥",
+  "enArrivage": false,
+  "new": false,
+  "vue": 2674,
+  "price": 85,
+  "tagsSearch": [
+    "LENOVO",
+    "ACCESSOIRES",
+    "SOURIS",
+    "Lenovo Tunisie"
+  ],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2022-10-24T09:31:17.213Z",
+  "update_date": "2025-10-23T21:16:43.027Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

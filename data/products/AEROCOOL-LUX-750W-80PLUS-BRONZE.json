@@ -1,0 +1,173 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591273906790.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591273906790.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////r6+vX19P///wDKysolJSUAAgOXm50Az8/PHh4fAAUPoaOkAP///+zt7enq7P///1wRIKuHT7YQAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591273916243.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/webp/1591273916243.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///9ze36qzt+jn5wDLysomLC0AAQeiop8Azc3NDg4LFxYUvLy8APf395SUlMfHx////xqdHiC7iNA3AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "5ec156644a2e400482a01397",
+  "sku": "LUX-RGB-750W",
+  "mpn": "4718009156258",
+  "titleSeo": "Aerocool LUX 750W - Puissance 750 W - Boitier pc sur MEGAPC",
+  "desciprtionSeo": "Aerocool LUX 750W | Puissance : 750 W Certification 80 PLUS : Oui Norme 80 PLUS : 80 PLUS Bronze Modulaire : Non Format Alimentation : ATX/EPS | MEGA TUNISIE",
+  "ratingValue": "4.9",
+  "reviewCount": "66",
+  "priceValidUntil": "2023-09-09",
+  "referenceInterne": "LUX-RGB-750W",
+  "title": "Aerocool LUX 750W 80+ Bronze ",
+  "title_fr": "Aerocool LUX 750W 80+ Bronze ",
+  "description": "<h2><br></h2>",
+  "description_fr": "<h2>Aerocool LUX 750W 80+ Bronze&nbsp;</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">L&rsquo;alimentation semi-modulaire Aerocool LUX RGB 750M a un look raffin&eacute; et &eacute;l&eacute;gant pour votre PC et offre de bonnes performances gr&acirc;ce &agrave; sa certification 80PLUS Bronze. Le d&eacute;bit d&rsquo;air a augment&eacute; de 30% par rapport &agrave; un syst&egrave;me normal gr&acirc;ce &agrave; une ventilation optimis&eacute;e.</span></p>\n\n<p><span style=\"font-size:22px\"><strong>&Eacute;L&Eacute;GANCE ET PERFORMANCE</strong><br />\nCette alimentation a un aspect raffin&eacute; et &eacute;l&eacute;gant pour mieux s&rsquo;int&eacute;grer dans votre configuration. En termes de performances, la puissance de 750W offre un bon rendement avec un rendement de 88% ou plus (Certification 80PLUS Bronze).</span></p>\n\n<p><span style=\"font-size:22px\">Il est tr&egrave;s rare qu&rsquo;une alimentation atteigne des temp&eacute;ratures &eacute;lev&eacute;es lorsqu&rsquo;elle est compl&egrave;tement charg&eacute;e, c&rsquo;est pourquoi le Lux 750M a &eacute;t&eacute; con&ccedil;u avec une ventilation sup&eacute;rieure, permettant une augmentation de 30% du d&eacute;bit d&rsquo;air. En cons&eacute;quence, l&rsquo;alimentation peut &ecirc;tre pleinement utilis&eacute;e, mais il existe un risque de surchauffe.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:22px\">Alimentation 750 W - Certifi&eacute;e 80PLUS Bronze - Connecteur LED RGB adressable - Ventilateur&nbsp;optimis&eacute;&nbsp;pour un refroidissement&nbsp;constant&nbsp;et silencieux - Optimisation du flux d&rsquo;air pour une ventilation 30 % plus efficace - C&acirc;bles plats et souples&nbsp;pour un c&acirc;ble management plus ais&eacute;.</span></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription": "",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Puissance : 750 W</strong></span></li>\n\t<li><span style=\"font-size:22px\"><strong>Certification 80 PLUS</strong> : Oui</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Norme 80 PLUS</strong> : 80 PLUS Bronze</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Modulaire</strong> : Non</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Format Alimentation</strong> : ATX/EPS</span></li>\n</ul>\n",
+  "facilite_fr": "<p><span style=\"color:#ffffff\"><span style=\"background-color:#000000\">&nbsp; 2 X PCI EXPRESS 6 + 2 BROCHES&nbsp;&nbsp;</span></span></p>\n\n<p><img src=\"https://apibackend.mega-pc.net///uploads/gallerie/1647998183195.png\" /></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea248bca4815052c4d1a431",
+    "titre": "AEROCOOL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326661895.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T02:02:36.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2327aa4815052c4d1a418",
+    "titre": "ALIMENTATION",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205726337.webp",
+    "order": 5,
+    "descriptionSEO": "<p>Alimentation Pc gamer Pc&nbsp;Bureau, au meilleurs prix en Tunisie. Alimentation Gigabyte, Corsair, Aerocool, Aorus, Antec 80+ Gold 1200w, 850w, 750w, 550w</p>",
+    "titreSEO": "Alimentation PC Tunisie - Achat Alimentation pc gamer pas cher",
+    "create_date": "2020-04-24T00:27:38.000Z",
+    "reference": "ALIMENTATION",
+    "update_date": "2022-01-19T16:49:06.035Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Puissance",
+      "valeur": "750 W",
+      "enable": true,
+      "_id": "6744523999de58d4f6447d86"
+    },
+    {
+      "cle": "Modulaire",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "6744523999de58d4f6447d88"
+    },
+    {
+      "cle": "Format Alimentation",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "6744523999de58d4f6447d89"
+    },
+    {
+      "cle": "Format Alimentation",
+      "valeur": "EPS",
+      "enable": true,
+      "_id": "674461d299de58d4f64c327c"
+    },
+    {
+      "cle": "Certification 80 PLUS",
+      "valeur": "Bronze",
+      "enable": true,
+      "_id": "674461d299de58d4f64c327d"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2327aa4815052c4d1a418"
+  ],
+  "lien": "AEROCOOL-LUX-750W-80PLUS-BRONZE",
+  "gallerie": {
+    "_id": "5ea31265a4815052c4d1a434",
+    "urlPhoto": [
+      "/uploads/gallerie/webp/1591273906790.webp",
+      "/uploads/gallerie/webp/1591273916243.webp"
+    ],
+    "titre": "AEROCOOL LUX 550W 80PLUS BRONZE",
+    "__v": 6,
+    "create_date": "2020-04-24T16:23:01.000Z"
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 6345,
+  "price": 179,
+  "sale": false,
+  "tagsSearch": [
+    "AEROCOOL",
+    "COMPOSANTS",
+    "ALIMENTATION",
+    "FOIRE",
+    "F090420"
+  ],
+  "discount": null,
+  "stock": 92,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2020-05-17T15:21:08.226Z",
+  "update_date": "2025-10-23T16:56:35.005Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,231 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709718997.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709718997.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAAAAP4PDw/+HR4d/iIjIf4AaWhi/oWHgP+Cgn7/sq+o/gBnaGL+a21o/42OjP///vP+ACMjIP5AQj7+QkNB/mNgXP4FkCEtHTbE/AAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709721351.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709721351.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ACovL/5yd3P/iIiA/9TRyP4AXV1W/19iW/6OkIr+//7y/wBJSkT/PkE8/jc4Nv47OTb/ABwcF/4mKCT/AAEA/xESEv7HVyBlxEB4RAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709724962.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709724962.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWMQERFJSkxatGjRhCmzGRgYGPPz8zZt2ZSelcvAwMCweu3K//9/8/HzM0hKSBw+cujAkUNADgDwERPUlnfdXwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709724964.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709724964.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImWP4//9H/4ROBgaG1RtXM8gpSNvaW+sZ6DU01zNY21ha2Vj6Bfm5e7kxyMiDZMwtzQyNDQHfug8wHjjGpAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709730619.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709730619.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////r6++fn59zc3ABYWFhmaWo6OTszMDEAAAECGBcYBAAAJCIjAOvs7OPi4sjHx9DOzsYUGZz810bkAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709730620.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709730620.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///eTk47q6ure3twD39fRnZmY9Ozs/Pz4AqaioIyIiAQAANzY2ANza13Bub1paWn59fvgiGOGKYWFaAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709733833.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709733833.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AKWlpXFwb5+fn////wDCwsIuLCwQCwytrK0AuLa2JiUlAwABo6OjAL27uCwqKi0rK5uamopPFpa1urTHAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709733834.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746709733834.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///+jn5/Dw8PPz8wC7urocGxsWExVnZmUAfnt5EQ8PAgAB09PTAP///vTz8+Li4v///yEjHuQR12q2AAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "65dc77fe9a9c8c5e10ce26b1",
+  "sku": "911-7E02-026",
+  "mpn": "0000000000000",
+  "titleSeo": "MSI PRO B760M-P | MEGA PC ",
+  "desciprtionSeo": "MSI PRO B760M-P | Format de carte mère : Micro ATX Socket : Intel 1700 Chipset : Intel B760 Express Max Ram : 192 Go DDR5  6800 MHz ( 4 Slots ) Nombre de slots M.2 :2  | MEGA PC ",
+  "ratingValue": "4.8",
+  "reviewCount": "73",
+  "priceValidUntil": "2027-09-08",
+  "referenceInterne": "911-7E02-026",
+  "title": "MSI PRO B760M-P DDR5",
+  "title_fr": "MSI PRO B760M-P DDR5",
+  "description_fr": "<h1>MSI PRO B760M-P DDR5</h1>\n\n<hr />\n<p><span style=\"font-size:22px\">La carte m&egrave;re MSI PRO B760M-P DDR5 est un composant essentiel pour les syst&egrave;mes informatiques qui visent la performance et la fiabilit&eacute;. Con&ccedil;ue par MSI, une marque r&eacute;put&eacute;e dans le domaine des composants informatiques, cette carte m&egrave;re offre une plate-forme solide pour construire un PC puissant et polyvalent.</span></p>\n\n<p><span style=\"font-size:22px\">Dot&eacute;e de la technologie DDR5, cette carte m&egrave;re prend en charge les derni&egrave;res avanc&eacute;es en mati&egrave;re de m&eacute;moire, offrant des performances optimales et une efficacit&eacute; &eacute;nerg&eacute;tique am&eacute;lior&eacute;e. Elle est compatible avec les processeurs AMD Ryzen de derni&egrave;re g&eacute;n&eacute;ration, offrant ainsi une large gamme de choix pour les utilisateurs en termes de puissance de traitement.</span></p>\n\n<p><span style=\"font-size:22px\">La MSI PRO B760M-P DDR5 est &eacute;quip&eacute;e de toutes les fonctionnalit&eacute;s essentielles pour r&eacute;pondre aux besoins des utilisateurs exigeants. Elle comprend une connectivit&eacute; &eacute;tendue avec des ports USB, des slots PCIe et des connexions SATA pour la gestion efficace des p&eacute;riph&eacute;riques et des unit&eacute;s de stockage. De plus, elle int&egrave;gre des fonctionnalit&eacute;s de gestion avanc&eacute;es, telles que des options de surveillance du syst&egrave;me et des outils de diagnostic, pour garantir un fonctionnement stable et fiable.</span></p>\n\n<p><span style=\"font-size:22px\">Le design de la carte m&egrave;re est pens&eacute; pour une installation facile et une dissipation efficace de la chaleur, avec des composants de haute qualit&eacute; et un agencement optimis&eacute; des &eacute;l&eacute;ments. Que ce soit pour le gaming, la cr&eacute;ation de contenu ou les t&acirc;ches multit&acirc;ches intensives, la MSI PRO B760M-P DDR5 offre les performances et la stabilit&eacute; n&eacute;cessaires pour r&eacute;pondre aux besoins des utilisateurs les plus exigeants.</span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<form>&nbsp;</form>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re : Micro ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket :&nbsp;Intel 1700</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;Intel B760 Express</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 192 Go&nbsp;DDR5&nbsp;</span>&nbsp;<span style=\"font-size:22px\">6800</span><span style=\"font-size:22px\">&nbsp;MHz ( 4 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 :2&nbsp;</span></li>\n</ul>\n",
+  "facilite_fr": "<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1700558047937.webp\" /></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23596a4815052c4d1a425",
+    "titre": "MSI",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326172385.webp",
+    "description": "MSI",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:40:54.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0c"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "Intel B760 Express",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0d"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Micro ATX",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0e"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b0f"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "4",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b10"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "192 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b11"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "64 GB",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b12"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "6800 MHz",
+      "enable": true,
+      "_id": "653f69d037e0a9bf8aa74b13"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "MSI-PRO-B760M-P-DDR5",
+  "gallerie": {
+    "_id": "681cacc2c75bcce7a27c954c",
+    "titre": "911-7E02-026",
+    "urlPhoto": [
+      "/uploads/gallerie/1746709718997.webp",
+      "/uploads/gallerie/1746709721351.webp",
+      "/uploads/gallerie/1746709724962.webp",
+      "/uploads/gallerie/1746709724964.webp",
+      "/uploads/gallerie/1746709730619.webp",
+      "/uploads/gallerie/1746709730620.webp",
+      "/uploads/gallerie/1746709733833.webp",
+      "/uploads/gallerie/1746709733834.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-05-08T13:08:53.942Z",
+    "create_date": "2025-05-08T13:08:18.000Z",
+    "__v": 5
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 12452,
+  "price": 379,
+  "tagsSearch": [
+    "MSI",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "PROMO-MSI",
+    "911-7E02-026",
+    "MSI PRO B760M-P DDR5",
+    "realap"
+  ],
+  "discount": null,
+  "stock": 89,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2023-05-03T16:24:16.305Z",
+  "update_date": "2025-10-24T16:28:39.044Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

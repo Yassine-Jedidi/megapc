@@ -1,0 +1,198 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1653761023152.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1653761023152.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AK2tsElJT6Sjot/c3ABra28AAAiKcWi9sKoAcXByAAIJWUNDvaWdANDO0mRkZ5qXl//79WUPGMXsK9JmAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6292637a6010f19d11355bc3",
+  "sku": "100-100000065BOX",
+  "mpn": "730143312042",
+  "titleSeo": "Processeur AMD Ryzen 5 5600X Wraith Stealth (3.7 GHz / 4.6 GHz) | MEGA PC",
+  "desciprtionSeo": "AMD Ryzen 5 5600X Wraith Stealth (3.7 GHz / 4.6 GHz) | Processeur 6-Core 12-Threads socket AM4 GameCache 35 Mo 7 nm TDP 65W avec système de refroidissement | MEGA PC",
+  "ratingValue": "4.8",
+  "reviewCount": "94",
+  "priceValidUntil": "2027-05-08",
+  "referenceInterne": "5600X-BOX",
+  "title": "AMD Ryzen 5 5600X Wraith Stealth (3.7 GHz / 4.6 GHz)",
+  "title_fr": "AMD Ryzen 5 5600X Wraith Stealth (3.7 GHz / 4.6 GHz)",
+  "description_fr": "<h2>AMD Ryzen 5 5600X Wraith Stealth : une informatique plus joyeuse</h2>\n\n<p><span style=\"font-size:22px\">Voici l&rsquo;AMD Ryzen 5 5600X Wraith Stealth, un monument &agrave; la qu&ecirc;te du bonheur dans l&rsquo;informatique sup&eacute;rieure. Ce processeur, qui poss&egrave;de l&rsquo;architecture de base de Vermeer, est un chef-d&rsquo;&oelig;uvre de l&rsquo;artisanat 7 nm qui garantit non seulement des performances mais aussi une symphonie joyeuse dans chaque activit&eacute;.</span></p>\n\n<h2>Zen 3 Brilliance : le c&oelig;ur de la performance joyeuse</h2>\n\n<p><span style=\"font-size:22px\">L&rsquo;architecture Zen 3, qui combine six c&oelig;urs et douze threads pour cr&eacute;er le nirvana informatique, est le cerveau derri&egrave;re ce processeur. Avec une puissance de conception thermique (TDP) de 65 W, le Ryzen 5 5600X transforme n&rsquo;importe quelle t&acirc;che en une exp&eacute;rience agr&eacute;able en fonctionnant &agrave; une fr&eacute;quence de base de 3,7 GHz et &agrave; une fr&eacute;quence suraliment&eacute;e de 4,6 GHz.</span></p>\n\n<h2>Ma&icirc;trise de la m&eacute;moire : &Eacute;lever le multit&acirc;che joyeux</h2>\n\n<p><span style=\"font-size:22px\">Avec la prise en charge de d&eacute;bits allant de 2133 MHz &agrave; 3200 MHz, le contr&ocirc;leur de m&eacute;moire DDR4 double canal garantit que vos efforts multit&acirc;ches sont accueillis avec une satisfaction sans faille. Les chipsets B550 et X570 fonctionnent bien avec ce processeur, qui a &eacute;t&eacute; cr&eacute;&eacute; pour la plate-forme AMD AM4.</span></p>\n\n<h2>Wraith Stealth Elegance : garder Joy au frais et au calme</h2>\n\n<p><span style=\"font-size:22px\">Avec la glaci&egrave;re Wraith Stealth int&eacute;gr&eacute;e, qui garantit des performances thermiques id&eacute;ales avec un soup&ccedil;on de gr&acirc;ce discr&egrave;te, vous pouvez faire l&rsquo;exp&eacute;rience de l&rsquo;&eacute;l&eacute;gance du plaisir. Plus qu&rsquo;un simple processeur, l&rsquo;AMD Ryzen 5 5600X Wraith Stealth Edition vous invite &agrave; savourer chaque instant de bonheur num&eacute;rique.</span></p>\n\n<p>&nbsp;</p>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence CPU :&nbsp;3.7 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence en mode Turbo :&nbsp;4.6 GHz</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de core :&nbsp; 6</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de Threads : 12</span></li>\n\t<li><span style=\"font-size:22px\">Chipset graphique :&nbsp;Aucun</span></li>\n\t<li><span style=\"font-size:22px\">Contr&ocirc;leur m&eacute;moire :&nbsp;DDR4</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb192424a2e400482a012cd",
+    "titre": "AMD",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326818201.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:20:18.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "3.70 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cc"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "4.60 GHz",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cd"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "6",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23cf"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "12",
+      "enable": true,
+      "_id": "5fbe40aee84b20a11e2e23d0"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR4 3200MHz",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e3"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "3 Mo",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e4"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "32 Mo",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e5"
+    },
+    {
+      "cle": "TDP",
+      "valeur": "65W",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e6"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "AMD AM4",
+      "enable": true,
+      "_id": "654cc8f237e0a9bf8a0c47e7"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD B550",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e6421e"
+    },
+    {
+      "cle": "Compatibilité carte mère",
+      "valeur": "AMD X570",
+      "enable": true,
+      "_id": "65532fa8f16c33b845e6421f"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "Processeur-AMD-Ryzen-5-5600X-Wraith-Stealth",
+  "gallerie": {
+    "_id": "629263e56010f19d1135b6a6",
+    "titre": "AMD RYZEN 5 5600X WRAITH STEALTH (3.7 GHZ / 4.6 GHZ)",
+    "urlPhoto": [
+      "/uploads/gallerie/1653761023152.webp"
+    ],
+    "update_date": "2022-05-28T18:03:43.324Z",
+    "create_date": "2022-05-28T18:03:17.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 19442,
+  "price": 439,
+  "tagsSearch": [
+    "AMD",
+    "COMPOSANTS",
+    "PROCESSEUR"
+  ],
+  "discount": null,
+  "stock": 0,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2022-05-28T18:01:30.516Z",
+  "update_date": "2025-10-24T01:43:32.077Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

@@ -1,0 +1,216 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750849956925.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750849956925.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKUlEQVQImWP4jwQYysrL3T29GRiYI6OiGLy9vdXVNRMSEvr7+xmQlQEAKHcfXYMYNCQAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750849960346.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750849960346.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAKElEQVQImU3KoQEAMBACsdOMwBgoPPvP1NqPDu9gW5K2SbANSAK47QPNBxrygjzvvQAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "68597d7e99437548fd87c331",
+  "sku": "DGS-1005P-MT",
+  "mpn": "DGS-1005P-MT",
+  "titleSeo": "Switch D-Link 5 ports 10/100/1000Base-T non géré avec 4 PoE 60W | MEGA PC | MEILLEUR PRIX TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "46",
+  "priceValidUntil": "2028-06-23",
+  "referenceInterne": "DGS-1005P-MT",
+  "title": "Switch D-Link 5 ports 10/100/1000Base-T non géré avec 4 PoE 60W",
+  "title_fr": "Switch D-Link 5 ports 10/100/1000Base-T non géré avec 4 PoE 60W",
+  "description_fr": "<div style=\"font-size:22px\"><span style=\"color:#000000\"><span style=\"font-size:22px\">Switch D-Link DGS-1005P&nbsp;- Nombre de Ports:<strong> 5 Ports&nbsp;</strong>- Normes R&eacute;seau:<strong> IEEE 802.3af, IEEE 802.3at&nbsp;</strong>- Capacit&eacute; de commutation: <strong>10 Gbit/s</strong>&nbsp;- Vitesses de filtrage de paquets/transmission: <strong>7,44 Mpps </strong>- Contr&ocirc;le de flux: <strong>IEEE 802.3x</strong> - Taille de la table d&#39;adresses MAC: <strong>2K </strong>- Budget total PoE: <strong>60 Watts</strong> - Ventilateur - Dimensions: 100 x 98 x 28 mm - Poids: 0,26 kg - Couleur: Noir - Garantie: 1 an</span></span></div>\n",
+  "miniDescription": "<div style=\"font-size: 22px\"><p><span style=\"font-size: 14px;\">Switch D-Link DGS-1005P&nbsp;</span><span class=\"description\">- Nombre de Ports:<span style=\"color: #ff0000;\"><strong> <span style=\"color: #fa0707;\">5</span></strong></span></span><span class=\"description\"><span style=\"color: #ff0000;\"><span style=\"color: #fa0707;\"><strong> Ports</strong></span><strong>&nbsp;</strong></span>- Normes Réseau:<strong><span style=\"color: #fa0707;\"> IEEE 802.3af, IEEE 802.3at</span>&nbsp;</strong>- Capacité de commutation: <strong><span style=\"color: #f70808;\">10 Gbit/s</span></strong><span style=\"color: #ff0000;\">&nbsp;</span>- Vitesses de filtrage de paquets/transmission: <strong><span style=\"color: #fa0707;\">7,44 Mpps</span><span style=\"color: #f70808;\"> </span></strong>- Contrôle de flux: <strong>IEEE 802.3x</strong> - Taille de la table d'adresses MAC: <span style=\"color: #fa0707;\"><strong>2K </strong></span></span><span class=\"description\">- Budget total PoE: <strong><span style=\"color: #fa0707;\">60 Watts</span></strong> - Ventilateur - Dimensions: 100 x 98 x 28 mm - Poids: 0,26 kg - Couleur: Noir - Garantie: 1 an</span></p>\n<div style=\"background: #E3E0E3; padding-top: 6px; padding-right: 115px; padding-bottom: 6px; font-size: 11px; font-weight: bold; float: left;\"><span style=\"color: #000000;\">Livraison</span> <span style=\"color: #d0121a; font-size: 13px;\">Gratuite</span> <span style=\"color: #000000;\">à partir de 300DT d'Achat</span></div>\n<p><br><br></p></div>",
+  "miniDescription_fr": "<p><span style=\"color:#000000\"><span style=\"font-size:22px\">Switch D-Link DGS-1005P&nbsp;- Nombre de Ports:<strong> 5 Ports&nbsp;</strong>- Normes R&eacute;seau:<strong> IEEE 802.3af, IEEE 802.3at&nbsp;</strong>- Capacit&eacute; de commutation: <strong>10 Gbit/s</strong>&nbsp;- Vitesses de filtrage de paquets/transmission: <strong>7,44 Mpps </strong>- Contr&ocirc;le de flux: <strong>IEEE 802.3x</strong> - Taille de la table d&#39;adresses MAC: <strong>2K </strong>- Budget total PoE: <strong>60 Watts</strong> - Ventilateur - Dimensions: 100 x 98 x 28 mm - Poids: 0,26 kg - Couleur: Noir - Garantie: 1 an</span></span><br />\n&nbsp;</p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "68597d18fd2984d47c666123",
+    "titre": "D-LINK",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:13:12.243Z",
+    "create_date": "2025-06-23T16:13:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "6676a6a5670b0ae15899d459",
+    "titre": "SÉCURITÉ & PROTECTION",
+    "order": 21,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:33:08.972Z",
+    "create_date": "2024-06-22T10:25:41.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1719396231511.webp",
+    "urlPhoto2": "/uploads/categorie/1720013029366.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "68597cd1fd2984d47c66611d",
+    "titre": "RESEAUX SECURITE",
+    "marge": null,
+    "tva": null,
+    "visible": true,
+    "order": 4,
+    "categorie": "6676a6a5670b0ae15899d459",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:19:53.025Z",
+    "create_date": "2025-06-23T16:12:01.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1750695588029.webp",
+    "urlPhoto2": "/uploads/souscateg/1750695592930.webp"
+  },
+  "qte": 99,
+  "attributes": [
+    {
+      "cle": "gtin",
+      "valeur": "DGS-1005P",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c332"
+    },
+    {
+      "cle": "Marque",
+      "valeur": "DLINK",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c333"
+    },
+    {
+      "cle": "Nombre de Ports",
+      "valeur": "5 Ports",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c334"
+    },
+    {
+      "cle": "Normes réseau",
+      "valeur": "Ethernet Gigabit 1000BASE-T",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c335"
+    },
+    {
+      "cle": "Administrable",
+      "valeur": "Non",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c336"
+    },
+    {
+      "cle": "Gigabit",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c337"
+    },
+    {
+      "cle": "Compatibilité POE",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c338"
+    },
+    {
+      "cle": "Alimentation",
+      "valeur": "Autres",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c339"
+    },
+    {
+      "cle": "Consommation électrique",
+      "valeur": "maximum (PoE activé): 64,5 W ,  maximum (PoE désactivé): 3,08 W , (en veille):0,54 W",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c33a"
+    },
+    {
+      "cle": "Tension d entrée",
+      "valeur": "Adaptateur d’alimentation externe 53,5 V / 1,2 A",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c33b"
+    },
+    {
+      "cle": "Poids",
+      "valeur": "0,26 kg",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c33c"
+    },
+    {
+      "cle": "Couleur",
+      "valeur": "Noir",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c33d"
+    },
+    {
+      "cle": "Dimensions",
+      "valeur": "100 x 98 x 28 mm",
+      "enable": true,
+      "_id": "68597d7e99437548fd87c33e"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "68597cd1fd2984d47c66611d"
+  ],
+  "lien": "SWITCH-D-LINK-5-PORTS-10-100-1000BASE-T-NON-GERE-AVEC-4-POE-60W",
+  "gallerie": {
+    "_id": "685bd995fd2984d47c79e0a2",
+    "titre": "SWITCH D-LINK 5 PORTS 10/100/1000BASE-T NON GÉRÉ AVEC 4 POE 60W",
+    "urlPhoto": [
+      "/uploads/gallerie/1750849956925.jpg",
+      "/uploads/gallerie/1750849960346.jpg"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-25T11:12:40.443Z",
+    "create_date": "2025-06-25T11:12:21.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 49,
+  "price": 209,
+  "tagsSearch": [],
+  "stock": 99,
+  "displayForPublic": true,
+  "create_date": "2025-06-23T16:14:54.696Z",
+  "update_date": "2025-10-22T21:18:26.199Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

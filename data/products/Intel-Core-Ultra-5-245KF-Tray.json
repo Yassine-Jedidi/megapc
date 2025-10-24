@@ -1,0 +1,191 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730386993640.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1730386993640.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMjLzpWbnfv//9bb3wC7vsIkJSlUVVfW290Ax8rOAAALREZJtLi8AMrLziIkJ3Fzd83Q1BHuG/ROjsnQAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "67239c7f99de58d4f6ceaa5f",
+  "sku": "AT8076806414",
+  "mpn": "AT8076806414",
+  "titleSeo": "Processeur Intel Core Ultra 5 245KF (4.2 GHz / 5.2 GHz) - Tray | MEGA TUNISIE",
+  "desciprtionSeo": "Processeur Intel Core Ultra 5 245KF (4.2 GHz / 5.2 GHz) - Tray  Fréquence de Base : 4.2 GHz Fréquence Turbo Max : 5.2 GHz Cœurs / Threads : 14 / 14 Architecture : Arrow-Lake Finesse de Gravure : 3 nm TDP : 125 W Cache L2 : 26 Mo Cache L3 : 24 Mo Socket : Intel 1851 Chipset Compatible : Intel Z890 Mémoire Supportée : DDR5, Dual Channel jusqu'à 6400 MHz AI Ready : Oui | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "45",
+  "priceValidUntil": "2028-09-08",
+  "referenceInterne": "AT8076806414",
+  "title": "Intel Core Ultra 5 245KF (4.2 GHz / 5.2 GHz) - Tray",
+  "title_fr": "Intel Core Ultra 5 245KF (4.2 GHz / 5.2 GHz) - Tray",
+  "description_fr": "<h2>Intel Core Ultra 5 245KF (4.2 GHz / 5.2 GHz) - Tray</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">L&rsquo;<strong>Intel Core Ultra 5 245KF</strong> est un processeur performant con&ccedil;u pour les utilisateurs d&rsquo;ordinateurs de bureau et les gamers &agrave; la recherche d&rsquo;une solution efficace. Avec une fr&eacute;quence de base de 4.2 GHz et une fr&eacute;quence Turbo atteignant 5.2 GHz, il offre une excellente r&eacute;activit&eacute; gr&acirc;ce &agrave; ses 14 c&oelig;urs et 14 threads. &Eacute;tabli sur l&#39;architecture Arrow-Lake et grav&eacute; en 3 nm, ce processeur pr&eacute;sente un TDP de 125 W, assurant ainsi un &eacute;quilibre entre puissance et efficacit&eacute; &eacute;nerg&eacute;tique.</span></p>\n\n<p><span style=\"font-size:22px\">Ce mod&egrave;le est dot&eacute; d&rsquo;un cache L2 de 26 Mo et d&rsquo;un cache L3 de 24 Mo, permettant un traitement rapide des donn&eacute;es. Compatible avec le socket Intel 1851 et le chipset Z890, il supporte la m&eacute;moire DDR5 en dual channel, avec des vitesses allant jusqu&#39;&agrave; 6400 MHz. Bien qu&#39;il ne dispose pas de contr&ocirc;leur graphique int&eacute;gr&eacute;, il est &quot;AI Ready&quot;, permettant d&#39;exploiter les avanc&eacute;es en intelligence artificielle, et prend en charge les technologies de virtualisation Intel VT-d et VT-x pour une gestion avanc&eacute;e des ressources.</span></p>\n\n<p><span style=\"font-size:22px\">Con&ccedil;u en version tray, l&#39;Intel Core Ultra 5 245KF ne comprend pas de ventilateur, ce qui peut convenir aux utilisateurs souhaitant utiliser un syst&egrave;me de refroidissement personnalis&eacute;. Avec une garantie commerciale de 3 ans, ce processeur repr&eacute;sente un choix judicieux pour ceux qui recherchent des performances solides et des fonctionnalit&eacute;s avanc&eacute;es.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence de Base</strong> : 4.2 GHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence Turbo Max</strong> : 5.2 GHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>C&oelig;urs / Threads</strong> : 14 / 14</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Architecture</strong> : Arrow-Lake</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Finesse de Gravure</strong> : 3 nm</span></li>\n\t<li><span style=\"font-size:22px\"><strong>TDP</strong> : 125 W</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cache L2</strong> : 26 Mo</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cache L3</strong> : 24 Mo</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Socket</strong> : Intel 1851</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Chipset Compatible</strong> : Intel Z890</span></li>\n\t<li><span style=\"font-size:22px\"><strong>M&eacute;moire Support&eacute;e</strong> : DDR5, Dual Channel jusqu&#39;&agrave; 6400 MHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>AI Ready</strong> : Oui</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Virtualisation</strong> : Intel VT-d et VT-x</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Chipset Graphique</strong> : Aucun (pas de contr&ocirc;leur graphique int&eacute;gr&eacute;)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Type d&rsquo;Utilisation</strong> : Ordinateur de bureau, Gaming</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Version</strong> : Tray (ventilateur non fourni)</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb18ed34a2e400482a012c9",
+    "titre": "INTEL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326790165.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:05:39.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "4.20 GHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a00"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "5.20 GHz",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a01"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "14",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a02"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "14",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a03"
+    },
+    {
+      "cle": "Cache L2",
+      "valeur": "26 MB",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a04"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "24 MB",
+      "enable": true,
+      "_id": "6735d2c899de58d4f6867a05"
+    },
+    {
+      "cle": "Puissance de base du processeur",
+      "valeur": "125 W",
+      "enable": true,
+      "_id": "673b1f2299de58d4f6bad4b8"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "Intel 1851",
+      "enable": true,
+      "_id": "673b1f2299de58d4f6bad4b9"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR5 6400 MHz",
+      "enable": true,
+      "_id": "673b1f2299de58d4f6bad4bb"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "Intel-Core-Ultra-5-245KF-Tray",
+  "gallerie": {
+    "_id": "67239c0099de58d4f6ceaa4f",
+    "titre": "INTEL CORE ULTRA 5 245KF (4.2 GHZ / 5.2 GHZ) - VERSION TRAY",
+    "urlPhoto": [
+      "/uploads/gallerie/1730386993640.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-10-31T15:03:13.760Z",
+    "create_date": "2024-10-31T15:02:24.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 510,
+  "price": 1460,
+  "tagsSearch": [
+    "INTEL",
+    "COMPOSANTS",
+    "PROCESSEUR",
+    "ULTRA",
+    "COREULTRA"
+  ],
+  "discount": 15.821917808219178,
+  "stock": 10,
+  "prixEnPromo": 1229,
+  "displayForPublic": true,
+  "create_date": "2024-10-31T15:04:31.666Z",
+  "update_date": "2025-10-23T20:11:19.399Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

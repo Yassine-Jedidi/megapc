@@ -1,0 +1,172 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797798307.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797798307.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AN/k9k1YhoaLo7TBxACxv9wAOHhRfqLHyckAu8vmAB9ffqHH////AL/O4AAALXh5ltrn5vnwHS26BZ0ZAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797820714.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797820714.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWNgQAdewaGNM2bMmH7q1KmpC5Yv7mCwcHFvXbxyzdxf///PPnDyeDeGDgB8gROD+nqvlQAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797820717.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797820717.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWNgQAee0SkTy8rKV8yfP39RZ19PH4O1u/eu7t6+23/+/79y8OjR3Rg6AGV3EzFFjXJYAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797820776.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797820776.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWNgQAf+MQnVXd3dM+bPXzCjuKGhi8HVP3DOgePHT/z+///s3BUrdmPoAABpCxM3oeUr0AAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797820795.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1685797820795.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWNgYGBgMHH3C3SOSI4DscFgyfLlKXVNTSVwgf///ycvXbW2CC6w5fDh0KYpU1JAHAAJzREuWWcxsAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "63ff56ed8ac974073dccee76",
+  "sku": "G325E500G",
+  "mpn": "G325E500G",
+  "titleSeo": "GIGABYTE GEN3 2500E SSD NVME 500 GB | MEGA PC ",
+  "desciprtionSeo": "GIGABYTE GEN3 2500E SSD NVME 500 GB | PCI-Express 3.0 x4, NVMe 1.3 - Lecture 2300MB/s - Ecriture 1500MB/s | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "G325E500G",
+  "title": "GIGABYTE GEN3 2500E SSD NVME 500 GB",
+  "title_fr": "GIGABYTE GEN3 2500E SSD NVME 500 GB",
+  "description_fr": "<h2>GIGABYTE GEN3 2500E SSD NVME 500 GB</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">SSD GIGABYTE Gen3 2500E adopte le contr&ocirc;leur Phison et la NAND 3D de haute qualit&eacute;, offre jusqu&#39;&agrave; 2400 Mo/s en lecture s&eacute;quentielle et 1800 Mo/s en &eacute;criture s&eacute;quentielle. En utilisant la technologie Host Memory Buffer, le contr&ocirc;leur SSD peut acc&eacute;der &agrave; la DRAM h&ocirc;te sans perte de performances.&nbsp;<br />\nDe plus, le SSD GIGABYTE Gen3 2500E prend en charge TRIM, SMART et Over-Provision pour s&eacute;curiser vos donn&eacute;es et fonctionner de mani&egrave;re stable</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1677678174301.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1677678174419.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1677678174221.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Facteur de forme : M.2 2500E</span></li>\n\t<li><span style=\"font-size:22px\">Interface : PCI-Express 3.0 x4, NVMe 1.3</span></li>\n\t<li><span style=\"font-size:22px\">Capacit&eacute; totale : 500&nbsp;Go</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse de lecture s&eacute;quentielle : jusqu&#39;&agrave; 2 300 Mo/s**</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse d&#39;&eacute;criture s&eacute;quentielle : jusqu&#39;&agrave; 1500 Mo/s**</span></li>\n\t<li><span style=\"font-size:22px\">HMB (Host Memory Buffer) pris en charge</span></li>\n\t<li><span style=\"font-size:22px\">Prise en charge TRIM &amp; S.M.A.R.T</span></li>\n\t<li><span style=\"font-size:22px\">A faible consommation</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5f5fc891c0300232c01fb0ee",
+    "titre": "DISQUE-NVME",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205776098.webp",
+    "order": 7,
+    "descriptionSEO": "<p>Disque dur Nvme Tunisie | Disque dur SSD NVMe Pny, western digital, Samsung Evo, Crucial,  Sauvegardez vos données grâce à nos disques durs NVme.</p>",
+    "titreSEO": "SSD | NVME - Disque dur interne Tunisie M2 - Disque stockage |Mega PC",
+    "create_date": "2020-09-14T19:46:25.000Z",
+    "reference": "NVME",
+    "update_date": "2021-12-16T10:58:36.316Z",
+    "visible": false,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "CAPACITÉ DE STOCKAGE",
+      "valeur": "500 GB",
+      "enable": true,
+      "_id": "63ff5acc8ac974073dcf8c9e"
+    },
+    {
+      "cle": "VITESSE EN LECTURE",
+      "valeur": "2400 MB/S",
+      "enable": true,
+      "_id": "63ff5acc8ac974073dcf8c9f"
+    },
+    {
+      "cle": "VITESSE EN ÉCRITURE",
+      "valeur": "1800 MB/S",
+      "enable": true,
+      "_id": "63ff5acc8ac974073dcf8ca0"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f5fc891c0300232c01fb0ee"
+  ],
+  "lien": "GIGABYTE-GEN3-2500E-SSD-NVME-500-GB",
+  "gallerie": {
+    "_id": "63ff56038ac974073dcc7ec1",
+    "titre": "GIGABYTE GEN3 2500E SSD NVME 500 GB",
+    "urlPhoto": [
+      "/uploads/gallerie/1685797798307.webp",
+      "/uploads/gallerie/1685797820714.webp",
+      "/uploads/gallerie/1685797820717.webp",
+      "/uploads/gallerie/1685797820776.webp",
+      "/uploads/gallerie/1685797820795.webp"
+    ],
+    "update_date": "2023-06-03T13:10:20.907Z",
+    "create_date": "2023-03-01T13:41:23.000Z",
+    "__v": 3
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": true,
+  "enArrivage": false,
+  "new": false,
+  "vue": 6255,
+  "price": 149,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "DISQUE-NVME"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2023-03-01T13:45:17.141Z",
+  "update_date": "2025-10-24T09:07:18.735Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

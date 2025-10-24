@@ -1,0 +1,157 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677487844693.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677487844693.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOklEQVQImQXBoRHAQAgEwKsF9Y5yceQljkKYuX4QyWUXkkh29+6C5DkHQESgqszM3TMT36t7n5mR9AMS0R4DvKtvHwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677487864607.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677487864607.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///+zs7d7f4Pz8/ACmpqo4OUE6O0WAgIYAOzxBAAAQEhEeP0BIAMjIyK2tsLW2uczNzgF2GvlMaNoRAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677487864611.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1677487864611.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOElEQVQImRXHoQ0AMAgEwDeEOdh/BxSKBTCEOUgQ3/TcgeTd7S5JkMxMd/+ZGTNT1YhAd4sIgKp6/okg7MIOtVwAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "63fc6d368ac974073d8057ba",
+  "sku": "GX40X54262",
+  "mpn": "GX40X54262",
+  "titleSeo": "Lenovo Laptop Urban Toploader T530 | MEGA PC ",
+  "desciprtionSeo": "Lenovo Laptop Urban Toploader T530 | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "GX40X54262",
+  "title": "Lenovo Laptop Urban Toploader T530",
+  "title_fr": "Lenovo Laptop Urban Toploader T530",
+  "description_fr": "<h2>Lenovo Laptop Urban Toploader T530</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Lenovo Urban Line est une collection d&#39;&eacute;tuis ax&eacute;e sur des lignes l&eacute;g&egrave;res et &eacute;pur&eacute;es et des d&eacute;tails modernes pour les d&eacute;placements quotidiens et occasionnels des jeunes professionnels. Pour les professionnels qui recherchent une mallette fonctionnelle mais l&eacute;g&egrave;re au design &eacute;l&eacute;gant, ce toploader T530 offre un compartiment PC d&eacute;di&eacute;, un compartiment organis&eacute; pour l&#39;essentiel et une poche avant facile d&#39;acc&egrave;s. L&#39;ouverture de charge r&eacute;serv&eacute;e sur le coin sup&eacute;rieur est pour une charge facile en d&eacute;placement.&nbsp;<br />\nIl dispose &eacute;galement d&#39;une sangle de bagage, d&#39;une bandouli&egrave;re r&eacute;glable et de poign&eacute;es l&eacute;g&egrave;rement rembourr&eacute;es pour un voyage pratique.</span></p>\n\n<p><img alt=\"Lenovo Laptop Urban Toploader T530 | MEGA PC \" src=\"https://apibackend.megapc.tn///uploads/gallerie/1677487941099.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Un toploader fonctionnel avec deux compartiments et une section de poste de travail zipp&eacute;e</span></li>\n\t<li><span style=\"font-size:22px\">Polyester durable et hydrofuge avec rev&ecirc;tement en TPU</span></li>\n\t<li><span style=\"font-size:22px\">Compartiment PC d&eacute;di&eacute; et enti&egrave;rement rembourr&eacute; pouvant accueillir des ordinateurs portables jusqu&#39;&agrave; 15,6 pouces</span></li>\n\t<li><span style=\"font-size:22px\">Compartiment principal spacieux et organis&eacute;</span></li>\n\t<li><span style=\"font-size:22px\">Port de charge r&eacute;serv&eacute; r&eacute;sistant aux intemp&eacute;ries pour un chargement facile lors de vos d&eacute;placements</span></li>\n\t<li><span style=\"font-size:22px\">Sangle de bagage &agrave; l&#39;arri&egrave;re pour faciliter les d&eacute;placements</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23656a4815052c4d1a429",
+    "titre": "LENOVO",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326424025.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:44:06.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "601d6f15051d693aa4208ca1",
+    "order": 9,
+    "titre": "SAC À DOS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1612541733987.webp",
+    "create_date": "2021-02-05T16:15:17.000Z",
+    "reference": "SACADOS",
+    "update_date": "2022-01-04T14:06:13.573Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "",
+      "valeur": "",
+      "enable": true,
+      "_id": "63fc70e78ac974073d80c756"
+    },
+    {
+      "cle": "",
+      "valeur": "",
+      "enable": true,
+      "_id": "63fc70e78ac974073d80c757"
+    },
+    {
+      "cle": "",
+      "valeur": "",
+      "enable": true,
+      "_id": "63fc70e78ac974073d80c758"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "601d6f15051d693aa4208ca1"
+  ],
+  "lien": "Lenovo-Laptop-Urban-Toploader-T530",
+  "gallerie": {
+    "_id": "63fc6ec78ac974073d80c6f5",
+    "titre": "LENOVO LAPTOP URBAN TOPLOADER T530",
+    "urlPhoto": [
+      "/uploads/gallerie/1677487844693.webp",
+      "/uploads/gallerie/1677487864607.webp",
+      "/uploads/gallerie/1677487864611.webp"
+    ],
+    "update_date": "2023-02-27T08:51:29.558Z",
+    "create_date": "2023-02-27T08:50:15.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1337,
+  "price": 155,
+  "tagsSearch": [
+    "LENOVO",
+    "MEGAPC",
+    "ACCESSOIRES",
+    "SAC À DOS"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2023-02-27T08:43:34.423Z",
+  "update_date": "2025-10-23T21:08:01.789Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "__v": 0,
+  "targetGiga": true,
+  "targetMega": true
+}

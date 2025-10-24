@@ -1,0 +1,165 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663668046659.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663668046659.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APv/84utbGd/VeTj4wDU1tAWGxoaFxnY1tcAz9DSAAEeFjNJ29veAO34/lycymegyu/u7+HEHQMbRKwsAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663668046667.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663668046667.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOTl5HqZX3mWXfb78QDa2tkZGxkAAATRzc0A29raAAIXAAwm2eDqAO/v71iHp1ij1vT//88tHEoHzbceAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663668046683.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1663668046683.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APX/54CkW2aDSeny4gDHyMMdIiQWExnCvr4AxsfLAAEaACM8z9rmAOf2/1CTwliq5Oz//8Y6HDHvA9tyAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "63298e1d32259e57d1cf5b8c",
+  "sku": "ST6000VX001",
+  "mpn": "8719706004619",
+  "titleSeo": "Disque dur : Seagate SkyHawk Vidéosurveillance | MEGA PC",
+  "desciprtionSeo": "Disque dur Seagate SkyHawk pour Vidéosurveillance | Taille du cache : 256 Mo | Utilisation pour NAS | Capacité 6 To | Poids : 610 g | ST6000VX001 | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "58",
+  "priceValidUntil": "2023-05-08",
+  "referenceInterne": "ST6000VX001",
+  "title": "Seagate SkyHawk Surveillance 6 Tb",
+  "title_fr": "Seagate SkyHawk Surveillance 6 Tb",
+  "description_fr": "<h2>Seagate SkyHawk Surveillance 6 Tb</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le <strong>Seagate SkyHawk Surveillance 6 To</strong> est un disque dur con&ccedil;u pour les syst&egrave;mes de surveillance et les NAS (Network Attached Storage). Avec une <strong>capacit&eacute; de 6 To</strong> et un <strong>cache de 256 Mo</strong>, il est optimis&eacute; pour g&eacute;rer de grandes quantit&eacute;s de donn&eacute;es en continu. Sa technologie d&#39;enregistrement <strong>CMR (Conventional Magnetic Recording)</strong> assure une meilleure fiabilit&eacute; pour les applications de surveillance. Il se connecte via une interface <strong>Serial ATA 6 Gb/s (SATA Revision 3)</strong>, offrant des performances &eacute;lev&eacute;es pour le transfert de donn&eacute;es. Id&eacute;al pour les environnements de surveillance n&eacute;cessitant une grande capacit&eacute; de stockage et une performance fiable.</span></p>\n\n<p>&nbsp;</p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Capacit&eacute; : 6 To</span></li>\n\t<li><span style=\"font-size:22px\">Taille du cache : 256 Mo</span></li>\n\t<li><span style=\"font-size:22px\">Technologie d&#39;enregistrement : CMR</span></li>\n\t<li><span style=\"font-size:22px\">Utilisation : pour NAS</span></li>\n\t<li><span style=\"font-size:22px\">Interface avec l&#39;ordinateur : Serial ATA 6Gb/s (SATA Revision 3)</span></li>\n</ul>\n\n<p>&nbsp;</p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ec173fe4a2e400482a013f5",
+    "titre": "SEGATE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327370956.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-17T17:27:26.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "61bb17af4439e59bf2d60ac7",
+    "titre": "STOCKAGE",
+    "visible": true,
+    "order": 6,
+    "update_date": "2021-12-21T12:32:51.096Z",
+    "create_date": "2021-12-16T10:40:47.000Z",
+    "__v": 0,
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "urlPhoto2": "/uploads/souscateg/1639735720230.webp",
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "secondFilsCateg": "61bb18244439e59bf2d60add",
+  "attributes": [
+    {
+      "cle": "FORMAT DE DISQUE",
+      "valeur": "3.5 POUCES",
+      "enable": true,
+      "_id": "5f8d79863e9bde457030beb7"
+    },
+    {
+      "cle": "CAPACITÉ DE STOCKAGE",
+      "valeur": "6 TB",
+      "enable": true,
+      "_id": "5f8d79863e9bde457030beb8"
+    },
+    {
+      "cle": "VITESSE DE ROTATION",
+      "valeur": "5400 RPM",
+      "enable": true,
+      "_id": "5f8d79863e9bde457030beb9"
+    },
+    {
+      "cle": "TAILLE DU CACHE",
+      "valeur": "256 MB",
+      "enable": true,
+      "_id": "5f8d79863e9bde457030beba"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5f5fc86dc0300232c01fb0ec"
+  ],
+  "lien": "Seagate-SkyHawk-Surveillance-6-Tb",
+  "gallerie": {
+    "_id": "63298f2f32259e57d1cfbf0b",
+    "titre": "SEAGATE SKYHAWK SURVEILLANCE 6 TB",
+    "urlPhoto": [
+      "/uploads/gallerie/1663668046659.webp",
+      "/uploads/gallerie/1663668046667.webp",
+      "/uploads/gallerie/1663668046683.webp"
+    ],
+    "update_date": "2022-09-20T10:00:46.828Z",
+    "create_date": "2022-09-20T10:00:15.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 3292,
+  "price": 599,
+  "tagsSearch": [
+    "SEGATE",
+    "COMPOSANTS",
+    "STOCKAGE",
+    "DISQUE-HDD"
+  ],
+  "stock": 10,
+  "displayForPublic": true,
+  "create_date": "2022-09-20T09:55:41.912Z",
+  "update_date": "2025-10-24T14:58:13.983Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

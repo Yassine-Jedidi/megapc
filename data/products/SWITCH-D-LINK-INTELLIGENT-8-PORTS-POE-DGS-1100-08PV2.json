@@ -1,0 +1,188 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750777031310.png",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1750777031310.png",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKUlEQVQImWP4jwQY8vPzpKQkzE0Np0zuZ4iLi2VkYBAXF83LzWVAVgYAHV4eec0JtW0AAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "68597de999437548fd87c3a8",
+  "sku": "DGS-1100-08PV2-MT",
+  "mpn": "DGS-1100-08PV2-MT",
+  "titleSeo": "Switch D-LINK Intelligent 8 PORTS POE - (DGS-1100-08PV2) | MEGA PC | MEILLEUR PRIX TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "46",
+  "priceValidUntil": "2028-06-23",
+  "referenceInterne": "DGS-1100-08PV2-MT",
+  "title": "Switch D-LINK Intelligent 8 PORTS POE - (DGS-1100-08PV2)",
+  "title_fr": "Switch D-LINK Intelligent 8 PORTS POE - (DGS-1100-08PV2)",
+  "description_fr": "<div style=\"font-size:22px\">\n<p><span style=\"color:#000000\"><strong>Switch D-LINK Intelligent 8 PORTS POE- (DGS-1100-08PV2) &nbsp;</strong>- Nombre de Ports:<strong> 8 ports</strong> - Normes R&eacute;seau: <strong>10/100/1000 Mbps </strong>- Consommation d&#39;&eacute;nergie: <strong>2.5 W</strong> - Tension d entr&eacute;e: <strong>100 to 240 V AC, 50 to 60 Hz external power adapter</strong>&nbsp;- Capacit&eacute; de commutation : <strong>16 Gbps</strong>&nbsp;- Option POE: <strong>half at 10/100 Mbps, full at 1000 Mbps , Auto MDI/MDIX , IEEE 802.3x &nbsp;, IEEE 802.3az </strong>- Ajustement Automatique: <strong>MDI/MDIX </strong>- Taux de transfert maximum: <strong>11.9 Mpps&nbsp;</strong>&nbsp;- Adresse Mac:<strong> 4K entries </strong>- Dimensions: 145 x 82 x 28 mm&nbsp;</span></p>\n</div>\n",
+  "miniDescription": "<div style=\"font-size: 22px\"><p><strong>Switch D-LINK Intelligent 8 PORTS POE- (DGS-1100-08PV2) &nbsp;</strong>- Nombre de Ports:<strong> <span style=\"color: #ff0000;\">8 ports</span></strong><span class=\"\\&quot;description\\&quot;\"> - Normes Réseau: <span style=\"color: #ff0000;\"><strong><span style=\"color: #ff0000;\">10/100/1000 Mbps</span><span style=\"color: #fa0a0a;\"> </span></strong></span></span><span class=\"\\&quot;description\\&quot;\">- Consommation d'énergie: <strong><span style=\"color: #fa0a0a;\">2.5 W</span></strong> - Tension d entrée: <strong><span style=\"color: #fa0a0a;\">100 to 240 V AC, 50 to 60 Hz external power adapter</span></strong>&nbsp;-</span> Capacité de commutation : <span style=\"color: #fa0a0a;\"><strong>16 Gbps</strong></span>&nbsp;- Option POE: <strong><span style=\"color: #fa0a0a;\">half at 10/100 Mbps, full at 1000 Mbps , Auto MDI/MDIX , IEEE 802.3x &nbsp;, IEEE 802.3az </span></strong>- Ajustement Automatique: <strong><span style=\"color: #ff0000;\">MDI/MDIX </span></strong>- Taux de transfert maximum: <strong><span style=\"color: #fa0a0a;\">11.9 Mpps</span><span style=\"color: #fa0a0a;\">&nbsp;</span></strong><span style=\"color: #fa0a0a;\">&nbsp;</span>- Adresse Mac:<span style=\"color: #ff0000;\"><strong> 4K entries </strong></span>- Dimensions: 145 x 82 x 28 mm&nbsp;</p>\n<div style=\"background: #E3E0E3; width: 100%; font-size: 11px; font-weight: bold; padding: 10px 0 10px 0px;\"><span style=\"color: #000000;\">Retrait en Magasin ou Livraison</span> <span style=\"color: #D0121A; font-size: 13px;\">Gratuite</span> <span style=\"color: #000000;\">pour Cet Article</span></div></div>",
+  "miniDescription_fr": "<p><span style=\"color:#000000\"><span style=\"font-size:22px\"><strong>Switch D-LINK Intelligent 8 PORTS POE- (DGS-1100-08PV2) &nbsp;</strong>- Nombre de Ports:<strong> 8 ports</strong> - Normes R&eacute;seau: <strong>10/100/1000 Mbps </strong>- Consommation d&#39;&eacute;nergie: <strong>2.5 W</strong> - Tension d entr&eacute;e: <strong>100 to 240 V AC, 50 to 60 Hz external power adapter</strong>&nbsp;- Capacit&eacute; de commutation : <strong>16 Gbps</strong>&nbsp;- Option POE: <strong>half at 10/100 Mbps, full at 1000 Mbps , Auto MDI/MDIX , IEEE 802.3x &nbsp;, IEEE 802.3az </strong>- Ajustement Automatique: <strong>MDI/MDIX </strong>- Taux de transfert maximum: <strong>11.9 Mpps&nbsp;</strong>&nbsp;- Adresse Mac:<strong> 4K entries </strong>- Dimensions: 145 x 82 x 28 mm&nbsp;</span></span></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "68597d18fd2984d47c666123",
+    "titre": "D-LINK",
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:13:12.243Z",
+    "create_date": "2025-06-23T16:13:12.000Z",
+    "__v": 0
+  },
+  "categorie": {
+    "_id": "6676a6a5670b0ae15899d459",
+    "titre": "SÉCURITÉ & PROTECTION",
+    "order": 21,
+    "visible": true,
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T10:33:08.972Z",
+    "create_date": "2024-06-22T10:25:41.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1719396231511.webp",
+    "urlPhoto2": "/uploads/categorie/1720013029366.webp"
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "68597cd1fd2984d47c66611d",
+    "titre": "RESEAUX SECURITE",
+    "marge": null,
+    "tva": null,
+    "visible": true,
+    "order": 4,
+    "categorie": "6676a6a5670b0ae15899d459",
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-23T16:19:53.025Z",
+    "create_date": "2025-06-23T16:12:01.000Z",
+    "__v": 0,
+    "urlPhoto": "/uploads/souscateg/1750695588029.webp",
+    "urlPhoto2": "/uploads/souscateg/1750695592930.webp"
+  },
+  "qte": 99,
+  "attributes": [
+    {
+      "cle": "gtin",
+      "valeur": "DGS-1100-08PV2",
+      "enable": true,
+      "_id": "68597de999437548fd87c3a9"
+    },
+    {
+      "cle": "Marque",
+      "valeur": "DLINK",
+      "enable": true,
+      "_id": "68597de999437548fd87c3aa"
+    },
+    {
+      "cle": "Nombre de Ports",
+      "valeur": "8 Ports",
+      "enable": true,
+      "_id": "68597de999437548fd87c3ab"
+    },
+    {
+      "cle": "Gigabit",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597de999437548fd87c3ac"
+    },
+    {
+      "cle": "Compatibilité POE",
+      "valeur": "Oui",
+      "enable": true,
+      "_id": "68597de999437548fd87c3ad"
+    },
+    {
+      "cle": "Consommation électrique",
+      "valeur": "1.93 W",
+      "enable": true,
+      "_id": "68597de999437548fd87c3ae"
+    },
+    {
+      "cle": "Tension d entrée",
+      "valeur": "100 to 240 V AC, 50 to 60 Hz external power adapter",
+      "enable": true,
+      "_id": "68597de999437548fd87c3af"
+    },
+    {
+      "cle": "Poids",
+      "valeur": "0.34 kg",
+      "enable": true,
+      "_id": "68597de999437548fd87c3b0"
+    },
+    {
+      "cle": "Dimensions",
+      "valeur": "145 x 82 x 28 mm",
+      "enable": true,
+      "_id": "68597de999437548fd87c3b1"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "68597cd1fd2984d47c66611d"
+  ],
+  "lien": "SWITCH-D-LINK-INTELLIGENT-8-PORTS-POE-DGS-1100-08PV2",
+  "gallerie": {
+    "_id": "685abcaafd2984d47c7568df",
+    "titre": "SWITCH D-LINK INTELLIGENT 8 PORTS POE - (DGS-1100-08PV2)",
+    "urlPhoto": [
+      "/uploads/gallerie/1750777031310.png"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-06-24T14:57:11.454Z",
+    "create_date": "2025-06-24T14:56:42.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 54,
+  "price": 499,
+  "tagsSearch": [],
+  "discount": 0,
+  "stock": 99,
+  "prixEnPromo": 440,
+  "displayForPublic": true,
+  "create_date": "2025-06-23T16:16:41.055Z",
+  "update_date": "2025-10-23T21:32:10.608Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

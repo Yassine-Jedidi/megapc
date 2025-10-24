@@ -1,0 +1,201 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726055586576.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726055586576.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////38/u7u7/r6+gBzcnFsa2ZHR0lxbnAABgAACgAAPT09VVNTAN/e4Orp6uTj4+/u7xD4HPmOUWEwAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726055591993.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726055591993.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APb4+JeYmWxtbrm7uwDAwsQvMzMYGRlQUVIAx8jKKSorAAACYWJjAP///p6foZiam66vsJLrGPDa/oOWAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726055592006.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726055592006.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AL6+wH19fpSRkf///wCqqqs1NDYXFBSUk5MAs7OyIyMlAQAAi4qKALCwr11dX3Z2dra2tY/XF83zUyIfAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726055592012.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1726055592012.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVQImWP4jwQYtm/fNnv27P4JE/T19RkcHezT09M9vP2YGRgYkJUBAHnbIPPY2udFAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "65d0b7ce0ba0330b65fd6274",
+  "sku": "A620M-DS3H",
+  "mpn": "A620M-DS3H",
+  "titleSeo": "CARTE MERE Gigabyte A620M DS3H G10 DDR5 | MEGA TUNISIE",
+  "desciprtionSeo": "CARTE MERE Gigabyte A620M DS3H G10 DDR5 Format de carte mère : Micro ATX Socket : Socket AM5 Chipset : AMD A620 Max Ram : 192 Go DDR5 7600 MHz (2 Slots ) Nombre de slots M.2 : 1 | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "A620M-DS3H",
+  "title": "Gigabyte A620M DS3H G10 DDR5",
+  "title_fr": "Gigabyte A620M DS3H G10 DDR5",
+  "description_fr": "<h2>Gigabyte A620M DS3H</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La carte m&egrave;re Gigabyte A620M DS3H est id&eacute;ale pour poser les bases d&#39;une configuration gaming &eacute;conomique. Elle est con&ccedil;ue pour prendre en charge un processeur AMD Ryzen 7000 sur un socket AMD AM5 et prend en charge la DDR5, le PCI-Express 4.0 pour les SSD et les cartes graphiques.</span></p>\n\n<p><img src=\"https://media.ldlc.com/bo/images/fiches/carte-mere/Gigabyte/z790/gigabyte_ud_intel_700.jpg\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re : Micro ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket : Socket AM5</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;AMD&nbsp;A620</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 192 Go&nbsp;DDR5 7600 MHz (2&nbsp;Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 : 1</span></li>\n</ul>\n",
+  "facilite_fr": "",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "AMD AM5",
+      "enable": true,
+      "_id": "653fc20237e0a9bf8ab8f033"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "AMD A620",
+      "enable": true,
+      "_id": "653fc20237e0a9bf8ab8f034"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "Micro ATX",
+      "enable": true,
+      "_id": "653fc20237e0a9bf8ab8f035"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "653fc20237e0a9bf8ab8f036"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "4",
+      "enable": true,
+      "_id": "653fc20237e0a9bf8ab8f037"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "192 GB",
+      "enable": true,
+      "_id": "653fc20237e0a9bf8ab8f038"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "48 GB",
+      "enable": true,
+      "_id": "653fc20237e0a9bf8ab8f039"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "7600 MHz",
+      "enable": true,
+      "_id": "653fc20237e0a9bf8ab8f03a"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "Gigabyte-A620M-DS3H-DDR5",
+  "gallerie": {
+    "_id": "65d0b8dd0ba0330b65fe0238",
+    "titre": "GIGABYTE A620M DS3H",
+    "urlPhoto": [
+      "/uploads/gallerie/1726055586576.webp",
+      "/uploads/gallerie/1726055591993.webp",
+      "/uploads/gallerie/1726055592006.webp",
+      "/uploads/gallerie/1726055592012.webp"
+    ],
+    "update_date": "2024-09-11T11:53:12.134Z",
+    "create_date": "2024-02-17T13:47:09.000Z",
+    "__v": 3,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": false,
+  "visible": true,
+  "facilite": true,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 4682,
+  "price": 399,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE MÈRE"
+  ],
+  "stock": 9,
+  "forConfig": true,
+  "displayForPublic": true,
+  "create_date": "2023-08-16T10:36:59.568Z",
+  "update_date": "2025-10-24T00:30:08.605Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

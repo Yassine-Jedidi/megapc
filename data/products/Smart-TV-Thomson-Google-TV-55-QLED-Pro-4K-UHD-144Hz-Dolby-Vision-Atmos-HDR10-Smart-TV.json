@@ -120,7 +120,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 172,
+  "vue": 174,
   "price": 2449,
   "tagsSearch": [
     "THOMSON",
@@ -130,7 +130,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-02T11:26:51.071Z",
-  "update_date": "2025-10-24T16:53:00.628Z",
+  "update_date": "2025-10-24T17:12:29.563Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

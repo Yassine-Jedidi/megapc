@@ -1,0 +1,206 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562812854.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562812854.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAASklEQVQImWNggIL///+rHtm1S47B29O9JS0xovrH1483tmzZ/I1BV0f7f0yY9//ly5f9P3L48H8GfSsbf0MzM6/SiprwtWvXegEA1JEe4I2d8b4AAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562853838.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562853838.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP4jwQYioqKTp06tWnTprCwMAZra6vSkhIvD3dmBgaG//////71+/ev30BlAIisIYTdgFt/AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562853840.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562853840.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APf29o2NjbS0tP///gDy8fErJiYSDg7S0tIA7u/uKisoAQAAxMTEAO3t7CkqKS4vL87OzRJHG16rf0v3AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562853869.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562853869.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///6ChoX5+f9LS0gDw8O8oKSkVEhOtrKwA7u/uHh4fAQABsbGxAPf391RUVTU0Nbq6uuTlGkL9xD6XAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562853883.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686562853883.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///46OjYWGhNfX1gDr6uojIB8FAACUk5MA7u7tLi4tDAYGoJ+fAPb29llZWUxMS8TEws//Gfyfka4cAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6486dec77317c4e1abfd2319",
+  "sku": "N82E16813145497",
+  "mpn": "N82E16813145497",
+  "titleSeo": "GIGABYTE B760 DS3H DDR5 | MEGA PC",
+  "desciprtionSeo": "GIGABYTE B760 DS3H DDR5 | Processeurs compatibles : Core de 12ème et 13ème génération | MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "69",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "B760-DS3H",
+  "title": "GIGABYTE B760 DS3H DDR5",
+  "title_fr": "GIGABYTE B760 DS3H DDR5",
+  "description_fr": "<h2>GIGABYTE B760 DS3H DDR5</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La carte m&egrave;re <strong>Gigabyte B760 DS3H</strong> utilise un <strong>socket LGA 1700</strong> et est &eacute;quip&eacute;e du chipset <strong>Intel B760 Express</strong>. Elle adopte un format <strong>ATX</strong> et prend en charge la m&eacute;moire <strong>DDR5</strong> avec un total de <strong>4 slots DIMM de 288 pins</strong>. La <strong>capacit&eacute; maximale de RAM</strong> est de <strong>192 Go</strong>, avec une capacit&eacute; maximale de <strong>48 Go par slot</strong>. Cette carte m&egrave;re supporte des vitesses de m&eacute;moire allant jusqu&#39;&agrave; <strong>DDR5 7600 MHz</strong>, offrant ainsi de bonnes performances pour les configurations haut de gamme.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686323712290.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1686323712267.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Socket</strong> : LGA 1700</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Chipset</strong> : Intel B760 Express</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Format de carte m&egrave;re</strong> : ATX</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Type de m&eacute;moire</strong> : DDR5</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Nombre de slots RAM</strong> : 4 x DIMM 288 pins</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Capacit&eacute; maximale de RAM</strong> : 192 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Capacit&eacute; maximale par slot</strong> : 48 Go</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence m&eacute;moire maximale</strong> : DDR5 7600 MHz</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Socket",
+      "valeur": "Intel 1700",
+      "enable": true,
+      "_id": "653fc0a837e0a9bf8ab8c24c"
+    },
+    {
+      "cle": "Chipset",
+      "valeur": "Intel B760 Express",
+      "enable": true,
+      "_id": "653fc0a837e0a9bf8ab8c24d"
+    },
+    {
+      "cle": "Format de carte mère",
+      "valeur": "ATX",
+      "enable": true,
+      "_id": "653fc0a837e0a9bf8ab8c24e"
+    },
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "653fc0a837e0a9bf8ab8c24f"
+    },
+    {
+      "cle": "Nombre de slots RAM",
+      "valeur": "4",
+      "enable": true,
+      "_id": "653fc0a837e0a9bf8ab8c250"
+    },
+    {
+      "cle": "Capacité maximale de RAM",
+      "valeur": "192 GB",
+      "enable": true,
+      "_id": "653fc0a837e0a9bf8ab8c251"
+    },
+    {
+      "cle": "Capacité maximale de RAM par slot",
+      "valeur": "48 GB",
+      "enable": true,
+      "_id": "653fc0a837e0a9bf8ab8c252"
+    },
+    {
+      "cle": "Fréquence Mémoire Max",
+      "valeur": "7600 MHz",
+      "enable": true,
+      "_id": "653fc0a837e0a9bf8ab8c253"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "GIGABYTE-B760-DS3H-DDR5",
+  "gallerie": {
+    "_id": "6486e7f14cfefce38e7ddc60",
+    "titre": "B760 DS3H DDR5",
+    "urlPhoto": [
+      "/uploads/gallerie/1686562812854.webp",
+      "/uploads/gallerie/1686562853838.webp",
+      "/uploads/gallerie/1686562853840.webp",
+      "/uploads/gallerie/1686562853869.webp",
+      "/uploads/gallerie/1686562853883.webp"
+    ],
+    "update_date": "2023-06-12T09:40:54.021Z",
+    "create_date": "2023-06-12T09:40:01.000Z",
+    "__v": 2
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 4569,
+  "price": 479,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE RÉSEAU - PCI",
+    "CARTE MÈRE"
+  ],
+  "discount": null,
+  "stock": 5,
+  "prixEnPromo": null,
+  "forConfig": false,
+  "displayForPublic": true,
+  "create_date": "2023-06-12T09:00:55.205Z",
+  "update_date": "2025-10-23T22:45:25.657Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

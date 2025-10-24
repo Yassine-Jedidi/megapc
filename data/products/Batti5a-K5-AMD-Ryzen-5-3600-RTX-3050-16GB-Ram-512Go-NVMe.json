@@ -13,12 +13,12 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178220.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178220.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImWP4////CzD4//8/w48fP3S0dTQ0NN+9ewfiCPALMjGwvH71muH///83bty4evXa3z9/AZxHIvIOz7kbAAAAAElFTkSuQmCC"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178221.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178221.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMklEQVQImWP4////2rXrNm/a8v//f4b////LyykYGphAOaKiEgwM7FBOT09fS3MLkAMAYtcgdm75cKoAAAAASUVORK5CYII="
     }
   ],
   "_id": "68b5736a18a005848ab102e0",
@@ -105,7 +105,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 218,
+  "vue": 220,
   "price": 1699,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -115,7 +115,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-01T10:20:26.372Z",
-  "update_date": "2025-10-24T16:53:09.530Z",
+  "update_date": "2025-10-24T17:12:36.022Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

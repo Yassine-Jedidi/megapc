@@ -1,0 +1,177 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1694180081266.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1694180081266.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImWNg+M+ABmIcTjLEWl9iiLK9wBBrd4ZBO8b9pnKC+32ldK/7ukk+9xj+///PhIwBPvAZVPDTfaEAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1694180081267.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1694180081267.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAQklEQVQImWNggALf7UkyBrVhvAxuyzw5nBYlFNpOy/qfsqy6ksFjbVG+44yC/5k762v//97HwRC7tZd3/vVpajCtAMw7FplUGyg0AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1694180081281.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1694180081281.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImWNg+M+ABmIcTjLEWl9iiLK9wBBrd4ZBO8b9pnKC+32ldK/7ukk+9xj+///PhIwBPvAZVPDTfaEAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "64fb23eb3ece3f75831a8028",
+  "sku": "GR3200S464L22S/8G",
+  "mpn": "GR3200S464L22S/8G",
+  "titleSeo": "GOODRAM SODIMM 8G DDR4 25600 3200MHZ CL22 | MEGA TUNISIE",
+  "desciprtionSeo": "GOODRAM SODIMM 8G DDR4 25600 3200MHZ CL22 | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2026-09-08",
+  "referenceInterne": "GR3200S464L22S/8G",
+  "title": "GOODRAM SODIMM 8G DDR4 25600 3200MHZ CL22",
+  "title_fr": "GOODRAM SODIMM 8G DDR4 25600 3200MHZ CL22",
+  "description_fr": "<h2>GOODRAM SODIMM 8G DDR4 25600 3200MHZ CL22</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le GOODRAM SODIMM 8G DDR4 25600 3200MHZ CL22 est une m&eacute;moire vive pour ordinateur portable qui offre des performances et une fiabilit&eacute; &eacute;lev&eacute;es. Il est compatible avec les syst&egrave;mes de m&eacute;moire DDR4-3200 et dispose d&#39;une vitesse de 3200 MHz et d&#39;une latence CL22. Cela signifie qu&#39;il peut transf&eacute;rer des donn&eacute;es &agrave; un taux de 3200 millions de transferts par seconde et a une latence de 22 cycles.</span></p>\n\n<p><span style=\"font-size:22px\">Cette m&eacute;moire vive est fabriqu&eacute;e &agrave; partir de mat&eacute;riaux de haute qualit&eacute; et est soumise &agrave; des tests rigoureux pour garantir sa fiabilit&eacute;. Elle est &eacute;galement garantie pendant 3 ans.</span></p>\n\n<p><span style=\"font-size:22px\">Le GOODRAM SODIMM 8G DDR4 25600 3200MHZ CL22 est une excellente option pour les utilisateurs qui recherchent une m&eacute;moire vive haute performance et fiable pour leur ordinateur portable. Il est id&eacute;al pour les t&acirc;ches gourmandes en ressources telles que les jeux, l&#39;&eacute;dition vid&eacute;o et la cr&eacute;ation de contenu.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Capacity: 8GB</span></li>\n\t<li><span style=\"font-size:22px\">Type: DDR4</span></li>\n\t<li><span style=\"font-size:22px\">Frequency: 3200 MHz</span></li>\n\t<li><span style=\"font-size:22px\">CAS latency: CL22</span></li>\n\t<li><span style=\"font-size:22px\">Voltage: 1.2V</span></li>\n\t<li><span style=\"font-size:22px\">Compatible with DDR4-3200 systems</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ec1627d4a2e400482a013ae",
+    "titre": "GOODRAM",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327100915.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-17T16:12:45.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2328ca4815052c4d1a419",
+    "titre": "BARETTE MÉMOIRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205649078.webp",
+    "order": 3,
+    "descriptionSEO": "<p>RAM PC gamer, Barrettes mémoires | Ram ordinateur bureau - Ram PC portable prix Tunisie - barrette mémoire ddr4. Mémoire Gigabyte, Adata, pny, Corsair</p>",
+    "titreSEO": "Ram pc gamer Tunisie - Achat Ram pc portable 8go - BARRETTE MÉMOIRE",
+    "create_date": "2020-04-24T00:27:56.000Z",
+    "reference": "RAM",
+    "update_date": "2021-12-04T08:54:47.010Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR4",
+      "enable": true,
+      "_id": "6744358599de58d4f6349c9f"
+    },
+    {
+      "cle": "Format de mémoire",
+      "valeur": "SO-DIMM",
+      "enable": true,
+      "_id": "6744358599de58d4f6349ca0"
+    },
+    {
+      "cle": "Capacité par barrette",
+      "valeur": "8 GB",
+      "enable": true,
+      "_id": "6744358599de58d4f6349ca1"
+    },
+    {
+      "cle": "Nombre de barrettes",
+      "valeur": "1",
+      "enable": true,
+      "_id": "6744358599de58d4f6349ca2"
+    },
+    {
+      "cle": "Fréquence",
+      "valeur": "3200 MHz",
+      "enable": true,
+      "_id": "6744361299de58d4f6356025"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2328ca4815052c4d1a419"
+  ],
+  "lien": "GOODRAM-SODIMM-8G-DDR4-25600-3200MHZ-CL22",
+  "gallerie": {
+    "_id": "64fb22133ece3f758319f5f6",
+    "titre": "GOODRAM SODIMM 8G DDR4 25600 3200MHZ CL22",
+    "urlPhoto": [
+      "/uploads/gallerie/1694180081266.webp",
+      "/uploads/gallerie/1694180081267.webp",
+      "/uploads/gallerie/1694180081281.webp"
+    ],
+    "update_date": "2024-10-18T13:08:33.530Z",
+    "create_date": "2023-09-08T13:30:59.000Z",
+    "__v": 2,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 1929,
+  "price": 108,
+  "tagsSearch": [
+    "GOODRAM",
+    "COMPOSANTS",
+    "BARETTE MÉMOIRE"
+  ],
+  "discount": 26.85185185185185,
+  "stock": 0,
+  "prixEnPromo": 79,
+  "displayForPublic": true,
+  "create_date": "2023-09-08T13:38:51.915Z",
+  "update_date": "2025-10-24T15:05:14.776Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

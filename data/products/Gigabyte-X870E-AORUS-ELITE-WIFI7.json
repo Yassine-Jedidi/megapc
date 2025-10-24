@@ -1,0 +1,191 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848289502.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848289502.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AD5ARP5YWVr+EhQV/gAABf4AUVNV/v//+P+Ig4T/S0VG/wAWFhj+g4SE/765tv5oYFz+ACMjJP5BQkH/W1xb/jk5Of8wyCBTULzRtAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848291908.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848291908.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAATUlEQVQImWOQU1D+x8DI+E9NXe3f3/8//zHY2Dv9mzVv5n8QzsxK/8/g4uH9b+2GVf9b21r+JSYl/GMwNjP/d+z4of/5RXn/RMRE/gMAgnMjV5BVTeEAAAAASUVORK5CYII="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848295814.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848295814.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AGVmY/7Awrn+MjAv/gMAAP4ATU1M/v//9v95eHj/JiIi/wAgICD+NDY2/1ZWUv45My7+ABYWFv4jIyP/JSUk/iAeHf9Gsx2dALFQbwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848298529.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848298529.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAASUlEQVQImWOQlZX5Z2Nj+U9PT/ff85f3/zGkZST/S0qO/x8Q5P//7/8f/xnc3d1Asv9jYiP/Xbt+6R9YgIGB4b+6utq/+vrK/wCA2CIN52ssswAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848302351.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848302351.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AHZ4dv4AAAL+HSAf/gIEAv4A/v/1/jAyLv8SFBL/JCUj/wDU1Mf+e353/zM0MP43OTb+ADY0L/4VFhX/PT46/issKv/dkR0CAfruPAAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848306328.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848306328.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////39/e/v7/39/QCwra6LiY87ODuSkZIATkZQCQAOFRAOZmVoAODc4ODg5M3MzNfX102wHlXETk+tAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848309358.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848309358.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AL69wF9eY6Ghn////wCmo6YPCRAiIyPU1dUAr6+vAAACHBscwsHCAMHBwBsbGygnKcfEx4y4Fzt/CvSPAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848312152.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848312152.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///2NjZDQ0NMvNzQChn6MAAAMVFhWjo6MA5OXlDA0OCggKvrm+AP//+x0eHiwrLNvW216QFr/xsdGvAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848314862.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848314862.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APLy9j8/QFBQUfDx8QC0srgoJykpKiqjo6UA2NnZAAECFxgaxMTHAP7//gkLCyYmKe7q74BfF9UFtNI/AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848321391.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1745848321391.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYNNXVubj5OBgYZKWkGPT19JRU1FTkFRVkZBmQlQEAr74akEqkXKEAAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "680bc63ac75bcce7a23305b4",
+  "sku": "F090121",
+  "mpn": "X870E-A-ELITE-WIFI7",
+  "titleSeo": "Carte Mère Gigabyte X870E AORUS ELITE WIFI7 – AM5 / DDR5 / PCIe 5.0 / USB4 – Meilleur Prix Tunisie",
+  "desciprtionSeo": "Boostez votre configuration gaming ou professionnelle avec la Gigabyte X870E AORUS ELITE WIFI7, la carte mère ultra-performante conçue pour les processeurs AMD Ryzen™ 9000 / 8000 / 7000. Compatible DDR5 jusqu’à 8200 MHz, elle vous offre une puissance inégalée, une connectivité USB4, Wi-Fi 7, Bluetooth 5.4, et un support PCIe 5.0 pour des SSD et GPU de dernière génération. En vente au meilleur prix en Tunisie, elle est parfaite pour les passionnés de performance et les créateurs de contenu. | Gigabyte X870E AORUS ELITE WIFI7 Tunisie, carte mère AM5 DDR5 Tunisie, carte mère PCIe 5.0 USB4 WiFi7, carte mère Gigabyte meilleure prix, carte mère gaming AMD Ryzen Tunisie",
+  "ratingValue": "4.7",
+  "reviewCount": "55",
+  "priceValidUntil": "2027-07-09",
+  "referenceInterne": "F090121",
+  "title": "Gigabyte X870E AORUS ELITE WIFI7",
+  "title_fr": "Gigabyte X870E AORUS ELITE WIFI7",
+  "description_fr": "<h2><span style=\"font-size:22px\">Carte M&egrave;re Gigabyte X870E AORUS ELITE WIFI7 &ndash; Le C&oelig;ur Ultime de Votre Configuration Gaming en Tunisie ! 🇹🇳</span></h2>\n\n<hr />\n<p><span style=\"font-size:22px\">🎯 <strong>Si vous recherchez une carte m&egrave;re haut de gamme au meilleur prix en Tunisie</strong>, la <strong>Gigabyte X870E AORUS ELITE WIFI7</strong> est le choix ultime pour les passionn&eacute;s de performance et de fiabilit&eacute; ! Con&ccedil;ue pour les derniers processeurs <strong>AMD Ryzen&trade; s&eacute;rie 9000 / 8000 / 7000</strong>, cette carte ATX offre une compatibilit&eacute; &eacute;tendue et une puissance pr&ecirc;te pour l&#39;avenir. 🚀</span></p>\n\n<h3><span style=\"font-size:22px\">⚙️ Performances de Pointe avec Support DDR5 et PCIe 5.0</span></h3>\n\n<p><span style=\"font-size:22px\">&Eacute;quip&eacute;e du chipset <strong>AMD X870E</strong>, cette carte prend en charge jusqu&rsquo;&agrave; <strong>256 Go de m&eacute;moire DDR5 jusqu&#39;&agrave; 8200 MHz (OC)</strong> 💥, assurant une fluidit&eacute; et une r&eacute;activit&eacute; in&eacute;gal&eacute;es. Gr&acirc;ce au <strong>slot PCIe 5.0 x16</strong>, vous b&eacute;n&eacute;ficiez d&#39;une bande passante maximale pour votre carte graphique 🎮, rendant cette carte id&eacute;ale pour le gaming 4K et le streaming intensif.</span></p>\n\n<h3><span style=\"font-size:22px\">📺 Affichage Ultra-Connect&eacute; et Polyvalent</span></h3>\n\n<p><span style=\"font-size:22px\">Avec <strong>2 ports USB4 Type-C</strong> 🎯 compatibles DisplayPort, un port <strong>HDMI 2.1</strong> (4096x2160@60 Hz) et la possibilit&eacute; de g&eacute;rer jusqu&rsquo;&agrave; <strong>4 &eacute;crans simultan&eacute;ment</strong>, la X870E AORUS ELITE est parfaite pour les setups multi-&eacute;crans professionnels ou immersifs.</span></p>\n\n<h3><span style=\"font-size:22px\">🔊 Son Cristallin &amp; Connectivit&eacute; R&eacute;volutionnaire</span></h3>\n\n<p><span style=\"font-size:22px\">Profitez d&rsquo;un son immersif gr&acirc;ce au codec <strong>Realtek ALC1220</strong> 🔈 compatible 7.1 canaux, id&eacute;al pour les jeux, films et contenus Hi-Res. C&ocirc;t&eacute; r&eacute;seau, la carte embarque un port <strong>LAN 2.5 GbE</strong> ⚡, ainsi qu&rsquo;un module <strong>Wi-Fi 7</strong> nouvelle g&eacute;n&eacute;ration avec <strong>Bluetooth 5.4</strong>, assurant une connectivit&eacute; sans fil rapide, stable et pr&ecirc;te pour les ann&eacute;es &agrave; venir.</span></p>\n\n<h3><span style=\"font-size:22px\">🧊 Stockage Ultra-Rapide &amp; Refroidissement Avanc&eacute;</span></h3>\n\n<p><span style=\"font-size:22px\">Avec <strong>4 slots M.2 NVMe</strong> (dont PCIe 5.0 x4 support&eacute; par les Ryzen 9000) + <strong>4 ports SATA 6Gb/s</strong> 🔄, vous disposez d&rsquo;une solution de stockage modulaire, ultra-rapide et compatible RAID 0/1/5/10. La carte propose aussi plusieurs headers pour la gestion du refroidissement (eau &amp; air) ❄️, avec d&eacute;tection de d&eacute;bit, temp&eacute;rature, bruit et vitesse.</span></p>\n\n<h3><span style=\"font-size:22px\">🔌 Connectivit&eacute; Ultra Compl&egrave;te 🔄</span></h3>\n\n<ul>\n\t<li>\n\t<p><span style=\"font-size:22px\">2 x <strong>USB4 Type-C</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">10 x <strong>USB 3.2</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">8 x <strong>USB 2.0</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\"><strong>Sortie S/PDIF optique</strong>, <strong>HDMI frontal</strong>, et <strong>audio HD</strong></span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">Contr&ocirc;le total via <strong>GIGABYTE Control Center</strong> 🖥️</span></p>\n\t</li>\n\t<li>\n\t<p><span style=\"font-size:22px\">Fonction <strong>Q-Flash Plus</strong> pour mise &agrave; jour BIOS sans CPU 👌</span></p>\n\t</li>\n</ul>\n\n<h3><span style=\"font-size:22px\">📏 Format &amp; Syst&egrave;me</span></h3>\n\n<p><span style=\"font-size:22px\">🧱 Format <strong>ATX (30.5cm x 24.4cm)</strong> &ndash; parfait pour les bo&icirc;tiers moyens &agrave; grands. Compatible exclusivement avec <strong>Windows 11 64-bit</strong> pour exploiter toutes les technologies modernes.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🔌 <strong>Socket :</strong> AMD AM5 (Ryzen&trade; 9000 / 8000 / 7000 Series)</span></li>\n\t<li><span style=\"font-size:22px\">🧠 <strong>M&eacute;moire :</strong> DDR5 jusqu&rsquo;&agrave; 8200 MHz &ndash; 4 slots &ndash; 256 Go max</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>PCIe :</strong> Slot x16 Gen5 pour GPU ou SSD NVMe ultra rapide</span></li>\n\t<li><span style=\"font-size:22px\">⚡ <strong>Stockage :</strong> 4x M.2 (dont 2x PCIe 5.0) + 4x SATA 6Gb/s</span></li>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>Vid&eacute;o :</strong> HDMI 2.1 + 2x USB4 Type-C (DP 1.4, 4K@240Hz)</span></li>\n\t<li><span style=\"font-size:22px\">🌐 <strong>R&eacute;seau :</strong> LAN 2.5GbE + Wi-Fi 7 + Bluetooth 5.4</span></li>\n\t<li><span style=\"font-size:22px\">🔊 <strong>Audio :</strong> Realtek ALC1220 &ndash; 7.1 canaux HD + S/PDIF</span></li>\n\t<li><span style=\"font-size:22px\">🧩 <strong>USB :</strong> 2x USB4 + USB 3.2 Gen2 + USB-C interne</span></li>\n\t<li><span style=\"font-size:22px\">🌈 <strong>RGB :</strong> Headers ARGB Gen2 + support RGB classique</span></li>\n\t<li><span style=\"font-size:22px\">📏 <strong>Format :</strong> ATX &ndash; 30.5 cm x 24.4 cm</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ead90cd734f580888975cae",
+    "titre": "GIGABYTE",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326731462.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-02T15:25:01.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea232caa4815052c4d1a41c",
+    "titre": "CARTE MÈRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205640224.webp",
+    "order": 2,
+    "descriptionSEO": "<p>Cartes Mère&nbsp;Pc gamer Tunisie, Cartes mère ordinateur bureau à prix pas cher. Achat Carte mère intel, Amd, Gigabyte, Msi, Asus.</p>",
+    "titreSEO": "Carte mère PC Gamer, Carte mere Pc bureau GIGABYTE MSI ASUS Tunisie.",
+    "create_date": "2020-04-24T00:28:58.000Z",
+    "reference": "CARTEMERE",
+    "update_date": "2021-12-04T08:54:37.464Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea232caa4815052c4d1a41c"
+  ],
+  "lien": "Gigabyte-X870E-AORUS-ELITE-WIFI7",
+  "gallerie": {
+    "_id": "680f87d6c75bcce7a23ded7b",
+    "titre": "X870E-A-ELITE-WIFI7",
+    "urlPhoto": [
+      "/uploads/gallerie/1745848289502.webp",
+      "/uploads/gallerie/1745848291908.webp",
+      "/uploads/gallerie/1745848295814.webp",
+      "/uploads/gallerie/1745848298529.webp",
+      "/uploads/gallerie/1745848302351.webp",
+      "/uploads/gallerie/1745848306328.webp",
+      "/uploads/gallerie/1745848309358.webp",
+      "/uploads/gallerie/1745848312152.webp",
+      "/uploads/gallerie/1745848314862.webp",
+      "/uploads/gallerie/1745848321391.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-04-28T13:52:01.504Z",
+    "create_date": "2025-04-28T13:51:18.000Z",
+    "__v": 10
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 1034,
+  "price": 1259,
+  "tagsSearch": [
+    "GIGABYTE",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "GIGA-X870E",
+    "AORUS ELITE WIFI7",
+    "Gigabyte X870E AORUS ELITE WIFI7",
+    "MB X870E AORUS ELITE WIFI7",
+    "realap"
+  ],
+  "stock": 100,
+  "displayForPublic": true,
+  "create_date": "2025-04-25T17:28:26.227Z",
+  "update_date": "2025-10-24T12:00:34.363Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

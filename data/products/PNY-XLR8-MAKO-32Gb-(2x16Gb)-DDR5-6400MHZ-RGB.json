@@ -1,0 +1,183 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1705748197038.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1705748197038.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AJhjl0ilwtZa6//7WUxIT0kAQCMytlpaX96prqjdNTM0vgBMKT+3aG1z4LO9tt45Nje+ABYAAEQ0Jx9TbGJYVCUaGEkrLBuKudftrwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1705748197084.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1705748197084.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AC8gTVNiiJVp5v/zZ1tRV10ADQAMuU1VVeLGyr/dLygnywASABfCWWlr78rUyusvKCfWACIaAC93X0I5pYt3NyIYADK7zRpLOnrlawAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1705748197130.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1705748197130.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAQUlEQVQImWPordyfdfT/fxMGGMj2zns9cfve/yf+3z28qKogjMFCSdigurJw6owZ0/6FeXp8hKsM15QX11BVdQMAsg8YJPUiU64AAAAASUVORK5CYII="
+    }
+  ],
+  "_id": "65aba8d30ba0330b65fe6db2",
+  "sku": "MD32GK2D5640040MXRGB",
+  "mpn": "MD32GK2D5640040MXRGB",
+  "titleSeo": "Ram XLR8 DDR5 6400MHz CL40 MAKO RGB Desktop Memory | MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2024-09-08",
+  "referenceInterne": "XLR8",
+  "title": "PNY XLR8 MAKO 32Gb (2x16Gb) DDR5 6400MHZ RGB",
+  "title_fr": "PNY XLR8 MAKO 32Gb (2x16Gb) DDR5 6400MHZ RGB",
+  "description_fr": "<h2>PNY XLR8 DDR5 6400MHZ CL40 MAKO RGB</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le module XLR8 DDR5 6400MHz CL40 Mako RGB est une m&eacute;moire vive haut de gamme con&ccedil;ue pour offrir des performances exceptionnelles &agrave; votre syst&egrave;me. Avec une fr&eacute;quence de 6400MHz, elle assure une r&eacute;activit&eacute; rapide et des transferts de donn&eacute;es fluides. Le temps de latence CAS (CL) de 40 garantit une synchronisation efficace, optimisant les performances du syst&egrave;me. L&#39;&eacute;clairage RGB Mako ajoute une touche esth&eacute;tique personnalis&eacute;e, cr&eacute;ant une ambiance visuelle unique. Id&eacute;al pour les passionn&eacute;s de jeux et les utilisateurs exigeants, ce module allie performances de pointe, fiabilit&eacute; et esth&eacute;tique soign&eacute;e.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Capacit&eacute; :&nbsp;32GB (2x16Gb)</span></li>\n\t<li><span style=\"font-size:22px\">Type de m&eacute;moire : DDR5</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence(s) M&eacute;moire : 6400 Mhz</span></li>\n\t<li><span style=\"font-size:22px\">LED RGB : RGB</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb199174a2e400482a012e1",
+    "titre": "PNY",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326876653.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:49:27.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2328ca4815052c4d1a419",
+    "titre": "BARETTE MÉMOIRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205649078.webp",
+    "order": 3,
+    "descriptionSEO": "<p>RAM PC gamer, Barrettes mémoires | Ram ordinateur bureau - Ram PC portable prix Tunisie - barrette mémoire ddr4. Mémoire Gigabyte, Adata, pny, Corsair</p>",
+    "titreSEO": "Ram pc gamer Tunisie - Achat Ram pc portable 8go - BARRETTE MÉMOIRE",
+    "create_date": "2020-04-24T00:27:56.000Z",
+    "reference": "RAM",
+    "update_date": "2021-12-04T08:54:47.010Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR5",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2abe"
+    },
+    {
+      "cle": "Format de mémoire",
+      "valeur": "DIMM",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2abf"
+    },
+    {
+      "cle": "Capacité par barrette",
+      "valeur": "16 GB",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2ac1"
+    },
+    {
+      "cle": "Nombre de barrettes",
+      "valeur": "2",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2ac2"
+    },
+    {
+      "cle": "Fréquence",
+      "valeur": "6400 MHz",
+      "enable": true,
+      "_id": "6744474299de58d4f6401716"
+    },
+    {
+      "cle": "Capacité",
+      "valeur": "32 GB",
+      "enable": true,
+      "_id": "6744498b99de58d4f640db14"
+    },
+    {
+      "cle": "RGB",
+      "valeur": "OUI",
+      "enable": true,
+      "_id": "6744498b99de58d4f640db15"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2328ca4815052c4d1a419"
+  ],
+  "lien": "PNY-XLR8-MAKO-32Gb-(2x16Gb)-DDR5-6400MHZ-RGB",
+  "gallerie": {
+    "_id": "65aba6d30ba0330b65fdd1a7",
+    "titre": "XLR8 DDR5 6400MHZ CL40 MAKO RGB",
+    "urlPhoto": [
+      "/uploads/gallerie/1705748197038.webp",
+      "/uploads/gallerie/1705748197084.webp",
+      "/uploads/gallerie/1705748197130.webp"
+    ],
+    "update_date": "2024-01-20T10:56:37.242Z",
+    "create_date": "2024-01-20T10:56:19.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 2563,
+  "price": 579,
+  "tagsSearch": [
+    "PNY",
+    "ACCESSOIRES",
+    "BARETTE MÉMOIRE"
+  ],
+  "stock": 0,
+  "forConfig": true,
+  "displayForPublic": true,
+  "create_date": "2024-01-20T11:04:51.054Z",
+  "update_date": "2025-10-23T00:04:08.696Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

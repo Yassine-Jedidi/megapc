@@ -1,0 +1,167 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1694181280390.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1694181280390.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4jwQYLly8sHz5iqlTpu7bt4+hqamJmYEh0M9v1fKVDO/fv3/84MHv37+BygDNWCQiAUrARAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "64fb3de43ece3f7583224a6e",
+  "sku": "PVS48G320C6",
+  "mpn": "PVS48G320C6",
+  "titleSeo": "PATRIOT BARETTE MEM V4S 16G (1X16) 3600MHZ CL18 | MEGA TUNISIE",
+  "desciprtionSeo": "PATRIOT BARETTE MEM V4S 16G (1X16) 3600MHZ CL18 | MEGA TUNISIE",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08 ",
+  "referenceInterne": "PVS48G320C6",
+  "title": "PATRIOT BARETTE MEM V4S 16G (1X16) 3600MHZ CL18",
+  "title_fr": "PATRIOT BARETTE MEM V4S 16G (1X16) 3600MHZ CL18",
+  "description_fr": "<h2>PATRIOT BARETTE MEM V4S 16G (1X16) 3600MHZ CL18</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">PATRIOT BARETTE MEM V4S 16G (1X16) 3600MHZ CL18 est une barrette de m&eacute;moire DDR4 de 16 Go avec une fr&eacute;quence de 3600 MHz et un temps de latence de CL18. Elle est compatible avec les derni&egrave;res plates-formes Intel et AMD et offre des performances et une stabilit&eacute; optimales. La barrette est construite &agrave; partir de mat&eacute;riaux de haute qualit&eacute; et est test&eacute;e &agrave; la main pour garantir sa compatibilit&eacute; avec votre syst&egrave;me.</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Capacit&eacute; : 16 Go</span></li>\n\t<li><span style=\"font-size:22px\">Type de m&eacute;moire : DDR4</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence : 3600 MHz</span></li>\n\t<li><span style=\"font-size:22px\">Temps de latence : CL18</span></li>\n\t<li><span style=\"font-size:22px\">Compatibilit&eacute; : Intel et AMD</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ec165a54a2e400482a013bf",
+    "titre": "PATRIOT",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604327124528.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-17T16:26:13.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea2328ca4815052c4d1a419",
+    "titre": "BARETTE MÉMOIRE",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205649078.webp",
+    "order": 3,
+    "descriptionSEO": "<p>RAM PC gamer, Barrettes mémoires | Ram ordinateur bureau - Ram PC portable prix Tunisie - barrette mémoire ddr4. Mémoire Gigabyte, Adata, pny, Corsair</p>",
+    "titreSEO": "Ram pc gamer Tunisie - Achat Ram pc portable 8go - BARRETTE MÉMOIRE",
+    "create_date": "2020-04-24T00:27:56.000Z",
+    "reference": "RAM",
+    "update_date": "2021-12-04T08:54:47.010Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Type de mémoire",
+      "valeur": "DDR4",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2abe"
+    },
+    {
+      "cle": "Format de mémoire",
+      "valeur": "DIMM",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2abf"
+    },
+    {
+      "cle": "Nombre de barrettes",
+      "valeur": "1",
+      "enable": true,
+      "_id": "65745dbd52b5a275b62f2ac2"
+    },
+    {
+      "cle": "Fréquence",
+      "valeur": "3600 MHz",
+      "enable": true,
+      "_id": "6744474299de58d4f6401716"
+    },
+    {
+      "cle": "Capacité",
+      "valeur": "16 GB",
+      "enable": true,
+      "_id": "6744498b99de58d4f640db14"
+    },
+    {
+      "cle": "RGB",
+      "valeur": "NON",
+      "enable": true,
+      "_id": "6744498b99de58d4f640db15"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea2328ca4815052c4d1a419"
+  ],
+  "lien": "PATRIOT-BARETTE-MEM-V4S",
+  "gallerie": {
+    "_id": "64fb27553ece3f75831b9493",
+    "titre": "PATRIOT BARETTE MEMOIRE V4S 8G 3200MHZ CL16",
+    "urlPhoto": [
+      "/uploads/gallerie/1694181280390.webp"
+    ],
+    "update_date": "2023-09-08T13:54:40.518Z",
+    "create_date": "2023-09-08T13:53:25.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 831,
+  "price": 306,
+  "tagsSearch": [
+    "PATRIOT",
+    "COMPOSANTS",
+    "CARTE MÈRE",
+    "BARETTE MÉMOIRE"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2023-09-08T13:57:07.224Z",
+  "update_date": "2025-10-24T09:07:31.534Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

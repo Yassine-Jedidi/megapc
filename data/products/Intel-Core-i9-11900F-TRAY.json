@@ -1,0 +1,178 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724340490091.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724340490091.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AGR8f5+zuLzR1MDc2wAACxJYXGVyeX/y//8AAA4SABAVUW1x1PHxADVNTAAICQAYGJe3tWsJFQ7mQ33CAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "66c758227b8886183c7651df",
+  "sku": "pr-i9-11900f",
+  "mpn": "BX8070811900F",
+  "titleSeo": "Intel Core i9-11900F (2.5 GHz/5.2 GHz) - Processeur intel - MEGA PC",
+  "desciprtionSeo": "Intel Core i9-11900F (2.5 GHz/5.2 GHz) | TUNISIE FRÉQUENCE CPU : 2.50 GHZ FRÉQUENCE CPU MODE TURBO : 5.20 GHZ NOMBRE DE THREADS : 16 THREADS NOMBRE DE COEURS : 8 COEURS MEGA PC",
+  "ratingValue": "4",
+  "reviewCount": "45",
+  "priceValidUntil": "2022-12-12",
+  "referenceInterne": "BX8070811900F",
+  "title": "Intel Core i9-11900F TRAY",
+  "title_fr": "Intel Core i9-11900F TRAY",
+  "description_fr": "<p>&nbsp;</p>\n\n<h2><span style=\"color:#000000\">processeur&nbsp;Intel Core i9-11900F (2.5 GHz/5.2 GHz)</span></h2>\n\n<hr />\n<p><img alt=\"processeur Intel Core i9-11900F (2.5 GHz/5.2 GHz) TUNISIE \" src=\"https://apibackend.megapc.tn///uploads/gallerie/1645792407290.webp\" /></p>\n\n<p><span style=\"font-size:20px\"><span style=\"color:#000000\">La 11e g&eacute;n&eacute;ration d&#39;Intel Core Rocket Lake passe gr&acirc;ce &agrave; sa compatibilit&eacute; avec la norme PCI Express 4. 0 et la pr&eacute;sence d&#39;hyper-threading sur la piste Core i3 du noyau I9 fait de plus en plus d&#39;&eacute;nergie. Les turbo fr&eacute;quences sont toujours plus grandes si elles restent des TDD identiques dans les g&eacute;n&eacute;rations pr&eacute;c&eacute;dentes.</span><br />\n<span style=\"color:#000000\">Les performances avanc&eacute;es et la fluidit&eacute; sont utilis&eacute;es pour l&#39;utilisation du bureau de cr&eacute;ation ou de jeu. Le processeur Intel Core <strong><span style=\"color:#4a86e8\">I9-11900</span></strong> &eacute;quip&eacute; de <span style=\"color:#4a86e8\"><strong>8 Cores</strong></span> (<strong><span style=\"color:#4a86e8\">16 Threads</span></strong>), <strong><span style=\"color:#4a86e8\">16 MB</span></strong> cache, fr&eacute;quences Turbo<strong><span style=\"color:#4a86e8\"> 5.2 GHz</span></strong> ont l&#39;intention d&#39;avertir les joueurs et les utilisateurs qui ont besoin d&#39;un processeur confortable dans toutes les situations.</span></span></p>\n\n<hr />\n<h2>UNE MONT&Eacute;E EN FR&Eacute;QUENCE PERSONNALISABLE</h2>\n\n<p><span style=\"font-size:22px\">En raison d&rsquo;un coefficient multiplicateur d&eacute;verrouill&eacute;, les mod&egrave;les de processeurs Intel Comet Lake-S de la s&eacute;rie &laquo; K &raquo; b&eacute;n&eacute;ficient d&rsquo;un overclocking simple et facile &agrave; mettre en &oelig;uvre. Cette fonctionnalit&eacute; vous permet d&rsquo;overclocker votre mat&eacute;riel. Vous pouvez facilement obtenir des performances maximales de vos composants afin de vous adapter aux applications les plus exigeantes et aux jeux vid&eacute;o gourmands.</span></p>\n\n<hr />\n<h3>&nbsp;</h3>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence CPU (Base)</strong> : 2.5 GHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence en mode Turbo</strong> : 5.2 GHz (Intel&nbsp;Thermal Velocity Boost)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Nombre de c&oelig;urs</strong> : 8</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Nombre de Threads</strong> : 16</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Cache L3</strong> : 16 MB (Intel&nbsp;Smart Cache)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Puissance de base du processeur (TDP)</strong> : 65 W</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Puissance turbo maximale</strong> : Non sp&eacute;cifi&eacute;e</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Support du processeur</strong> : Socket FCLGA1200</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Max Fr&eacute;quence(s) M&eacute;moire</strong> : DDR4 jusqu&rsquo;&agrave; 3200 MHz</span></li>\n</ul>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5eb18ed34a2e400482a012c9",
+    "titre": "INTEL",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326790165.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-05-05T16:05:39.000Z"
+  },
+  "categorie": {
+    "_id": "5f622c11fc1c8856d8a99784",
+    "order": 3,
+    "titre": "COMPOSANTS",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162244337.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205168544.webp",
+    "description": "<h1>Composants&nbsp;pc : Processeur, Carte Graphique, Carte Mere...<br></h1><p>MEGA PC les spécialistes du gaming en Tunisie - Ordinateurs de bureau, Pc gamer, PC Portable, <strong>PC pour Gaming</strong>,. <br>Comparez et achetez votre Composant PC au meilleur prix sur Megapc.tn ! <strong>Processeurs</strong>, <strong>Carte mère</strong>, <strong>Cartes graphiques</strong>, <strong>Boîtiers PC</strong> &amp; <strong>alimentation</strong> PC Gamer.<br>Avec MegaPc, vous trouverez tout ce dont vous avez besoin, de vos composants pc aux périphériques externes avec un large choix de <a href=\"https://megapc.tn/shop/ORDINATEURS/PC%20GAMER\"><strong>PCs Gamer</strong></a> assemblé sur mesure.</p>",
+    "create_date": "2020-09-16T15:15:29.000Z",
+    "update_date": "2025-04-28T10:30:01.771Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea23301a4815052c4d1a41e",
+    "titre": "PROCESSEUR",
+    "categorie": "5f622c11fc1c8856d8a99784",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620205621502.webp",
+    "order": 0,
+    "titreSEO": "Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 i7 i9 AMD",
+    "descriptionSEO": "<p>Processeur pc gamer Ordinateur Tunisie | Processeur Intel i5 |intel core  i7 | intel core i9, Processeur AMD Ryzen. Achetez processeur Prix Tunisie.</p>",
+    "create_date": "2020-04-24T00:29:53.000Z",
+    "reference": "CPU",
+    "update_date": "2021-12-04T08:54:33.162Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "Fréquence CPU",
+      "valeur": "2.50 GHz",
+      "enable": true,
+      "_id": "636e0d425e57311ffac94e4b"
+    },
+    {
+      "cle": "Fréquence en mode Turbo",
+      "valeur": "5.20 GHz",
+      "enable": true,
+      "_id": "636e0d425e57311ffac94e4c"
+    },
+    {
+      "cle": "Nombre de Threads",
+      "valeur": "16",
+      "enable": true,
+      "_id": "636e0d425e57311ffac94e4d"
+    },
+    {
+      "cle": "Nombre de core",
+      "valeur": "8",
+      "enable": true,
+      "_id": "636e0d425e57311ffac94e4e"
+    },
+    {
+      "cle": "Support du processeur",
+      "valeur": "Intel 1200",
+      "enable": true,
+      "_id": "636e0d425e57311ffac94e4f"
+    },
+    {
+      "cle": "Cache L3",
+      "valeur": "16 MB",
+      "enable": true,
+      "_id": "65f17d214af670c71f06bd2d"
+    },
+    {
+      "cle": "Max Fréquence(s) Mémoire",
+      "valeur": "DDR4 3200 MHz",
+      "enable": true,
+      "_id": "65f17d214af670c71f06bd30"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea23301a4815052c4d1a41e"
+  ],
+  "lien": "Intel-Core-i9-11900F-TRAY",
+  "gallerie": {
+    "_id": "66c758fb7b8886183c770bad",
+    "titre": "INTEL CORE I9-11900F TRAY",
+    "urlPhoto": [
+      "/uploads/gallerie/1724340490091.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2024-08-22T15:28:10.224Z",
+    "create_date": "2024-08-22T15:27:55.000Z",
+    "__v": 1
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 6603,
+  "price": 699,
+  "sale": false,
+  "tagsSearch": [
+    "INTEL",
+    "COMPOSANTS",
+    "PROCESSEUR"
+  ],
+  "discount": null,
+  "stock": 5,
+  "prixEnPromo": null,
+  "displayForPublic": true,
+  "create_date": "2021-04-21T14:25:42.578Z",
+  "update_date": "2025-10-24T02:43:20.331Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

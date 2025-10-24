@@ -1,0 +1,186 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1693393592331.jpg",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1693393592331.jpg",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAP0lEQVQImQE0AMv/AP///3t+fXl/fv///wD7+PcAJi4AER359PQA7+/tR22WUDeA8OnrAPz+/FEtdVcAaP78+i1ZHrDnc9llAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1693393592388.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1693393592388.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////z9/vz9/v///wCvr7ISFAORZVDLr74Ar6+0AAcAKigAoJCgAP////Pz9vDy9v///3UTIYkByO4iAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1693393592393.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1693393592393.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/////+//vz9f/+/gDr7+6nnVaZQi9+VHwAfIF5AA8AVlxAoZupAOfm6NDR1vr8/f///5YaIgpGwhlvAAAAAElFTkSuQmCC"
+    }
+  ],
+  "_id": "6426dd448ac974073deea8e7",
+  "sku": "MMGLOW",
+  "mpn": "MMGLOW",
+  "titleSeo": "Souris gaming : filaire - droitier - capteur optique de 12800 dpi - 7 boutons - rétroéclairage RGB - MEGA PC ",
+  "desciprtionSeo": "Souris gaming : filaire - droitier - capteur optique de 12800 dpi - 7 boutons - rétroéclairage RGB - MEGA PC ",
+  "ratingValue": "4",
+  "reviewCount": "22",
+  "priceValidUntil": "2023-09-08",
+  "referenceInterne": "MMGLOW",
+  "title": "MARS GAMING MMGLOW CHROMA-GLOW - BLACK",
+  "title_fr": "MARS GAMING MMGLOW CHROMA-GLOW - BLACK",
+  "description_fr": "<h2>MARS GAMING MMGLOW CHROMA-GLOW - BLACK</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La souris de jeu Mars Gaming MMGLOW&nbsp;est un alli&eacute; de choix pour prendre facilement le dessus sur vos adversaires. Pour cela, elle s&#39;appuie sur son capteur optique de 12800 dpi et de ses 7 boutons. Et avec un r&eacute;tro&eacute;clairage LED RGB param&eacute;trable selon vos go&ucirc;ts, apportez&nbsp;une touche de couleur.</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680267023063.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680267023064.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680268514326.webp\" /><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1680268514324.webp\" /></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Souris filaire pour gamer</span></li>\n\t<li><span style=\"font-size:22px\">Capteur optique : r&eacute;solution jusqu&#39;&agrave;&nbsp;12800 DPI</span></li>\n\t<li><span style=\"font-size:22px\">7 boutons</span></li>\n\t<li><span style=\"font-size:22px\">Interrupteurs m&eacute;caniques Huano&nbsp;: dur&eacute;e de vie de 20 millions de clics</span></li>\n\t<li><span style=\"font-size:22px\">Vitesse maximale de suivi : 60&nbsp;ips</span></li>\n\t<li><span style=\"font-size:22px\">Acc&eacute;l&eacute;ration : 30 G</span></li>\n\t<li><span style=\"font-size:22px\">Fr&eacute;quence : 1000 Hz (1ms)</span></li>\n\t<li><span style=\"font-size:22px\">R&eacute;tro&eacute;clairage RGB personnalisable</span></li>\n\t<li><span style=\"font-size:22px\">Connectique : USB</span></li>\n\t<li><span style=\"font-size:22px\">Longueur du c&acirc;ble : 1.7&nbsp;m</span></li>\n\t<li><span style=\"font-size:22px\">Dimensions : 122 x 67 x 38 mm</span></li>\n\t<li><span style=\"font-size:22px\">Poids : 75 g</span></li>\n</ul>\n",
+  "notreSelection": false,
+  "marque": {
+    "_id": "61697a5b74a6dc8ab60ba36c",
+    "titre": "MARS",
+    "description": "Mars Gaming Tunisie",
+    "__v": 0,
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2021-10-15T12:55:55.000Z"
+  },
+  "categorie": {
+    "_id": "5e907b1f1c9a7315fc2fc036",
+    "order": 5,
+    "titre": "ACCESSOIRES",
+    "__v": 0,
+    "urlPhoto": "/uploads/categorie/1602162264153.jpg",
+    "urlPhoto2": "/uploads/categorie/1620205175835.webp",
+    "create_date": "2020-04-10T13:56:47.000Z",
+    "update_date": "2025-04-28T10:30:39.409Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": false
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "5ea233bfa4815052c4d1a423",
+    "titre": "SOURIS",
+    "categorie": "5e907b1f1c9a7315fc2fc036",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1620206287980.webp",
+    "order": 1,
+    "descriptionSEO": "<p>Souris Pc gamer Tunisie&nbsp;optique Sans fil -&nbsp;Achat Souris Ordinateur bureau, souris Pc portable gaming RGB - Aorus, Razer, Logitech, Corsair, Steelseries</p>",
+    "titreSEO": "Souris PC gamer | sans fil pour ordinateur Pc portable | Mega PC",
+    "create_date": "2020-04-24T00:33:03.000Z",
+    "reference": "SOURIS",
+    "update_date": "2021-12-04T08:54:08.545Z",
+    "visible": true,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [
+    {
+      "cle": "CAPTEUR",
+      "valeur": "OPTIQUE",
+      "enable": true,
+      "_id": "60ca1c91e1183604d8294ddb"
+    },
+    {
+      "cle": "RÉSOLUTION OPTIQUE",
+      "valeur": "12800 DPI",
+      "enable": true,
+      "_id": "60ca1c91e1183604d8294ddc"
+    },
+    {
+      "cle": "LONGUEUR DU CÂBLE",
+      "valeur": "1.7 M",
+      "enable": true,
+      "_id": "60ca1c91e1183604d8294ddd"
+    },
+    {
+      "cle": "NOMBRE DE BOUTONS",
+      "valeur": "7",
+      "enable": true,
+      "_id": "60ca1c91e1183604d8294dde"
+    },
+    {
+      "cle": "RÉTRO-ÉCLAIRAGE",
+      "valeur": "RGB",
+      "enable": true,
+      "_id": "60ca1c91e1183604d8294ddf"
+    },
+    {
+      "cle": "DIMENSIONS (MM)",
+      "valeur": "38 X 67 X 122 mm",
+      "enable": true,
+      "_id": "60ca1c91e1183604d8294de0"
+    },
+    {
+      "cle": "POIDS",
+      "valeur": "75 G",
+      "enable": true,
+      "_id": "60ca1c91e1183604d8294de1"
+    }
+  ],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "5ea233bfa4815052c4d1a423"
+  ],
+  "lien": "MARS-GAMING-MMGLOW-CHROMA-GLOW-BLACK",
+  "gallerie": {
+    "_id": "6426dc548ac974073dee35ca",
+    "titre": "MARS GAMING MMGLOW (NOIR)",
+    "urlPhoto": [
+      "/uploads/gallerie/1693393592331.jpg",
+      "/uploads/gallerie/1693393592388.webp",
+      "/uploads/gallerie/1693393592393.webp"
+    ],
+    "update_date": "2024-01-26T11:45:58.591Z",
+    "create_date": "2023-03-31T13:12:52.000Z",
+    "__v": 4
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": false,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": false,
+  "vue": 2712,
+  "price": 89,
+  "tagsSearch": [
+    "MARS",
+    "ACCESSOIRES",
+    "SOURIS",
+    "bts"
+  ],
+  "discount": 22.471910112359552,
+  "stock": 18,
+  "prixEnPromo": 69,
+  "displayForPublic": true,
+  "create_date": "2023-03-31T13:16:52.100Z",
+  "update_date": "2025-10-23T21:20:55.656Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}

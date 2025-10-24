@@ -1,0 +1,200 @@
+{
+  "images": [
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100376622.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100376622.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AJKalv6OkI/+lpmX/qCmpP4Aj3Fq/pqBf/9BOjP/GhcZ/wB3Rmn+d0pT/2kmI/45JSr+AA8IEP4EAAj/gnJ6/vv/+f/X0CMKrB7E5gAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100380178.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100380178.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AEVHRf5cXlj+AAcH/iQAAP4A/f/3/rS5tP98gHn/Hh0g/wD6/O/+o6Wf/5CSkf5/f3r+AMvPxf6wsqv/jZCM/o2Ojv/kSyiVL9Z/9wAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100384153.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100384153.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ALR6j/7/7N3/r5mE/hMYHv8AAAEA/m8yLf92RkH+lYR3/wCYop/+Yk9R/3dNS/7Sr5r/AO7x7v6gpaP/c2li/v/p0P8PTyiPz9vKZwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100386206.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100386206.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAEAAf4fICD+VlhX/lBSVv4AOTw7/mhsa/9LUF7/kZac/wCqsq7+lZyb/4aEjv77//f+AA0NDf5qbmz/6erh/sXHwP9NTyW6qJXeVgAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100388267.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100388267.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ABkPC/94gHz/+//4/8fMyP8AS0xK/52jn//z9+//sbav/wBXXVv/foN+/5qcmP8iIiL/AAgHCf8cHRz/LS4t/wAAAf9g4SRM6dXxVwAAAABJRU5ErkJggg=="
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100390163.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100390163.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AKWtqtTa1fr/+IiLiAChqKbS19Ds8ug8PDoAfIF+lJWSnZ6bGhoaAAAAADo7N0hIRxcWFxmRGA1AJzC3AAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100392602.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100392602.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ADU1NA4PDoCAe+3u5wAAAABGSEXS1834+vgAU1RQ1djPyczF7O3wAM/RyP7/876/vsDCx3R3HawQP9pPAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100394704.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100394704.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APz/9b7Du6Kno7K5tgDO1Mrb3tXR1c6QlI4AKSoojI2HxcfAKionAAAAARISERsbGg8PDzYPF+9UB3tgAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100396815.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100396815.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////Pz7vH08////wDd5eYARIwAMXP6+fUA1treABpLAAAs3d7dAP79/f/68P/99vv7+7A/JCaDEFTtAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100401270.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100401270.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APf3+O/w8vHz9Pj5+QCztLYAAQtHTFPP0dIA3t7ecG1wu7u7+Pf4AP39/ff3+P/9//7//rOhJc3SD5HyAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100403401.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100403401.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImWN4/vL13Scv3n368v//f4bcul79wKwjp6+COGVVjQzMIotXrPv29TPDfzD4+/fv79+/Aa/qJTocMOgsAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100405779.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1746100405779.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWP4DwafwYDh0cOHU6ZOd/fwunbtGkNPT6+klAwDA9Pt27cZfv78+fz582vXrgGVAQCuhiLu9VcY7gAAAABJRU5ErkJggg=="
+    }
+  ],
+  "_id": "663e008c359e8f86d0fc5118",
+  "sku": "UX3405MA-PZ1003W",
+  "mpn": "UX3405MA-PZ1003W",
+  "titleSeo": "PC PORTABLE PRO taille d'écran 14.0\" Asus Zenbook 14 OLED UX3405MA | Intel Ultra 7-155H - Intel Arc - 16GB RAM - 1TB SSD NVMe | MEGA PC | GI-GA TECH | Tunisie",
+  "desciprtionSeo": "Asus Zenbook 14 OLED UX3405MA | Ultra 7-155H - Intel Arc - 16GB RAM - 1TB SSD NVMe",
+  "ratingValue": "4.8",
+  "reviewCount": "22",
+  "priceValidUntil": "2027-09-08 ",
+  "referenceInterne": "UX3405MA-PZ1003W",
+  "title": "Asus Zenbook 14 OLED | Ultra 7 155H | Intel Arc | 16GB RAM | 512GB SSD NVMe",
+  "title_fr": "Asus Zenbook 14 OLED | Ultra 7 155H | Intel Arc | 16GB RAM | 512GB SSD NVMe",
+  "description_fr": "<h1><span style=\"font-size:22px\">💻 Ordinateur Portable Ultra 7 &ndash; &Eacute;cran OLED 3K 14&quot; | Puissance et &Eacute;l&eacute;gance r&eacute;unies en 2025</span></h1>\n\n<p><span style=\"font-size:22px\">D&eacute;couvrez le tout nouveau <strong>PC portable Ultra 7</strong>, un concentr&eacute; de <strong>technologie et de performance</strong> pens&eacute; pour les passionn&eacute;s de productivit&eacute;, de multim&eacute;dia et de divertissement. Avec son <strong>afficheur OLED 14&rsquo;&rsquo; 3K (2880 x 1800)</strong> au format <strong>16:10</strong>, profitez d&rsquo;une <strong>qualit&eacute; d&rsquo;image exceptionnelle</strong>, un taux de rafra&icirc;chissement de <strong>120 Hz</strong>, une r&eacute;activit&eacute; ultra-rapide de <strong>0,2 ms</strong> ⚡ et une luminosit&eacute; de <strong>500 nits HDR</strong> pour des couleurs &eacute;clatantes et un contraste infini 🌈.</span></p>\n\n<p><span style=\"font-size:22px\">C&ocirc;t&eacute; performance, ce portable embarque le <strong>processeur Ultra 7 155H</strong> 🚀 cadenc&eacute; &agrave; <strong>1.4 GHz (jusqu&rsquo;&agrave; 4.8 GHz en mode turbo)</strong>, avec <strong>16 c&oelig;urs et 22 threads</strong>, accompagn&eacute; de <strong>16 Go de RAM DDR5</strong> derni&egrave;re g&eacute;n&eacute;ration 🧠. Pour la partie graphique, il s&rsquo;appuie sur les <strong>Intel Arc Graphics</strong> 🎮, parfaits pour les t&acirc;ches cr&eacute;atives, le montage vid&eacute;o et m&ecirc;me du gaming occasionnel.</span></p>\n\n<p><span style=\"font-size:22px\">Le stockage n&rsquo;est pas en reste avec un <strong>SSD NVMe de 512 Go</strong> 💾, offrant des temps de chargement fulgurants et une r&eacute;activit&eacute; optimale du syst&egrave;me. L&rsquo;ensemble tourne sous <strong>Windows 11 Home</strong> 🖥️, garantissant fluidit&eacute;, s&eacute;curit&eacute; et une exp&eacute;rience utilisateur moderne.</span></p>\n\n<p><span style=\"font-size:22px\">Que vous soyez <strong>&eacute;tudiant, professionnel ou cr&eacute;ateur de contenu</strong>, cet <strong>ordinateur portable Ultra 7 OLED 14&rsquo;&rsquo;</strong> est un choix id&eacute;al pour allier <strong>performance, &eacute;l&eacute;gance et mobilit&eacute;</strong> ✨.</span></p>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n\n<h2>&nbsp;</h2>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">✅ <strong>&Eacute;cran :</strong> 14&quot; OLED 3K (2880 x 1800), 120 Hz, HDR, 0.2 ms 🌈<br />\n\t✅ <strong>Processeur :</strong> Ultra 7 155H (16 c&oelig;urs / 22 threads, up to 4.8 GHz) 🚀<br />\n\t✅ <strong>Carte Graphique :</strong> Intel Arc Graphics 🎮<br />\n\t✅ <strong>M&eacute;moire :</strong> 16 Go DDR5 🧠<br />\n\t✅ <strong>Stockage :</strong> SSD NVMe 512 Go 💾<br />\n\t✅ <strong>Syst&egrave;me :</strong> Windows 11 Home 🖥️<br />\n\t✅ <strong>Aspect ratio :</strong> 16:10, luminosit&eacute; 500 nits 🔆</span></li>\n</ul>\n\n<p><strong><span style=\"color:#ff0000\"><span style=\"font-size:22px\">Bon de r&eacute;duction de 100 DT</span></span></strong></p>\n",
+  "notreSelection": true,
+  "marque": {
+    "_id": "5ea23603a4815052c4d1a428",
+    "titre": "ASUS",
+    "__v": 0,
+    "urlPhoto": "/uploads/marque/1604326391751.webp",
+    "targetGiga": true,
+    "targetMega": true,
+    "create_date": "2020-04-24T00:42:43.000Z"
+  },
+  "categorie": {
+    "_id": "61bb23c7a14a1b547a40a936",
+    "titre": "PC PORTABLE",
+    "order": 2,
+    "visible": true,
+    "update_date": "2025-04-28T10:29:51.496Z",
+    "create_date": "2021-12-16T11:32:23.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/categorie/1639654349693.png",
+    "reference": "externe",
+    "targetGiga": true,
+    "targetMega": true,
+    "targetMobile": true
+  },
+  "filscateg": {
+    "children": [],
+    "_id": "61bb3568a14a1b547a472917",
+    "titre": "PC PORTABLE PRO",
+    "visible": true,
+    "order": 1,
+    "categorie": "61bb23c7a14a1b547a40a936",
+    "update_date": "2021-12-18T09:38:31.859Z",
+    "create_date": "2021-12-16T12:47:36.000Z",
+    "__v": 0,
+    "urlPhoto2": "/uploads/souscateg/1639752903267.webp",
+    "marge": 1.1,
+    "tva": 1.07,
+    "targetGiga": true,
+    "targetMega": true
+  },
+  "attributes": [],
+  "tag": [],
+  "compatibility": [],
+  "nFilsCategs": [
+    "61bb3568a14a1b547a472917"
+  ],
+  "lien": "Asus-Zenbook-14-OLED-UX3405MA",
+  "gallerie": {
+    "_id": "68136092c75bcce7a2574552",
+    "titre": "ASUS ZENBOOK 14 OLED | ULTRA 7-155H | INTEL ARC | 16GB RAM | 1TB SSD NVME",
+    "urlPhoto": [
+      "/uploads/gallerie/1746100376622.webp",
+      "/uploads/gallerie/1746100380178.webp",
+      "/uploads/gallerie/1746100384153.webp",
+      "/uploads/gallerie/1746100386206.webp",
+      "/uploads/gallerie/1746100388267.webp",
+      "/uploads/gallerie/1746100390163.webp",
+      "/uploads/gallerie/1746100392602.webp",
+      "/uploads/gallerie/1746100394704.webp",
+      "/uploads/gallerie/1746100396815.webp",
+      "/uploads/gallerie/1746100401270.webp",
+      "/uploads/gallerie/1746100403401.webp",
+      "/uploads/gallerie/1746100405779.webp"
+    ],
+    "targetMega": true,
+    "targetGiga": true,
+    "targetMobile": true,
+    "update_date": "2025-05-01T11:53:25.880Z",
+    "create_date": "2025-05-01T11:52:50.000Z",
+    "__v": 12
+  },
+  "visibleHorsStock": false,
+  "checkStockWhenPurchased": true,
+  "visible": true,
+  "facilite": false,
+  "devis": false,
+  "enPromo": false,
+  "commande48H": false,
+  "enArrivage": false,
+  "new": true,
+  "vue": 2895,
+  "price": 4399,
+  "tagsSearch": [
+    "ASUS",
+    "PC PORTABLE",
+    "PC PORTABLE PRO",
+    "realap",
+    "UX3405MA-PZ1003W",
+    "pc portable asus",
+    "POKERTIME"
+  ],
+  "stock": 0,
+  "displayForPublic": true,
+  "create_date": "2024-05-10T11:10:04.902Z",
+  "update_date": "2025-10-24T15:37:58.434Z",
+  "ccpu": [],
+  "cwebCam": [],
+  "cgpu": [],
+  "ccase": [],
+  "cram": [],
+  "ccpuColler": [],
+  "cventilateur": [],
+  "ccarteMere": [],
+  "calim": [],
+  "chdd": [],
+  "cssd": [],
+  "cheadphone": [],
+  "ccarteReseau": [],
+  "cmonitor": [],
+  "ckeyboard": [],
+  "cmouse": [],
+  "cmousepad": [],
+  "cmousekeys": [],
+  "cprinter": [],
+  "cnvme": [],
+  "cwindows": [],
+  "cjeux": [],
+  "productpriv": false,
+  "specialproduct": false,
+  "targetMega": true,
+  "targetGiga": true,
+  "targetMobile": true,
+  "__v": 0
+}
