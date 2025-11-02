@@ -171,7 +171,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 6988,
+  "vue": 7123,
   "price": 2599,
   "tagsSearch": [
     "DELL",
@@ -181,11 +181,11 @@
     "G15 5530 Core i5-13450 HX 15,6 FHD 16Go 512Go RTX 3050 6GB Ubuntu 36M"
   ],
   "discount": 5.386687187379762,
-  "stock": 96,
+  "stock": -1,
   "prixEnPromo": 2459,
   "displayForPublic": true,
   "create_date": "2023-10-18T13:25:19.851Z",
-  "update_date": "2025-10-24T17:31:56.456Z",
+  "update_date": "2025-11-01T17:05:04.445Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

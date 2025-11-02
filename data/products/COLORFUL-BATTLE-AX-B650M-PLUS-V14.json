@@ -150,7 +150,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2134,
+  "vue": 2187,
   "price": 467,
   "tagsSearch": [
     "COLORFUL",
@@ -162,10 +162,10 @@
     "fx1",
     "realap"
   ],
-  "stock": 99,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-03-18T08:54:01.512Z",
-  "update_date": "2025-10-24T16:51:21.691Z",
+  "update_date": "2025-11-01T14:30:01.800Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

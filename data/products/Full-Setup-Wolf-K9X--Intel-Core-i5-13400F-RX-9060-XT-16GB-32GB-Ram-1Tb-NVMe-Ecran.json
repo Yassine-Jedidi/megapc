@@ -103,7 +103,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 445,
+  "vue": 476,
   "price": 3999,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -112,10 +112,10 @@
     "FULL SETUP",
     "BAC_2K25"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-23T09:02:27.106Z",
-  "update_date": "2025-10-24T14:16:24.420Z",
+  "update_date": "2025-10-31T00:19:40.411Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

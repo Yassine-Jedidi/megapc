@@ -145,17 +145,17 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 3362,
+  "vue": 3478,
   "price": 2799,
   "tagsSearch": [
     "CONFIG PC INTEL",
     "ORDINATEURS",
     "PC GAMER"
   ],
-  "stock": 98,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-05-24T09:56:34.154Z",
-  "update_date": "2025-10-24T15:36:28.567Z",
+  "update_date": "2025-11-01T17:16:57.350Z",
   "case": {
     "_id": "6524079037e0a9bf8a773dc6",
     "title": "MSI MAG FORCE M100A ",

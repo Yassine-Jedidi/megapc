@@ -170,7 +170,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 483,
+  "vue": 536,
   "price": 3999,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -180,11 +180,11 @@
     "BAC_2K25"
   ],
   "discount": null,
-  "stock": 100,
+  "stock": -1,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-06-05T08:27:34.477Z",
-  "update_date": "2025-10-24T16:04:21.612Z",
+  "update_date": "2025-11-01T08:43:08.798Z",
   "gpu": null,
   "ram": {
     "_id": "66a0d7f6e3f72fbb3b83b1a7",

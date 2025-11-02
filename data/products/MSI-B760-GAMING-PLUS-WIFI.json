@@ -163,7 +163,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3416,
+  "vue": 3472,
   "price": 609,
   "tagsSearch": [
     "MSI",
@@ -171,10 +171,10 @@
     "CARTE MÈRE",
     "911-7D98-034"
   ],
-  "stock": 99,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2024-04-20T10:18:27.304Z",
-  "update_date": "2025-10-24T13:06:06.255Z",
+  "update_date": "2025-11-01T08:31:57.258Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

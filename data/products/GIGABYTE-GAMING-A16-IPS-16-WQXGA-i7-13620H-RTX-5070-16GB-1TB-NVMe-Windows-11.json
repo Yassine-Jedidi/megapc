@@ -104,7 +104,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2020,
+  "vue": 2134,
   "price": 4699,
   "tagsSearch": [
     "GIGABYTE",
@@ -115,11 +115,11 @@
     "F010704"
   ],
   "discount": 2.1281123643328366,
-  "stock": 99,
+  "stock": 0,
   "prixEnPromo": 4599,
   "displayForPublic": true,
   "create_date": "2025-08-01T14:29:10.389Z",
-  "update_date": "2025-10-24T14:38:56.349Z",
+  "update_date": "2025-11-01T18:10:45.649Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

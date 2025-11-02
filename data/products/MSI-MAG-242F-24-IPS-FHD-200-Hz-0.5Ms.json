@@ -110,7 +110,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 4555,
+  "vue": 4913,
   "price": 389,
   "tagsSearch": [
     "MSI",
@@ -118,10 +118,10 @@
     "ECRANS GAMING",
     "200Hz"
   ],
-  "stock": 78,
+  "stock": 76,
   "displayForPublic": true,
   "create_date": "2025-07-21T14:47:46.849Z",
-  "update_date": "2025-10-24T17:25:15.805Z",
+  "update_date": "2025-11-01T20:53:04.337Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

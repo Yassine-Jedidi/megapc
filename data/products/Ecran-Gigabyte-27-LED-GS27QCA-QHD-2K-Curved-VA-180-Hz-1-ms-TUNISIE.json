@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1757,
+  "vue": 1941,
   "price": 679,
   "priceHt": null,
   "tagsSearch": [
@@ -118,11 +118,11 @@
     "ECRANS GAMING"
   ],
   "discount": 11.782032400589102,
-  "stock": 7,
+  "stock": 5,
   "prixEnPromo": 599,
   "displayForPublic": true,
   "create_date": "2025-06-14T14:02:20.287Z",
-  "update_date": "2025-10-24T17:15:37.556Z",
+  "update_date": "2025-11-01T21:39:21.710Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

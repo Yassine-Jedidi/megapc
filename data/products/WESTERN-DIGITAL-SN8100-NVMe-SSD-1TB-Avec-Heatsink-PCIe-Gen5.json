@@ -3,12 +3,12 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757503543020.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757503543020.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWNgQActLY1t06ZNm7t585a5X9497mDo7uhomTZt2uyDB/fN+v/vcwuGDgDACxU9c1yJzwAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757503546386.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757503546386.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOElEQVQImWPo7+/nYkAGaWnJk+vq6vavWrXULyE+no1BRUWFr7i4OH7Lpk2n7984PxNF9f+/D0UBeEEURLG+fqEAAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68c15d3507171818d29e1689",
@@ -96,7 +96,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 95,
+  "vue": 109,
   "price": 888,
   "tagsSearch": [
     "WESTERN DIGITAL",
@@ -107,7 +107,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-10T11:12:53.864Z",
-  "update_date": "2025-10-24T17:26:52.182Z",
+  "update_date": "2025-10-30T04:58:52.570Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

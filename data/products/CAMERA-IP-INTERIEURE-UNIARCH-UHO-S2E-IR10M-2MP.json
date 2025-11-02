@@ -58,9 +58,7 @@
   "attributes": [],
   "tag": [],
   "compatibility": [],
-  "nFilsCategs": [
-    "672b9c4e99de58d4f6191c4e"
-  ],
+  "nFilsCategs": [],
   "lien": "CAMERA-IP-INTERIEURE-UNIARCH-UHO-S2E-IR10M-2MP",
   "gallerie": {
     "_id": "672b9ce999de58d4f6191c7e",
@@ -86,17 +84,17 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 304,
+  "vue": 317,
   "price": 169,
   "tagsSearch": [
     "UNIVIEW",
     "SÉCURITÉ & PROTECTION",
     "CAMERA DE SURVEILLANCE"
   ],
-  "stock": 10,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2024-11-06T16:46:12.016Z",
-  "update_date": "2025-10-23T21:06:43.154Z",
+  "update_date": "2025-10-29T10:34:34.263Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

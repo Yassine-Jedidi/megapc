@@ -3,7 +3,7 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1755276467338.jpg",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1755276467338.jpg",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVQImQE0AMv/ANfExLu8x+Xm6////gCIc3kMAB0DBzloZmcAX19fSUhNOjdIenp9AL28vcjIyMbHxNHR0cHZGtz6vObHAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "689f638f38284c8443bf6a89",
@@ -86,7 +86,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 391,
+  "vue": 443,
   "price": 2899,
   "tagsSearch": [
     "LENOVO",
@@ -99,7 +99,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-08-15T16:42:55.248Z",
-  "update_date": "2025-10-24T16:56:55.895Z",
+  "update_date": "2025-10-31T13:24:01.704Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

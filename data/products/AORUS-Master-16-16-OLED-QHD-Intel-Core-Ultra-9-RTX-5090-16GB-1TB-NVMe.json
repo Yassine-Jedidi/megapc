@@ -3,22 +3,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752154349959.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752154349959.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///9/j5sHGzMvAmwCUm6cANGIYEEespa0AiY+YABw5CwAkmJSaALe0tpmTj5GUkru7vey8Gri1l/LsAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752154366797.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752154366797.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///6+1voyetK6qsQD///9IbYUiQolAJEwAyMXIMDxJAAAkaWBuAO3r7MDCxZWYp+no6QFmHNlYnO9fAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752154370752.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752154370752.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ANbc5Nbu/+Ti++Xf6ACfpbMgO1U4LVGtp7QAyMXKCgAGAQIMxsbLAP/9/6+trZ6lqvr2/zaHHtlgV3BCAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752154375618.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752154375618.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPYuvvA7CU7juw9+v//fwY1v1xRh5a88HIQJ6+uk4FBxcXO6+q16wxv372bP3/VqROnPn3+BAD34x4pATcO8AAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "686fbf1e85aee8e5d0be8ce1",
@@ -104,7 +104,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1764,
+  "vue": 1776,
   "price": 15199,
   "tagsSearch": [
     "GIGABYTE",
@@ -117,7 +117,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-04-10T15:53:57.209Z",
-  "update_date": "2025-10-23T21:29:31.668Z",
+  "update_date": "2025-10-31T09:14:02.487Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

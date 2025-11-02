@@ -128,7 +128,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 527,
+  "vue": 546,
   "price": 230,
   "tagsSearch": [
     "THERMALRIGHT",
@@ -143,7 +143,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-03-19T11:38:22.550Z",
-  "update_date": "2025-10-23T21:24:42.266Z",
+  "update_date": "2025-10-30T12:39:17.155Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

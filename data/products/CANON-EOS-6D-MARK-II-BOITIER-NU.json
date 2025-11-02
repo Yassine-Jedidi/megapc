@@ -113,7 +113,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 320,
+  "vue": 333,
   "price": 6027,
   "tagsSearch": [
     "CANON",
@@ -124,7 +124,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2024-10-23T15:04:20.013Z",
-  "update_date": "2025-10-24T05:53:30.777Z",
+  "update_date": "2025-11-01T05:12:35.678Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

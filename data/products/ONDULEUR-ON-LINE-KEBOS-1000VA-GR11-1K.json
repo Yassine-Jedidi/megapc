@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 495,
+  "vue": 517,
   "price": 1399,
   "tagsSearch": [
     "KEBOS",
@@ -100,7 +100,7 @@
   "stock": 9,
   "displayForPublic": true,
   "create_date": "2024-08-21T15:14:59.227Z",
-  "update_date": "2025-10-24T10:24:41.466Z",
+  "update_date": "2025-11-01T04:58:15.693Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

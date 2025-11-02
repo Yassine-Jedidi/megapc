@@ -117,7 +117,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 415,
+  "vue": 437,
   "price": 230,
   "tagsSearch": [
     "8BITDO",
@@ -127,7 +127,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-08-08T11:36:31.519Z",
-  "update_date": "2025-10-24T05:08:20.254Z",
+  "update_date": "2025-10-31T17:04:23.279Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

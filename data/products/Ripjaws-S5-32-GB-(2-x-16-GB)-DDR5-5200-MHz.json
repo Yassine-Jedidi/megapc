@@ -145,7 +145,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 2644,
+  "vue": 2654,
   "price": 400,
   "tagsSearch": [
     "G.SKILL",
@@ -157,7 +157,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2024-07-24T10:12:54.395Z",
-  "update_date": "2025-10-24T17:41:00.600Z",
+  "update_date": "2025-10-31T19:52:34.549Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

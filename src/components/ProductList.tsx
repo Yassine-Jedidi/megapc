@@ -1,6 +1,15 @@
 import { useEffect, useState, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 
+// Helper function to format dates as dd/mm/yy
+const formatDate = (dateString: string): string => {
+  const date = new Date(dateString);
+  const day = String(date.getDate()).padStart(2, '0');
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const year = String(date.getFullYear()).slice(-2);
+  return `${day}/${month}/${year}`;
+};
+
 interface Product {
   slug: string;
   id: string;
@@ -491,14 +500,14 @@ function ProductList() {
                         {/* Creation Date */}
                         {product.createDate && (
                           <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full text-xs font-semibold border border-blue-200 w-fit">
-                            📅 Created: {new Date(product.createDate).toLocaleDateString()}
+                            📅 Created: {formatDate(product.createDate)}
                           </span>
                         )}
                         
                         {/* Update Date */}
                         {product.updateDate && (
                           <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full text-xs font-semibold border border-purple-200 w-fit">
-                            🔄 Updated: {new Date(product.updateDate).toLocaleDateString()}
+                            🔄 Updated: {formatDate(product.updateDate)}
                           </span>
                         )}
                       </div>

@@ -182,7 +182,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 8191,
+  "vue": 8394,
   "price": 259,
   "tagsSearch": [
     "MSI",
@@ -192,11 +192,11 @@
     "realap",
     "911-7C95-084"
   ],
-  "stock": 250,
+  "stock": 100,
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2022-07-25T15:20:32.587Z",
-  "update_date": "2025-10-24T17:46:35.954Z",
+  "update_date": "2025-11-01T14:55:06.743Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

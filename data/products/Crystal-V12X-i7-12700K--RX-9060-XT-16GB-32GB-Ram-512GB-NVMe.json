@@ -154,7 +154,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 876,
+  "vue": 893,
   "price": 4049,
   "tagsSearch": [
     "INTEL",
@@ -168,10 +168,10 @@
     "A650BN",
     "RX 9060 XT"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-04-30T15:19:54.924Z",
-  "update_date": "2025-10-24T15:45:28.254Z",
+  "update_date": "2025-10-31T13:46:09.183Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

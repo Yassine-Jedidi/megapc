@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1215,
+  "vue": 1349,
   "price": 949,
   "tagsSearch": [
     "MSI",
@@ -123,11 +123,11 @@
     "CARTE GRAPHIQUE",
     "912-V538-006"
   ],
-  "stock": 100,
+  "stock": 99,
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2025-06-26T09:50:52.211Z",
-  "update_date": "2025-10-24T16:30:42.513Z",
+  "update_date": "2025-11-01T20:52:37.942Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

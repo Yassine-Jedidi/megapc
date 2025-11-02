@@ -3,12 +3,12 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757323007916.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757323007916.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AC05TCiCsOw6P2WjOjk+RiYAKT9Xtrn0///F////VHKRsgAlM0a4cZvw/7n7//9heY61AAkVJC8uSGNEACFIRAAAHS4n+B0oJbQhWgAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757323010999.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757323010999.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AGJ2gBqe0/89S3OnVgACAjMASGiHlMb///+17v//KjQ+kwAxSF6RirX//7z8//9TWF2UAB4eHg9GXnowLEuBViIqOTZFEB4nuuZjrwAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68be9d8007171818d27c3f3e",
@@ -98,7 +98,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 165,
+  "vue": 192,
   "price": 135,
   "tagsSearch": [
     "WD BLUE",
@@ -108,7 +108,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-08T09:10:24.279Z",
-  "update_date": "2025-10-24T17:25:59.225Z",
+  "update_date": "2025-10-31T13:05:42.670Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 301,
+  "vue": 310,
   "price": 394,
   "tagsSearch": [
     "TOSHIBA",
@@ -128,7 +128,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-02-25T13:43:16.932Z",
-  "update_date": "2025-10-24T10:41:04.651Z",
+  "update_date": "2025-10-30T13:48:44.661Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

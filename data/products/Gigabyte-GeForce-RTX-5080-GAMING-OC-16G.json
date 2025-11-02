@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1152,
+  "vue": 1191,
   "price": 5599,
   "tagsSearch": [
     "GIGABYTE",
@@ -131,7 +131,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-02-20T14:04:47.318Z",
-  "update_date": "2025-10-24T08:28:40.608Z",
+  "update_date": "2025-11-01T16:26:49.975Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

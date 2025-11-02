@@ -112,7 +112,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 872,
+  "vue": 919,
   "price": 1779,
   "tagsSearch": [
     "ASUS",
@@ -127,11 +127,11 @@
     "G102ASUS"
   ],
   "discount": 4.4969083754918495,
-  "stock": 100,
+  "stock": 0,
   "prixEnPromo": 1699,
   "displayForPublic": true,
   "create_date": "2025-04-24T09:34:49.750Z",
-  "update_date": "2025-10-24T12:40:56.267Z",
+  "update_date": "2025-11-01T07:35:44.659Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

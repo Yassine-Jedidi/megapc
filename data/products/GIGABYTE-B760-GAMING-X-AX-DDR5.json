@@ -136,7 +136,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 6281,
+  "vue": 6344,
   "price": 695,
   "tagsSearch": [
     "GIGABYTE",
@@ -145,10 +145,10 @@
     "CARTE MÈRE",
     "CARTE GRAPHIQUE"
   ],
-  "stock": 9,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2023-06-12T13:57:45.804Z",
-  "update_date": "2025-10-24T16:26:24.238Z",
+  "update_date": "2025-11-01T10:09:27.993Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

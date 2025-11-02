@@ -111,7 +111,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 651,
+  "vue": 710,
   "price": 395,
   "tagsSearch": [
     "EPOMAKER",
@@ -121,7 +121,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-08-18T08:39:19.485Z",
-  "update_date": "2025-10-24T13:01:08.230Z",
+  "update_date": "2025-10-31T06:10:35.219Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

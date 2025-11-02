@@ -162,7 +162,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3117,
+  "vue": 3176,
   "price": 3410,
   "priceHt": null,
   "sale": false,
@@ -178,7 +178,7 @@
   "prixEnPromo": 2999,
   "displayForPublic": true,
   "create_date": "2025-05-23T10:06:30.858Z",
-  "update_date": "2025-10-24T17:20:34.984Z",
+  "update_date": "2025-10-31T18:36:10.150Z",
   "case": {
     "_id": "6481cdefc026d6db8d85f3d4",
     "title": "Aerocool Hexform V2 ",

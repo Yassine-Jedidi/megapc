@@ -110,7 +110,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1611,
+  "vue": 1645,
   "price": 10650,
   "tagsSearch": [
     "GIGABYTE",
@@ -118,10 +118,10 @@
     "PC PORTABLE GAMER",
     "AORUS2025"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-04-11T13:10:53.460Z",
-  "update_date": "2025-10-23T21:16:16.341Z",
+  "update_date": "2025-11-01T08:56:55.851Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

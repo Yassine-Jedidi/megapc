@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 895,
+  "vue": 930,
   "price": 729,
   "tagsSearch": [
     "MSI",
@@ -126,10 +126,10 @@
     "B860M GAMING PLUS WIFI",
     "B860M"
   ],
-  "stock": 10,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-01-29T12:00:19.240Z",
-  "update_date": "2025-10-24T15:26:41.285Z",
+  "update_date": "2025-11-01T18:31:44.899Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

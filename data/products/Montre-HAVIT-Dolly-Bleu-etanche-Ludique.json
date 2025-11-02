@@ -101,7 +101,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 253,
+  "vue": 266,
   "price": 69,
   "tagsSearch": [
     "HAVIT",
@@ -118,7 +118,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-02-28T10:33:27.468Z",
-  "update_date": "2025-10-24T07:33:49.489Z",
+  "update_date": "2025-11-01T12:54:35.180Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

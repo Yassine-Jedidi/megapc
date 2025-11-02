@@ -116,7 +116,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 1167,
+  "vue": 1192,
   "price": 1099,
   "tagsSearch": [
     "MSI",
@@ -126,10 +126,10 @@
     "MSI MPG B850 EDGE TI WIFI",
     "BAC_2K25"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-01-30T11:42:39.202Z",
-  "update_date": "2025-10-24T17:36:00.036Z",
+  "update_date": "2025-11-01T13:59:10.635Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

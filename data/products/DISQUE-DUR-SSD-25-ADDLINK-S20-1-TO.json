@@ -104,7 +104,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1536,
+  "vue": 1569,
   "price": 227,
   "tagsSearch": [
     "ADDLINK",
@@ -115,7 +115,7 @@
   "stock": 60,
   "displayForPublic": true,
   "create_date": "2024-10-04T16:44:10.519Z",
-  "update_date": "2025-10-24T16:17:03.027Z",
+  "update_date": "2025-10-30T16:40:29.345Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -3,22 +3,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178192.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178192.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///tDQzsHBwff39wDp5+c/Oz0gHR7V0tQA4+PkHyAlBQADz8zOAPv7+7m5up+eoPDv8Fy/IB8vuS04AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178213.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178213.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///7KxsbCvr/b29gDb29shICAdGxzAvsAA2NjYFBQTAQAAvLq8APv7+6mpqaCfoPDv8B6lHhYb+506AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178220.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178220.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImWP4////CzD4//8/w48fP3S0dTQ0NN+9ewfiCPALMjGwvH71muH///83bty4evXa3z9/AZxHIvIOz7kbAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178221.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178221.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMklEQVQImWP4////2rXrNm/a8v//f4b////LyykYGphAOaKiEgwM7FBOT09fS3MLkAMAYtcgdm75cKoAAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68596407fd2984d47c651cf2",
@@ -32,8 +32,8 @@
   "referenceInterne": "Wolf-K17",
   "title": "Wolf K17 | Intel i5-13400F | RTX 5060 | 32GB Ram |512GB NVMe",
   "title_fr": "Wolf K17 | Intel i5-13400F | RTX 5060 | 32GB Ram |512GB NVMe",
-  "description_fr": "<p><span style=\"font-size:22px\">💻 <strong>Full Setup Wolf K17 &ndash; Puissance, Fluidit&eacute; et Design pour les Gamers exigeants !</strong> 🎮</span></p>\n\n<p><span style=\"font-size:22px\">Le <strong>Wolf K17</strong> est un PC gamer complet pens&eacute; pour offrir une exp&eacute;rience fluide et r&eacute;active, que ce soit pour le jeu comp&eacute;titif, le multit&acirc;che ou le streaming. &Eacute;quip&eacute; d&rsquo;un processeur <strong>Intel Core i5-13400F</strong> cadenc&eacute; jusqu&rsquo;&agrave; 4.6 GHz ⚡, il assure des performances solides en toutes circonstances. Sa carte m&egrave;re <strong>Gigabyte H610M H V2 DDR5</strong>, associ&eacute;e &agrave; <strong>32GB de RAM DDR5 4800MHz</strong> 🧠, garantit rapidit&eacute; et stabilit&eacute;, m&ecirc;me avec plusieurs applications ouvertes.</span></p>\n\n<p><span style=\"font-size:22px\">Pour les graphismes, la <strong>Gigabyte RTX 5060 WINDFORCE 8GB</strong> 🎨 propulse vos jeux en Full HD ou QHD avec des d&eacute;tails visuels &eacute;poustouflants. Le tout est refroidi efficacement par un <strong>ventirad DeepCool AG400 Digital ARGB</strong> ❄️, ajoutant une touche RGB styl&eacute;e &agrave; votre setup. C&ocirc;t&eacute; stockage, le <strong>SSD NVMe IMATION 512GB Gen3</strong> 🚀 offre des temps de chargement ultra-rapides.</span></p>\n\n<p><span style=\"font-size:22px\">L&rsquo;ensemble est aliment&eacute; par une <strong>alimentation Aerocool LUX 550W 80+ BRONZE</strong><strong> </strong>🔌, log&eacute; dans un bo&icirc;tier <strong>Aerocool Hexform</strong> au design agressif et ventil&eacute;. Un setup &eacute;quilibr&eacute;, &eacute;volutif, et pr&ecirc;t &agrave; affronter tous les d&eacute;fis de la sc&egrave;ne gaming actuelle ! 🎯</span></p>\n",
-  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🔧 <strong>Processeur</strong> : Intel Core i5-13400F (2.5&thinsp;GHz / 4.6&thinsp;GHz)</span></li>\n\t<li><span style=\"font-size:22px\">🧠</span>&nbsp;<span style=\"font-size:22px\"><strong>Carte m&egrave;re :&nbsp;</strong>Gigabyte H610M H V2 DDR5</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte Graphique</strong> : Gigabyte RTX 5060 WINDFORCE 8GB</span></li>\n\t<li><span style=\"font-size:22px\">🧠 <strong>RAM</strong> : Aero 32GB DDR5 4800MHz (2x16GB)</span></li>\n\t<li><span style=\"font-size:22px\">⚡ <strong>Stockage</strong> : IMATION 512GB NVMe Gen3</span></li>\n\t<li><span style=\"font-size:22px\">🔌 <strong>Alimentation</strong> : Aerocool LUX 550W 80+ BRONZE</span></li>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>Bo&icirc;tier</strong> : Aerocool Hexform</span></li>\n\t<li><span style=\"color:#0000ff\"><span style=\"font-size:22px\">❄️ <strong>Refroidissement</strong> : DeepCool AG400 Digital ARGB</span></span></li>\n\t<li><span style=\"color:#ff0000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
+  "description_fr": "<p><span style=\"font-size:22px\">💻 <strong>Full Setup Wolf K17 &ndash; Puissance, Fluidit&eacute; et Design pour les Gamers exigeants !</strong> 🎮</span></p>\n\n<p><span style=\"font-size:22px\">Le <strong>Wolf K17</strong> est un PC gamer complet pens&eacute; pour offrir une exp&eacute;rience fluide et r&eacute;active, que ce soit pour le jeu comp&eacute;titif, le multit&acirc;che ou le streaming. &Eacute;quip&eacute; d&rsquo;un processeur <strong>Intel Core i5-13400F</strong> cadenc&eacute; jusqu&rsquo;&agrave; 4.6 GHz ⚡, il assure des performances solides en toutes circonstances. Sa carte m&egrave;re <strong>Gigabyte H610M H V2 DDR5</strong>, associ&eacute;e &agrave; <strong>32GB de RAM DDR5 4800MHz</strong> 🧠, garantit rapidit&eacute; et stabilit&eacute;, m&ecirc;me avec plusieurs applications ouvertes.</span></p>\n\n<p><span style=\"font-size:22px\">Pour les graphismes, la <strong>Gigabyte RTX 5060 WINDFORCE 8GB</strong> 🎨 propulse vos jeux en Full HD ou QHD avec des d&eacute;tails visuels &eacute;poustouflants. Le tout est refroidi efficacement par un <strong>ventirad MSI MAG COREFROZR AA13&nbsp;</strong> ❄️, ajoutant une touche RGB styl&eacute;e &agrave; votre setup. C&ocirc;t&eacute; stockage, le <strong>SSD NVMe IMATION 512GB Gen3</strong> 🚀 offre des temps de chargement ultra-rapides.</span></p>\n\n<p><span style=\"font-size:22px\">L&rsquo;ensemble est aliment&eacute; par une <strong>alimentation Aerocool LUX 550W 80+ BRONZE</strong><strong> </strong>🔌, log&eacute; dans un bo&icirc;tier <strong>Aerocool Hexform</strong> au design agressif et ventil&eacute;. Un setup &eacute;quilibr&eacute;, &eacute;volutif, et pr&ecirc;t &agrave; affronter tous les d&eacute;fis de la sc&egrave;ne gaming actuelle ! 🎯</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🔧 <strong>Processeur</strong> : Intel Core i5-13400F (2.5&thinsp;GHz / 4.6&thinsp;GHz)</span></li>\n\t<li><span style=\"font-size:22px\">🧠</span>&nbsp;<span style=\"font-size:22px\"><strong>Carte m&egrave;re :&nbsp;</strong>Gigabyte H610M H V2 DDR5</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte Graphique</strong> : Gigabyte RTX 5060 WINDFORCE 8GB</span></li>\n\t<li><span style=\"font-size:22px\">🧠 <strong>RAM</strong> : Aero 32GB DDR5 4800MHz (2x16GB)</span></li>\n\t<li><span style=\"font-size:22px\">⚡ <strong>Stockage</strong> : IMATION 512GB NVMe Gen3</span></li>\n\t<li><span style=\"font-size:22px\">🔌 <strong>Alimentation</strong> : Aerocool LUX 550W 80+ BRONZE</span></li>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>Bo&icirc;tier</strong> : Aerocool Hexform</span></li>\n\t<li><span style=\"color:#0000ff\"><span style=\"font-size:22px\">❄️ <strong>Refroidissement</strong> :MSI MAG COREFROZR AA13&nbsp;</span></span></li>\n\t<li><span style=\"color:#ff0000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
   "notreSelection": true,
   "marque": {
     "_id": "5fc5ffc00c10517079547a46",
@@ -161,7 +161,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 884,
+  "vue": 918,
   "price": 2469,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -172,7 +172,7 @@
   "stock": 99,
   "displayForPublic": true,
   "create_date": "2025-06-23T14:26:15.946Z",
-  "update_date": "2025-10-24T16:06:59.794Z",
+  "update_date": "2025-10-30T23:57:29.631Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

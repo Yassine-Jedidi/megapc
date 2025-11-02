@@ -104,7 +104,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 4964,
+  "vue": 5025,
   "price": 272,
   "tagsSearch": [
     "COMPOSANTS",
@@ -115,7 +115,7 @@
   "stock": 5,
   "displayForPublic": true,
   "create_date": "2023-09-20T08:45:30.113Z",
-  "update_date": "2025-10-24T04:50:31.462Z",
+  "update_date": "2025-11-01T11:29:35.923Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

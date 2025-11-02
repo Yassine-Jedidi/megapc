@@ -89,7 +89,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 491,
+  "vue": 527,
   "price": 1749,
   "tagsSearch": [
     "ASUS",
@@ -98,10 +98,10 @@
     "POKERTIME",
     "G102ASUS"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-05-24T09:21:20.216Z",
-  "update_date": "2025-10-24T10:43:27.088Z",
+  "update_date": "2025-10-31T12:07:34.641Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

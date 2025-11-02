@@ -98,7 +98,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 11206,
+  "vue": 11255,
   "price": 59,
   "tagsSearch": [
     "INTER-TECH",
@@ -108,7 +108,7 @@
   "stock": 1,
   "displayForPublic": true,
   "create_date": "2023-01-20T15:32:23.639Z",
-  "update_date": "2025-10-24T16:42:01.386Z",
+  "update_date": "2025-11-01T11:33:47.291Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -85,7 +85,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1103,
+  "vue": 1116,
   "price": 99,
   "tagsSearch": [
     "ORAIMO",
@@ -96,7 +96,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-02-22T16:22:47.057Z",
-  "update_date": "2025-10-24T17:43:06.269Z",
+  "update_date": "2025-10-31T04:59:02.677Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

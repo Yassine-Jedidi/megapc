@@ -116,7 +116,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 145,
+  "vue": 169,
   "price": 299,
   "tagsSearch": [
     "DEEPCOOL",
@@ -126,7 +126,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-08-06T15:33:33.665Z",
-  "update_date": "2025-10-23T21:33:14.973Z",
+  "update_date": "2025-10-31T17:32:55.789Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

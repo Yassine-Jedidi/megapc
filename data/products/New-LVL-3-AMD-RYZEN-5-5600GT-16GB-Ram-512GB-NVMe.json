@@ -3,22 +3,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178192.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178192.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///tDQzsHBwff39wDp5+c/Oz0gHR7V0tQA4+PkHyAlBQADz8zOAPv7+7m5up+eoPDv8Fy/IB8vuS04AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178213.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178213.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///7KxsbCvr/b29gDb29shICAdGxzAvsAA2NjYFBQTAQAAvLq8APv7+6mpqaCfoPDv8B6lHhYb+506AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178220.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178220.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOUlEQVQImWP4////CzD4//8/w48fP3S0dTQ0NN+9ewfiCPALMjGwvH71muH///83bty4evXa3z9/AZxHIvIOz7kbAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178221.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1686228178221.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMklEQVQImWP4////2rXrNm/a8v//f4b////LyykYGphAOaKiEgwM7FBOT09fS3MLkAMAYtcgdm75cKoAAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68400dfe68bebce44256a468",
@@ -155,7 +155,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2612,
+  "vue": 2711,
   "price": 1009,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -166,7 +166,7 @@
   "stock": 94,
   "displayForPublic": true,
   "create_date": "2025-06-04T08:59:47.712Z",
-  "update_date": "2025-10-24T12:25:18.993Z",
+  "update_date": "2025-10-31T11:18:34.613Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

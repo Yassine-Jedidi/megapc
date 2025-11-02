@@ -3,17 +3,17 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748248800942.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748248800942.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AObl5YqJiISEhMjFxQDIyclMSU05NDiEeoIA0dHRAQABDQsOi4SLAP7//o2MjRkXGq6ssLGAGLVXPLKcAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748248804947.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748248804947.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP//98KqtNTW1sPDwwC0trByUWlLTUxRUVEApqilYEFVPkA/AQAAAJueo1ZDXD9APhMTE+A0FmrsqEfMAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748248809564.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748248809564.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImRXHQRUAQAQFwN9AEVd55NBBA015/H07twHJqsrM3QVJVQUwMz9mJiLd/RMR7n53Dzr5HxI9fZdbAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68554abcfd2984d47c504856",
@@ -157,7 +157,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 734,
+  "vue": 768,
   "price": 2349,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -168,7 +168,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-06-20T11:49:16.699Z",
-  "update_date": "2025-10-24T12:01:35.974Z",
+  "update_date": "2025-10-30T16:56:45.346Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

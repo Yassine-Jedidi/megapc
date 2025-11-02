@@ -142,7 +142,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1345,
+  "vue": 1360,
   "price": 304,
   "tagsSearch": [
     "PATRIOT",
@@ -152,7 +152,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2023-09-08T16:00:47.367Z",
-  "update_date": "2025-10-23T20:29:46.258Z",
+  "update_date": "2025-10-31T08:15:08.753Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

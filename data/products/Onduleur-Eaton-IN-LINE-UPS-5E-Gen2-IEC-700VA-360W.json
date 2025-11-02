@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 886,
+  "vue": 908,
   "price": 275,
   "tagsSearch": [
     "EATON",
@@ -118,7 +118,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-06-12T08:21:44.752Z",
-  "update_date": "2025-10-24T16:36:19.623Z",
+  "update_date": "2025-10-31T22:52:23.788Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

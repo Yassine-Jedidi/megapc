@@ -149,7 +149,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 4803,
+  "vue": 4838,
   "price": 529,
   "tagsSearch": [
     "GIGABYTE",
@@ -157,11 +157,11 @@
     "CARTE MÈRE"
   ],
   "discount": 7.421150278293135,
-  "stock": 100,
+  "stock": 0,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2023-08-16T10:09:42.192Z",
-  "update_date": "2025-10-24T17:39:14.531Z",
+  "update_date": "2025-10-31T18:24:01.250Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

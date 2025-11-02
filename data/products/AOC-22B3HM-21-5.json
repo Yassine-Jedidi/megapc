@@ -104,7 +104,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 4229,
+  "vue": 4247,
   "price": 299,
   "tagsSearch": [
     "AOC",
@@ -114,7 +114,7 @@
   "stock": 8,
   "displayForPublic": true,
   "create_date": "2023-06-23T16:40:10.924Z",
-  "update_date": "2025-10-24T16:26:10.630Z",
+  "update_date": "2025-11-01T15:33:12.604Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -3,17 +3,17 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716685.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716685.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AObl5YqJiISEhMjFxQDIyclMSU05NDiEeoIA0dHRAQABDQsOi4SLAP7//o2MjRkXGq6ssLGAGLVXPLKcAAAAAElFTkSuQmCC"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716686.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716686.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP//98KqtNTW1sPDwwC0trByUWlLTUxRUVEApqilYEFVPkA/AQAAAJueo1ZDXD9APhMTE+A0FmrsqEfMAAAAAElFTkSuQmCC"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716720.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716720.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImRXHQRUAQAQFwN9AEVd55NBBA015/H07twHJqsrM3QVJVQUwMz9mJiLd/RMR7n53Dzr5HxI9fZdbAAAAAElFTkSuQmCC"
     }
   ],
   "_id": "68569c70fd2984d47c5821fa",
@@ -154,7 +154,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 727,
+  "vue": 761,
   "price": 3749,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -165,10 +165,10 @@
     "ASRock B760M PG Sonic WiFi",
     "LE520"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-13T08:55:53.941Z",
-  "update_date": "2025-10-24T13:15:03.544Z",
+  "update_date": "2025-10-30T04:17:05.505Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

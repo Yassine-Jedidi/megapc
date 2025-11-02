@@ -117,7 +117,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 7332,
+  "vue": 7714,
   "price": 629,
   "tagsSearch": [
     "ECRANS GAMING",
@@ -129,11 +129,11 @@
     "HELLOWINTERX26"
   ],
   "discount": null,
-  "stock": 98,
+  "stock": 96,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-06-26T13:49:08.978Z",
-  "update_date": "2025-10-24T17:08:54.859Z",
+  "update_date": "2025-11-01T21:38:36.841Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

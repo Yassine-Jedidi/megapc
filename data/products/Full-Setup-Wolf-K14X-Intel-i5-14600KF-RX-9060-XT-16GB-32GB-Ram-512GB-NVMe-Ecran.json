@@ -103,7 +103,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 563,
+  "vue": 602,
   "price": 3889,
   "tagsSearch": [
     "BAC_2K25",
@@ -114,10 +114,10 @@
     "MSI B760M",
     "MSI B760M Gaming Plus WiFi"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-23T11:38:22.105Z",
-  "update_date": "2025-10-24T17:14:04.232Z",
+  "update_date": "2025-10-31T00:19:36.819Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 902,
+  "vue": 922,
   "price": 2799,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -101,7 +101,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-07-24T14:05:28.598Z",
-  "update_date": "2025-10-24T08:39:20.782Z",
+  "update_date": "2025-11-01T00:15:37.287Z",
   "case": {
     "_id": "6481cdefc026d6db8d85f3d4",
     "title": "Aerocool Hexform V2 ",

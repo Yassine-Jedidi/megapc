@@ -153,7 +153,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 9955,
+  "vue": 10083,
   "price": 179,
   "sale": false,
   "tagsSearch": [
@@ -166,11 +166,11 @@
     "g305xp"
   ],
   "discount": null,
-  "stock": 99,
+  "stock": 98,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2022-10-18T13:17:32.918Z",
-  "update_date": "2025-10-24T17:06:09.502Z",
+  "update_date": "2025-11-01T17:37:03.205Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1030,
+  "vue": 1090,
   "price": 439,
   "tagsSearch": [
     "LG",
@@ -125,7 +125,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-08-21T08:55:07.890Z",
-  "update_date": "2025-10-24T11:43:45.390Z",
+  "update_date": "2025-11-01T15:41:32.435Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -3,17 +3,17 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1701965129694.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1701965129694.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAOElEQVQImWP49+/f////C/LyXJxdGP7////t2zdNVVUWBgYoR0ZciJOVgaG9tSk8yMfV0VZHUxMAAeAYWz8FCb8AAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1701965134227.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1701965134227.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYvL09ZaREFORlTI0NGWysrGQk+JkZGDiZGRiQlQEAysgbCO7eAz8AAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1701965134228.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1701965134228.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMTEwtbW1v////z8/AB5eXkcFgivrqn///8A////t7SwBwAAXl1cAPv7+////8rJypuUkIBjIaYyb02YAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "6571ee02eebe17050fd7e543",
@@ -100,7 +100,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3928,
+  "vue": 3957,
   "price": 303,
   "tagsSearch": [
     "MSI",
@@ -112,7 +112,7 @@
   "prixEnPromo": null,
   "displayForPublic": false,
   "create_date": "2023-12-07T16:08:34.970Z",
-  "update_date": "2025-10-24T17:08:56.495Z",
+  "update_date": "2025-10-29T13:18:18.209Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

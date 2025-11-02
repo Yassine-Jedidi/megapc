@@ -1,24 +1,24 @@
 {
   "images": [
     {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748350469984.webp",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748350469984.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWPYsmXnzp373r/7+P//fwa3AEcGZoZ1G1aBOEcubqtrLePl40hOSmP4////ly9f+7t7t2/bDgAoBR6z5ikYrQAAAABJRU5ErkJggg=="
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761843490147.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761843490147.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImWP4jwQYPn78mJycamZquWzZcoZDhw4rKygyMjAsXbqM4ScY/Pr1E6gMAKLqIuY3LNNaAAAAAElFTkSuQmCC"
     },
     {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748350474099.webp",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748350474099.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALUlEQVQImWP4jwQYli9b7urkkpuTe+DAAYZTJ0+FhYYxMzB3tHUwQFX8AykDAJ2kIycaW6uBAAAAAElFTkSuQmCC"
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761843492630.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761843492630.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImWP4+fPX2zdv37x5+/3bd4bJk6ewsvAwMHDk5uYxrF+/wdXJxcvda/nylQz/kQAAKSogGtYonAQAAAAASUVORK5CYII="
     },
     {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748350477010.webp",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748350477010.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImWP4jwQYNm/e5uftH+AfvHr1eoYpk6eJiMgwM/CnpmYyfP/27fXrNy9fvvr06RMAboUgbTC/7dQAAAAASUVORK5CYII="
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761843497521.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761843497521.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP/////+/v///v///wCvr7FJSEpOS06srK0Aj4+RFBMbAgAPamptAPb29u3t7erq6/Pz82iNIExJIDHXAAAAAElFTkSuQmCC"
     },
     {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748350479900.webp",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1748350479900.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANUlEQVQImWP4/ev3xw8fP3z4+OvXL4Zp02axsPAwMLBlZmQyrF+/0c7W1snRceGCRQz/kQAAK2Qf/jW2zWsAAAAASUVORK5CYII="
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761843499510.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761843499510.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAL0lEQVQImWP4jwQYFi1YZG9rl5aaduDAAYaTJ0+GhYQxMrD09vQwQBT8/fsXqAwAlvYi90cclwUAAAAASUVORK5CYII="
     }
   ],
   "_id": "68247348c75bcce7a2947497",
@@ -88,17 +88,17 @@
     "_id": "6824754dc75bcce7a29474c8",
     "titre": "MSI GEFORCE RTX 5060 8G SHADOW 2X OC",
     "urlPhoto": [
-      "/uploads/gallerie/1748350469984.webp",
-      "/uploads/gallerie/1748350474099.webp",
-      "/uploads/gallerie/1748350477010.webp",
-      "/uploads/gallerie/1748350479900.webp"
+      "/uploads/gallerie/1761843490147.webp",
+      "/uploads/gallerie/1761843492630.webp",
+      "/uploads/gallerie/1761843497521.webp",
+      "/uploads/gallerie/1761843499510.webp"
     ],
     "targetMega": true,
     "targetGiga": true,
     "targetMobile": true,
-    "update_date": "2025-05-27T12:54:40.047Z",
+    "update_date": "2025-10-30T16:58:19.632Z",
     "create_date": "2025-05-14T10:49:49.000Z",
-    "__v": 11
+    "__v": 15
   },
   "visibleHorsStock": false,
   "checkStockWhenPurchased": true,
@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 4127,
+  "vue": 4312,
   "price": 1139,
   "priceHt": null,
   "tagsSearch": [
@@ -124,7 +124,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2025-05-14T10:41:12.376Z",
-  "update_date": "2025-10-24T16:31:05.187Z",
+  "update_date": "2025-11-01T18:12:47.604Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

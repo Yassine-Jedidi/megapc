@@ -104,7 +104,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 1613,
+  "vue": 1635,
   "price": 59,
   "tagsSearch": [
     "SBOX",
@@ -115,7 +115,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2024-02-27T08:32:52.369Z",
-  "update_date": "2025-10-24T16:24:43.400Z",
+  "update_date": "2025-10-31T11:02:43.710Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

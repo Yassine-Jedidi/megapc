@@ -93,7 +93,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 13092,
+  "vue": 13244,
   "price": 928,
   "tagsSearch": [
     "PC GAMER",
@@ -104,7 +104,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2024-07-25T14:14:31.268Z",
-  "update_date": "2025-10-24T16:49:42.244Z",
+  "update_date": "2025-11-01T14:49:56.043Z",
   "cpu": {
     "_id": "67486dd991e54111257e5dde",
     "title": "Sans CPU",

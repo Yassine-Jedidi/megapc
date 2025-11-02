@@ -106,7 +106,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 302,
+  "vue": 316,
   "price": 375,
   "tagsSearch": [
     "CONDOR",
@@ -136,7 +136,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-02-24T11:43:00.540Z",
-  "update_date": "2025-10-24T14:08:14.744Z",
+  "update_date": "2025-10-30T23:30:45.789Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

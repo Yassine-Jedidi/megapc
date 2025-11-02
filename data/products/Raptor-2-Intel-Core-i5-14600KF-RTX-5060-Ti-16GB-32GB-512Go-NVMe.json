@@ -3,27 +3,27 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015992602.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015992602.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImQXBIRUAMAgFwF+EBJShzzRRCDFPBd48jofHsjvs7r33nDMzqCoRIaKIwHuPmQG4O7rbzFQ1Mz8q/R40b+4dCQAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998516.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998516.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImQXBMQ0AMAgEwLfBgAjMdcQG1cOCiiYoIEys9A4zc85R1d2FuwNg5vceIoKIRCQzUVX3XjPr7g/fWBzqC4L3pQAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998517.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998517.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///7S0tJSUlPLy8gDPzs40NDQtLS3Dw8MAvr6+AgICAAAAu7u7APb29qysrHl5ee3t7QtSHQwdu4acAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998518.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998518.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8PDw3d3d+vr6wDm5uZXV1cSEhK5ubkA1dXVMDAwAAAAqampAN3d3XNzcz4+Pry8vA3VG23DfJSKAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998519.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737015998519.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImQXBoQ0AMAgEwN+BTZkCUYvAdwEkM9UQLCH0DrtrZqqamejuey8RuTtm5pwDICJQVSLCzO+9D1ufH8zJRdG0AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68469f11fd2984d47cfa1d28",
@@ -170,7 +170,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 616,
+  "vue": 636,
   "price": 3999,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -184,7 +184,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-06-05T08:27:34.477Z",
-  "update_date": "2025-10-23T21:32:53.388Z",
+  "update_date": "2025-10-31T02:23:50.215Z",
   "gpu": {
     "_id": "67ff8d1f322d05b251867ce6",
     "title": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 16G",

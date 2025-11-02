@@ -96,7 +96,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 445,
+  "vue": 455,
   "price": 1229,
   "tagsSearch": [
     "AERO",
@@ -106,7 +106,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-06-12T13:32:19.285Z",
-  "update_date": "2025-10-24T09:07:37.302Z",
+  "update_date": "2025-10-29T22:56:49.067Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

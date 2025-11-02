@@ -134,7 +134,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1952,
+  "vue": 1976,
   "price": 419,
   "tagsSearch": [
     "MAXSUN",
@@ -150,7 +150,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-03-18T10:21:45.962Z",
-  "update_date": "2025-10-24T11:21:55.184Z",
+  "update_date": "2025-11-01T02:14:43.683Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

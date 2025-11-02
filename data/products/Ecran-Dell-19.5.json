@@ -112,7 +112,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2426,
+  "vue": 2447,
   "price": 297,
   "tagsSearch": [
     "DELL",
@@ -123,7 +123,7 @@
   "stock": 150,
   "displayForPublic": true,
   "create_date": "2023-11-18T10:39:59.264Z",
-  "update_date": "2025-10-24T16:26:10.309Z",
+  "update_date": "2025-10-31T02:42:23.563Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

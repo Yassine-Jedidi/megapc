@@ -110,7 +110,7 @@
   "commande48H": false,
   "enArrivage": true,
   "new": true,
-  "vue": 1073,
+  "vue": 1100,
   "price": 12000,
   "tagsSearch": [
     "IIYAMA",
@@ -120,7 +120,7 @@
   "stock": 1,
   "displayForPublic": true,
   "create_date": "2024-05-09T16:32:45.499Z",
-  "update_date": "2025-10-24T13:27:07.285Z",
+  "update_date": "2025-11-01T06:46:52.013Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

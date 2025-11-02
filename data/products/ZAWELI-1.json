@@ -106,7 +106,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2198,
+  "vue": 2278,
   "price": 799,
   "tagsSearch": [
     "ORDINATEURS",
@@ -117,7 +117,7 @@
   "stock": 99,
   "displayForPublic": true,
   "create_date": "2025-07-03T14:02:32.157Z",
-  "update_date": "2025-10-24T17:18:46.724Z",
+  "update_date": "2025-11-01T12:49:16.866Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

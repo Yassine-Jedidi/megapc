@@ -33,7 +33,7 @@
   "title": "MSI PRO B650M-B",
   "title_fr": "MSI PRO B650M-B",
   "description_fr": "<h2>MSI PRO B650M-B</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">La PRO B650M-P propos&eacute; par MSI est une carte m&egrave;re polyvalente pour processeur AMD Ryzen sur socket AM5. Elle permettra de concevoir un PC gamer performant bas&eacute; sur les composants les plus puissants du march&eacute;, tels que les processeurs AMD Ryzen 7000 &amp; 8000 et les cartes graphiques PCI-Express 4.0 16x</span></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1713177907893.webp\" /></p>\n\n<p><img src=\"https://apibackend.megapc.tn///uploads/gallerie/1713177907895.webp\" /></p>\n",
-  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">Format de carte m&egrave;re :&nbsp;Micro ATX</span></li>\n\t<li><span style=\"font-size:22px\">Socket :&nbsp;AMD AM5</span></li>\n\t<li><span style=\"font-size:22px\">Chipset :&nbsp;PRO B650M-B</span></li>\n\t<li><span style=\"font-size:22px\">Max Ram : 96 Go&nbsp;DDR5&nbsp;6800 MHz ( 2 Slots )</span></li>\n\t<li><span style=\"font-size:22px\">Nombre de slots&nbsp;M.2 : 1</span></li>\n</ul>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">✅ <strong>Chipset :</strong> AMD B650 🔧</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>Processeur :</strong> AMD Ryzen&trade; 9000/8000/7000 AM5 ⚡</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>M&eacute;moire :</strong> 2x DDR5, max 128 Go, Dual-Channel 🧠</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>Fr&eacute;quence RAM :</strong> 4800 &ndash; 6800+ MHz (OC) 🚀</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>Graphiques int&eacute;gr&eacute;s :</strong> 1x HDMI 4K@60Hz, 1x VGA 🖼️</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>Slots expansion :</strong> 1x PCIe 4.0 x16, 1x PCIe 3.0 x1 🎮</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>Stockage :</strong> 1x M.2 PCIe 4.0 x4, 4x SATA 6Gb/s 💾</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>RAID :</strong> 0, 1, 10 🔄</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>Audio :</strong> Realtek ALC897 7.1 🎵</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>LAN :</strong> Realtek 2.5G 🌐</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>USB :</strong> Multiple ports 5Gbps/2.0 🔌</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>LED / RGB :</strong> 2x LED RGB + 1x Addressable Gen2 🌈</span></li>\n\t<li><span style=\"font-size:22px\">✅ <strong>Format :</strong> Micro-AT</span></li>\n</ul>\n",
   "notreSelection": true,
   "marque": {
     "_id": "5ea23596a4815052c4d1a425",
@@ -157,7 +157,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 5966,
+  "vue": 6076,
   "price": 310,
   "tagsSearch": [
     "MSI",
@@ -166,10 +166,10 @@
     "911-7E28-010",
     "MSI CARTE MERE PRO B650M-B"
   ],
-  "stock": 98,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2024-04-15T09:25:22.221Z",
-  "update_date": "2025-10-24T17:42:57.941Z",
+  "update_date": "2025-11-01T21:08:56.738Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

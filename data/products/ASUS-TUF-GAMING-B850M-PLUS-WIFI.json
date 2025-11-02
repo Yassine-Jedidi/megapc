@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2080,
+  "vue": 2155,
   "price": 689,
   "tagsSearch": [
     "ASUS",
@@ -120,10 +120,10 @@
     "Chipset AMD B650",
     "DDR5 8000 MT/s"
   ],
-  "stock": 95,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-04-16T16:45:21.024Z",
-  "update_date": "2025-10-24T15:56:14.563Z",
+  "update_date": "2025-11-01T18:33:01.660Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

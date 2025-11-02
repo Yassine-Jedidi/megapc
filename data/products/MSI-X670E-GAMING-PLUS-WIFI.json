@@ -157,7 +157,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3239,
+  "vue": 3280,
   "price": 929,
   "tagsSearch": [
     "MSI",
@@ -166,10 +166,10 @@
     "X670E",
     "MSI X670E GAMING PLUS WIFI"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2024-04-15T09:25:22.221Z",
-  "update_date": "2025-10-24T17:42:58.134Z",
+  "update_date": "2025-11-01T12:07:41.321Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

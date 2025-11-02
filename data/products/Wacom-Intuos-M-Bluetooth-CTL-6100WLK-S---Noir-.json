@@ -3,12 +3,12 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756388081112.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756388081112.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APv7++Pk5Ojo6P///wCDgoUYFxoZFhednJ0AeHd5AwAEAwADgYCBAOfn6MvLzMzKzOrp6v0QHG9ECSxAAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756388083668.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756388083668.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImQXBQRUAQAQFwP/WVR4NNokIohDEyW0D6KKDncHuvveqamZgZsxMh+69UFU6BEBE0N0R4e6Z+QF11hYi8NxD+wAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68b0598e0ec598024460dad5",
@@ -82,7 +82,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 77,
+  "vue": 95,
   "price": 499,
   "tagsSearch": [
     "WACOM",
@@ -92,7 +92,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-08-28T13:28:46.901Z",
-  "update_date": "2025-10-24T17:27:26.603Z",
+  "update_date": "2025-10-31T05:55:25.396Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

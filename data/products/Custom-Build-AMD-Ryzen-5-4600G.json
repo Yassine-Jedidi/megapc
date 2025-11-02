@@ -3,7 +3,7 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724437378241.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724437378241.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP9vEf92Fv+gKP/3UAD/eRb/kSn/lCv/nCYAvjIA53lB9olT/20OADwAAIYPAL0xAN0pAKPvFoB2YVdiAAAAAElFTkSuQmCC"
     }
   ],
   "_id": "6850733efd2984d47c316b7f",
@@ -92,7 +92,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 937,
+  "vue": 979,
   "price": 559,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -103,7 +103,7 @@
   "stock": 99,
   "displayForPublic": true,
   "create_date": "2025-06-16T14:44:42.913Z",
-  "update_date": "2025-10-24T17:02:08.263Z",
+  "update_date": "2025-11-01T06:25:24.102Z",
   "gpu": {
     "_id": "5fa175cb73a604299690b770",
     "title": "Sans Graphique",

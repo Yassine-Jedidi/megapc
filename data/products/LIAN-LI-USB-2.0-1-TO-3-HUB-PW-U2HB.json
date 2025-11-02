@@ -103,7 +103,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1397,
+  "vue": 1414,
   "price": 150,
   "tagsSearch": [
     "LIAN-LI",
@@ -113,7 +113,7 @@
   "stock": 0,
   "displayForPublic": false,
   "create_date": "2024-10-16T11:58:12.767Z",
-  "update_date": "2025-10-24T12:37:53.826Z",
+  "update_date": "2025-11-01T03:20:49.264Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

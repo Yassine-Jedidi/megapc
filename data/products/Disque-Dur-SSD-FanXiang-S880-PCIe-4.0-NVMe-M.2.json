@@ -110,7 +110,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1353,
+  "vue": 1417,
   "price": 249,
   "tagsSearch": [
     "FANXIANG",
@@ -119,10 +119,10 @@
     "Format M.2 2280",
     "fx1"
   ],
-  "stock": 1,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-03-17T10:33:55.054Z",
-  "update_date": "2025-10-24T17:04:03.256Z",
+  "update_date": "2025-11-01T15:11:04.871Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

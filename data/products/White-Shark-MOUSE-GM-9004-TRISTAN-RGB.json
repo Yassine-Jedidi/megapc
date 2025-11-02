@@ -161,7 +161,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 9445,
+  "vue": 9508,
   "price": 49,
   "tagsSearch": [
     "TRISTAN",
@@ -176,7 +176,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2021-11-24T12:10:31.191Z",
-  "update_date": "2025-10-24T17:19:09.562Z",
+  "update_date": "2025-11-01T14:22:17.118Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

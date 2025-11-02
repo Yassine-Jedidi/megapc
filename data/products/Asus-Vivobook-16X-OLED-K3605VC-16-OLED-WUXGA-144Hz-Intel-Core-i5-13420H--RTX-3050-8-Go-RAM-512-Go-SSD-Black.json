@@ -94,7 +94,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 553,
+  "vue": 627,
   "price": 2399,
   "tagsSearch": [
     "ASUS",
@@ -103,10 +103,10 @@
     "K3605VC-RP405W",
     "G102ASUS"
   ],
-  "stock": 100,
+  "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-08-29T13:25:47.579Z",
-  "update_date": "2025-10-24T17:12:38.933Z",
+  "update_date": "2025-11-01T16:28:44.012Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

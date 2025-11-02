@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2145,
+  "vue": 2248,
   "price": 789,
   "tagsSearch": [
     "MSI",
@@ -119,10 +119,10 @@
     "B850 GAMING PLUS WIFI",
     "911-7E56-007"
   ],
-  "stock": 99,
+  "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-01-30T08:24:07.021Z",
-  "update_date": "2025-10-24T16:54:13.174Z",
+  "update_date": "2025-11-01T20:28:26.801Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

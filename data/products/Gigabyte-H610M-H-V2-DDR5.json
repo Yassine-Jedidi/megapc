@@ -169,18 +169,19 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3258,
+  "vue": 3376,
   "price": 258,
   "tagsSearch": [
     "GIGABYTE",
     "COMPOSANTS",
     "CARTE MÈRE",
-    "realap"
+    "realap",
+    "Gigabyte H610M H V2 DDR5"
   ],
-  "stock": 7,
+  "stock": 100,
   "displayForPublic": true,
   "create_date": "2024-08-23T14:55:32.753Z",
-  "update_date": "2025-10-24T17:14:56.329Z",
+  "update_date": "2025-11-01T18:13:30.684Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 518,
+  "vue": 545,
   "price": 749,
   "tagsSearch": [
     "MSI",
@@ -119,10 +119,10 @@
     "MSI PRO B860-P WIFI DDR5",
     "B860 GAMING PLUS WIFI"
   ],
-  "stock": 10,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-01-29T14:15:35.538Z",
-  "update_date": "2025-10-24T15:26:33.952Z",
+  "update_date": "2025-11-01T12:09:23.871Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

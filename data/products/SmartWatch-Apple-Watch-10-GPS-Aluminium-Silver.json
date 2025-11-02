@@ -111,7 +111,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 245,
+  "vue": 259,
   "price": 2442,
   "tagsSearch": [
     "APPLE",
@@ -125,7 +125,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-03-12T10:45:24.272Z",
-  "update_date": "2025-10-24T15:23:26.142Z",
+  "update_date": "2025-10-31T17:22:01.986Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

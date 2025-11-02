@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 850,
+  "vue": 900,
   "price": 299,
   "tagsSearch": [
     "MSI",
@@ -117,10 +117,10 @@
     "CARTE MÈRE",
     "911-7D46-225"
   ],
-  "stock": 99,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-03T10:00:08.274Z",
-  "update_date": "2025-10-24T16:23:44.191Z",
+  "update_date": "2025-11-01T13:00:22.376Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

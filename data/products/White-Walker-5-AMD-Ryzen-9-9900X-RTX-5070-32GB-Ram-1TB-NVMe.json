@@ -139,7 +139,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 746,
+  "vue": 769,
   "price": 7049,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -157,10 +157,10 @@
     "AMD Ryzen 9 9900X",
     "MSI B840 GAMING PLUS WIFI DDR5"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-03-06T08:53:33.401Z",
-  "update_date": "2025-10-24T13:45:09.286Z",
+  "update_date": "2025-11-01T01:01:48.263Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

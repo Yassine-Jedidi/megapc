@@ -96,7 +96,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 698,
+  "vue": 735,
   "price": 152,
   "tagsSearch": [
     "GOODRAM",
@@ -106,7 +106,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-05-05T16:34:19.480Z",
-  "update_date": "2025-10-24T00:40:08.076Z",
+  "update_date": "2025-11-01T00:50:10.615Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

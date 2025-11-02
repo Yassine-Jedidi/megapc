@@ -1,19 +1,14 @@
 {
   "images": [
     {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724247310171.webp",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724247310171.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APP09cDIzb69vfLy8gCtr7EoLjMjIyOioqIAm5udAgAGOzg8u7m7AOHh4pybnMC+wP///wj6HZCbIwtpAAAAAElFTkSuQmCC"
-    },
-    {
-      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724247313099.webp",
-      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724247313099.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APX19ZOUlJ+fn////wDY2NgREBAVExPu7u4A09PTFxYVCQAA6ejpAO/v71xcW2xoafr4+gT3HLpu2DX/AAAAAElFTkSuQmCC"
-    },
-    {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724247313100.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1724247313100.webp",
       "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AO/v79HS0be2t9/f3wCgoKA+PUAAAACOjo0AjY2NDgwSJSQku7u7ANfX15KSk9PT0////+U9HGoKPeTZAAAAAElFTkSuQmCC"
+    },
+    {
+      "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761387048276.webp",
+      "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1761387048276.webp",
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APX19ZOUlJ+fn////wDY2NgREBAVExPu7u4A09PTFxYVCQAA6ejpAO/v71xcW2xoafr4+gT3HLpu2DX/AAAAAElFTkSuQmCC"
     }
   ],
   "_id": "66c5ed765343d32079383a7d",
@@ -82,16 +77,15 @@
     "_id": "66c5ecef5343d32079383a53",
     "titre": "ONDULEUR 2000VA KEBOS PG2000",
     "urlPhoto": [
-      "/uploads/gallerie/1724247310171.webp",
-      "/uploads/gallerie/1724247313099.webp",
-      "/uploads/gallerie/1724247313100.webp"
+      "/uploads/gallerie/1724247313100.webp",
+      "/uploads/gallerie/1761387048276.webp"
     ],
     "targetMega": true,
     "targetGiga": true,
     "targetMobile": true,
-    "update_date": "2024-08-21T13:35:13.225Z",
+    "update_date": "2025-10-25T10:10:48.387Z",
     "create_date": "2024-08-21T13:34:39.000Z",
-    "__v": 2
+    "__v": 3
   },
   "visibleHorsStock": false,
   "checkStockWhenPurchased": true,
@@ -102,7 +96,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 569,
+  "vue": 608,
   "price": 599,
   "tagsSearch": [
     "KEBOS",
@@ -112,7 +106,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-08-21T13:36:54.038Z",
-  "update_date": "2025-10-24T09:22:27.167Z",
+  "update_date": "2025-11-01T09:20:18.818Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

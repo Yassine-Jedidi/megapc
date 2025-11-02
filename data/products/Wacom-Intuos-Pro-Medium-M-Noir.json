@@ -3,22 +3,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756312673858.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756312673858.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOPj5MzLzsjIytfX2ABWVl4JAxUBAA45OD8AXFtgCQUSCQcTRENJAP///+fm5+bm5/z8/nnwGV5c4HcxAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756312677913.jpg",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756312677913.jpg",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVQImQE0AMv/APr6+vX19vX19v///wBtbXIWFx0dHSPExcYAYGJlAAAJERIXoaGjAPf39/Hx8fPz9P7+/iAVHskHKYpaAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756312680790.jpg",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756312680790.jpg",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAO0lEQVQImWP48+ffbzD4//8/g7dfiISMsp6h2du3bxmsrB0ZGLgUldSWL1/F8PPnz2/fvv38+fPTp08AKjwfJRmtvoQAAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756312687363.jpg",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1756312687363.jpg",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAP0lEQVQImQE0AMv/AOHh5NDR087P0d7e3wBQVVsSFx8AAA48PEEAX2JoKy82IiMoS0xQAP///9jY2dLS1P7+/5Y7GjlEZ+jbAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68af340b0ec59802445e0ec4",
@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 91,
+  "vue": 103,
   "price": 999,
   "tagsSearch": [
     "WACOM",
@@ -118,7 +118,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-08-27T16:36:27.140Z",
-  "update_date": "2025-10-24T16:47:26.786Z",
+  "update_date": "2025-10-31T07:52:48.046Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

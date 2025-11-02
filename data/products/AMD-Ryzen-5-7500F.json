@@ -139,7 +139,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 7420,
+  "vue": 7612,
   "price": 569,
   "tagsSearch": [
     "KIT UPGRADE AMD",
@@ -155,7 +155,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2024-08-05T08:53:59.411Z",
-  "update_date": "2025-10-24T17:31:03.308Z",
+  "update_date": "2025-11-01T21:42:44.684Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -157,7 +157,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1377,
+  "vue": 1395,
   "price": 1059,
   "tagsSearch": [
     "GIGABYTE",
@@ -165,10 +165,10 @@
     "CARTE MÈRE",
     "AORUSXMEGA"
   ],
-  "stock": 9,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2024-08-23T15:34:12.882Z",
-  "update_date": "2025-10-24T16:07:24.425Z",
+  "update_date": "2025-10-31T01:45:42.965Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

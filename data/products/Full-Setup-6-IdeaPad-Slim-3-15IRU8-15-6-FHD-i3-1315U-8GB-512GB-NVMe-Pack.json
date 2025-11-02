@@ -92,7 +92,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 278,
+  "vue": 305,
   "price": 1999,
   "tagsSearch": [
     "LENOVO",
@@ -100,10 +100,10 @@
     "FULL SETUP PC PORTABLE",
     "PC PORTABLE PRO"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-08-16T10:04:21.740Z",
-  "update_date": "2025-10-24T11:36:15.085Z",
+  "update_date": "2025-11-01T01:35:53.435Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

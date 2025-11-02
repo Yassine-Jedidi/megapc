@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 993,
+  "vue": 1040,
   "price": 575,
   "priceHt": null,
   "tagsSearch": [
@@ -116,11 +116,11 @@
     "COMPOSANTS",
     "CARTE MÈRE"
   ],
-  "stock": 100,
+  "stock": 0,
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2025-06-17T16:21:21.627Z",
-  "update_date": "2025-10-24T17:24:41.020Z",
+  "update_date": "2025-11-01T05:26:03.248Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

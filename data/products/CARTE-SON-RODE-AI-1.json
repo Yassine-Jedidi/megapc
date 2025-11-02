@@ -102,7 +102,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 837,
+  "vue": 875,
   "price": 665,
   "tagsSearch": [
     "RODE",
@@ -112,7 +112,7 @@
   "stock": 9,
   "displayForPublic": true,
   "create_date": "2024-11-13T14:34:49.565Z",
-  "update_date": "2025-10-24T17:38:08.528Z",
+  "update_date": "2025-10-31T22:17:40.468Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

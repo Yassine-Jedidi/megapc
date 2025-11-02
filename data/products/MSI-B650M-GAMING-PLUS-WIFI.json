@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1911,
+  "vue": 2029,
   "price": 575,
   "tagsSearch": [
     "MSI",
@@ -123,10 +123,10 @@
     "CARTE MÈRE",
     "CARTE RÉSEAU - PCI"
   ],
-  "stock": 98,
+  "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-06-04T11:01:13.742Z",
-  "update_date": "2025-10-24T17:31:00.455Z",
+  "update_date": "2025-11-01T18:00:55.722Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

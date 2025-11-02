@@ -145,7 +145,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1707,
+  "vue": 1776,
   "price": 1029,
   "tagsSearch": [
     "MSI",
@@ -153,10 +153,10 @@
     "CARTE MÈRE",
     "realap"
   ],
-  "stock": 98,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-04-03T10:45:34.651Z",
-  "update_date": "2025-10-24T17:28:06.205Z",
+  "update_date": "2025-11-01T18:28:23.539Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

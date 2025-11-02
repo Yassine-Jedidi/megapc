@@ -132,7 +132,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1498,
+  "vue": 1560,
   "price": 599,
   "tagsSearch": [
     "ASUS",
@@ -142,10 +142,10 @@
     "micro-ATX",
     "realap"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-04-17T09:06:58.969Z",
-  "update_date": "2025-10-24T17:33:09.631Z",
+  "update_date": "2025-11-01T04:36:39.338Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

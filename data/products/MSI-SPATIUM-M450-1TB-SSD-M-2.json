@@ -114,7 +114,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 20872,
+  "vue": 21079,
   "price": 220,
   "tagsSearch": [
     "MSI",
@@ -122,11 +122,11 @@
     "DISQUE-NVME",
     "S78-440L980-P83"
   ],
-  "stock": 100,
+  "stock": 99,
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2022-07-12T16:06:56.469Z",
-  "update_date": "2025-10-24T16:11:03.455Z",
+  "update_date": "2025-11-01T21:40:00.934Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

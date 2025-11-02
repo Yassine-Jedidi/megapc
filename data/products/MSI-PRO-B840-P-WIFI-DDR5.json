@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2302,
+  "vue": 2357,
   "price": 579,
   "tagsSearch": [
     "MSI",
@@ -125,10 +125,10 @@
     "911-7E57-001",
     "PRO B840-P WIFI"
   ],
-  "stock": 10,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-01-29T15:48:08.564Z",
-  "update_date": "2025-10-24T16:23:42.378Z",
+  "update_date": "2025-11-01T11:57:29.016Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

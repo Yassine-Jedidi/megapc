@@ -140,7 +140,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3071,
+  "vue": 3191,
   "price": 4069,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -152,11 +152,11 @@
     "GIGABYTE"
   ],
   "discount": null,
-  "stock": 99,
-  "prixEnPromo": null,
+  "stock": 10,
+  "prixEnPromo": 4069,
   "displayForPublic": true,
   "create_date": "2025-07-31T15:35:54.161Z",
-  "update_date": "2025-10-24T16:43:14.150Z",
+  "update_date": "2025-11-01T19:46:03.870Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

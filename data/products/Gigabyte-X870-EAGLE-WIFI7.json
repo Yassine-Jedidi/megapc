@@ -132,7 +132,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1326,
+  "vue": 1402,
   "price": 799,
   "tagsSearch": [
     "GIGABYTE",
@@ -143,10 +143,10 @@
     "GIGA-X870E",
     "realap"
   ],
-  "stock": 99,
+  "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-04-25T17:59:30.370Z",
-  "update_date": "2025-10-24T17:18:18.423Z",
+  "update_date": "2025-11-01T09:35:41.577Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

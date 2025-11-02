@@ -154,7 +154,7 @@
   "textCommande": "Lenovo Tunisie ♥",
   "enArrivage": false,
   "new": false,
-  "vue": 4496,
+  "vue": 4546,
   "price": 195,
   "tagsSearch": [
     "LENOVO",
@@ -163,10 +163,10 @@
     "Lenovo Legion H300 Stereo",
     "Lenovo Tunisie"
   ],
-  "stock": 4,
+  "stock": 3,
   "displayForPublic": true,
   "create_date": "2022-10-18T14:52:52.557Z",
-  "update_date": "2025-10-24T15:57:41.502Z",
+  "update_date": "2025-11-01T09:06:06.110Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

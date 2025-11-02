@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1656,
+  "vue": 1722,
   "price": 299,
   "tagsSearch": [
     "COLORFUL",
@@ -116,10 +116,10 @@
     "CARTE MÈRE",
     "fx1"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-03-18T08:12:24.131Z",
-  "update_date": "2025-10-24T16:54:36.003Z",
+  "update_date": "2025-11-01T05:27:43.578Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

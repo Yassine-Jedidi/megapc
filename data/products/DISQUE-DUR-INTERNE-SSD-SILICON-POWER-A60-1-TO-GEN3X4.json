@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 818,
+  "vue": 847,
   "price": 286,
   "tagsSearch": [
     "SILICON POWER",
@@ -101,7 +101,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2024-10-15T13:20:22.940Z",
-  "update_date": "2025-10-24T13:18:31.777Z",
+  "update_date": "2025-11-01T11:51:48.919Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

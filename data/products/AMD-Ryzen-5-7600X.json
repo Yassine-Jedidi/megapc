@@ -161,7 +161,7 @@
   "textCommande": "Quantité limitée",
   "enArrivage": false,
   "new": false,
-  "vue": 26589,
+  "vue": 26796,
   "price": 799,
   "tagsSearch": [
     "AMD",
@@ -174,7 +174,7 @@
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2022-11-15T09:05:22.134Z",
-  "update_date": "2025-10-24T17:14:05.892Z",
+  "update_date": "2025-11-01T21:01:58.610Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

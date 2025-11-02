@@ -3,12 +3,12 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757166484174.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757166484174.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/AAAXACc2mko6AHkmOgAMACcAABsAsm7/g/9//6L/B0skswAACgC2MaxF/2b4kv8LQyW4ADZEOzMkUjdIAFUdSC1JOzSzzhUaztI7agAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757166488484.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757166488484.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAT0lEQVQImQFEALv/ADVlPy9c23xUOKdLbAADAE8AHWc5tIH/m/95/6H/BjEYuQAIPx60VdVk/3L0m/8VNSG8AFtnYSs5fklQIYQ/czpOP2GLFRqNxg5y/AAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68bc386907171818d275d562",
@@ -95,7 +95,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 135,
+  "vue": 158,
   "price": 508,
   "tagsSearch": [
     "WD GREEN",
@@ -107,7 +107,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-06T12:35:56.117Z",
-  "update_date": "2025-10-24T17:26:02.992Z",
+  "update_date": "2025-10-31T13:05:51.110Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

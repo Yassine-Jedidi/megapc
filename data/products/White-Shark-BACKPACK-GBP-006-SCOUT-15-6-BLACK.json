@@ -100,7 +100,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 4238,
+  "vue": 4248,
   "price": 69,
   "tagsSearch": [
     "ESHARK",
@@ -111,7 +111,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2021-02-05T16:31:43.353Z",
-  "update_date": "2025-10-23T21:18:49.594Z",
+  "update_date": "2025-10-30T02:35:23.739Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

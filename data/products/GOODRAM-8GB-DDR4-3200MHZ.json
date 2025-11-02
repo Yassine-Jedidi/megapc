@@ -124,7 +124,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 3294,
+  "vue": 3331,
   "price": 62,
   "priceHt": null,
   "tagsSearch": [
@@ -135,7 +135,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2023-09-08T13:23:25.517Z",
-  "update_date": "2025-10-23T18:54:14.349Z",
+  "update_date": "2025-11-01T19:08:19.955Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

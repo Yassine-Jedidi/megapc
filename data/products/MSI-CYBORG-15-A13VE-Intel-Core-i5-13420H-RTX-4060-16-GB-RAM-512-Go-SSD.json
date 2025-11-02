@@ -105,7 +105,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3779,
+  "vue": 3904,
   "price": 3289,
   "tagsSearch": [
     "MSI",
@@ -113,11 +113,11 @@
     "PC PORTABLE GAMER"
   ],
   "discount": null,
-  "stock": 99,
+  "stock": 10,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2024-08-27T10:35:33.973Z",
-  "update_date": "2025-10-24T17:28:34.193Z",
+  "update_date": "2025-11-01T19:18:18.693Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

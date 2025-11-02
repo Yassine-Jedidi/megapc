@@ -96,7 +96,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 5071,
+  "vue": 5157,
   "price": 179,
   "priceHt": null,
   "tagsSearch": [
@@ -105,10 +105,10 @@
     "SUPPORT ECRAN",
     "LCD-352/2"
   ],
-  "stock": 99,
+  "stock": 98,
   "displayForPublic": true,
   "create_date": "2021-12-29T14:16:55.896Z",
-  "update_date": "2025-10-24T16:26:44.449Z",
+  "update_date": "2025-11-01T14:46:13.008Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -97,7 +97,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 276,
+  "vue": 321,
   "price": 119,
   "tagsSearch": [
     "MAXSUN",
@@ -105,10 +105,10 @@
     "COMPOSANTS",
     "REFROIDISSEMENT"
   ],
-  "stock": 0,
+  "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-08-25T10:57:27.709Z",
-  "update_date": "2025-10-23T21:31:29.902Z",
+  "update_date": "2025-10-31T17:14:19.832Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

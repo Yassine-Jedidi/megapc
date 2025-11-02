@@ -160,7 +160,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 5497,
+  "vue": 5543,
   "price": 790,
   "tagsSearch": [
     "MSI",
@@ -170,11 +170,11 @@
     "BAC_2K25"
   ],
   "discount": null,
-  "stock": 99,
+  "stock": 0,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2023-08-15T15:19:48.080Z",
-  "update_date": "2025-10-24T16:29:11.958Z",
+  "update_date": "2025-11-01T20:34:27.553Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

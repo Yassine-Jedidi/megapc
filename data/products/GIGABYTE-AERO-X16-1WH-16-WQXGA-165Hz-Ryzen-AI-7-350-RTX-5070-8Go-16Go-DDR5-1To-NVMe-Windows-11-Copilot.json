@@ -110,7 +110,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 772,
+  "vue": 822,
   "price": 5889,
   "tagsSearch": [
     "GIGABYTE",
@@ -118,11 +118,11 @@
     "PC PORTABLE GAMER"
   ],
   "discount": 1.1886568177958907,
-  "stock": 100,
+  "stock": 0,
   "prixEnPromo": 5819,
   "displayForPublic": true,
   "create_date": "2025-08-01T14:52:13.418Z",
-  "update_date": "2025-10-24T17:28:23.386Z",
+  "update_date": "2025-10-31T17:31:47.283Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

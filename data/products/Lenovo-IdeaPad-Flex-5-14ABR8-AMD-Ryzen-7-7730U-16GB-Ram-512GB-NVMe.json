@@ -114,7 +114,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1511,
+  "vue": 1560,
   "price": 2819,
   "tagsSearch": [
     "LENOVO",
@@ -128,11 +128,11 @@
     "BAC_2K25"
   ],
   "discount": 3.5473572188719404,
-  "stock": 100,
+  "stock": 0,
   "prixEnPromo": 2719,
   "displayForPublic": true,
   "create_date": "2025-02-13T13:15:54.786Z",
-  "update_date": "2025-10-24T16:18:49.303Z",
+  "update_date": "2025-11-01T14:44:08.419Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

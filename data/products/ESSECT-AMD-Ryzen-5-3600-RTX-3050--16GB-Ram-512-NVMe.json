@@ -105,7 +105,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 983,
+  "vue": 1037,
   "price": 1499,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -116,7 +116,7 @@
   "stock": 97,
   "displayForPublic": true,
   "create_date": "2025-07-24T09:19:38.144Z",
-  "update_date": "2025-10-24T17:00:23.870Z",
+  "update_date": "2025-11-01T11:10:05.170Z",
   "case": {
     "_id": "6481cdefc026d6db8d85f3d4",
     "title": "Aerocool Hexform V2 ",

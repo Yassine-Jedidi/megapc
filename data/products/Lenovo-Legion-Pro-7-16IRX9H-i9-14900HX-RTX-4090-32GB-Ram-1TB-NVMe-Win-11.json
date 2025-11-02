@@ -112,7 +112,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2367,
+  "vue": 2438,
   "price": 12729,
   "tagsSearch": [
     "LENOVO",
@@ -122,11 +122,11 @@
     "BANKAI"
   ],
   "discount": null,
-  "stock": 10,
+  "stock": 0,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-02-04T15:14:23.570Z",
-  "update_date": "2025-10-24T13:16:32.554Z",
+  "update_date": "2025-11-01T12:24:34.321Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

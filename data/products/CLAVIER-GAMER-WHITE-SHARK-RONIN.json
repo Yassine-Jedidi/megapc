@@ -89,7 +89,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 5590,
+  "vue": 5667,
   "price": 65,
   "tagsSearch": [
     "WHITE SHARK",
@@ -97,10 +97,10 @@
     "ACCESSOIRES",
     "CLAVIER"
   ],
-  "stock": 99,
+  "stock": 98,
   "displayForPublic": true,
   "create_date": "2024-01-16T11:46:08.755Z",
-  "update_date": "2025-10-24T17:13:29.413Z",
+  "update_date": "2025-10-31T06:55:27.755Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 535,
+  "vue": 567,
   "price": 829,
   "tagsSearch": [
     "ASROCK",
@@ -125,10 +125,10 @@
     "Ethernet",
     "ALC897"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-05-15T09:02:29.017Z",
-  "update_date": "2025-10-24T16:46:42.484Z",
+  "update_date": "2025-10-31T13:46:13.170Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

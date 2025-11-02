@@ -3,7 +3,7 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753261832748.png",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753261832748.png",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAABJ0AAASdAHeZh94AAAASElEQVQImWNYtfRp7PxFPzUYGBgY1q5dy8KQFr+vYtG8d+enz38vAhIEg0f3foRcvvBo29/vf80YuFlimECC///8Eb1z9ZEmAOuDHdMEGcQmAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "6880a59138284c84432c44d4",
@@ -91,7 +91,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 128,
+  "vue": 141,
   "price": 85,
   "tagsSearch": [
     "NRV",
@@ -101,7 +101,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-07-23T09:04:17.385Z",
-  "update_date": "2025-10-24T16:44:40.436Z",
+  "update_date": "2025-10-31T08:03:14.741Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

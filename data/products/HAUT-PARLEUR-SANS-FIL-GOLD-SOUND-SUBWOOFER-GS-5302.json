@@ -18,7 +18,7 @@
   "title": "HAUT PARLEUR SANS FIL GOLD SOUND SUBWOOFER GS 5302 - NOIR HAUT PARLEUR SANS FIL GOLD SOUND GS 5302 - NOIR",
   "title_fr": "HAUT PARLEUR SANS FIL GOLD SOUND SUBWOOFER GS 5302 - NOIR HAUT PARLEUR SANS FIL GOLD SOUND GS 5302 - NOIR",
   "description_fr": "<h2>HAUT PARLEUR SANS FIL GOLD SOUND SUBWOOFER GS 5302</h2>\n\n<hr />\n<p><span style=\"font-size:22px\">Le haut-parleur sans fil Gold Sound GS 5302 en noir est un dispositif audio puissant et polyvalent con&ccedil;u pour offrir une exp&eacute;rience sonore riche et immersive. Avec une puissance totale de 35W, ce haut-parleur se d&eacute;compose en une sortie principale de 15W et deux sorties secondaires de 10W chacune, garantissant un son clair et &eacute;quilibr&eacute;.</span></p>\n\n<p><span style=\"font-size:22px\">Il prend en charge une large gamme de fr&eacute;quences allant de 40 Hz &agrave; 20 kHz, permettant ainsi de reproduire des basses profondes et des aigus cristallins. Le rapport signal/bruit de 75 dB assure une qualit&eacute; sonore propre, avec un minimum de distorsion, m&ecirc;me &agrave; des volumes &eacute;lev&eacute;s.</span></p>\n\n<p><span style=\"font-size:22px\">Avec une imp&eacute;dance de 4 &agrave; 8 Ohms, le Gold Sound GS 5302 est con&ccedil;u pour fonctionner efficacement avec divers appareils et configurations. L&#39;alimentation est assur&eacute;e par une tension de 220V &agrave; 60Hz, offrant une performance stable et fiable.</span></p>\n\n<p><span style=\"font-size:22px\">Ce haut-parleur est compatible avec plusieurs sources audio gr&acirc;ce &agrave; ses capacit&eacute;s Bluetooth, carte SD et USB, vous permettant de diffuser votre musique pr&eacute;f&eacute;r&eacute;e sans fil ou via des connexions filaires. De plus, il int&egrave;gre un tuner FM pour &eacute;couter la radio, ajoutant ainsi une fonctionnalit&eacute; suppl&eacute;mentaire &agrave; votre exp&eacute;rience d&#39;&eacute;coute.</span></p>\n\n<p><span style=\"font-size:22px\">La commodit&eacute; d&#39;utilisation est renforc&eacute;e par la pr&eacute;sence d&#39;une t&eacute;l&eacute;commande, vous permettant de contr&ocirc;ler facilement la lecture, le volume et d&#39;autres r&eacute;glages &agrave; distance. Le design &eacute;l&eacute;gant en noir du Gold Sound GS 5302 s&#39;int&egrave;gre parfaitement dans tout environnement, ajoutant une touche de sophistication &agrave; votre espace.</span></p>\n",
-  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Puissance Totale</strong> : 35W (15W pour l&#39;unit&eacute; principale et 10W x 2 pour les unit&eacute;s secondaires)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence</strong> : 40 Hz &ndash; 20 kHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Rapport Signal/Bruit</strong> : 75 dB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Imp&eacute;dance</strong> : 4-8 Ohms</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Alimentation</strong> : 220V-60Hz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Connectivit&eacute;</strong> : Bluetooth, carte SD, USB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fonctionnalit&eacute;s suppl&eacute;mentaires</strong> : Radio FM</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Accessoires</strong> : T&eacute;l&eacute;commande</span></li>\n</ul>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\"><strong>Puissance Totale</strong> : 35W (15W pour l&#39;unit&eacute; principale et 10W x 2 pour les unit&eacute;s secondaires)</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Fr&eacute;quence</strong> : 40 Hz &ndash; 20 kHz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Rapport Signal/Bruit</strong> : 75 dB</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Imp&eacute;dance</strong> : 4-8 Ohms</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Alimentation</strong> : 220V-60Hz</span></li>\n\t<li><span style=\"font-size:22px\"><strong>Accessoires</strong> : T&eacute;l&eacute;commande</span></li>\n</ul>\n",
   "notreSelection": true,
   "marque": {
     "_id": "5ea236cca4815052c4d1a42e",
@@ -89,7 +89,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 704,
+  "vue": 722,
   "price": 155,
   "tagsSearch": [
     "MEGA PC",
@@ -97,10 +97,10 @@
     "HAUT PARLEURS"
   ],
   "discount": null,
-  "stock": 9,
+  "stock": 8,
   "displayForPublic": true,
   "create_date": "2024-07-30T08:53:20.338Z",
-  "update_date": "2025-10-22T17:22:59.905Z",
+  "update_date": "2025-11-01T13:43:09.048Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

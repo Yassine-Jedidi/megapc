@@ -134,7 +134,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 854,
+  "vue": 896,
   "price": 319,
   "tagsSearch": [
     "AQIRYS",
@@ -145,7 +145,7 @@
   "stock": 9,
   "displayForPublic": true,
   "create_date": "2024-10-19T13:45:42.677Z",
-  "update_date": "2025-10-23T21:08:56.229Z",
+  "update_date": "2025-10-31T19:26:12.126Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

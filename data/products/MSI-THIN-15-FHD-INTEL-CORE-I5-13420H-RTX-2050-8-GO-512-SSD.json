@@ -172,7 +172,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 4595,
+  "vue": 4743,
   "price": 2075,
   "tagsSearch": [
     "MSI",
@@ -183,11 +183,11 @@
     "9S7-16R831-2607"
   ],
   "discount": 4.786979415988511,
-  "stock": 100,
+  "stock": 10,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2024-10-29T11:29:54.432Z",
-  "update_date": "2025-10-24T17:23:04.892Z",
+  "update_date": "2025-11-01T13:08:52.215Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -3,27 +3,27 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127533975.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127533975.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMklEQVQImWP4////lClTI2Ni/v//z/D//38mNh4GRlYoR0xS1s7BBcopKi5btXoNkAMAGokfO4XaP9oAAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127538113.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127538113.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMElEQVQImS3HsREAIAgEQaxFQqyEsZEfOqHo04DN1gCptjtgQOY1WxOpIs6ku6X6eRAxHx7TEJKIAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127559554.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127559554.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWP4//9/TEysu7vH////Gf7//6+rb8rAwPnlyxeGr1+/6eoZQzn////PzSsKDAoFcgDstRzK7u6Q/QAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127564243.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127564243.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWP4//9/cWlZTm7+////Gf7//+/i7snAyArlxMYn6hma/vzxE8RZvnxVRGTst2/fADjOH/L+ktJEAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127577287.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747127577287.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAJ0lEQVQImWP4jwQYTp8+4+LqxsrAOGniJBBHWUVNXFBk9uzZDMjKAHO3IbHNaKeVAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68230c76c75bcce7a290be61",
@@ -114,7 +114,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 220,
+  "vue": 239,
   "price": 79,
   "tagsSearch": [
     "RIVACASE",
@@ -124,7 +124,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-05-13T09:10:14.792Z",
-  "update_date": "2025-10-24T17:17:59.472Z",
+  "update_date": "2025-10-31T05:49:05.998Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

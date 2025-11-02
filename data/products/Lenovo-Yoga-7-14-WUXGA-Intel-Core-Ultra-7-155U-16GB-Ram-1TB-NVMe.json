@@ -3,22 +3,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757327864008.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757327864008.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP////7//9/l6r20jwCIjo4bAAA9KTDCwMMAeIKGAAwNJQIIlIyMAKqoqp+hppucn6WjpPCkGlpp0VscAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757327872113.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757327872113.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWP4/////NnTFs6f9///f4Zli+bLMDC0tLSAOBnZ2QxM3DX9c+4/ecHw+cvXDTv2Hj1z4dWbtwAr6R/32iHnLgAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757327872119.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757327872119.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAALklEQVQImWP4jwQYWts7tOXEg/y9b925w9Da08fAyCAjLzdj/nyG/////4MpAwBiZSEpSrmhDQAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757327872121.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757327872121.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQY1m/ZGZOWE+YcvXjiAobYjFxRZU1RBpFgV38GZGUAaaognrm1G3sAAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68beb0f607171818d27f01be",
@@ -106,7 +106,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 160,
+  "vue": 180,
   "price": 3609,
   "tagsSearch": [
     "LENOVO",
@@ -116,7 +116,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-09-08T10:33:26.712Z",
-  "update_date": "2025-10-24T17:25:59.221Z",
+  "update_date": "2025-10-31T08:12:02.623Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

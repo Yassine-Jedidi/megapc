@@ -154,7 +154,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 10028,
+  "vue": 10057,
   "price": 169,
   "tagsSearch": [
     "DT50",
@@ -167,7 +167,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2022-01-18T12:51:48.422Z",
-  "update_date": "2025-10-24T15:25:16.146Z",
+  "update_date": "2025-11-01T14:30:04.317Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

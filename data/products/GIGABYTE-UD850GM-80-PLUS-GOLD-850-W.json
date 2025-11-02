@@ -136,7 +136,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 4377,
+  "vue": 4441,
   "price": 429,
   "tagsSearch": [
     "GIGABYTE",
@@ -148,7 +148,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2023-03-01T15:31:03.550Z",
-  "update_date": "2025-10-24T17:01:51.901Z",
+  "update_date": "2025-11-01T03:51:46.910Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

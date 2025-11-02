@@ -172,7 +172,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2217,
+  "vue": 2263,
   "price": 2655,
   "tagsSearch": [
     "MSI",
@@ -181,11 +181,11 @@
     "Thin 15 B13UCX-2606XFR"
   ],
   "discount": 8.662900188323917,
-  "stock": 10,
+  "stock": 0,
   "prixEnPromo": 2425,
   "displayForPublic": true,
   "create_date": "2024-10-29T11:07:46.206Z",
-  "update_date": "2025-10-24T15:01:32.733Z",
+  "update_date": "2025-11-01T00:26:20.574Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

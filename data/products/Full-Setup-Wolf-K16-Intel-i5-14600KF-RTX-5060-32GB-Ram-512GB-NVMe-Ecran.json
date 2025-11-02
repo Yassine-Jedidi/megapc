@@ -3,17 +3,17 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716685.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716685.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AObl5YqJiISEhMjFxQDIyclMSU05NDiEeoIA0dHRAQABDQsOi4SLAP7//o2MjRkXGq6ssLGAGLVXPLKcAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716686.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716686.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP//98KqtNTW1sPDwwC0trByUWlLTUxRUVEApqilYEFVPkA/AQAAAJueo1ZDXD9APhMTE+A0FmrsqEfMAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716720.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1681213716720.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImRXHQRUAQAQFwN9AEVd55NBBA015/H07twHJqsrM3QVJVQUwMz9mJiLd/RMR7n53Dzr5HxI9fZdbAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68595ff3fd2984d47c6508d2",
@@ -27,8 +27,8 @@
   "referenceInterne": "Wolf-K16",
   "title": "Full Setup Wolf K16 | Intel i5-14600KF | RTX 5060 | 32GB Ram |512GB NVMe + Ecran",
   "title_fr": "Full Setup Wolf K16 | Intel i5-14600KF | RTX 5060 | 32GB Ram |512GB NVMe + Ecran",
-  "description_fr": "<p><span style=\"font-size:22px\">🎮 <strong>Full Setup Gamer Wolf K16 &ndash; Puissance &amp; Fluidit&eacute; extr&ecirc;me en Tunisie 🇹🇳</strong></span></p>\n\n<p><span style=\"font-size:22px\">Plongez dans une nouvelle &egrave;re de performances avec le <strong>Full Setup Wolf K16</strong>, une configuration pens&eacute;e pour les gamers professionnels, les streamers ambitieux et les cr&eacute;ateurs de contenu exigeants. 💪</span></p>\n\n<p><span style=\"font-size:22px\">Au c&oelig;ur de cette b&ecirc;te de course, on retrouve le <strong>processeur Intel Core i5-14600KF (3.5 GHz / 5.3 GHz)</strong> 🔥, coupl&eacute; &agrave; une <strong>carte graphique MSI GeForce RTX 5060 SHADOW 2X OC 8GB</strong> 🖥️, parfaite pour les jeux en ultra, le ray tracing et les logiciels de cr&eacute;ation graphique.</span></p>\n\n<p><span style=\"font-size:22px\">Ce setup embarque <strong>32GB de RAM DDR5 4800MHz</strong> ⚡ (4 x 16GB AERO), offrant une fluidit&eacute; extr&ecirc;me, m&ecirc;me en multit&acirc;che intensif ou montage vid&eacute;o 4K. Le tout est soutenu par un <strong>SSD NVMe de 512Go Gen3</strong> 🗂️, pour des chargements instantan&eacute;s et un d&eacute;marrage rapide.</span></p>\n\n<p><span style=\"font-size:22px\">Le refroidissement est assur&eacute; par le <strong>DeepCool AG400 Digital ARGB</strong> ❄️ avec un design lumineux styl&eacute;. Le tout est mont&eacute; dans un <strong>bo&icirc;tier MSI MAG FORGE M100R</strong> noir &eacute;l&eacute;gant 🖤, ventil&eacute; et con&ccedil;u pour l&rsquo;optimisation du flux d&rsquo;air.</span></p>\n\n<p><span style=\"font-size:22px\">C&ocirc;t&eacute; affichage, profitez de la vitesse et de la pr&eacute;cision gr&acirc;ce &agrave; l&rsquo;<strong>&eacute;cran Gigabyte 24.5&rdquo; FHD IPS</strong>, avec <strong>200Hz</strong>, <strong>1ms de temps de r&eacute;ponse</strong>, <strong>HDR10</strong>, et <strong>haut-parleurs int&eacute;gr&eacute;s</strong> 🎯 &ndash; id&eacute;al pour les FPS et comp&eacute;titions eSport. 🏆</span></p>\n\n<p><span style=\"font-size:22px\">💡 Que vous soyez gamer, streamer ou monteur vid&eacute;o, le <strong>Wolf K16</strong> est une valeur s&ucirc;re pour l&rsquo;ann&eacute;e 2025. Disponible d&egrave;s maintenant au <strong>meilleur prix en Tunisie</strong>, avec une configuration premium et un look RGB qui claque !</span></p>\n",
-  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🧠 <strong>Processeur</strong> : Intel Core i5-14600KF (3.5 &ndash; 5.3 GHz)</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte Graphique</strong> : MSI RTX 5060 SHADOW 2X OC 8GB</span></li>\n\t<li><span style=\"font-size:22px\">⚡</span><span style=\"font-size:22px\"> <strong>Ram</strong>&nbsp;: AERO 32GB (2x16gb) DDR5 4800MHz PCB</span></li>\n\t<li><span style=\"font-size:22px\">🚀 <strong>Stockage</strong> : IMATION 512GB NVMe Gen3&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>Carte M&egrave;re</strong> : MSI B760M GAMING PLUS WIFI</span></li>\n\t<li><span style=\"font-size:22px\">🔌 <strong>Alimentation</strong> : MSI MAG A650BN 80+ Bronze</span></li>\n\t<li><span style=\"font-size:22px\">💡 <strong>Bo&icirc;tier</strong> : MSI MAG FORGE M100R - Noir</span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#800080\">❄️ <strong>Refroidissement</strong> : DeepCool AG400 Digital ARGB</span></span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#800080\">📺 <strong>&Eacute;cran</strong> : Gigabyte 24.5&quot; FHD | IPS | 200Hz | 1ms | HDR10 | Haut-Parleurs</span></span></li>\n\t<li><span style=\"color:#ff0000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
+  "description_fr": "<p><span style=\"font-size:22px\">🎮 <strong>Full Setup Gamer Wolf K16 &ndash; Puissance &amp; Fluidit&eacute; extr&ecirc;me en Tunisie 🇹🇳</strong></span></p>\n\n<p><span style=\"font-size:22px\">Plongez dans une nouvelle &egrave;re de performances avec le <strong>Full Setup Wolf K16</strong>, une configuration pens&eacute;e pour les gamers professionnels, les streamers ambitieux et les cr&eacute;ateurs de contenu exigeants. 💪</span></p>\n\n<p><span style=\"font-size:22px\">Au c&oelig;ur de cette b&ecirc;te de course, on retrouve le <strong>processeur Intel Core i5-14600KF (3.5 GHz / 5.3 GHz)</strong> 🔥, coupl&eacute; &agrave; une <strong>carte graphique MSI GeForce RTX 5060 SHADOW 2X OC 8GB</strong> 🖥️, parfaite pour les jeux en ultra, le ray tracing et les logiciels de cr&eacute;ation graphique.</span></p>\n\n<p><span style=\"font-size:22px\">Ce setup embarque <strong>32GB de RAM DDR5 4800MHz</strong> ⚡ (4 x 16GB AERO), offrant une fluidit&eacute; extr&ecirc;me, m&ecirc;me en multit&acirc;che intensif ou montage vid&eacute;o 4K. Le tout est soutenu par un <strong>SSD NVMe de 512Go Gen3</strong> 🗂️, pour des chargements instantan&eacute;s et un d&eacute;marrage rapide.</span></p>\n\n<p><span style=\"font-size:22px\">Le refroidissement est assur&eacute; par le <strong>MSI MAG COREFROZR AA13&nbsp;</strong>❄️ avec un design lumineux styl&eacute;. Le tout est mont&eacute; dans un <strong>bo&icirc;tier MSI MAG FORGE M100R</strong> noir &eacute;l&eacute;gant 🖤, ventil&eacute; et con&ccedil;u pour l&rsquo;optimisation du flux d&rsquo;air.</span></p>\n\n<p><span style=\"font-size:22px\">C&ocirc;t&eacute; affichage, profitez de la vitesse et de la pr&eacute;cision gr&acirc;ce &agrave; l&rsquo;<strong>&eacute;cran Gigabyte 24.5&rdquo; FHD IPS</strong>, avec <strong>200Hz</strong>, <strong>1ms de temps de r&eacute;ponse</strong>, <strong>HDR10</strong>, et <strong>haut-parleurs int&eacute;gr&eacute;s</strong> 🎯 &ndash; id&eacute;al pour les FPS et comp&eacute;titions eSport. 🏆</span></p>\n\n<p><span style=\"font-size:22px\">💡 Que vous soyez gamer, streamer ou monteur vid&eacute;o, le <strong>Wolf K16</strong> est une valeur s&ucirc;re pour l&rsquo;ann&eacute;e 2025. Disponible d&egrave;s maintenant au <strong>meilleur prix en Tunisie</strong>, avec une configuration premium et un look RGB qui claque !</span></p>\n",
+  "miniDescription_fr": "<ul>\n\t<li><span style=\"font-size:22px\">🧠 <strong>Processeur</strong> : Intel Core i5-14600KF (3.5 &ndash; 5.3 GHz)</span></li>\n\t<li><span style=\"font-size:22px\">🎮 <strong>Carte Graphique</strong> : MSI RTX 5060 SHADOW 2X OC 8GB</span></li>\n\t<li><span style=\"font-size:22px\">⚡</span><span style=\"font-size:22px\"> <strong>Ram</strong>&nbsp;: AERO 32GB (2x16gb) DDR5 4800MHz PCB</span></li>\n\t<li><span style=\"font-size:22px\">🚀 <strong>Stockage</strong> : IMATION 512GB NVMe Gen3&nbsp;</span></li>\n\t<li><span style=\"font-size:22px\">🖥️ <strong>Carte M&egrave;re</strong> : MSI B760M GAMING PLUS WIFI</span></li>\n\t<li><span style=\"font-size:22px\">🔌 <strong>Alimentation</strong> : MSI MAG A650BN 80+ Bronze</span></li>\n\t<li><span style=\"font-size:22px\">💡 <strong>Bo&icirc;tier</strong> : MSI MAG FORGE M100R - Noir</span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#800080\">❄️ <strong>Refroidissement</strong> : MSI MAG COREFROZR AA13&nbsp;</span></span></li>\n\t<li><span style=\"font-size:22px\"><span style=\"color:#800080\">📺 <strong>&Eacute;cran</strong> : Gigabyte 24.5&quot; FHD | IPS | 200Hz | 1ms | HDR10 | Haut-Parleurs</span></span></li>\n\t<li><span style=\"color:#ff0000\"><span style=\"font-size:22px\">Frais d&#39;installation de Windows : 30 DT</span></span></li>\n</ul>\n",
   "notreSelection": true,
   "marque": {
     "_id": "5fc5ffc00c10517079547a46",
@@ -156,7 +156,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1550,
+  "vue": 1625,
   "price": 3350,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -168,7 +168,7 @@
   "stock": 97,
   "displayForPublic": true,
   "create_date": "2025-06-23T14:08:51.178Z",
-  "update_date": "2025-10-24T17:09:57.216Z",
+  "update_date": "2025-10-31T12:53:48.466Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

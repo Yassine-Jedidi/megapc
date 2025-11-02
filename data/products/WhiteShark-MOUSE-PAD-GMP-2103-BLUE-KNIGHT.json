@@ -119,7 +119,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 7890,
+  "vue": 7957,
   "price": 25,
   "tagsSearch": [
     "GMP-2103",
@@ -128,10 +128,10 @@
     "TAPIS",
     "GMP-2101BLUE"
   ],
-  "stock": 98,
+  "stock": 97,
   "displayForPublic": true,
   "create_date": "2021-06-26T13:47:58.599Z",
-  "update_date": "2025-10-24T16:28:16.750Z",
+  "update_date": "2025-11-01T14:31:05.489Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

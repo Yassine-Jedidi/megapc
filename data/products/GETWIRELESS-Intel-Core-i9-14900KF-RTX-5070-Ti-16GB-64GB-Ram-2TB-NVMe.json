@@ -106,7 +106,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 372,
+  "vue": 432,
   "price": 8229,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -116,10 +116,10 @@
     "LEGENDARY",
     "MSI MAG Z790"
   ],
-  "stock": 99,
+  "stock": 98,
   "displayForPublic": true,
   "create_date": "2025-08-22T10:29:43.010Z",
-  "update_date": "2025-10-24T14:53:53.898Z",
+  "update_date": "2025-10-31T23:17:39.668Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

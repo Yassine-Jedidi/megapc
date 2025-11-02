@@ -18,7 +18,7 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749637365895.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749637365895.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWN49erVh48f/4MBw7+//xgYOVomTQBx/vz+zcnD2japB8SBKPj39x9QCQDiribJDGM2KAAAAABJRU5ErkJggg=="
     }
   ],
   "_id": "68495864fd2984d47c08f370",
@@ -108,7 +108,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 548,
+  "vue": 586,
   "price": 236,
   "tagsSearch": [
     "AEROCOOL",
@@ -118,7 +118,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-06-11T10:06:35.218Z",
-  "update_date": "2025-10-23T21:18:52.844Z",
+  "update_date": "2025-10-31T12:34:55.109Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

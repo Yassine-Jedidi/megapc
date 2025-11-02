@@ -99,7 +99,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 889,
+  "vue": 1010,
   "price": 395,
   "tagsSearch": [
     "SKYLOONG",
@@ -109,7 +109,7 @@
   "stock": 2,
   "displayForPublic": true,
   "create_date": "2025-08-18T08:54:09.570Z",
-  "update_date": "2025-10-24T16:30:01.750Z",
+  "update_date": "2025-11-01T16:49:37.248Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

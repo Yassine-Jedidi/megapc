@@ -101,7 +101,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2503,
+  "vue": 2576,
   "price": 35,
   "tagsSearch": [
     "AQIRYS",
@@ -109,10 +109,10 @@
     "SOURIS",
     "TAPIS"
   ],
-  "stock": 2,
+  "stock": -1,
   "displayForPublic": true,
   "create_date": "2024-04-19T11:35:02.816Z",
-  "update_date": "2025-10-24T16:29:01.744Z",
+  "update_date": "2025-11-01T20:04:54.131Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

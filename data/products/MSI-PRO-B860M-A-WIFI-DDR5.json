@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 610,
+  "vue": 641,
   "price": 699,
   "tagsSearch": [
     "MSI",
@@ -123,10 +123,10 @@
     "CARTE MÈRE",
     "PRO B860M-A WIFI"
   ],
-  "stock": 10,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-01-29T11:39:09.486Z",
-  "update_date": "2025-10-24T13:19:15.361Z",
+  "update_date": "2025-11-01T13:19:08.810Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

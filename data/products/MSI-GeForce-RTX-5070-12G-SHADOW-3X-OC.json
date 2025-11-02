@@ -3,27 +3,27 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836977443.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836977443.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPUlEQVQImWO4fePO7dv3fvz4+f//f4aEjFg5VbW0zDQQ5+TNPTGp4QxMDFVVtQz///9//+7D4QOHL126BABSjiA5U4jpiAAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836981345.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836981345.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYCgoKGRjYuTgFvL19GDo7e0yMTdzc3MrLKxiQlQEAE7set8c8Ih4AAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836984268.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836984268.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYurp7dHT0TUxM01IzGMrKq0REJBkZWK2trRmQlQEAIm4eQFj5BRwAAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836986489.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836986489.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP48+fPfxhgKCstl5WVLyoqunDhIsOLFy86O7oYGNhyc/IZIAp+/vz5588fAI8TIujvvbH4AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836989113.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1747836989113.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APz8/PDx8PLy8vz8/AAdHB0CAAUsKy3PztAAPj0+HhweODY6ysnKAP////38/fz8/P///wShHtjwC833AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "682dddc150d353970e417611",
@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1397,
+  "vue": 1422,
   "price": 2370,
   "tagsSearch": [
     "MSI",
@@ -127,7 +127,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2025-05-21T14:05:53.742Z",
-  "update_date": "2025-10-24T15:56:06.406Z",
+  "update_date": "2025-10-31T04:00:48.054Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

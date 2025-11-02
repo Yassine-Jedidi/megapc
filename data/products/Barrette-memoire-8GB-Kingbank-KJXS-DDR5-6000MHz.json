@@ -104,7 +104,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 766,
+  "vue": 776,
   "price": 130,
   "tagsSearch": [
     "KINGBANK",
@@ -115,7 +115,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-03-17T12:17:20.541Z",
-  "update_date": "2025-10-23T21:17:31.878Z",
+  "update_date": "2025-10-30T04:21:37.482Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -110,7 +110,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1731,
+  "vue": 1906,
   "price": 499,
   "tagsSearch": [
     "MSI",
@@ -120,10 +120,10 @@
     "0.5Ms",
     "272F"
   ],
-  "stock": 94,
+  "stock": 93,
   "displayForPublic": true,
   "create_date": "2025-07-25T08:56:52.018Z",
-  "update_date": "2025-10-24T17:28:56.767Z",
+  "update_date": "2025-11-01T17:48:19.570Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

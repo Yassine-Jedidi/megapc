@@ -161,7 +161,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 5659,
+  "vue": 5697,
   "price": 1179,
   "tagsSearch": [
     "GIGABYTE",
@@ -170,10 +170,10 @@
     "X670 AORUS ELITE AX",
     "AORUSXMEGA"
   ],
-  "stock": 2,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2023-02-21T11:04:45.391Z",
-  "update_date": "2025-10-24T12:06:53.496Z",
+  "update_date": "2025-11-01T17:08:30.553Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

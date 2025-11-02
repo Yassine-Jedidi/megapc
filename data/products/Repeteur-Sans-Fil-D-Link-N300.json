@@ -98,7 +98,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 201,
+  "vue": 244,
   "price": 85,
   "tagsSearch": [
     "D-LINK",
@@ -108,7 +108,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-03T11:40:17.365Z",
-  "update_date": "2025-10-24T17:12:25.902Z",
+  "update_date": "2025-11-01T14:31:46.537Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

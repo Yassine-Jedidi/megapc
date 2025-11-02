@@ -154,18 +154,19 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 7201,
+  "vue": 7275,
   "price": 225,
   "priceHt": null,
   "tagsSearch": [
     "GIGABYTE",
     "COMPOSANTS",
-    "CARTE MÈRE"
+    "CARTE MÈRE",
+    "GIGABYTE H410M-H V2"
   ],
-  "stock": 97,
+  "stock": 100,
   "displayForPublic": true,
   "create_date": "2023-05-26T08:23:36.090Z",
-  "update_date": "2025-10-24T16:16:09.693Z",
+  "update_date": "2025-11-01T14:54:46.177Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

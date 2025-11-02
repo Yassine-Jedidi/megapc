@@ -117,7 +117,7 @@
   "commande48H": true,
   "enArrivage": false,
   "new": true,
-  "vue": 410,
+  "vue": 444,
   "price": 390,
   "priceHt": null,
   "tagsSearch": [
@@ -127,10 +127,10 @@
     "EARBUDS",
     "ACCESSOIRES ANDROID"
   ],
-  "stock": 100,
+  "stock": 99,
   "displayForPublic": true,
   "create_date": "2025-06-18T10:20:54.385Z",
-  "update_date": "2025-10-24T16:24:30.280Z",
+  "update_date": "2025-11-01T01:47:58.837Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

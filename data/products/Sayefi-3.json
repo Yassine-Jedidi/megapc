@@ -146,7 +146,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 963,
+  "vue": 1032,
   "price": 3199,
   "tagsSearch": [
     "AMD",
@@ -155,10 +155,10 @@
     "PC GAMER",
     "PROMO"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-07-11T13:42:44.018Z",
-  "update_date": "2025-10-24T16:37:59.824Z",
+  "update_date": "2025-10-31T20:32:25.460Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

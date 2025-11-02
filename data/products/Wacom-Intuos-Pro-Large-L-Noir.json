@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 110,
+  "vue": 124,
   "price": 1989,
   "tagsSearch": [
     "WACOM",
@@ -102,7 +102,7 @@
   "prixEnPromo": 1499,
   "displayForPublic": true,
   "create_date": "2025-08-27T15:56:35.809Z",
-  "update_date": "2025-10-24T17:07:50.066Z",
+  "update_date": "2025-10-31T01:09:19.040Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

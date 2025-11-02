@@ -3,27 +3,27 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763657590.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763657590.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4jwQYaupa9Szdja3d0zKKGCxsPVmZJRkYxN1s3Bl+//79//+/v7///v39FwAV+x2t7oo75gAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763664735.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763664735.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///87Q1UVRYwAeOQDFwMAQFCYAFjYtLEYA+vv7eXyDAAAaZWJoAP////v7+9PT0/r6+nygG0GVCoNnAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763671668.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763671668.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVQImWP4jwQYMnOL2HilGdjECwvLGULCY3k4RRgY+BKi4hmQlQEA+dwdLeHilkMAAAAASUVORK5CYII="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763677892.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763677892.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP4DwaHj5999uQZw+/fv+s7pvGJ6/e1dDJMmTqbgUG+pa71x48fDB8+fjx8+Mi3b9/+//8PAIuGIsygRkT5AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763680706.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752763680706.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWP4jwQYJk+a6u8fEh4eO2HCRIbUlAxGBi4uDoG42ESGf//+/f3z9x8YAABNnh+7nfQjTQAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68790ec638284c8443156bcd",
@@ -117,7 +117,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 427,
+  "vue": 459,
   "price": 325,
   "tagsSearch": [
     "SKYLOONG",
@@ -127,7 +127,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-07-17T14:38:32.824Z",
-  "update_date": "2025-10-24T09:55:53.504Z",
+  "update_date": "2025-10-30T22:13:48.379Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

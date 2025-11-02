@@ -146,7 +146,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 41575,
+  "vue": 41868,
   "price": 189,
   "sale": false,
   "tagsSearch": [
@@ -159,11 +159,11 @@
     "Logitech G502 HERO | High Performance Gaming Mouse | USB | BLACK"
   ],
   "discount": 28.571428571428573,
-  "stock": 85,
+  "stock": 81,
   "prixEnPromo": 135,
   "displayForPublic": true,
   "create_date": "2021-01-27T16:24:56.758Z",
-  "update_date": "2025-10-24T17:39:12.683Z",
+  "update_date": "2025-11-01T21:26:58.092Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

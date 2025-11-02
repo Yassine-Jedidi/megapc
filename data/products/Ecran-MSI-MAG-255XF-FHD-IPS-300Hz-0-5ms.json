@@ -117,7 +117,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 12675,
+  "vue": 12939,
   "price": 769,
   "tagsSearch": [
     "MSI",
@@ -131,14 +131,15 @@
     "promomweekend",
     "9S6-3BC21M-021",
     "hellowinterx26",
-    "HELLO WINTER"
+    "HELLO WINTER",
+    "MSI MAG 255XF"
   ],
   "discount": 28.60858257477243,
   "stock": 84,
   "prixEnPromo": 549,
   "displayForPublic": true,
   "create_date": "2025-01-17T10:07:07.207Z",
-  "update_date": "2025-10-24T17:25:03.720Z",
+  "update_date": "2025-11-01T20:45:17.149Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

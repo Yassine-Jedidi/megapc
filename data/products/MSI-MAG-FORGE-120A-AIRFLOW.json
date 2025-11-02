@@ -155,7 +155,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 9942,
+  "vue": 10136,
   "price": 169,
   "tagsSearch": [
     "MSI",
@@ -164,10 +164,10 @@
     "306-7G23A21-809",
     "MAG FORGE 120A AIRFLOW"
   ],
-  "stock": 0,
+  "stock": 9,
   "displayForPublic": true,
   "create_date": "2024-02-09T14:16:33.664Z",
-  "update_date": "2025-10-24T15:41:31.066Z",
+  "update_date": "2025-11-01T19:06:52.172Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

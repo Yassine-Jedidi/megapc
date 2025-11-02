@@ -104,7 +104,7 @@
   "commande48H": true,
   "enArrivage": false,
   "new": true,
-  "vue": 2156,
+  "vue": 2257,
   "price": 17890,
   "tagsSearch": [
     "ASUS",
@@ -114,10 +114,10 @@
     "RTX 5090",
     "pc portable asus"
   ],
-  "stock": 99,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-05-22T14:17:13.223Z",
-  "update_date": "2025-10-24T17:18:29.454Z",
+  "update_date": "2025-11-01T15:23:15.082Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

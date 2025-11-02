@@ -111,7 +111,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 481,
+  "vue": 514,
   "price": 365,
   "tagsSearch": [
     "ATTACK SHARK",
@@ -121,7 +121,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-07-15T11:03:03.612Z",
-  "update_date": "2025-10-23T21:29:09.703Z",
+  "update_date": "2025-11-01T02:23:20.729Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -155,7 +155,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 979,
+  "vue": 1026,
   "price": 3949,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -163,10 +163,10 @@
     "PC GAMER",
     "BAC_2K25"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-04T15:51:08.865Z",
-  "update_date": "2025-10-24T15:52:14.378Z",
+  "update_date": "2025-10-31T14:31:06.895Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

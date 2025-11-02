@@ -122,7 +122,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 4227,
+  "vue": 4323,
   "price": 159,
   "tagsSearch": [
     "MSI",
@@ -130,11 +130,11 @@
     "ALIMENTATION",
     "MAG A650BNL"
   ],
-  "stock": 92,
+  "stock": 91,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2024-05-18T10:08:21.500Z",
-  "update_date": "2025-10-24T16:55:30.276Z",
+  "update_date": "2025-11-01T20:12:42.353Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

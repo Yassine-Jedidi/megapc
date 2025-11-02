@@ -161,7 +161,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 14740,
+  "vue": 14968,
   "price": 179,
   "tagsSearch": [
     "MSI",
@@ -171,10 +171,10 @@
     "911-7C96-047",
     "MSI CARTE MERE A520M-A-PRO"
   ],
-  "stock": 80,
+  "stock": 100,
   "displayForPublic": true,
   "create_date": "2023-07-14T13:53:00.900Z",
-  "update_date": "2025-10-24T17:44:19.447Z",
+  "update_date": "2025-11-01T21:36:18.569Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -3,27 +3,27 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451225755.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451225755.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWO4cevOvXv3/4MBQ0d7r7yqRtP8+fOXr2WYPWOmhqY2Awu3vLwyw+vXr/fv3Xdk/8H79+4BACuwHXEzTsIMAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451228963.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451228963.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///9bW2nh4eL+/vwDo6e1fYWoBAAePj48A2dnZTk5PZGRmy8vMAN7e3mFgYm1tcNfW1x1PHVdctq/YAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451231685.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451231685.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///8TEyHR0dLu7uwDi4utsbHcBAAJ2dnYA19fXWVZZWVZZuLe3AOXl5UJAQ01LTb69vgBrG4v2CkTRAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451234198.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451234198.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOrq67W2vLu7vfv7+wDb29xcYGoBAAjf398A8PDwd3N1XFhc3NvcAP///2dkZz48PtXV1WWNH6GLzriwAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451236960.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1753451236960.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKklEQVQImWP4jwQYjh07mpmda6BnMHHCBIZ5c+dq6xkwMrDlZmUzICsDAHmmIWRiZKu+AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "6883897b38284c84433c45da",
@@ -115,7 +115,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 279,
+  "vue": 304,
   "price": 1489,
   "tagsSearch": [
     "MSI",
@@ -124,10 +124,10 @@
     "Z890",
     "Z890 EDGE TI WIFI"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-07-25T13:41:15.937Z",
-  "update_date": "2025-10-24T15:16:28.396Z",
+  "update_date": "2025-10-31T12:20:04.511Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

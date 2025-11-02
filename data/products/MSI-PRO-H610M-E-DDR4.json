@@ -177,7 +177,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 17171,
+  "vue": 17390,
   "price": 209,
   "priceHt": null,
   "tagsSearch": [
@@ -191,12 +191,12 @@
     "911-7D48-062"
   ],
   "discount": null,
-  "stock": 89,
+  "stock": 100,
   "prixEnPromo": null,
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2023-06-13T09:36:26.276Z",
-  "update_date": "2025-10-24T17:04:36.051Z",
+  "update_date": "2025-11-01T21:22:41.896Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

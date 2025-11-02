@@ -3,32 +3,32 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873968485.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873968485.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///9PT1KqqrP///wD7+fpBPkMeISXt7e4A5+fnDw8VAAAK19fYAO/v74WFhm5sb+Lh4l94HxT0UsX7AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873971891.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873971891.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APj4+I2NkKamqP///wDk5OQrKjEpKDDV1dYA39/gEhEaAQAJw8LFAN7d30tITEtJTtXU1g5QG8BIwwuMAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873971978.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873971978.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImWP4//9/fn5BdHTsv3//GP7//29kaMbNJfj//38QR15ZlYERxADhoKAQJ0enP3/+AAAG7x0ickTuqgAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873971982.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873971982.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///4KBhIGAg/38/wDNystGRUstLTStrbAAy8vNHRwjAgAMtLS0APb19n59f3Bwcurp6/GpHCWTjzVHAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873971983.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873971983.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AO/u74qKka6vsv///wDi4OEYFRsaGyLKyssA/v7+KCgpAAAM1tfXAP///7W1tlhYXPr6+htoHjm6FHoQAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873972086.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1725873972086.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///5ubn8zN0PT09QDFxsdVV1ydnaO6u70AzM3OBQYOAAAIq6utAOfn6EFBRYuLjd7e30clHcgoNaCeAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68bc121e07171818d273a320",
@@ -120,7 +120,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 222,
+  "vue": 276,
   "price": 1980,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -130,7 +130,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-06T10:51:10.947Z",
-  "update_date": "2025-10-24T17:26:04.734Z",
+  "update_date": "2025-10-31T13:27:47.400Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

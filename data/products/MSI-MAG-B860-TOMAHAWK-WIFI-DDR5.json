@@ -133,7 +133,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1193,
+  "vue": 1215,
   "price": 919,
   "priceHt": null,
   "tagsSearch": [
@@ -144,11 +144,11 @@
     "MAG B860 TOMAHAWK WIFI"
   ],
   "discount": null,
-  "stock": 100,
+  "stock": 0,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2025-01-29T14:36:15.492Z",
-  "update_date": "2025-10-24T14:09:53.703Z",
+  "update_date": "2025-10-31T23:39:29.837Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

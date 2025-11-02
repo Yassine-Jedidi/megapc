@@ -125,7 +125,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 15361,
+  "vue": 15446,
   "price": 85,
   "sale": false,
   "tagsSearch": [
@@ -136,11 +136,11 @@
     "AORUSXMEGA"
   ],
   "discount": null,
-  "stock": 97,
+  "stock": 0,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2021-01-12T09:35:16.075Z",
-  "update_date": "2025-10-24T16:15:49.357Z",
+  "update_date": "2025-10-31T17:26:26.997Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

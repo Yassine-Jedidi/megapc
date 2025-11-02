@@ -141,7 +141,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 4819,
+  "vue": 4850,
   "price": 515,
   "tagsSearch": [
     "MSI",
@@ -151,10 +151,10 @@
     "BANKAI",
     "BAC_2K25"
   ],
-  "stock": 99,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2024-04-15T09:25:22.221Z",
-  "update_date": "2025-10-24T16:11:11.676Z",
+  "update_date": "2025-10-30T02:05:40.747Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

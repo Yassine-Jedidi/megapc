@@ -116,7 +116,7 @@
   "textCommande": "Précommande : livraison sous 7 jours après commande.",
   "enArrivage": false,
   "new": true,
-  "vue": 3350,
+  "vue": 3473,
   "price": 999,
   "tagsSearch": [
     "ASUS",
@@ -132,7 +132,7 @@
   "prixEnPromo": 864,
   "displayForPublic": true,
   "create_date": "2025-05-13T11:42:45.328Z",
-  "update_date": "2025-10-24T17:32:07.773Z",
+  "update_date": "2025-11-01T17:49:20.298Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

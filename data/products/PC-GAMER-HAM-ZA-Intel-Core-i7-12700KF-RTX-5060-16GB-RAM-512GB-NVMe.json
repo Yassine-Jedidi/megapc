@@ -3,22 +3,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1708775760829.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1708775760829.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVQImWP4////kQNHEmPiHz16xHD9+nUPN38NNa1du/YyrF27loGBQV5GFsRYumSJnIwsLzfPpAkTAdYPF5RG6YD8AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1708775765034.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1708775765034.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVQImWP4//+/i529jKjMz18/Gf7//29nbS3CK/312xcQx0Rfl42BGypjZWEhKSr+7et3AMo1GxwfNIi0AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1708775765035.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1708775765035.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///7Cosq2nraGgowDf3+NpY21KRk54d34AxMTECAYJAQAFcW52AM7O0CcmKDY0OG1rbtotF5k12IuSAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1708775765035.jpg",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1708775765035.jpg",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAM0lEQVQImWP4//9/YGCggYHB379/Gf7//29ubi4oKAjlmJqaMjAwQDnu7u6Kioq/f/0CAOLlG/vXn1e8AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "689f55b938284c8443be5608",
@@ -105,7 +105,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 388,
+  "vue": 421,
   "price": 2999,
   "tagsSearch": [
     "CONFIG PC INTEL",
@@ -115,7 +115,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-08-15T15:43:53.962Z",
-  "update_date": "2025-10-24T16:41:23.073Z",
+  "update_date": "2025-10-31T13:33:57.420Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

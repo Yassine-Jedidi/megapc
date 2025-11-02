@@ -87,7 +87,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 843,
+  "vue": 874,
   "price": 39,
   "tagsSearch": [
     "KASPERSKY",
@@ -97,7 +97,7 @@
   "stock": 6,
   "displayForPublic": true,
   "create_date": "2024-08-21T10:01:41.657Z",
-  "update_date": "2025-10-23T21:24:04.245Z",
+  "update_date": "2025-11-01T10:16:44.667Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

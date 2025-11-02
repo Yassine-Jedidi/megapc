@@ -91,7 +91,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 142,
+  "vue": 156,
   "price": 85,
   "tagsSearch": [
     "NRV",
@@ -101,7 +101,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-07-23T09:04:17.385Z",
-  "update_date": "2025-10-24T16:44:41.326Z",
+  "update_date": "2025-10-31T18:06:38.358Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

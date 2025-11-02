@@ -91,7 +91,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 499,
+  "vue": 607,
   "price": 799,
   "tagsSearch": [
     "DOWINX",
@@ -100,10 +100,12 @@
     "massage",
     "chaise"
   ],
+  "discount": 12.515644555694617,
   "stock": 100,
+  "prixEnPromo": 699,
   "displayForPublic": true,
   "create_date": "2025-08-22T09:26:39.414Z",
-  "update_date": "2025-10-24T17:27:38.025Z",
+  "update_date": "2025-11-01T14:37:52.762Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -153,7 +153,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 10555,
+  "vue": 10680,
   "price": 119,
   "tagsSearch": [
     "LOGITECH",
@@ -166,11 +166,11 @@
     "g305xp"
   ],
   "discount": null,
-  "stock": 81,
+  "stock": 79,
   "prixEnPromo": null,
   "displayForPublic": true,
   "create_date": "2022-11-28T18:26:26.840Z",
-  "update_date": "2025-10-24T17:46:05.151Z",
+  "update_date": "2025-11-01T21:08:11.503Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

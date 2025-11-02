@@ -3,27 +3,27 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623348196.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623348196.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///7aysnV1dfLy8gDb29s6ODgrKivU1NUAv8DAAAEDHBwdtLW1ANLS0jUyNiYmJru7u/ZdGfFvUrQXAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623354454.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623354454.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AO7u70lISoSFhP///wDf3+ABAAcYFhfV1NUA4OLgBAcHFhMV09LSAN7g3g4SChoXGtPQ0bFWGIij3yTLAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623357861.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623357861.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVQImWP4//+/l6eXl6fX////Gf7//6+np8/PKwzlWFvbMDCw/P8H5tg72HPzcgM5AOn+G/I2BxG6AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623361394.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623361394.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVQImWP4//9/dFRYWHDw/3//Gf7//6+rpyMlLf3/D5hjYGjIwMAMldHR02FgYQTKAAD1vxvfgoHh5AAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623364306.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1737623364306.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///4KBghoaG8jIyADl5eYUExcdHiDV1dYA9vb3JycrAwAF1dTWAP///xYYGDk2Of/+/6j2Gb2P27rqAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68bb0fc507171818d2723c85",
@@ -114,7 +114,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 335,
+  "vue": 395,
   "price": 858,
   "tagsSearch": [
     "SPIRIT",
@@ -125,7 +125,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-05T16:28:53.235Z",
-  "update_date": "2025-10-24T17:26:08.557Z",
+  "update_date": "2025-10-31T09:41:42.551Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

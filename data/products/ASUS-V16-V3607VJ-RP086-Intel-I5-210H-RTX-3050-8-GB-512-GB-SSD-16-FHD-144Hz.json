@@ -177,7 +177,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3001,
+  "vue": 3083,
   "price": 2499,
   "tagsSearch": [
     "ASUS",
@@ -190,11 +190,11 @@
     "pc portable asus"
   ],
   "discount": 4.801920768307323,
-  "stock": 100,
+  "stock": 0,
   "prixEnPromo": 2379,
   "displayForPublic": true,
   "create_date": "2024-12-19T13:21:06.409Z",
-  "update_date": "2025-10-24T17:04:29.075Z",
+  "update_date": "2025-11-01T13:33:33.727Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

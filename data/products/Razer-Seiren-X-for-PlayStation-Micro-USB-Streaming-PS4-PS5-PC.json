@@ -3,27 +3,27 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832983940.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832983940.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAMUlEQVQImWP4//+/tWOIqo7D////Gf7//y8oqcnAIAnlhISFe/n4Qzll5VW5uXlADgDxaB5LugAplgAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832987582.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832987582.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AAUFBl9YUnFsaAoKDgAcGBd2cnNQW2UAAAEANDc86vz/y9/5DAgIABwgJbnD1ez//9j2/3MYE+xnsuMtAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832991227.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832991227.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMru/9D3/9r//9D0/wBhfrwtSIHE6v+02P8AO1qLAB5Diajsfp/cAAAbSAAAKQAPSQANRVlJGa+XKP6qAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832994333.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832994333.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMns/9T6/9n//8fn/wCJou46U41cdbWJou4ANkuOACZOLUt5MESJAAAMRgAALAAeRxw2cBljFu7otUo6AAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832997203.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1752832997203.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AAQEBCgZDB0oNTpSbQAAARIWEhddd5V+pNAAHSQyHiYzS1FlZm6CAMbS7fD//7HA2LnH4TcvEtj1UHenAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "687a1b4838284c8443182a5c",
@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 235,
+  "vue": 262,
   "price": 255,
   "tagsSearch": [
     "RAZER",
@@ -119,7 +119,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-07-18T10:00:40.919Z",
-  "update_date": "2025-10-24T17:25:20.132Z",
+  "update_date": "2025-10-31T02:03:08.938Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

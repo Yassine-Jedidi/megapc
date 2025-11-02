@@ -156,7 +156,7 @@
   "textCommande": "Dans 10 Jours",
   "enArrivage": false,
   "new": true,
-  "vue": 14720,
+  "vue": 14831,
   "price": 899,
   "tagsSearch": [
     "MEGA PC",
@@ -164,10 +164,10 @@
     "TABLE DE GAMING RGB",
     "PC PORTABLE GAMER"
   ],
-  "stock": 890,
+  "stock": 889,
   "displayForPublic": true,
   "create_date": "2023-06-08T12:19:27.956Z",
-  "update_date": "2025-10-24T17:57:08.460Z",
+  "update_date": "2025-11-01T16:08:49.985Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

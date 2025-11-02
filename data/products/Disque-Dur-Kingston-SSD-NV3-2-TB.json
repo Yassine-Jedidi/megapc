@@ -103,7 +103,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1274,
+  "vue": 1310,
   "price": 459,
   "tagsSearch": [
     "KINGSTON",
@@ -121,7 +121,7 @@
   "stock": 7,
   "displayForPublic": true,
   "create_date": "2025-03-04T08:36:49.504Z",
-  "update_date": "2025-10-24T13:29:21.098Z",
+  "update_date": "2025-11-01T13:51:15.771Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

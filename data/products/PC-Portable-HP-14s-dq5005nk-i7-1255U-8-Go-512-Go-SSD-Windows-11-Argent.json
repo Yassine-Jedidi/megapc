@@ -112,7 +112,7 @@
   "commande48H": true,
   "enArrivage": false,
   "new": true,
-  "vue": 765,
+  "vue": 798,
   "price": 2949,
   "tagsSearch": [
     "HP",
@@ -120,11 +120,11 @@
     "PC PORTABLE PRO"
   ],
   "discount": 14.547304170905392,
-  "stock": 100,
+  "stock": 0,
   "prixEnPromo": 2520,
   "displayForPublic": true,
   "create_date": "2024-08-19T11:27:17.780Z",
-  "update_date": "2025-10-24T09:21:14.661Z",
+  "update_date": "2025-11-01T12:41:57.089Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

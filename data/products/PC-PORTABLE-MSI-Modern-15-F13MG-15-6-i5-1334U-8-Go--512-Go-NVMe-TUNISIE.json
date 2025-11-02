@@ -3,17 +3,17 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749660750882.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749660750882.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AP///ufe5auntKmdeADpxsVeJTAADie2wcUAuq6vRisdKElEsru9AJSXl4qQlJaOkaShogMzG5Nf8kG9AAAAAElFTkSuQmCC"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749660754877.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749660754877.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/APv7+/39/uPa4srFxwD////cr6sSK0EAQVUAzdHUSCknAAYAgKquAPDv78rO0dXQ1f36+nK3ILAMcQz5AAAAAElFTkSuQmCC"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749660758207.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1749660758207.webp",
-      "imgBlur": "/assets/placeholder/mock-blur.png"
+      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AOPf4Off6Pf09fz9/QDFe3ssKTx2nKf///8AvJmVFAAAIkFEzsjJAPr+/tHR1srDxe7t7nrAIbbFz5DgAAAAAElFTkSuQmCC"
     }
   ],
   "_id": "6849b374fd2984d47c0e940e",
@@ -101,17 +101,17 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 737,
+  "vue": 809,
   "price": 1699,
   "tagsSearch": [
     "MSI",
     "PC PORTABLE",
     "PC PORTABLE PRO"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-06-11T16:48:52.393Z",
-  "update_date": "2025-10-24T11:24:15.112Z",
+  "update_date": "2025-11-01T18:26:05.826Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

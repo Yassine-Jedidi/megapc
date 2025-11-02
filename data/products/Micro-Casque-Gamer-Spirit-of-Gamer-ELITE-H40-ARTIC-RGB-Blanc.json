@@ -125,7 +125,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 841,
+  "vue": 871,
   "price": 105,
   "tagsSearch": [
     "SPIRIT",
@@ -135,7 +135,7 @@
   "stock": 8,
   "displayForPublic": true,
   "create_date": "2025-01-28T11:27:08.195Z",
-  "update_date": "2025-10-24T10:18:15.510Z",
+  "update_date": "2025-10-31T02:42:56.288Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

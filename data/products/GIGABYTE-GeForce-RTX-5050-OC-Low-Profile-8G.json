@@ -126,7 +126,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1056,
+  "vue": 1106,
   "tagsSearch": [
     "GIGABYTE",
     "COMPOSANTS",
@@ -136,7 +136,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2025-06-26T09:35:06.231Z",
-  "update_date": "2025-10-24T17:29:41.580Z",
+  "update_date": "2025-11-01T16:13:29.138Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

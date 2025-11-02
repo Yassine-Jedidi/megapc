@@ -121,7 +121,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 4083,
+  "vue": 4123,
   "price": 39,
   "priceHt": null,
   "tagsSearch": [
@@ -131,10 +131,10 @@
     "CASQUE",
     "BGH-021_W"
   ],
-  "stock": 95,
+  "stock": 94,
   "displayForPublic": true,
   "create_date": "2024-05-29T11:06:14.091Z",
-  "update_date": "2025-10-24T16:38:28.556Z",
+  "update_date": "2025-10-31T00:13:12.612Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

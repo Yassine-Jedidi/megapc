@@ -135,7 +135,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 2308,
+  "vue": 2333,
   "price": 30,
   "tagsSearch": [
     "Logitech",
@@ -151,7 +151,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2022-05-07T10:13:39.003Z",
-  "update_date": "2025-10-24T08:48:01.913Z",
+  "update_date": "2025-11-01T15:47:26.586Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

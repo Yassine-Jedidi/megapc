@@ -92,7 +92,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2144,
+  "vue": 2256,
   "price": 1349,
   "tagsSearch": [
     "CONFIG PC AMD",
@@ -100,10 +100,10 @@
     "CUSTOM BUILD",
     "PC GAMER"
   ],
-  "stock": 98,
+  "stock": 97,
   "displayForPublic": true,
   "create_date": "2025-06-17T14:38:50.772Z",
-  "update_date": "2025-10-24T15:00:53.686Z",
+  "update_date": "2025-11-01T14:51:44.722Z",
   "gpu": {
     "_id": "5fa175cb73a604299690b770",
     "title": "Sans Graphique",
@@ -220,7 +220,7 @@
       "create_date": "2025-06-17T15:35:49.000Z",
       "__v": 4
     },
-    "price": 550,
+    "price": 499,
     "create_date": "2025-06-17T15:21:43.000Z"
   },
   "alim": {
@@ -1880,7 +1880,7 @@
         "create_date": "2025-06-17T15:35:49.000Z",
         "__v": 4
       },
-      "price": 550,
+      "price": 499,
       "create_date": "2025-06-17T15:21:43.000Z"
     },
     {
@@ -1931,7 +1931,7 @@
     },
     {
       "_id": "66b09fde7cfb23ff3cabdd61",
-      "title": "MSI PRO B650M-P",
+      "title": "MSI PRO B650M-P | DDR5",
       "gallerie": {
         "_id": "66b099c67cfb23ff3cabdd2e",
         "titre": "MSI PRO B650M-P ",

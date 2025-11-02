@@ -106,7 +106,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 114,
+  "vue": 131,
   "price": 1499,
   "tagsSearch": [
     "NINTENDO",
@@ -119,7 +119,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-08-21T15:37:33.084Z",
-  "update_date": "2025-10-23T18:19:36.949Z",
+  "update_date": "2025-10-31T00:22:45.367Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

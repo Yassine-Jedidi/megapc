@@ -3,22 +3,22 @@
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757083495058.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757083495058.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/AMDL0aq5x5ObraeirABqgo43SWEiDTE7MU4AdXt7GiQnEQARYGRuAP////v7+vr7+v///30nGsm5F84fAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757083499076.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757083499076.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAP0lEQVQImQE0AMv/ANLX3KKwvXyAlK+qtACZrLQ6S2QYACVYUGwAxM/NWGNsKBgxkpmjAP////j39vP18v///sUBHeN3qRYVAAAAAElFTkSuQmCC"
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757083502014.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757083502014.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAJUlEQVQImWP4////dxhgOH36dEVFBQMDQ3h4OJQjISEB4iArAwBvhSE9I3Et+AAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     },
     {
       "previewImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757083504837.webp",
       "thumbnailImageSrc": "https://apibackend.megapc.tn/uploads/gallerie/1757083504837.webp",
-      "imgBlur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVQImQXBMQEAMAgDsNrCACYqBjf7kMGJhcrg7RLcnaTufu9hZkgCiAhIIpmZVQXbuyvJ9gcBIR52rMnswQAAAABJRU5ErkJggg=="
+      "imgBlur": "/assets/placeholder/mock-blur.png"
     }
   ],
   "_id": "68baf6c207171818d270725a",
@@ -109,7 +109,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 219,
+  "vue": 243,
   "price": 1450,
   "tagsSearch": [
     "LG",
@@ -122,7 +122,7 @@
   "prixEnPromo": 1299,
   "displayForPublic": true,
   "create_date": "2025-09-05T14:42:10.438Z",
-  "update_date": "2025-10-24T17:26:09.813Z",
+  "update_date": "2025-10-31T08:09:29.875Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

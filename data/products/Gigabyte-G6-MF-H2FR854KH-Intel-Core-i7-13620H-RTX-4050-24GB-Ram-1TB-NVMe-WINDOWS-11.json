@@ -98,7 +98,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2239,
+  "vue": 2266,
   "price": 3599,
   "tagsSearch": [
     "GIGABYTE",
@@ -107,11 +107,11 @@
     "MF-H2FR854KH"
   ],
   "discount": 5.862739649902751,
-  "stock": 8,
+  "stock": 0,
   "prixEnPromo": 3388,
   "displayForPublic": true,
   "create_date": "2025-02-03T09:24:15.760Z",
-  "update_date": "2025-10-24T03:00:11.420Z",
+  "update_date": "2025-10-31T13:46:13.186Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -103,7 +103,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 3392,
+  "vue": 3428,
   "price": 189,
   "tagsSearch": [
     "ARKTEK",
@@ -113,7 +113,7 @@
   "stock": 0,
   "displayForPublic": true,
   "create_date": "2024-08-24T11:31:39.871Z",
-  "update_date": "2025-10-24T17:39:39.455Z",
+  "update_date": "2025-11-01T12:19:29.968Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

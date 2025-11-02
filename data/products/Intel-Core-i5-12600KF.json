@@ -98,7 +98,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 10537,
+  "vue": 10575,
   "price": 659,
   "tagsSearch": [
     "Intel",
@@ -113,7 +113,7 @@
   "forConfig": true,
   "displayForPublic": true,
   "create_date": "2021-11-16T09:35:25.281Z",
-  "update_date": "2025-10-24T08:59:27.498Z",
+  "update_date": "2025-11-01T21:20:50.561Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

@@ -110,7 +110,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 588,
+  "vue": 601,
   "price": 16499,
   "tagsSearch": [
     "GIGABYTE",
@@ -123,10 +123,10 @@
     "AORUS2025",
     "BZHC6XXD455P"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-04-10T16:10:12.604Z",
-  "update_date": "2025-10-23T21:17:36.088Z",
+  "update_date": "2025-10-31T14:07:33.745Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

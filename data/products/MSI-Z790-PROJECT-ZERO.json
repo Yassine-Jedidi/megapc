@@ -165,7 +165,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 2240,
+  "vue": 2279,
   "price": 909,
   "tagsSearch": [
     "MSI",
@@ -173,10 +173,10 @@
     "CARTE MÈRE",
     "BAC_2K25"
   ],
-  "stock": 100,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2024-05-23T13:26:38.611Z",
-  "update_date": "2025-10-24T17:51:29.052Z",
+  "update_date": "2025-11-01T09:42:47.330Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

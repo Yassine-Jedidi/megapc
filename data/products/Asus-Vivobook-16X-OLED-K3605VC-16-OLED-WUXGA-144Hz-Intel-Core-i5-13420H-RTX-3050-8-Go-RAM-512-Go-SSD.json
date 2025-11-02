@@ -106,7 +106,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 363,
+  "vue": 398,
   "price": 2399,
   "tagsSearch": [
     "ASUS",
@@ -115,10 +115,10 @@
     "Souris Logitech G102 LIGHTSYNC - BLACK Gratuit",
     "G102ASUS"
   ],
-  "stock": 100,
+  "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-08-29T13:25:47.579Z",
-  "update_date": "2025-10-24T17:12:41.292Z",
+  "update_date": "2025-10-31T17:58:32.231Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

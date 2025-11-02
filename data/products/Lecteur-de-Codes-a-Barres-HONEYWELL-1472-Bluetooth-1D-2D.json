@@ -86,7 +86,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 71,
+  "vue": 87,
   "price": 719,
   "tagsSearch": [
     "HONEYWELL",
@@ -96,7 +96,7 @@
   "stock": 100,
   "displayForPublic": true,
   "create_date": "2025-09-05T16:15:18.064Z",
-  "update_date": "2025-10-24T17:26:08.552Z",
+  "update_date": "2025-10-31T08:08:38.850Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

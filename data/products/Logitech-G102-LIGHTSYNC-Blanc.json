@@ -146,7 +146,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": false,
-  "vue": 6529,
+  "vue": 6653,
   "price": 59,
   "tagsSearch": [
     "LOGITECH",
@@ -157,12 +157,12 @@
     "Logitech G102 LIGHTSYNC Blanc"
   ],
   "discount": null,
-  "stock": 87,
+  "stock": 86,
   "prixEnPromo": null,
   "forConfig": false,
   "displayForPublic": true,
   "create_date": "2021-11-12T09:47:03.193Z",
-  "update_date": "2025-10-24T17:47:05.289Z",
+  "update_date": "2025-11-01T18:35:17.914Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

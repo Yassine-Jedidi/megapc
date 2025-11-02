@@ -107,7 +107,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 528,
+  "vue": 543,
   "price": 75,
   "tagsSearch": [
     "RAZER",
@@ -117,7 +117,7 @@
   "stock": 10,
   "displayForPublic": true,
   "create_date": "2025-01-21T08:49:14.255Z",
-  "update_date": "2025-10-24T16:58:21.651Z",
+  "update_date": "2025-10-30T03:41:25.858Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

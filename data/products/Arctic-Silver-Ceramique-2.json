@@ -91,7 +91,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 798,
+  "vue": 840,
   "price": 42,
   "tagsSearch": [
     "ARCTIC",
@@ -102,7 +102,7 @@
   "stock": 9,
   "displayForPublic": true,
   "create_date": "2025-02-01T10:48:08.843Z",
-  "update_date": "2025-10-24T16:33:33.431Z",
+  "update_date": "2025-10-31T17:25:00.416Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],

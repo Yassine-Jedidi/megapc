@@ -90,7 +90,7 @@
   "commande48H": false,
   "enArrivage": false,
   "new": true,
-  "vue": 1283,
+  "vue": 1402,
   "price": 1959,
   "tagsSearch": [
     "INTEL",
@@ -98,10 +98,10 @@
     "ORDINATEURS",
     "PC GAMER"
   ],
-  "stock": 99,
+  "stock": 0,
   "displayForPublic": true,
   "create_date": "2025-08-06T11:21:02.205Z",
-  "update_date": "2025-10-24T16:57:01.790Z",
+  "update_date": "2025-11-01T11:08:49.996Z",
   "ccpu": [],
   "cwebCam": [],
   "cgpu": [],
