@@ -126,7 +126,7 @@ async function main() {
                         titleFr: item.title_fr || null,
                         description: item.miniDescription_fr || null,
                         price: price,
-                        onSale: !!item.sale,
+                        onSale: !!item.sale || !!item.prixEnPromo,
                         salePrice: item.prixEnPromo ? parseFloat(item.prixEnPromo.toString()) : null,
                         discount: item.discount ? parseFloat(item.discount.toString()) : null,
                         stock: item.stock || 0,

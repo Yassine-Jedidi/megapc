@@ -2,7 +2,7 @@ import { Hono } from 'hono';
 import { cors } from 'hono/cors';
 import { Pool } from 'pg';
 import { PrismaPg } from '@prisma/adapter-pg';
-import { PrismaClient } from '@prisma/client';
+import { PrismaClient, Prisma } from '@prisma/client';
 import { logger } from 'hono/logger';
 
 // Initialize Prisma with the PG Adapter for Hono/Bun speed
@@ -21,28 +21,31 @@ app.get('/api/products', async (c) => {
   const limit = parseInt(c.req.query('limit') || '20');
   const search = c.req.query('search') || '';
   const categoryId = c.req.query('categoryId');
+  const onSale = c.req.query('onSale') === 'true';
+  const isNew = c.req.query('isNew') === 'true';
+  const inStock = c.req.query('inStock') === 'true';
   const skip = (page - 1) * limit;
+
+  const whereClause: Prisma.ProductWhereInput = {
+    AND: [
+      search ? { title: { contains: search, mode: 'insensitive' } } : {},
+      categoryId ? { categoryId: categoryId } : {},
+      onSale ? { onSale: true } : {},
+      isNew ? { isNew: true } : {},
+      inStock ? { stock: { gt: 0 } } : {},
+    ]
+  };
 
   const [products, total] = await Promise.all([
     prisma.product.findMany({
-      where: {
-        AND: [
-          search ? { title: { contains: search, mode: 'insensitive' } } : {},
-          categoryId ? { categoryId: categoryId } : {},
-        ]
-      },
+      where: whereClause,
       take: limit,
       skip: skip,
       orderBy: { siteCreateDate: 'desc' },
       include: { category: true }
     }),
     prisma.product.count({
-      where: {
-        AND: [
-          search ? { title: { contains: search, mode: 'insensitive' } } : {},
-          categoryId ? { categoryId: categoryId } : {},
-        ]
-      }
+      where: whereClause
     })
   ]);
 

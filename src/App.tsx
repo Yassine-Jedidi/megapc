@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X } from 'lucide-react'
+import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Sparkles, Zap, Box } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
@@ -7,6 +7,8 @@ import { Badge } from "@/components/ui/badge"
 import { Skeleton } from "@/components/ui/skeleton"
 import { ScrollArea } from "@/components/ui/scroll-area"
 import { Separator } from "@/components/ui/separator"
+import { Switch } from "@/components/ui/switch"
+import { Label } from "@/components/ui/label"
 
 interface Product {
   id: string
@@ -15,6 +17,8 @@ interface Product {
   price: number
   salePrice: number | null
   onSale: boolean
+  isNew: boolean
+  stock: number
   images: string[]
   category?: { name: string }
 }
@@ -30,6 +34,9 @@ function App() {
   const [categories, setCategories] = useState<Category[]>([])
   const [search, setSearch] = useState('')
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
+  const [onSale, setOnSale] = useState(false)
+  const [isNew, setIsNew] = useState(false)
+  const [inStock, setInStock] = useState(false)
   const [loading, setLoading] = useState(true)
   const [sidebarOpen, setSidebarOpen] = useState(true)
 
@@ -50,6 +57,9 @@ function App() {
         page: '1',
         limit: '48',
         search,
+        onSale: onSale.toString(),
+        isNew: isNew.toString(),
+        inStock: inStock.toString(),
       })
       if (selectedCategory) query.append('categoryId', selectedCategory)
 
@@ -61,7 +71,7 @@ function App() {
     } finally {
       setLoading(false)
     }
-  }, [search, selectedCategory])
+  }, [search, selectedCategory, onSale, isNew, inStock])
 
   useEffect(() => {
     document.documentElement.classList.add('dark')
@@ -127,6 +137,30 @@ function App() {
                 </div>
               </div>
 
+              <div>
+                <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Statut</h3>
+                <div className="flex flex-col gap-4 px-1">
+                  <div className="flex items-center justify-between">
+                    <Label htmlFor="on-sale" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                       <Zap className="h-3 w-3 text-orange-500" /> PROMO
+                    </Label>
+                    <Switch id="on-sale" checked={onSale} onCheckedChange={setOnSale} />
+                  </div>
+                  <div className="flex items-center justify-between">
+                    <Label htmlFor="is-new" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                       <Sparkles className="h-3 w-3 text-primary" /> NOUVEAUTÉ
+                    </Label>
+                    <Switch id="is-new" checked={isNew} onCheckedChange={setIsNew} />
+                  </div>
+                  <div className="flex items-center justify-between">
+                    <Label htmlFor="in-stock" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                       <Box className="h-3 w-3 text-green-500" /> EN STOCK
+                    </Label>
+                    <Switch id="in-stock" checked={inStock} onCheckedChange={setInStock} />
+                  </div>
+                </div>
+              </div>
+
               <Separator className="opacity-20" />
 
               <div>
@@ -166,13 +200,16 @@ function App() {
                     Affichage de <span className="text-foreground font-bold">{products.length}</span> produits disponibles
                   </p>
                 </div>
-                {(selectedCategory || search) && (
+                {(selectedCategory || search || onSale || isNew || inStock) && (
                   <Button
                     variant="ghost"
                     size="sm"
                     onClick={() => {
                       setSelectedCategory(null);
                       setSearch('');
+                      setOnSale(false);
+                      setIsNew(false);
+                      setInStock(false);
                     }}
                     className="text-[10px] font-bold uppercase gap-2 hover:text-red-500"
                   >
@@ -215,7 +252,7 @@ function App() {
                           <img
                             src={product.images[0] ? `/api/images${product.images[0]}` : 'https://via.placeholder.com/400'}
                             alt={product.title}
-                            className="w-full h-full object-cover transition-all duration-700 group-hover:scale-105 brightness-110"
+                            className="w-full h-full object-cover brightness-110"
                           />
                         </div>
                       </div>
