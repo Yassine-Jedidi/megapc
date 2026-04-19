@@ -191,5 +191,6 @@ app.get('*', serveStatic({ path: './dist/index.html' }));
 // Start the Bun server with dynamic port support for Railway
 export default {
   port: process.env.PORT || 3001,
+  hostname: '0.0.0.0', // Required for Railway/Docker to accept external traffic
   fetch: app.fetch,
 };
