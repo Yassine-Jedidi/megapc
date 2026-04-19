@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box } from 'lucide-react'
+import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box, Truck } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
@@ -9,16 +9,22 @@ import { ScrollArea } from "@/components/ui/scroll-area"
 import { Separator } from "@/components/ui/separator"
 import { Switch } from "@/components/ui/switch"
 import { Label } from "@/components/ui/label"
-import { 
-  Pagination, 
-  PaginationContent, 
-  PaginationEllipsis, 
-  PaginationItem, 
-  PaginationLink, 
-  PaginationNext, 
-  PaginationPrevious 
+import {
+  Pagination,
+  PaginationContent,
+  PaginationEllipsis,
+  PaginationItem,
+  PaginationLink,
+  PaginationNext,
+  PaginationPrevious
 } from "@/components/ui/pagination"
 import { Slider } from "@/components/ui/slider"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+} from "@/components/ui/select"
 
 interface Product {
   id: string
@@ -47,18 +53,21 @@ function App() {
   const [onSale, setOnSale] = useState(false)
   const [isNew, setIsNew] = useState(false)
   const [inStock, setInStock] = useState(false)
+  const [isArriving, setIsArriving] = useState(false)
   const [priceRange, setPriceRange] = useState([0, 20000])
-  
+  const [sortBy, setSortBy] = useState('newest')
+
   const [page, setPage] = useState(1)
   const [totalPages, setTotalPages] = useState(1)
-  
+  const [total, setTotal] = useState(0)
+
   const [loading, setLoading] = useState(true)
   const [sidebarOpen, setSidebarOpen] = useState(true)
 
   // Reset to page 1 when any filter changes
   useEffect(() => {
     setPage(1)
-  }, [search, selectedCategory, onSale, isNew, inStock, priceRange])
+  }, [search, selectedCategory, onSale, isNew, inStock, isArriving, priceRange, sortBy])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -80,8 +89,10 @@ function App() {
         onSale: onSale.toString(),
         isNew: isNew.toString(),
         inStock: inStock.toString(),
+        isArriving: isArriving.toString(),
         minPrice: priceRange[0].toString(),
         maxPrice: priceRange[1].toString(),
+        sortBy,
       })
       if (selectedCategory) query.append('categoryId', selectedCategory)
 
@@ -89,12 +100,13 @@ function App() {
       const data = await res.json()
       setProducts(data.products)
       setTotalPages(data.pagination.totalPages)
+      setTotal(data.pagination.total)
     } catch (e) {
       console.error('Failed to fetch products', e)
     } finally {
       setLoading(false)
     }
-  }, [page, search, selectedCategory, onSale, isNew, inStock, priceRange])
+  }, [page, search, selectedCategory, onSale, isNew, inStock, isArriving, priceRange, sortBy])
 
   useEffect(() => {
     document.documentElement.classList.add('dark')
@@ -114,17 +126,17 @@ function App() {
     const pages = []
     const startPage = Math.max(1, page - 1)
     const endPage = Math.min(totalPages, page + 1)
-    
+
     if (startPage > 1) pages.push(1)
     if (startPage > 2) pages.push('ellipsis')
-    
+
     for (let i = startPage; i <= endPage; i++) {
       pages.push(i)
     }
-    
+
     if (endPage < totalPages - 1) pages.push('ellipsis')
     if (endPage < totalPages) pages.push(totalPages)
-    
+
     return pages
   }
 
@@ -172,8 +184,8 @@ function App() {
                   <Filter className="h-3 w-3" /> Navigation
                 </h3>
                 <div className="flex flex-col gap-1">
-                  <Button 
-                    variant={!selectedCategory ? "secondary" : "ghost"} 
+                  <Button
+                    variant={!selectedCategory ? "secondary" : "ghost"}
                     className="justify-between h-10 px-3 font-bold text-xs rounded-xl group"
                     onClick={() => setSelectedCategory(null)}
                   >
@@ -190,21 +202,27 @@ function App() {
                 <div className="flex flex-col gap-4 px-1">
                   <div className="flex items-center justify-between">
                     <Label htmlFor="on-sale" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
-                       <Zap className="h-3 w-3 text-orange-500" /> PROMO
+                      <Zap className="h-3 w-3 text-orange-500" /> PROMO
                     </Label>
                     <Switch id="on-sale" checked={onSale} onCheckedChange={setOnSale} />
                   </div>
                   <div className="flex items-center justify-between">
                     <Label htmlFor="is-new" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
-                       <Rocket className="h-3 w-3 text-blue-400 font-bold" /> NOUVEAUTÉ
+                      <Rocket className="h-3 w-3 text-blue-400 font-bold" /> NOUVEAUTÉ
                     </Label>
                     <Switch id="is-new" checked={isNew} onCheckedChange={setIsNew} />
                   </div>
                   <div className="flex items-center justify-between">
                     <Label htmlFor="in-stock" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
-                       <Box className="h-3 w-3 text-green-500" /> EN STOCK
+                      <Box className="h-3 w-3 text-green-500" /> EN STOCK
                     </Label>
                     <Switch id="in-stock" checked={inStock} onCheckedChange={setInStock} />
+                  </div>
+                  <div className="flex items-center justify-between">
+                    <Label htmlFor="is-arriving" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                      <Truck className="h-3 w-3 text-purple-400" /> EN ARRIVAGE
+                    </Label>
+                    <Switch id="is-arriving" checked={isArriving} onCheckedChange={setIsArriving} />
                   </div>
                 </div>
               </div>
@@ -219,13 +237,13 @@ function App() {
                     <span className="text-muted-foreground/50">—</span>
                     <span className="text-primary">{priceRange[1].toLocaleString()} TND</span>
                   </div>
-                  <Slider 
-                    value={priceRange} 
-                    max={20000} 
-                    step={100} 
+                  <Slider
+                    value={priceRange}
+                    max={20000}
+                    step={100}
                     onValueChange={(val) => {
                       if (Array.isArray(val)) setPriceRange(val)
-                    }} 
+                    }}
                     className="cursor-pointer"
                   />
                   <p className="text-[9px] text-muted-foreground/40 text-center uppercase font-bold tracking-widest leading-loose">
@@ -240,7 +258,7 @@ function App() {
                 <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Catégories</h3>
                 <div className="flex flex-col gap-1">
                   {categories.filter(cat => cat._count.products > 0).map((cat) => (
-                    <Button 
+                    <Button
                       key={cat.id}
                       variant={selectedCategory === cat.id ? "secondary" : "ghost"}
                       className={`justify-between h-10 px-3 font-bold text-xs rounded-xl transition-all ${selectedCategory === cat.id ? 'text-primary' : 'text-muted-foreground hover:text-foreground'}`}
@@ -269,26 +287,45 @@ function App() {
                     {selectedCategory ? categories.find(c => c.id === selectedCategory)?.name : 'Actualités & Nouveautés'}
                   </h1>
                   <p className="text-xs text-muted-foreground mt-1">
-                    Affichage de <span className="text-foreground font-bold">{products.length}</span> produits disponibles
+                    Affichage de <span className="text-foreground font-bold">{total}</span> produits disponibles
                   </p>
                 </div>
-                {(selectedCategory || search || onSale || isNew || inStock || priceRange[0] !== 0 || priceRange[1] !== 20000) && (
-                  <Button
-                    variant="ghost"
-                    size="sm"
-                    onClick={() => {
-                      setSelectedCategory(null);
-                      setSearch('');
-                      setOnSale(false);
-                      setIsNew(false);
-                      setInStock(false);
-                      setPriceRange([0, 20000]);
-                    }}
-                    className="text-[10px] font-bold uppercase gap-2 hover:text-red-500"
-                  >
-                    <X className="h-3 w-3" /> Effacer les filtres
-                  </Button>
-                )}
+                <div className="flex items-center gap-4">
+                  <Select value={sortBy} onValueChange={(val) => setSortBy(val || 'newest')}>
+                    <SelectTrigger className="w-[180px] h-9 rounded-xl border-none bg-background ring-1 ring-white/5 font-bold text-[11px] uppercase tracking-wider">
+                      {sortBy === 'newest' && 'Nouveautés'}
+                      {sortBy === 'popular' && 'Plus populaires'}
+                      {sortBy === 'price-asc' && 'Prix croissant'}
+                      {sortBy === 'price-desc' && 'Prix décroissant'}
+                    </SelectTrigger>
+                    <SelectContent alignItemWithTrigger={false} className="rounded-xl border-white/10 bg-background/95 backdrop-blur-md">
+                      <SelectItem value="newest" className="text-xs font-bold uppercase tracking-wide">Nouveautés</SelectItem>
+                      <SelectItem value="popular" className="text-xs font-bold uppercase tracking-wide">Plus populaires</SelectItem>
+                      <SelectItem value="price-asc" className="text-xs font-bold uppercase tracking-wide">Prix croissant</SelectItem>
+                      <SelectItem value="price-desc" className="text-xs font-bold uppercase tracking-wide">Prix décroissant</SelectItem>
+                    </SelectContent>
+                  </Select>
+
+                  {(selectedCategory || search || onSale || isNew || inStock || isArriving || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                    <Button
+                      variant="ghost"
+                      size="sm"
+                      onClick={() => {
+                        setSelectedCategory(null);
+                        setSearch('');
+                        setOnSale(false);
+                        setIsNew(false);
+                        setInStock(false);
+                        setIsArriving(false);
+                        setPriceRange([0, 20000]);
+                        setSortBy('newest');
+                      }}
+                      className="text-[10px] font-bold uppercase gap-2 hover:text-red-500 h-9"
+                    >
+                      <X className="h-3 w-3" /> Effacer les filtres
+                    </Button>
+                  )}
+                </div>
               </div>
 
               {/* Grid Section */}
@@ -311,8 +348,8 @@ function App() {
                   ))
                 ) : (
                   products.map((product) => (
-                    <Card 
-                      key={product.id} 
+                    <Card
+                      key={product.id}
                       className="group overflow-hidden border-none bg-card hover:bg-muted/30 transition-all duration-300 ring-1 ring-white/5 hover:ring-primary/30 flex flex-col"
                     >
                       <div className="relative p-3">
@@ -329,14 +366,14 @@ function App() {
                           />
                         </div>
                       </div>
-                      
+
                       <CardContent className="p-6 flex flex-col space-y-4 flex-1">
                         <div className="flex items-center gap-2">
                           <span className="text-[10px] font-black uppercase tracking-[0.15em] text-muted-foreground/60">
                             {product.category?.name || 'Composant'}
                           </span>
                         </div>
-                        
+
                         <h3 className="text-sm font-bold leading-relaxed line-clamp-2 min-h-12 text-foreground/90 group-hover:text-primary transition-colors cursor-pointer">
                           {product.title}
                         </h3>
@@ -358,7 +395,7 @@ function App() {
                               </span>
                             )}
                           </div>
-                          
+
                           <Button size="icon" className="h-10 w-10 rounded-2xl bg-primary text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:scale-110 hover:shadow-primary/40 active:scale-95 border-none">
                             <Plus className="h-5 w-5 stroke-[2.5px]" />
                           </Button>
@@ -375,20 +412,20 @@ function App() {
                   <Pagination>
                     <PaginationContent>
                       <PaginationItem>
-                        <PaginationPrevious 
-                          href="#" 
+                        <PaginationPrevious
+                          href="#"
                           onClick={(e) => { e.preventDefault(); if (page > 1) setPage(page - 1); }}
                           className={page === 1 ? "pointer-events-none opacity-50" : "cursor-pointer"}
                         />
                       </PaginationItem>
-                      
+
                       {getPages().map((p, i) => (
                         <PaginationItem key={i}>
                           {p === 'ellipsis' ? (
                             <PaginationEllipsis />
                           ) : (
-                            <PaginationLink 
-                              href="#" 
+                            <PaginationLink
+                              href="#"
                               isActive={page === p}
                               onClick={(e) => { e.preventDefault(); setPage(p as number); }}
                               className="cursor-pointer"
@@ -400,8 +437,8 @@ function App() {
                       ))}
 
                       <PaginationItem>
-                        <PaginationNext 
-                          href="#" 
+                        <PaginationNext
+                          href="#"
                           onClick={(e) => { e.preventDefault(); if (page < totalPages) setPage(page + 1); }}
                           className={page === totalPages ? "pointer-events-none opacity-50" : "cursor-pointer"}
                         />

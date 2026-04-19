@@ -24,9 +24,19 @@ app.get('/api/products', async (c) => {
   const onSale = c.req.query('onSale') === 'true';
   const isNew = c.req.query('isNew') === 'true';
   const inStock = c.req.query('inStock') === 'true';
+  const isArriving = c.req.query('isArriving') === 'true';
   const minPrice = parseFloat(c.req.query('minPrice') || '0');
   const maxPrice = parseFloat(c.req.query('maxPrice') || '20000');
+  const sortBy = c.req.query('sortBy') || 'newest';
   const skip = (page - 1) * limit;
+
+  // Sorting map
+  const orderByMap: Record<string, Prisma.ProductOrderByWithRelationInput> = {
+    'newest': { siteCreateDate: 'desc' },
+    'price-asc': { price: 'asc' },
+    'price-desc': { price: 'desc' },
+    'popular': { viewCount: 'desc' }
+  };
 
   const whereClause: Prisma.ProductWhereInput = {
     AND: [
@@ -35,6 +45,7 @@ app.get('/api/products', async (c) => {
       onSale ? { onSale: true } : {},
       isNew ? { isNew: true } : {},
       inStock ? { stock: { gt: 0 } } : {},
+      isArriving ? { isArriving: true } : {},
       { price: { gte: minPrice, lte: maxPrice } }
     ]
   };
@@ -44,7 +55,7 @@ app.get('/api/products', async (c) => {
       where: whereClause,
       take: limit,
       skip: skip,
-      orderBy: { siteCreateDate: 'desc' },
+      orderBy: orderByMap[sortBy] || orderByMap.newest,
       include: { category: true }
     }),
     prisma.product.count({
