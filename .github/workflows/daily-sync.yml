@@ -1,0 +1,33 @@
+name: Daily Product Sync
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Runs at 02:00 AM every day
+  workflow_dispatch: # Allows manual trigger from the UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      NODE_ENV: production
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install Dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Generate Prisma Client
+        run: bunx prisma generate
+
+      - name: Install Puppeteer Browser
+        run: bunx puppeteer browsers install chrome
+
+      - name: Run Sync Script
+        run: bun scripts/sync-products.ts
