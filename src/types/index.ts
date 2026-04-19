@@ -1,0 +1,37 @@
+export interface Category {
+  id: string;
+  name: string;
+  _count: {
+    products: number;
+  };
+}
+
+export interface Product {
+  id: string;
+  slug: string;
+  title: string;
+  price: number;
+  salePrice: number | null;
+  onSale: boolean;
+  isNew: boolean;
+  stock: number;
+  images: string[];
+  category?: { 
+    id: string;
+    name: string; 
+  };
+  subCategory?: {
+    id: string;
+    name: string;
+  };
+  description?: string;
+  commande48H?: boolean;
+  quoteMode?: boolean;
+  checkStock?: boolean;
+  isPrivate?: boolean;
+  isArriving?: boolean;
+}
+
+export interface ProductDetailsProps {
+  onNavigate: (categoryId: string | null, subCategoryId: string | null) => void;
+}

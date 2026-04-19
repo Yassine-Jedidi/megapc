@@ -7,30 +7,12 @@ import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
 import { cn } from "@/lib/utils"
 
-interface ProductDetailsProps {
-  onNavigate: (categoryId: string | null, subCategoryId: string | null) => void
-}
-
-interface ProductData {
-  title: string;
-  images: string[];
-  price?: number;
-  salePrice?: number;
-  onSale: boolean;
-  stock: number;
-  checkStock: boolean;
-  commande48H: boolean;
-  isNew: boolean;
-  quoteMode: boolean;
-  description?: string;
-  category?: { id: string, name: string };
-  subCategory?: { id: string, name: string };
-}
+import type { Product, ProductDetailsProps } from '@/types'
 
 export function ProductDetails({ onNavigate }: ProductDetailsProps) {
   const { slug } = useParams<{ slug: string }>()
   const navigate = useNavigate()
-  const [product, setProduct] = useState<ProductData | null>(null)
+  const [product, setProduct] = useState<Product | null>(null)
   const [loading, setLoading] = useState(true)
   const [activeImage, setActiveImage] = useState<string>('')
 
