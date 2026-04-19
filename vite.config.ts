@@ -30,6 +30,10 @@ export default defineConfig({
             console.log('proxy error', err);
           });
         },
+      },
+      '/api': {
+        target: 'http://localhost:3001',
+        changeOrigin: true,
       }
     }
   },

@@ -21,7 +21,7 @@ export function ProductDetails({ onNavigate, addToCart }: ProductDetailsProps) {
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        const res = await fetch(`http://localhost:3001/api/products/${slug}`)
+        const res = await fetch(`/api/products/${slug}`)
         const data = await res.json()
         setProduct(data)
         if (data.images && data.images.length > 0) {

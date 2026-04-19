@@ -109,7 +109,7 @@ function App() {
   const fetchCategories = useCallback(async () => {
     try {
       const query = new URLSearchParams(getSharedQueryParams())
-      const res = await fetch(`http://localhost:3001/api/categories?${query}`)
+      const res = await fetch(`/api/categories?${query}`)
       const data = await res.json()
       setCategories(data)
     } catch (e) {
@@ -120,7 +120,7 @@ function App() {
   const fetchSubCategories = useCallback(async (catId: string) => {
     try {
       const query = new URLSearchParams(getSharedQueryParams())
-      const res = await fetch(`http://localhost:3001/api/categories/${catId}/sub?${query}`)
+      const res = await fetch(`/api/categories/${catId}/sub?${query}`)
       const data = await res.json()
       setSubCategories(data)
     } catch (e) {
@@ -140,7 +140,7 @@ function App() {
       if (selectedCategory) query.append('categoryId', selectedCategory)
       if (selectedSubCategory) query.append('subCategoryId', selectedSubCategory)
 
-      const res = await fetch(`http://localhost:3001/api/products?${query}`, { signal })
+      const res = await fetch(`/api/products?${query}`, { signal })
       if (!res.ok) return
       const data = await res.json()
       setProducts(data.products)
@@ -158,7 +158,7 @@ function App() {
   useEffect(() => {
     document.documentElement.classList.add('dark')
     // Fetch absolute max price to globally scale the slider
-    fetch('http://localhost:3001/api/products/max-price')
+    fetch('/api/products/max-price')
       .then(r => r.json())
       .then(data => {
         setAbsoluteMaxPrice(data.maxPrice)

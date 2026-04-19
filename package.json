@@ -10,7 +10,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "check": "eslint && tsc -b --noEmit",
-    "api": "bun --watch src/server.ts"
+    "api": "bun --watch src/server.ts",
+    "start": "bun src/server.ts",
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@base-ui/react": "^1.4.0",

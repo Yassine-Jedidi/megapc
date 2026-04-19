@@ -5,6 +5,7 @@ import { Pool } from 'pg';
 import { PrismaPg } from '@prisma/adapter-pg';
 import { PrismaClient, Prisma } from '@prisma/client';
 import { logger } from 'hono/logger';
+import { serveStatic } from 'hono/bun';
 
 // Initialize Prisma with the PG Adapter for Hono/Bun speed
 const pool = new Pool({ connectionString: process.env.DATABASE_URL });
@@ -180,8 +181,15 @@ app.get('/api/categories/:id/sub', async (c) => {
   return c.json(result);
 });
 
-// Start the Bun server
+// Production Static Serving
+// 1. Serve 'dist' contents (assets, etc.)
+app.get('/*', serveStatic({ root: './dist' }));
+
+// 2. SPA Fallback: Redirect all non-API paths to index.html for React Router
+app.get('*', serveStatic({ path: './dist/index.html' }));
+
+// Start the Bun server with dynamic port support for Railway
 export default {
-  port: 3001,
+  port: process.env.PORT || 3001,
   fetch: app.fetch,
 };
