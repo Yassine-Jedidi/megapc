@@ -42,6 +42,7 @@ app.get('/api/products', async (c) => {
     AND: [
       search ? { title: { contains: search, mode: 'insensitive' } } : {},
       categoryId ? { categoryId: categoryId } : {},
+      c.req.query('subCategoryId') ? { subCategoryId: c.req.query('subCategoryId') } : {},
       onSale ? { onSale: true } : {},
       isNew ? { isNew: true } : {},
       inStock ? { stock: { gt: 0 } } : {},
@@ -103,6 +104,33 @@ app.get('/api/categories', async (c) => {
     orderBy: { name: 'asc' }
   });
   return c.json(categories);
+});
+
+// 4. GET /api/categories/:id/sub - Get sub-categories for a main category
+app.get('/api/categories/:id/sub', async (c) => {
+  const id = c.req.param('id');
+  
+  const categoryCounts = await prisma.product.groupBy({
+    by: ['subCategoryId'],
+    where: { categoryId: id, subCategoryId: { not: null } },
+    _count: { subCategoryId: true }
+  });
+
+  const subCategoryIds = categoryCounts.map(c => c.subCategoryId).filter(Boolean) as string[];
+  const subCategories = await prisma.category.findMany({
+    where: { id: { in: subCategoryIds } },
+    orderBy: { name: 'asc' }
+  });
+
+  const result = subCategories.map(sub => {
+    const countData = categoryCounts.find(c => c.subCategoryId === sub.id);
+    return {
+      ...sub,
+      _count: { products: countData?._count.subCategoryId || 0 }
+    };
+  });
+
+  return c.json(result);
 });
 
 // Start the Bun server

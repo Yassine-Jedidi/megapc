@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box, Truck } from 'lucide-react'
+import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
@@ -48,8 +49,10 @@ interface Category {
 function App() {
   const [products, setProducts] = useState<Product[]>([])
   const [categories, setCategories] = useState<Category[]>([])
+  const [subCategories, setSubCategories] = useState<Category[]>([])
   const [search, setSearch] = useState('')
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
+  const [selectedSubCategory, setSelectedSubCategory] = useState<string | null>(null)
   const [onSale, setOnSale] = useState(false)
   const [isNew, setIsNew] = useState(false)
   const [inStock, setInStock] = useState(false)
@@ -67,7 +70,7 @@ function App() {
   // Reset to page 1 when any filter changes
   useEffect(() => {
     setPage(1)
-  }, [search, selectedCategory, onSale, isNew, inStock, isArriving, priceRange, sortBy])
+  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, priceRange, sortBy])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -78,6 +81,16 @@ function App() {
       console.error('Failed to fetch categories', e)
     }
   }, [])
+
+  const fetchSubCategories = async (catId: string) => {
+    try {
+      const res = await fetch(`http://localhost:3001/api/categories/${catId}/sub`)
+      const data = await res.json()
+      setSubCategories(data)
+    } catch (e) {
+      console.error('Failed to fetch sub-categories', e)
+    }
+  }
 
   const fetchProducts = useCallback(async () => {
     setLoading(true)
@@ -95,6 +108,7 @@ function App() {
         sortBy,
       })
       if (selectedCategory) query.append('categoryId', selectedCategory)
+      if (selectedSubCategory) query.append('subCategoryId', selectedSubCategory)
 
       const res = await fetch(`http://localhost:3001/api/products?${query}`)
       const data = await res.json()
@@ -106,7 +120,7 @@ function App() {
     } finally {
       setLoading(false)
     }
-  }, [page, search, selectedCategory, onSale, isNew, inStock, isArriving, priceRange, sortBy])
+  }, [page, search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, priceRange, sortBy])
 
   useEffect(() => {
     document.documentElement.classList.add('dark')
@@ -227,10 +241,31 @@ function App() {
                 </div>
               </div>
 
-              <Separator className="opacity-20" />
+              <div className="flex flex-col gap-6">
+                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                  <Button
+                    variant="ghost"
+                    size="sm"
+                    onClick={() => {
+                      setSelectedCategory(null);
+                      setSelectedSubCategory(null);
+                      setSubCategories([]);
+                      setSearch('');
+                      setOnSale(false);
+                      setIsNew(false);
+                      setInStock(false);
+                      setIsArriving(false);
+                      setPriceRange([0, 20000]);
+                      setSortBy('newest');
+                    }}
+                    className="text-[10px] font-bold uppercase gap-2 hover:text-red-500 w-fit p-0 h-auto"
+                  >
+                    <X className="h-3 w-3" /> Effacer tout
+                  </Button>
+                )}
 
-              <div>
-                <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Budget</h3>
+                <div>
+                  <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Budget</h3>
                 <div className="flex flex-col gap-5 px-1">
                   <div className="flex justify-between items-center text-[10px] font-black tracking-wider uppercase">
                     <span className="text-primary">{priceRange[0].toLocaleString()} TND</span>
@@ -253,28 +288,61 @@ function App() {
               </div>
 
               <Separator className="opacity-20" />
-
               <div>
                 <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Catégories</h3>
                 <div className="flex flex-col gap-1">
                   {categories.filter(cat => cat._count.products > 0).map((cat) => (
-                    <Button
-                      key={cat.id}
-                      variant={selectedCategory === cat.id ? "secondary" : "ghost"}
-                      className={`justify-between h-10 px-3 font-bold text-xs rounded-xl transition-all ${selectedCategory === cat.id ? 'text-primary' : 'text-muted-foreground hover:text-foreground'}`}
-                      onClick={() => setSelectedCategory(cat.id)}
-                    >
-                      <span className="truncate">{cat.name}</span>
-                      <Badge variant="outline" className="text-[9px] font-bold py-0 h-4 border-white/5 bg-white/5">
-                        {cat._count.products}
-                      </Badge>
-                    </Button>
+                    <div key={cat.id} className="flex flex-col">
+                      <Button
+                        variant={selectedCategory === cat.id ? "secondary" : "ghost"}
+                        className={cn(
+                          "w-full justify-between text-[11px] font-bold uppercase tracking-wider h-9 px-3 rounded-xl transition-all duration-300",
+                          selectedCategory === cat.id ? "bg-primary/10 text-primary shadow-sm" : "hover:bg-primary/5 text-muted-foreground/80 hover:text-foreground"
+                        )}
+                        onClick={() => {
+                          if (selectedCategory === cat.id) {
+                            setSelectedCategory(null);
+                            setSelectedSubCategory(null);
+                            setSubCategories([]);
+                          } else {
+                            setSelectedCategory(cat.id);
+                            setSelectedSubCategory(null);
+                            fetchSubCategories(cat.id);
+                          }
+                        }}
+                      >
+                        <span className="flex items-center gap-2">
+                          {cat.name}
+                        </span>
+                        <span className="text-[9px] opacity-40">{cat._count.products}</span>
+                      </Button>
+
+                      {selectedCategory === cat.id && subCategories.length > 0 && (
+                        <div className="flex flex-col ml-3 mt-1 pl-2 border-l border-primary/10 gap-0.5">
+                          {subCategories.map((sub) => (
+                            <Button
+                              key={sub.id}
+                              variant={selectedSubCategory === sub.id ? "secondary" : "ghost"}
+                              className={cn(
+                                "w-full justify-between text-[10px] font-bold uppercase tracking-wide h-7 px-3 rounded-lg transition-all",
+                                selectedSubCategory === sub.id ? "text-primary bg-primary/5 font-black" : "text-muted-foreground/60 hover:text-primary hover:bg-transparent"
+                              )}
+                              onClick={() => setSelectedSubCategory(selectedSubCategory === sub.id ? null : sub.id)}
+                            >
+                              <span>{sub.name}</span>
+                              <span className="text-[8px] opacity-50">{sub._count?.products || 0}</span>
+                            </Button>
+                          ))}
+                        </div>
+                      )}
+                    </div>
                   ))}
                 </div>
               </div>
             </div>
-          </ScrollArea>
-        </aside>
+          </div>
+        </ScrollArea>
+      </aside>
 
         {/* Main Product Area */}
         <main className="flex-1 bg-muted/5">
@@ -306,12 +374,14 @@ function App() {
                     </SelectContent>
                   </Select>
 
-                  {(selectedCategory || search || onSale || isNew || inStock || isArriving || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
                     <Button
                       variant="ghost"
                       size="sm"
                       onClick={() => {
                         setSelectedCategory(null);
+                        setSelectedSubCategory(null);
+                        setSubCategories([]);
                         setSearch('');
                         setOnSale(false);
                         setIsNew(false);
