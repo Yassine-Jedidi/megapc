@@ -33,7 +33,7 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
   return {
     AND: [
       search ? { title: { contains: search, mode: 'insensitive' } } : {},
-      onSale ? { onSale: true } : {},
+      onSale ? { OR: [{ onSale: true }, { salePrice: { not: null } }] } : {},
       isNew ? { isNew: true } : {},
       inStock ? { stock: { gt: 0 } } : {},
       isArriving ? { isArriving: true } : {},

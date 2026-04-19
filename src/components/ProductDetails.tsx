@@ -204,14 +204,25 @@ export function ProductDetails({ onNavigate }: ProductDetailsProps) {
                   </span>
                 ) : (
                   <div className="flex flex-col">
-                    {product.onSale && product.salePrice && product.price && (
-                      <span className="text-[13px] text-muted-foreground/60 line-through font-bold">
-                        {product.price.toLocaleString()} TND
+                    {product.salePrice && product.salePrice < (product.price || 0) && product.price ? (
+                      <div className="flex flex-col">
+                        <div className="flex items-center gap-2 mb-1">
+                          <span className="text-[14px] text-muted-foreground/60 line-through font-bold">
+                            {product.price.toLocaleString()} TND
+                          </span>
+                          <span className="text-[12px] bg-orange-500/10 text-orange-500 px-2 py-0.5 rounded-md font-black">
+                            -{Math.round((1 - product.salePrice / product.price) * 100)}%
+                          </span>
+                        </div>
+                        <span className="text-4xl font-black text-foreground tracking-tight">
+                          {product.salePrice.toLocaleString()} <span className="text-lg font-bold opacity-70">TND</span>
+                        </span>
+                      </div>
+                    ) : (
+                      <span className="text-4xl font-black text-foreground tracking-tight">
+                        {(product.price || 0).toLocaleString()} <span className="text-lg font-bold opacity-70">TND</span>
                       </span>
                     )}
-                    <span className="text-4xl font-black text-foreground tracking-tight">
-                      {(product.onSale && product.salePrice ? product.salePrice : (product.price || 0)).toLocaleString()} <span className="text-lg font-bold opacity-70">TND</span>
-                    </span>
                   </div>
                 )}
               </div>
