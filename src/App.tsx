@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box, Truck, Timer } from 'lucide-react'
+import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box, Truck, Timer, FileText } from 'lucide-react'
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
@@ -58,6 +58,7 @@ function App() {
   const [inStock, setInStock] = useState(false)
   const [isArriving, setIsArriving] = useState(false)
   const [commande48H, setCommande48H] = useState(false)
+  const [quoteMode, setQuoteMode] = useState(false)
   const [priceRange, setPriceRange] = useState([0, 20000])
   const [sortBy, setSortBy] = useState('newest')
 
@@ -71,7 +72,7 @@ function App() {
   // Reset to page 1 when any filter changes
   useEffect(() => {
     setPage(1)
-  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, priceRange, sortBy])
+  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, priceRange, sortBy])
 
   const getSharedQueryParams = useCallback(() => {
     return {
@@ -81,10 +82,11 @@ function App() {
       inStock: inStock.toString(),
       isArriving: isArriving.toString(),
       commande48H: commande48H.toString(),
+      quoteMode: quoteMode.toString(),
       minPrice: priceRange[0].toString(),
       maxPrice: priceRange[1].toString(),
     }
-  }, [search, onSale, isNew, inStock, isArriving, commande48H, priceRange])
+  }, [search, onSale, isNew, inStock, isArriving, commande48H, quoteMode, priceRange])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -253,15 +255,21 @@ function App() {
                   </div>
                   <div className="flex items-center justify-between">
                     <Label htmlFor="commande-48h" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
-                       <Timer className="h-3 w-3 text-emerald-400" /> LIVRAISON 48H
+                      <Timer className="h-3 w-3 text-emerald-400" /> LIVRAISON 48H
                     </Label>
                     <Switch id="commande-48h" checked={commande48H} onCheckedChange={setCommande48H} />
+                  </div>
+                  <div className="flex items-center justify-between">
+                    <Label htmlFor="quote-mode" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                       <FileText className="h-3 w-3 text-sky-400" /> SUR DEVIS
+                    </Label>
+                    <Switch id="quote-mode" checked={quoteMode} onCheckedChange={setQuoteMode} />
                   </div>
                 </div>
               </div>
 
               <div className="flex flex-col gap-6">
-                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
                   <Button
                     variant="ghost"
                     size="sm"
@@ -275,6 +283,7 @@ function App() {
                       setInStock(false);
                       setIsArriving(false);
                       setCommande48H(false);
+                      setQuoteMode(false);
                       setPriceRange([0, 20000]);
                       setSortBy('newest');
                     }}
@@ -286,83 +295,83 @@ function App() {
 
                 <div>
                   <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Budget</h3>
-                <div className="flex flex-col gap-5 px-1">
-                  <div className="flex justify-between items-center text-[10px] font-black tracking-wider uppercase">
-                    <span className="text-primary">{priceRange[0].toLocaleString()} TND</span>
-                    <span className="text-muted-foreground/50">—</span>
-                    <span className="text-primary">{priceRange[1].toLocaleString()} TND</span>
-                  </div>
-                  <Slider
-                    value={priceRange}
-                    max={20000}
-                    step={100}
-                    onValueChange={(val) => {
-                      if (Array.isArray(val)) setPriceRange(val)
-                    }}
-                    className="cursor-pointer"
-                  />
-                  <p className="text-[9px] text-muted-foreground/40 text-center uppercase font-bold tracking-widest leading-loose">
-                    Ajustez pour trouver le PC de vos rêves
-                  </p>
-                </div>
-              </div>
-
-              <Separator className="opacity-20" />
-              <div>
-                <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Catégories</h3>
-                <div className="flex flex-col gap-1">
-                  {categories.filter(cat => cat._count.products > 0).map((cat) => (
-                    <div key={cat.id} className="flex flex-col">
-                      <Button
-                        variant={selectedCategory === cat.id ? "secondary" : "ghost"}
-                        className={cn(
-                          "w-full justify-between text-[11px] font-bold uppercase tracking-wider h-9 px-3 rounded-xl transition-all duration-300",
-                          selectedCategory === cat.id ? "bg-primary/10 text-primary shadow-sm" : "hover:bg-primary/5 text-muted-foreground/80 hover:text-foreground"
-                        )}
-                        onClick={() => {
-                          if (selectedCategory === cat.id) {
-                            setSelectedCategory(null);
-                            setSelectedSubCategory(null);
-                            setSubCategories([]);
-                          } else {
-                            setSelectedCategory(cat.id);
-                            setSelectedSubCategory(null);
-                            fetchSubCategories(cat.id);
-                          }
-                        }}
-                      >
-                        <span className="flex items-center gap-2">
-                          {cat.name}
-                        </span>
-                        <span className="text-[9px] opacity-40">{cat._count.products}</span>
-                      </Button>
-
-                      {selectedCategory === cat.id && subCategories.length > 0 && (
-                        <div className="flex flex-col ml-3 mt-1 pl-2 border-l border-primary/10 gap-0.5">
-                          {subCategories.map((sub) => (
-                            <Button
-                              key={sub.id}
-                              variant={selectedSubCategory === sub.id ? "secondary" : "ghost"}
-                              className={cn(
-                                "w-full justify-between text-[10px] font-bold uppercase tracking-wide h-7 px-3 rounded-lg transition-all",
-                                selectedSubCategory === sub.id ? "text-primary bg-primary/5 font-black" : "text-muted-foreground/60 hover:text-primary hover:bg-transparent"
-                              )}
-                              onClick={() => setSelectedSubCategory(selectedSubCategory === sub.id ? null : sub.id)}
-                            >
-                              <span>{sub.name}</span>
-                              <span className="text-[8px] opacity-50">{sub._count?.products || 0}</span>
-                            </Button>
-                          ))}
-                        </div>
-                      )}
+                  <div className="flex flex-col gap-5 px-1">
+                    <div className="flex justify-between items-center text-[10px] font-black tracking-wider uppercase">
+                      <span className="text-primary">{priceRange[0].toLocaleString()} TND</span>
+                      <span className="text-muted-foreground/50">—</span>
+                      <span className="text-primary">{priceRange[1].toLocaleString()} TND</span>
                     </div>
-                  ))}
+                    <Slider
+                      value={priceRange}
+                      max={20000}
+                      step={100}
+                      onValueChange={(val) => {
+                        if (Array.isArray(val)) setPriceRange(val)
+                      }}
+                      className="cursor-pointer"
+                    />
+                    <p className="text-[9px] text-muted-foreground/40 text-center uppercase font-bold tracking-widest leading-loose">
+                      Ajustez le prix
+                    </p>
+                  </div>
+                </div>
+
+                <Separator className="opacity-20" />
+                <div>
+                  <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Catégories</h3>
+                  <div className="flex flex-col gap-1">
+                    {categories.filter(cat => cat._count.products > 0).map((cat) => (
+                      <div key={cat.id} className="flex flex-col">
+                        <Button
+                          variant={selectedCategory === cat.id ? "secondary" : "ghost"}
+                          className={cn(
+                            "w-full justify-between text-[11px] font-bold uppercase tracking-wider h-9 px-3 rounded-xl transition-all duration-300",
+                            selectedCategory === cat.id ? "bg-primary/10 text-primary shadow-sm" : "hover:bg-primary/5 text-muted-foreground/80 hover:text-foreground"
+                          )}
+                          onClick={() => {
+                            if (selectedCategory === cat.id) {
+                              setSelectedCategory(null);
+                              setSelectedSubCategory(null);
+                              setSubCategories([]);
+                            } else {
+                              setSelectedCategory(cat.id);
+                              setSelectedSubCategory(null);
+                              fetchSubCategories(cat.id);
+                            }
+                          }}
+                        >
+                          <span className="flex items-center gap-2">
+                            {cat.name}
+                          </span>
+                          <span className="text-[9px] opacity-40">{cat._count.products}</span>
+                        </Button>
+
+                        {selectedCategory === cat.id && subCategories.length > 0 && (
+                          <div className="flex flex-col ml-3 mt-1 pl-2 border-l border-primary/10 gap-0.5">
+                            {subCategories.map((sub) => (
+                              <Button
+                                key={sub.id}
+                                variant={selectedSubCategory === sub.id ? "secondary" : "ghost"}
+                                className={cn(
+                                  "w-full justify-between text-[10px] font-bold uppercase tracking-wide h-7 px-3 rounded-lg transition-all",
+                                  selectedSubCategory === sub.id ? "text-primary bg-primary/5 font-black" : "text-muted-foreground/60 hover:text-primary hover:bg-transparent"
+                                )}
+                                onClick={() => setSelectedSubCategory(selectedSubCategory === sub.id ? null : sub.id)}
+                              >
+                                <span>{sub.name}</span>
+                                <span className="text-[8px] opacity-50">{sub._count?.products || 0}</span>
+                              </Button>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    ))}
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        </ScrollArea>
-      </aside>
+          </ScrollArea>
+        </aside>
 
         {/* Main Product Area */}
         <main className="flex-1 bg-muted/5">
@@ -394,7 +403,7 @@ function App() {
                     </SelectContent>
                   </Select>
 
-                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
                     <Button
                       variant="ghost"
                       size="sm"
@@ -408,6 +417,7 @@ function App() {
                         setInStock(false);
                         setIsArriving(false);
                         setCommande48H(false);
+                        setQuoteMode(false);
                         setPriceRange([0, 20000]);
                         setSortBy('newest');
                       }}

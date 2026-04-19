@@ -24,6 +24,7 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
   const inStock = c.req.query('inStock') === 'true';
   const isArriving = c.req.query('isArriving') === 'true';
   const commande48H = c.req.query('commande48H') === 'true';
+  const quoteMode = c.req.query('quoteMode') === 'true';
   const minPrice = parseFloat(c.req.query('minPrice') || '0');
   const maxPrice = parseFloat(c.req.query('maxPrice') || '20000');
 
@@ -35,6 +36,7 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
       inStock ? { stock: { gt: 0 } } : {},
       isArriving ? { isArriving: true } : {},
       commande48H ? { commande48H: true } : {},
+      quoteMode ? { quoteMode: true } : {},
       { price: { gte: minPrice, lte: maxPrice } }
     ]
   };
