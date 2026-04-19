@@ -79,7 +79,8 @@ app.get('/api/products', async (c) => {
       take: limit,
       skip: skip,
       orderBy: orderByMap[sortBy] || orderByMap.newest,
-      include: { category: true }
+      omit: { rawData: true },
+      include: { category: { select: { id: true, name: true } } }
     }),
     prisma.product.count({
       where: whereClause
@@ -110,12 +111,10 @@ app.get('/api/products/:slug', async (c) => {
   const slug = c.req.param('slug');
   const product = await prisma.product.findUnique({
     where: { slug },
+    omit: { rawData: true },
     include: {
-      category: true,
-      subCategory: true,
-      priceHistory: {
-        orderBy: { createdAt: 'asc' }
-      }
+      category: { select: { id: true, name: true } },
+      subCategory: { select: { id: true, name: true } },
     }
   });
 

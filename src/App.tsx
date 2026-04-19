@@ -80,9 +80,16 @@ function App() {
     setPage(1)
   }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, priceRange, sortBy])
 
+  // Debounce search input: only update debouncedSearch after 300ms of no typing
+  const [debouncedSearch, setDebouncedSearch] = useState('')
+  useEffect(() => {
+    const timer = setTimeout(() => setDebouncedSearch(search), 300)
+    return () => clearTimeout(timer)
+  }, [search])
+
   const getSharedQueryParams = useCallback(() => {
     return {
-      search,
+      search: debouncedSearch,
       onSale: onSale.toString(),
       isNew: isNew.toString(),
       inStock: inStock.toString(),
@@ -94,7 +101,7 @@ function App() {
       minPrice: priceRange[0].toString(),
       maxPrice: priceRange[1].toString(),
     }
-  }, [search, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, priceRange])
+  }, [debouncedSearch, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, priceRange])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -118,7 +125,7 @@ function App() {
     }
   }, [getSharedQueryParams])
 
-  const fetchProducts = useCallback(async () => {
+  const fetchProducts = useCallback(async (signal?: AbortSignal) => {
     setLoading(true)
     try {
       const query = new URLSearchParams({
@@ -130,13 +137,16 @@ function App() {
       if (selectedCategory) query.append('categoryId', selectedCategory)
       if (selectedSubCategory) query.append('subCategoryId', selectedSubCategory)
 
-      const res = await fetch(`http://localhost:3001/api/products?${query}`)
+      const res = await fetch(`http://localhost:3001/api/products?${query}`, { signal })
+      if (!res.ok) return
       const data = await res.json()
       setProducts(data.products)
       setTotalPages(data.pagination.totalPages)
       setTotal(data.pagination.total)
-    } catch (e) {
-      console.error('Failed to fetch products', e)
+    } catch (e: unknown) {
+      if (e instanceof Error && e.name !== 'AbortError') {
+        console.error('Failed to fetch products', e)
+      }
     } finally {
       setLoading(false)
     }
@@ -154,16 +164,14 @@ function App() {
       .catch(e => console.error('Failed to get max price:', e))
   }, [])
 
+  // Trigger fetches with AbortController to cancel stale requests
   useEffect(() => {
-    const timer = setTimeout(() => {
-      fetchCategories()
-      if (selectedCategory) {
-        fetchSubCategories(selectedCategory)
-      }
-      fetchProducts()
-    }, 400) // Debounce 400ms for smooth sliding
+    const controller = new AbortController()
+    fetchCategories()
+    if (selectedCategory) fetchSubCategories(selectedCategory)
+    fetchProducts(controller.signal)
     window.scrollTo({ top: 0, behavior: 'smooth' })
-    return () => clearTimeout(timer)
+    return () => controller.abort()
   }, [fetchProducts, fetchCategories, fetchSubCategories, selectedCategory])
 
   // Simple page calculation for the UI
@@ -190,7 +198,7 @@ function App() {
       {/* Header Section */}
       <header className="sticky top-0 z-50 w-full border-b bg-background/80 backdrop-blur-md">
         <div className="container flex h-16 items-center justify-between px-0 mx-auto">
-          <div className="flex items-center gap-6">
+          <div className="flex items-center gap-6 min-w-[200px]">
             <Button variant="ghost" size="icon" onClick={() => setSidebarOpen(!sidebarOpen)} className="lg:flex ml-4">
               <LayoutGrid className="h-5 w-5" />
             </Button>
@@ -199,7 +207,7 @@ function App() {
             </a>
           </div>
 
-          <div className="flex flex-1 items-center justify-end space-x-6 pr-4">
+          <div className="flex-1 flex justify-center px-6">
             <div className="relative w-full max-w-sm lg:max-w-md hidden md:block">
               <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
               <Input
@@ -209,12 +217,13 @@ function App() {
                 onChange={(e) => setSearch(e.target.value)}
               />
             </div>
-            <div className="flex items-center gap-2">
-              <Button variant="ghost" size="icon" className="relative">
-                <ShoppingCart className="h-5 w-5" />
-                <Badge className="absolute -top-1 -right-1 h-4 w-4 p-0 flex items-center justify-center text-[8px] bg-primary">0</Badge>
-              </Button>
-            </div>
+          </div>
+
+          <div className="flex items-center gap-2 pr-4 min-w-[200px] justify-end">
+            <Button variant="ghost" size="icon" className="relative">
+              <ShoppingCart className="h-5 w-5" />
+              <Badge className="absolute -top-1 -right-1 h-4 w-4 p-0 flex items-center justify-center text-[8px] bg-primary">0</Badge>
+            </Button>
           </div>
         </div>
       </header>
@@ -503,7 +512,7 @@ function App() {
                             <div className="relative p-3">
                               <div className="relative aspect-square overflow-hidden rounded-2xl bg-black/40 flex items-center justify-center p-0">
                                 {product.onSale && (
-                                  <Badge className="absolute top-4 left-4 bg-orange-500 text-black font-black text-[10px] uppercase shadow-xl z-10 transition-transform group-hover:scale-110">
+                                  <Badge className="absolute top-4 left-4 bg-orange-500 text-black font-black text-[10px] uppercase shadow-xl z-10">
                                     PROMO
                                   </Badge>
                                 )}

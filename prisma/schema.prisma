@@ -49,6 +49,34 @@ model Product {
 
   // Relationships
   priceHistory      PriceHistory[]
+
+  // High-cardinality FK indexes — essential for category filtering
+  @@index([categoryId])
+  @@index([subCategoryId])
+
+  // Composite indexes for the most common catalog query patterns:
+  // (category + sort column) avoids a separate sort step entirely
+  @@index([categoryId, siteCreateDate]) // newest in category
+  @@index([categoryId, price])          // price sort in category
+  @@index([categoryId, viewCount])      // popular in category
+
+  // salePrice index: supports "promo" filter (salePrice NOT NULL) and sorting
+  @@index([salePrice])
+
+  // price range filter + global sort
+  @@index([price])
+  @@index([siteCreateDate])
+  @@index([viewCount])
+
+  // stock: used as stock > 0 — B-tree will use this for inequality scans
+  @@index([stock])
+
+  // Note: Boolean indexes (onSale, isNew, etc.) intentionally removed.
+  // Low-cardinality booleans are ignored by PostgreSQL's query planner.
+  // They add write overhead with no read benefit.
+  //
+  // Note: @@index([title]) removed — B-tree doesn't help ILIKE/contains.
+  // For full text search, a pg_trgm GIN index via raw migration would be needed.
 }
 
 model Category {
