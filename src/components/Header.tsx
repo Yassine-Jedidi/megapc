@@ -1,4 +1,4 @@
-import { Search, ShoppingCart, LayoutGrid } from 'lucide-react'
+import { Search, ShoppingCart, PanelLeftClose, PanelLeftOpen } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Badge } from "@/components/ui/badge"
@@ -16,7 +16,7 @@ export function Header({ sidebarOpen, setSidebarOpen, search, setSearch }: Heade
       <div className="container flex h-16 items-center justify-between px-0 mx-auto">
         <div className="flex items-center gap-6 min-w-[200px]">
           <Button variant="ghost" size="icon" onClick={() => setSidebarOpen(!sidebarOpen)} className="lg:flex ml-4">
-            <LayoutGrid className="h-5 w-5" />
+            {sidebarOpen ? <PanelLeftClose className="h-5 w-5" /> : <PanelLeftOpen className="h-5 w-5" />}
           </Button>
           <a href="/" className="flex items-center">
             <img src="https://megapc.tn/_next/image?url=%2Fassets%2Fimages%2Fmega.png&w=640&q=100" alt="Megapc" className="h-6 w-auto brightness-110 translate-y-1" />

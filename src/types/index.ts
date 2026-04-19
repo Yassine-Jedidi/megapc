@@ -6,6 +6,13 @@ export interface Category {
   };
 }
 
+export interface PriceHistory {
+  id: string;
+  price: number;
+  productId: string;
+  createdAt: string;
+}
+
 export interface Product {
   id: string;
   slug: string;
@@ -31,6 +38,7 @@ export interface Product {
   isPrivate?: boolean;
   isArriving?: boolean;
   viewCount?: number;
+  priceHistory?: PriceHistory[];
 }
 
 export interface ProductDetailsProps {

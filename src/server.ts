@@ -115,6 +115,7 @@ app.get('/api/products/:slug', async (c) => {
     include: {
       category: { select: { id: true, name: true } },
       subCategory: { select: { id: true, name: true } },
+      priceHistory: { orderBy: { createdAt: 'asc' } }
     }
   });
 

@@ -99,52 +99,52 @@ export function Sidebar({
           <Separator className="opacity-20" />
 
           <div>
-            <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Statut</h3>
+            <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-foreground/50 mb-4">Statut</h3>
             <div className="flex flex-col gap-4 px-1">
               <div className="flex items-center justify-between">
-                <Label htmlFor="in-stock" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                <Label htmlFor="in-stock" className="text-xs font-bold text-foreground/70 flex items-center gap-2">
                   <Box className="h-3 w-3 text-green-500" /> EN STOCK
                 </Label>
                 <Switch id="in-stock" checked={inStock} onCheckedChange={setInStock} />
               </div>
               <div className="flex items-center justify-between">
-                <Label htmlFor="on-sale" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                <Label htmlFor="on-sale" className="text-xs font-bold text-foreground/70 flex items-center gap-2">
                   <Zap className="h-3 w-3 text-orange-500" /> PROMO
                 </Label>
                 <Switch id="on-sale" checked={onSale} onCheckedChange={setOnSale} />
               </div>
               <div className="flex items-center justify-between">
-                <Label htmlFor="is-new" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                <Label htmlFor="is-new" className="text-xs font-bold text-foreground/70 flex items-center gap-2">
                   <Rocket className="h-3 w-3 text-blue-400 font-bold" /> NOUVEAUTÉ
                 </Label>
                 <Switch id="is-new" checked={isNew} onCheckedChange={setIsNew} />
               </div>
               <div className="flex items-center justify-between">
-                <Label htmlFor="is-arriving" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                <Label htmlFor="is-arriving" className="text-xs font-bold text-foreground/70 flex items-center gap-2">
                   <Truck className="h-3 w-3 text-purple-400" /> EN ARRIVAGE
                 </Label>
                 <Switch id="is-arriving" checked={isArriving} onCheckedChange={setIsArriving} />
               </div>
               <div className="flex items-center justify-between">
-                <Label htmlFor="commande-48h" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                <Label htmlFor="commande-48h" className="text-xs font-bold text-foreground/70 flex items-center gap-2">
                   <Timer className="h-3 w-3 text-emerald-400" /> LIVRAISON 48H
                 </Label>
                 <Switch id="commande-48h" checked={commande48H} onCheckedChange={setCommande48H} />
               </div>
               <div className="flex items-center justify-between">
-                <Label htmlFor="quote-mode" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                <Label htmlFor="quote-mode" className="text-xs font-bold text-foreground/70 flex items-center gap-2">
                   <FileText className="h-3 w-3 text-sky-400" /> SUR DEVIS
                 </Label>
                 <Switch id="quote-mode" checked={quoteMode} onCheckedChange={setQuoteMode} />
               </div>
               <div className="flex items-center justify-between">
-                <Label htmlFor="check-stock" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                <Label htmlFor="check-stock" className="text-xs font-bold text-foreground/70 flex items-center gap-2">
                   <ShieldCheck className="h-3 w-3 text-indigo-400" /> STOCK GARANTI
                 </Label>
                 <Switch id="check-stock" checked={checkStock} onCheckedChange={setCheckStock} />
               </div>
               <div className="flex items-center justify-between">
-                <Label htmlFor="is-private" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                <Label htmlFor="is-private" className="text-xs font-bold text-foreground/70 flex items-center gap-2">
                   <Lock className="h-3 w-3 text-rose-500" /> VENTES PRIVÉES
                 </Label>
                 <Switch id="is-private" checked={isPrivate} onCheckedChange={setIsPrivate} />
@@ -165,7 +165,7 @@ export function Sidebar({
             )}
 
             <div>
-              <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Budget</h3>
+              <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-foreground/50 mb-4">Budget</h3>
               <div className="flex flex-col gap-5 px-1">
                 <div className="flex justify-between items-center text-[10px] font-black tracking-wider uppercase">
                   <span className="text-primary">{priceRange[0].toLocaleString()} TND</span>
@@ -191,7 +191,7 @@ export function Sidebar({
 
             <Separator className="opacity-20" />
             <div>
-              <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Catégories</h3>
+              <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-foreground/50 mb-4">Catégories</h3>
               <div className="flex flex-col gap-1">
                 {categories.filter(cat => cat._count.products > 0).map((cat) => (
                   <div key={cat.id} className="flex flex-col">
@@ -199,7 +199,7 @@ export function Sidebar({
                       variant={selectedCategory === cat.id ? "secondary" : "ghost"}
                       className={cn(
                         "w-full justify-between text-[11px] font-bold uppercase tracking-wider h-9 px-3 rounded-xl transition-all duration-300",
-                        selectedCategory === cat.id ? "bg-primary/10 text-primary shadow-sm" : "hover:bg-primary/5 text-muted-foreground/80 hover:text-foreground"
+                        selectedCategory === cat.id ? "bg-primary/10 text-primary shadow-sm" : "hover:bg-primary/5 text-foreground/90 hover:text-foreground"
                       )}
                       onClick={() => {
                         if (selectedCategory === cat.id) {
@@ -216,7 +216,9 @@ export function Sidebar({
                       <span className="flex items-center gap-2">
                         {cat.name}
                       </span>
-                      <span className="text-[9px] opacity-40">{cat._count.products}</span>
+                      <span className="bg-white/10 text-white font-black text-[9px] px-1.5 py-0.5 rounded-full min-w-5 flex items-center justify-center group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
+                        {cat._count.products}
+                      </span>
                     </Button>
 
                     {selectedCategory === cat.id && subCategories.length > 0 && (
@@ -227,12 +229,14 @@ export function Sidebar({
                             variant={selectedSubCategory === sub.id ? "secondary" : "ghost"}
                             className={cn(
                               "w-full justify-between text-[10px] font-bold uppercase tracking-wide h-7 px-3 rounded-lg transition-all",
-                              selectedSubCategory === sub.id ? "text-primary bg-primary/5 font-black" : "text-muted-foreground/60 hover:text-primary hover:bg-transparent"
+                              selectedSubCategory === sub.id ? "text-primary bg-primary/5 font-black" : "text-foreground/90 hover:text-primary hover:bg-transparent"
                             )}
                             onClick={() => setSelectedSubCategory(selectedSubCategory === sub.id ? null : sub.id)}
                           >
                             <span>{sub.name}</span>
-                            <span className="text-[8px] opacity-50">{sub._count?.products || 0}</span>
+                            <span className="bg-white/10 text-white font-black text-[8px] px-1.5 py-0.5 rounded-full min-w-4 flex items-center justify-center">
+                              {sub._count?.products || 0}
+                            </span>
                           </Button>
                         ))}
                       </div>
