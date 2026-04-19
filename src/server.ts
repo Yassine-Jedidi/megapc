@@ -166,8 +166,10 @@ app.get("/api/products/:slug", async (c) => {
 });
 
 app.get("/api/categories", async (c) => {
+  const sharedFilters = getSharedFilters(c);
   const categories = await prisma.category.findMany({
-    include: { _count: { select: { products: true } } },
+    where: { products: { some: sharedFilters } },
+    include: { _count: { select: { products: { where: sharedFilters } } } },
     orderBy: { name: "asc" },
   });
   return c.json(categories);
@@ -175,13 +177,18 @@ app.get("/api/categories", async (c) => {
 
 app.get("/api/categories/:id/sub", async (c) => {
   const id = c.req.param("id");
+  const sharedFilters = getSharedFilters(c);
   const subCategories = await prisma.category.findMany({
     where: {
-      products: { some: { categoryId: id } },
+      subProducts: { some: { AND: [{ categoryId: id }, sharedFilters] } },
     },
+    include: { _count: { select: { subProducts: { where: { AND: [{ categoryId: id }, sharedFilters] } } } } },
     orderBy: { name: "asc" },
   });
-  return c.json(subCategories);
+  return c.json(subCategories.map(sub => ({
+    ...sub,
+    _count: { products: sub._count?.subProducts || 0 }
+  })));
 });
 
 /**
