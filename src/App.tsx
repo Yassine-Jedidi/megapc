@@ -61,6 +61,7 @@ function App() {
   const [quoteMode, setQuoteMode] = useState(false)
   const [checkStock, setCheckStock] = useState(false)
   const [isPrivate, setIsPrivate] = useState(false)
+  const [absoluteMaxPrice, setAbsoluteMaxPrice] = useState(20000)
   const [priceRange, setPriceRange] = useState([0, 20000])
   const [sortBy, setSortBy] = useState('newest')
 
@@ -140,6 +141,14 @@ function App() {
 
   useEffect(() => {
     document.documentElement.classList.add('dark')
+    // Fetch absolute max price to globally scale the slider
+    fetch('http://localhost:3001/api/products/max-price')
+      .then(r => r.json())
+      .then(data => {
+        setAbsoluteMaxPrice(data.maxPrice)
+        setPriceRange([0, data.maxPrice])
+      })
+      .catch(e => console.error('Failed to get max price:', e))
   }, [])
 
   useEffect(() => {
@@ -285,7 +294,7 @@ function App() {
               </div>
 
               <div className="flex flex-col gap-6">
-                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest') && (
                   <Button
                     variant="ghost"
                     size="sm"
@@ -302,7 +311,7 @@ function App() {
                       setQuoteMode(false);
                       setCheckStock(false);
                       setIsPrivate(false);
-                      setPriceRange([0, 20000]);
+                      setPriceRange([0, absoluteMaxPrice]);
                       setSortBy('newest');
                     }}
                     className="text-[10px] font-bold uppercase gap-2 hover:text-red-500 w-fit p-0 h-auto"
@@ -317,11 +326,13 @@ function App() {
                     <div className="flex justify-between items-center text-[10px] font-black tracking-wider uppercase">
                       <span className="text-primary">{priceRange[0].toLocaleString()} TND</span>
                       <span className="text-muted-foreground/50">—</span>
-                      <span className="text-primary">{priceRange[1].toLocaleString()} TND</span>
+                      <span className="text-primary">
+                        {priceRange[1].toLocaleString()} TND
+                      </span>
                     </div>
                     <Slider
                       value={priceRange}
-                      max={20000}
+                      max={absoluteMaxPrice}
                       step={100}
                       onValueChange={(val) => {
                         if (Array.isArray(val)) setPriceRange(val)
@@ -421,7 +432,7 @@ function App() {
                     </SelectContent>
                   </Select>
 
-                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest') && (
                     <Button
                       variant="ghost"
                       size="sm"
@@ -438,7 +449,7 @@ function App() {
                         setQuoteMode(false);
                         setCheckStock(false);
                         setIsPrivate(false);
-                        setPriceRange([0, 20000]);
+                        setPriceRange([0, absoluteMaxPrice]);
                         setSortBy('newest');
                       }}
                       className="text-[10px] font-bold uppercase gap-2 hover:text-red-500 h-9"

@@ -97,7 +97,15 @@ app.get('/api/products', async (c) => {
   });
 });
 
-// 2. GET /api/products/:slug - Deep details for a single product
+// 2. GET /api/products/max-price - Get absolute max price for dynamic UI slider ceiling
+app.get('/api/products/max-price', async (c) => {
+  const aggr = await prisma.product.aggregate({
+    _max: { price: true }
+  });
+  return c.json({ maxPrice: aggr._max.price || 20000 });
+});
+
+// 3. GET /api/products/:slug - Deep details for a single product
 app.get('/api/products/:slug', async (c) => {
   const slug = c.req.param('slug');
   const product = await prisma.product.findUnique({
