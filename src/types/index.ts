@@ -30,6 +30,7 @@ export interface Product {
   checkStock?: boolean;
   isPrivate?: boolean;
   isArriving?: boolean;
+  viewCount?: number;
 }
 
 export interface ProductDetailsProps {

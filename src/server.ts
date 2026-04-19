@@ -119,6 +119,13 @@ app.get('/api/products/:slug', async (c) => {
   });
 
   if (!product) return c.json({ error: 'Product not found' }, 404);
+
+  // Background increment view count (popular sort)
+  prisma.product.update({
+    where: { id: product.id },
+    data: { viewCount: { increment: 1 } }
+  }).catch(e => console.error('Failed to increment view count', e));
+
   return c.json(product);
 });
 

@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { ArrowLeft, FileText, ShoppingCart, Box, PackageOpen, ExternalLink } from 'lucide-react'
+import { ArrowLeft, FileText, ShoppingCart, Box, PackageOpen, ExternalLink, Eye } from 'lucide-react'
 import { Button, buttonVariants } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -178,8 +178,15 @@ export function ProductDetails({ onNavigate }: ProductDetailsProps) {
             </div>
 
             <div className="bg-muted/20 ring-1 ring-white/5 rounded-2xl p-8 mb-8">
-              <div className="flex flex-col gap-1 mb-6">
-                <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest mb-1">Prix TTC</span>
+              <div className="flex items-center justify-between mb-6">
+                <div className="flex flex-col gap-1">
+                  <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest">Prix TTC</span>
+                </div>
+                <div className="flex items-center gap-1.5 text-foreground/80 bg-white/5 px-2.5 py-1 rounded-lg border border-white/5">
+                  <Eye className="h-3 w-3" />
+                  <span className="text-[10px] font-black tracking-widest">{(product.viewCount || 0).toLocaleString()}</span>
+                </div>
+              </div>
                 {isDevis ? (
                   <span className="text-3xl font-black text-sky-400 flex items-center gap-2">
                     <FileText className="h-6 w-6" /> SUR DEVIS
@@ -207,9 +214,8 @@ export function ProductDetails({ onNavigate }: ProductDetailsProps) {
                     )}
                   </div>
                 )}
-              </div>
 
-              <div className="flex flex-col gap-3">
+              <div className="flex flex-col gap-3 mt-10">
                 {isDevis ? (
                   <Button className="h-12 w-full rounded-xl bg-sky-500 hover:bg-sky-600 text-white font-bold uppercase text-[11px] tracking-wider border-none">
                     <FileText className="w-4 h-4 mr-2" /> Demander un devis
