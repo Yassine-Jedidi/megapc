@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box, Truck, Timer, FileText } from 'lucide-react'
+import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box, Truck, Timer, FileText, ShieldCheck, Lock } from 'lucide-react'
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
@@ -59,6 +59,8 @@ function App() {
   const [isArriving, setIsArriving] = useState(false)
   const [commande48H, setCommande48H] = useState(false)
   const [quoteMode, setQuoteMode] = useState(false)
+  const [checkStock, setCheckStock] = useState(false)
+  const [isPrivate, setIsPrivate] = useState(false)
   const [priceRange, setPriceRange] = useState([0, 20000])
   const [sortBy, setSortBy] = useState('newest')
 
@@ -72,7 +74,7 @@ function App() {
   // Reset to page 1 when any filter changes
   useEffect(() => {
     setPage(1)
-  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, priceRange, sortBy])
+  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, priceRange, sortBy])
 
   const getSharedQueryParams = useCallback(() => {
     return {
@@ -83,10 +85,12 @@ function App() {
       isArriving: isArriving.toString(),
       commande48H: commande48H.toString(),
       quoteMode: quoteMode.toString(),
+      checkStock: checkStock.toString(),
+      isPrivate: isPrivate.toString(),
       minPrice: priceRange[0].toString(),
       maxPrice: priceRange[1].toString(),
     }
-  }, [search, onSale, isNew, inStock, isArriving, commande48H, quoteMode, priceRange])
+  }, [search, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, priceRange])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -265,11 +269,23 @@ function App() {
                     </Label>
                     <Switch id="quote-mode" checked={quoteMode} onCheckedChange={setQuoteMode} />
                   </div>
+                  <div className="flex items-center justify-between">
+                    <Label htmlFor="check-stock" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                       <ShieldCheck className="h-3 w-3 text-indigo-400" /> STOCK GARANTI
+                    </Label>
+                    <Switch id="check-stock" checked={checkStock} onCheckedChange={setCheckStock} />
+                  </div>
+                  <div className="flex items-center justify-between">
+                    <Label htmlFor="is-private" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                       <Lock className="h-3 w-3 text-rose-500" /> VENTES PRIVÉES
+                    </Label>
+                    <Switch id="is-private" checked={isPrivate} onCheckedChange={setIsPrivate} />
+                  </div>
                 </div>
               </div>
 
               <div className="flex flex-col gap-6">
-                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
                   <Button
                     variant="ghost"
                     size="sm"
@@ -284,6 +300,8 @@ function App() {
                       setIsArriving(false);
                       setCommande48H(false);
                       setQuoteMode(false);
+                      setCheckStock(false);
+                      setIsPrivate(false);
                       setPriceRange([0, 20000]);
                       setSortBy('newest');
                     }}
@@ -403,7 +421,7 @@ function App() {
                     </SelectContent>
                   </Select>
 
-                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
                     <Button
                       variant="ghost"
                       size="sm"
@@ -418,6 +436,8 @@ function App() {
                         setIsArriving(false);
                         setCommande48H(false);
                         setQuoteMode(false);
+                        setCheckStock(false);
+                        setIsPrivate(false);
                         setPriceRange([0, 20000]);
                         setSortBy('newest');
                       }}
