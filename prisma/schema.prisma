@@ -7,14 +7,76 @@ datasource db {
 }
 
 model Product {
-  id          String   @id @default(cuid())
-  slug        String   @unique
-  title       String
-  price       Float?
-  stock       Int?     @default(0)
-  imageUrl    String?
-  category    String?
-  rawData     Json     // Store the full scrape payload here
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
+  id                String   @id @default(cuid())
+  externalId        String?  // The "_id" from the JSON
+  slug              String   @unique // The "lien" from the JSON
+  title             String
+  titleFr           String?  // French alternate title from title_fr
+  description       String?  // HTML description from miniDescription_fr
+  price             Float?
+  
+  // Sale/Promotion fields
+  onSale            Boolean  @default(false)
+  salePrice         Float?
+  discount          Float?
+  
+  stock             Int?     @default(0)
+  
+  // Status flags
+  isNew             Boolean  @default(false)
+  isArriving        Boolean  @default(false)
+  quoteMode         Boolean  @default(false) // devis — show "Request Quote" instead of price
+  commande48H       Boolean  @default(false) // 48h delivery
+  checkStock        Boolean  @default(true)  // checkStockWhenPurchased
+  isPrivate         Boolean  @default(false) // productpriv
+  viewCount         Int      @default(0)
+  
+  // Category relationship
+  category          Category? @relation("MainCategory", fields: [categoryId], references: [id])
+  categoryId        String?
+  
+  subCategory       Category? @relation("SubCategory", fields: [subCategoryId], references: [id])
+  subCategoryId      String?
+
+  // technical attributes (e.g., Brand, Powered By)
+  attributes        Attribute[]
+
+  // Media
+  images            String[] // All photos from gallerie.urlPhoto
+  
+  // Scraper metadata
+  rawData           Json
+  siteCreateDate    DateTime? // the "create_date" from the site
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  // Relationships
+  priceHistory      PriceHistory[]
+}
+
+model Category {
+  id              String    @id @default(cuid())
+  name            String    @unique
+  externalId      String?   @unique
+  
+  products        Product[] @relation("MainCategory")
+  subProducts     Product[] @relation("SubCategory")
+}
+
+model Attribute {
+  id        String  @id @default(cuid())
+  key       String  // e.g. "Powered By"
+  value     String  // e.g. "asus"
+  product   Product @relation(fields: [productId], references: [id])
+  productId String
+
+  @@unique([productId, key])
+}
+
+model PriceHistory {
+  id        String   @id @default(cuid())
+  price     Float
+  product   Product  @relation(fields: [productId], references: [id])
+  productId String
+  createdAt DateTime @default(now())
 }
