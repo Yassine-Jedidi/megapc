@@ -1,4 +1,4 @@
-import { ShoppingCart, FileText, ExternalLink, Eye } from 'lucide-react'
+import { ShoppingCart, FileText, ExternalLink, Eye, Calendar, Clock } from 'lucide-react'
 import { Button, buttonVariants } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { cn } from "@/lib/utils"
@@ -47,9 +47,24 @@ export function ProductInfo({ product, onNavigate, navigate, slug, addToCart }: 
         )}
       </div>
 
-      <h1 className="text-2xl lg:text-3xl font-black tracking-tight mb-6 leading-tight">
+      <h1 className="text-2xl lg:text-3xl font-black tracking-tight mb-4 leading-tight">
         {product.title}
       </h1>
+
+      <div className="flex flex-col gap-2 mb-6 text-xs text-muted-foreground/60 font-bold uppercase tracking-wider">
+        {(product.siteCreateDate || product.createdAt) && (
+          <div className="flex items-center gap-2">
+            <Calendar className="w-4 h-4" />
+            Ajouté le {new Date(product.siteCreateDate || '').toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit' }).replace(' à', ' à')}
+          </div>
+        )}
+        {(product.siteUpdateDate || product.updatedAt) && (
+          <div className="flex items-center gap-2">
+            <Clock className="w-4 h-4" />
+            Mis à jour le {new Date(product.siteUpdateDate || '').toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit' })}
+          </div>
+        )}
+      </div>
 
       <div className="flex flex-wrap gap-2 mb-8">
         {product.onSale && (
@@ -116,7 +131,7 @@ export function ProductInfo({ product, onNavigate, navigate, slug, addToCart }: 
               <FileText className="w-4 h-4 mr-2" /> Demander un devis
             </Button>
           ) : (
-            <Button 
+            <Button
               onClick={() => addToCart(product)}
               className="h-12 w-full rounded-xl bg-primary text-primary-foreground font-bold uppercase text-[11px] tracking-wider shadow-lg shadow-primary/20 border-none"
             >

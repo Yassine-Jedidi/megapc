@@ -1,12 +1,12 @@
-import { Hono } from 'hono';
-import type { Context } from 'hono';
-import { cors } from 'hono/cors';
-import { Pool } from 'pg';
-import { PrismaPg } from '@prisma/adapter-pg';
-import { PrismaClient, Prisma } from '@prisma/client';
-import { logger } from 'hono/logger';
-import { serveStatic } from 'hono/bun';
-import type { ContentfulStatusCode } from 'hono/utils/http-status';
+import { Hono } from "hono";
+import type { Context } from "hono";
+import { cors } from "hono/cors";
+import { Pool } from "pg";
+import { PrismaPg } from "@prisma/adapter-pg";
+import { PrismaClient, Prisma } from "@prisma/client";
+import { logger } from "hono/logger";
+import { serveStatic } from "hono/bun";
+import type { ContentfulStatusCode } from "hono/utils/http-status";
 
 // Initialize Prisma
 const pool = new Pool({ connectionString: process.env.DATABASE_URL });
@@ -15,17 +15,17 @@ const prisma = new PrismaClient({ adapter });
 
 const app = new Hono();
 
-app.use('*', logger());
-app.use('*', cors());
+app.use("*", logger());
+app.use("*", cors());
 
 /**
  * 1. IMAGE PROXY ROUTE (Highest Priority)
  */
-app.all('/api/images/*', async (c) => {
-  const targetPath = c.req.path.replace(/^\/api\/images/, '');
-  const w = c.req.query('w');
-  const q = c.req.query('q');
-  
+app.all("/api/images/*", async (c) => {
+  const targetPath = c.req.path.replace(/^\/api\/images/, "");
+  const w = c.req.query("w");
+  const q = c.req.query("q");
+
   let targetUrl;
   if (w || q) {
     const fullImageUrl = `https://static.gi-ga.tech${targetPath}`;
@@ -33,52 +33,53 @@ app.all('/api/images/*', async (c) => {
   } else {
     targetUrl = `https://apibackend.megapc.tn${targetPath}`;
   }
-  
+
   try {
     const response = await fetch(targetUrl, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Referer': 'https://www.megapc.tn/',
-        'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
-      }
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        Referer: "https://www.megapc.tn/",
+        Accept: "image/webp,image/apng,image/*,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
+      },
     });
 
     if (!response.ok) {
-       console.error(`Image proxy failed: ${response.status} for ${targetUrl}`);
-       return c.text('Not found', 404);
+      console.error(`Image proxy failed: ${response.status} for ${targetUrl}`);
+      return c.text("Not found", 404);
     }
 
-    const contentType = response.headers.get('Content-Type') || 'image/jpeg';
+    const contentType = response.headers.get("Content-Type") || "image/jpeg";
     const buffer = await response.arrayBuffer();
 
     return c.body(buffer, response.status as ContentfulStatusCode, {
-      'Content-Type': contentType,
-      'Cache-Control': 'public, max-age=604800', // Cache images for 7 days
+      "Content-Type": contentType,
+      "Cache-Control": "public, max-age=604800", // Cache images for 7 days
     });
   } catch (error) {
-    console.error('Image proxy error:', error);
-    return c.text('Internal Server Error', 500);
+    console.error("Image proxy error:", error);
+    return c.text("Internal Server Error", 500);
   }
 });
 
 // Centralized filtering logic for syncing counts across products and categories
 const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
-  const search = c.req.query('search') || '';
-  const onSale = c.req.query('onSale') === 'true';
-  const isNew = c.req.query('isNew') === 'true';
-  const inStock = c.req.query('inStock') === 'true';
-  const isArriving = c.req.query('isArriving') === 'true';
-  const commande48H = c.req.query('commande48H') === 'true';
-  const quoteMode = c.req.query('quoteMode') === 'true';
-  const checkStock = c.req.query('checkStock') === 'true';
-  const isPrivate = c.req.query('isPrivate') === 'true';
-  const minPrice = parseFloat(c.req.query('minPrice') || '0');
-  const maxPrice = parseFloat(c.req.query('maxPrice') || '25000');
+  const search = c.req.query("search") || "";
+  const onSale = c.req.query("onSale") === "true";
+  const isNew = c.req.query("isNew") === "true";
+  const inStock = c.req.query("inStock") === "true";
+  const isArriving = c.req.query("isArriving") === "true";
+  const commande48H = c.req.query("commande48H") === "true";
+  const quoteMode = c.req.query("quoteMode") === "true";
+  const checkStock = c.req.query("checkStock") === "true";
+  const isPrivate = c.req.query("isPrivate") === "true";
+  const minPrice = parseFloat(c.req.query("minPrice") || "0");
+  const maxPrice = parseFloat(c.req.query("maxPrice") || "25000");
 
   return {
     AND: [
-      search ? { title: { contains: search, mode: 'insensitive' } } : {},
+      search ? { title: { contains: search, mode: "insensitive" } } : {},
       onSale ? { OR: [{ onSale: true }, { salePrice: { not: null } }] } : {},
       isNew ? { isNew: true } : {},
       inStock ? { stock: { gt: 0 } } : {},
@@ -87,26 +88,26 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
       quoteMode ? { quoteMode: true } : {},
       checkStock ? { checkStock: true } : {},
       isPrivate ? { isPrivate: true } : {},
-      { price: { gte: minPrice, lte: maxPrice } }
-    ]
+      { price: { gte: minPrice, lte: maxPrice } },
+    ],
   };
 };
 
 // 1. GET /api/products - Optimized with pagination and filters
-app.get('/api/products', async (c) => {
-  const page = parseInt(c.req.query('page') || '1');
-  const limit = parseInt(c.req.query('limit') || '20');
-  const categoryId = c.req.query('categoryId');
-  const subCategoryId = c.req.query('subCategoryId');
-  const sortBy = c.req.query('sortBy') || 'newest';
+app.get("/api/products", async (c) => {
+  const page = parseInt(c.req.query("page") || "1");
+  const limit = parseInt(c.req.query("limit") || "20");
+  const categoryId = c.req.query("categoryId");
+  const subCategoryId = c.req.query("subCategoryId");
+  const sortBy = c.req.query("sortBy") || "newest";
   const skip = (page - 1) * limit;
 
   // Sorting map
   const orderByMap: Record<string, Prisma.ProductOrderByWithRelationInput> = {
-    'newest': { siteCreateDate: 'desc' },
-    'price-asc': { price: 'asc' },
-    'price-desc': { price: 'desc' },
-    'popular': { viewCount: 'desc' }
+    newest: { siteCreateDate: "desc" },
+    "price-asc": { price: "asc" },
+    "price-desc": { price: "desc" },
+    popular: { viewCount: "desc" },
   };
 
   const sharedFilters = getSharedFilters(c);
@@ -114,8 +115,8 @@ app.get('/api/products', async (c) => {
     AND: [
       sharedFilters,
       categoryId ? { categoryId: categoryId } : {},
-      subCategoryId ? { subCategoryId: subCategoryId } : {}
-    ]
+      subCategoryId ? { subCategoryId: subCategoryId } : {},
+    ],
   };
 
   const [products, total] = await Promise.all([
@@ -125,58 +126,60 @@ app.get('/api/products', async (c) => {
       skip: skip,
       orderBy: orderByMap[sortBy] || orderByMap.newest,
       omit: { rawData: true },
-      include: { category: { select: { id: true, name: true } } }
+      include: { category: { select: { id: true, name: true } } },
     }),
-    prisma.product.count({ where: whereClause })
+    prisma.product.count({ where: whereClause }),
   ]);
 
   return c.json({
     products,
-    pagination: { total, page, limit, totalPages: Math.ceil(total / limit) }
+    pagination: { total, page, limit, totalPages: Math.ceil(total / limit) },
   });
 });
 
-app.get('/api/products/max-price', async (c) => {
+app.get("/api/products/max-price", async (c) => {
   const aggr = await prisma.product.aggregate({ _max: { price: true } });
   return c.json({ maxPrice: aggr._max.price || 20000 });
 });
 
-app.get('/api/products/:slug', async (c) => {
-  const slug = c.req.param('slug');
+app.get("/api/products/:slug", async (c) => {
+  const slug = c.req.param("slug");
   const product = await prisma.product.findUnique({
     where: { slug },
     omit: { rawData: true },
     include: {
       category: { select: { id: true, name: true } },
       subCategory: { select: { id: true, name: true } },
-      priceHistory: { orderBy: { createdAt: 'asc' } }
-    }
+      priceHistory: { orderBy: { createdAt: "asc" } },
+    },
   });
-  if (!product) return c.json({ error: 'Product not found' }, 404);
-  
-  prisma.product.update({
-    where: { id: product.id },
-    data: { viewCount: { increment: 1 } }
-  }).catch(() => {});
+  if (!product) return c.json({ error: "Product not found" }, 404);
+
+  prisma.product
+    .update({
+      where: { id: product.id },
+      data: { viewCount: { increment: 1 } },
+    })
+    .catch(() => {});
 
   return c.json(product);
 });
 
-app.get('/api/categories', async (c) => {
+app.get("/api/categories", async (c) => {
   const categories = await prisma.category.findMany({
     include: { _count: { select: { products: true } } },
-    orderBy: { name: 'asc' }
+    orderBy: { name: "asc" },
   });
   return c.json(categories);
 });
 
-app.get('/api/categories/:id/sub', async (c) => {
-  const id = c.req.param('id');
+app.get("/api/categories/:id/sub", async (c) => {
+  const id = c.req.param("id");
   const subCategories = await prisma.category.findMany({
-    where: { 
-        products: { some: { categoryId: id } } 
+    where: {
+      products: { some: { categoryId: id } },
     },
-    orderBy: { name: 'asc' }
+    orderBy: { name: "asc" },
   });
   return c.json(subCategories);
 });
@@ -184,11 +187,11 @@ app.get('/api/categories/:id/sub', async (c) => {
 /**
  * 3. STATIC FILES & SPA FALLBACK (Lowest Priority)
  */
-app.use('/*', serveStatic({ root: './dist' }));
-app.get('*', serveStatic({ path: './dist/index.html' }));
+app.use("/*", serveStatic({ root: "./dist" }));
+app.get("*", serveStatic({ path: "./dist/index.html" }));
 
 export default {
   port: process.env.PORT || 3001,
-  hostname: '0.0.0.0',
+  hostname: "0.0.0.0",
   fetch: app.fetch,
 };

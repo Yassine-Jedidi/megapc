@@ -44,6 +44,7 @@ model Product {
   // Scraper metadata
   rawData           Json
   siteCreateDate    DateTime? // the "create_date" from the site
+  siteUpdateDate    DateTime? // the "update_date" from the site (or gallerie update)
   createdAt         DateTime @default(now())
   updatedAt         DateTime @updatedAt
 

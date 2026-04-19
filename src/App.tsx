@@ -34,6 +34,7 @@ function App() {
   const [loading, setLoading] = useState(true)
   const [sidebarOpen, setSidebarOpen] = useState(true)
   const [isCartOpen, setIsCartOpen] = useState(false)
+  const [isConfigLoaded, setIsConfigLoaded] = useState(false)
 
   const [cart, setCart] = useState<CartItem[]>(() => {
     const saved = localStorage.getItem('megapc-cart')
@@ -182,16 +183,18 @@ function App() {
         setPriceRange([0, data.maxPrice])
       })
       .catch(e => console.error('Failed to get max price:', e))
+      .finally(() => setIsConfigLoaded(true))
   }, [])
 
   // Trigger fetches with AbortController to cancel stale requests
   useEffect(() => {
+    if (!isConfigLoaded) return
     const controller = new AbortController()
     fetchCategories()
     if (selectedCategory) fetchSubCategories(selectedCategory)
     fetchProducts(controller.signal)
     return () => controller.abort()
-  }, [fetchProducts, fetchCategories, fetchSubCategories, selectedCategory])
+  }, [fetchProducts, fetchCategories, fetchSubCategories, selectedCategory, isConfigLoaded])
 
   // Simple page calculation for the UI
   const getPages = useCallback(() => {

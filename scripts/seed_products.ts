@@ -30,8 +30,9 @@ interface ScrapedProduct {
     create_date?: string;
     categorie?: { _id: string; titre: string };
     filscateg?: { _id: string; titre: string };
-    gallerie?: { urlPhoto: string[] };
+    gallerie?: { urlPhoto: string[]; update_date?: string };
     attributes?: { cle: string; valeur: string }[];
+    update_date?: string;
 }
 
 async function main() {
@@ -118,6 +119,7 @@ async function main() {
                         subCategoryId,
                         images,
                         siteCreateDate: item.create_date ? new Date(item.create_date) : null,
+                        siteUpdateDate: item.update_date ? new Date(item.update_date) : (item.gallerie?.update_date ? new Date(item.gallerie.update_date) : null),
                         rawData: item as unknown as object,
                     },
                     create: {
@@ -142,6 +144,7 @@ async function main() {
                         subCategoryId,
                         images,
                         siteCreateDate: item.create_date ? new Date(item.create_date) : null,
+                        siteUpdateDate: item.update_date ? new Date(item.update_date) : (item.gallerie?.update_date ? new Date(item.gallerie.update_date) : null),
                         rawData: item as unknown as object,
                     },
                 });

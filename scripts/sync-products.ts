@@ -34,7 +34,8 @@ interface ScrapedProduct {
   create_date?: string;
   categorie?: { _id: string; titre: string };
   filscateg?: { _id: string; titre: string };
-  gallerie?: { urlPhoto: string[] };
+  gallerie?: { urlPhoto: string[]; update_date?: string };
+  update_date?: string;
 }
 
 async function getCategoryId(name: string, externalId?: string, catMap?: Map<string, string>) {
@@ -84,6 +85,7 @@ async function processProduct(item: ScrapedProduct, catMap: Map<string, string>)
       subCategoryId,
       images: item.gallerie?.urlPhoto || [],
       siteCreateDate: item.create_date ? new Date(item.create_date) : null,
+      siteUpdateDate: item.update_date ? new Date(item.update_date) : (item.gallerie?.update_date ? new Date(item.gallerie.update_date) : null),
       rawData: item as unknown as object,
     },
     create: {
@@ -108,6 +110,7 @@ async function processProduct(item: ScrapedProduct, catMap: Map<string, string>)
       subCategoryId,
       images: item.gallerie?.urlPhoto || [],
       siteCreateDate: item.create_date ? new Date(item.create_date) : null,
+      siteUpdateDate: item.update_date ? new Date(item.update_date) : (item.gallerie?.update_date ? new Date(item.gallerie.update_date) : null),
       rawData: item as unknown as object,
     },
   });

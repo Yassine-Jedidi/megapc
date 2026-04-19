@@ -1,4 +1,4 @@
-import { Plus } from 'lucide-react'
+import { Plus, X, Calendar, Clock } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -18,7 +18,6 @@ import {
   SelectItem,
   SelectTrigger,
 } from "@/components/ui/select"
-import { X } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
 
 import type { Product } from '@/types'
@@ -161,6 +160,21 @@ export function Catalog({
                       {product.title}
                     </h3>
 
+                    <div className="flex flex-col gap-1.5 mt-2 text-[10px] text-muted-foreground/50 font-bold uppercase tracking-wider">
+                      {(product.siteCreateDate || product.createdAt) && (
+                        <div className="flex items-center gap-1.5">
+                          <Calendar className="w-3 h-3" />
+                          Ajouté le {new Date(product.siteCreateDate || product.createdAt || '').toLocaleDateString('fr-FR', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' }).replace(' à', ' à')}
+                        </div>
+                      )}
+                      {(product.siteUpdateDate || product.updatedAt) && (
+                        <div className="flex items-center gap-1.5">
+                          <Clock className="w-3 h-3" />
+                          Mis à jour le {new Date(product.siteUpdateDate || product.updatedAt || '').toLocaleDateString('fr-FR', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' }).replace(' à', ' à')}
+                        </div>
+                      )}
+                    </div>
+
                     <div className="flex items-center justify-between pt-4 mt-auto">
                       <div className="flex flex-col">
                         {product.salePrice && product.salePrice < product.price ? (
@@ -203,7 +217,7 @@ export function Catalog({
 
           {/* Pagination Section */}
           {totalPages > 1 && (
-            <div className="pt-10 pb-20">
+            <div className="pt-10 pb-4">
               <Pagination>
                 <PaginationContent>
                   <PaginationItem>

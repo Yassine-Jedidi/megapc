@@ -48,6 +48,10 @@ export interface Product {
   isArriving?: boolean;
   viewCount?: number;
   priceHistory?: PriceHistory[];
+  createdAt?: string;
+  updatedAt?: string;
+  siteCreateDate?: string;
+  siteUpdateDate?: string;
 }
 
 export interface ProductDetailsProps {
