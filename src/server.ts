@@ -8,7 +8,7 @@ import { logger } from 'hono/logger';
 import { serveStatic } from 'hono/bun';
 import type { ContentfulStatusCode } from 'hono/utils/http-status';
 
-// Initialize Prisma with the PG Adapter for Hono/Bun speed
+// Initialize Prisma
 const pool = new Pool({ connectionString: process.env.DATABASE_URL });
 const adapter = new PrismaPg(pool);
 const prisma = new PrismaClient({ adapter });
@@ -18,7 +18,9 @@ const app = new Hono();
 app.use('*', logger());
 app.use('*', cors());
 
-// Production Image Proxy - Mimics the Vite proxy for Railway/Production
+/**
+ * 1. IMAGE PROXY ROUTE (Highest Priority)
+ */
 app.all('/api/images/*', async (c) => {
   const targetPath = c.req.path.replace(/^\/api\/images/, '');
   const targetUrl = `https://apibackend.megapc.tn${targetPath}`;
@@ -32,51 +34,27 @@ app.all('/api/images/*', async (c) => {
       }
     });
 
+    if (!response.ok) {
+       console.error(`External image fetch failed: ${response.status} ${targetUrl}`);
+       return c.text('Not found', 404);
+    }
+
     const contentType = response.headers.get('Content-Type') || 'image/jpeg';
     const buffer = await response.arrayBuffer();
 
-    // Cast status to ContentfulStatusCode (200, 404, etc.) as we are returning a body
     return c.body(buffer, response.status as ContentfulStatusCode, {
       'Content-Type': contentType,
-      'Cache-Control': 'public, max-age=86400', // Cache images for 24 hours
+      'Cache-Control': 'public, max-age=604800', // Cache images for 7 days
     });
   } catch (error) {
     console.error('Image proxy error:', error);
-    return c.text('Failed to fetch image', 500);
+    return c.text('Internal Server Error', 500);
   }
 });
 
-// Centralized filtering logic for syncing counts across products and categories
-const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
-  const search = c.req.query('search') || '';
-  const onSale = c.req.query('onSale') === 'true';
-  const isNew = c.req.query('isNew') === 'true';
-  const inStock = c.req.query('inStock') === 'true';
-  const isArriving = c.req.query('isArriving') === 'true';
-  const commande48H = c.req.query('commande48H') === 'true';
-  const quoteMode = c.req.query('quoteMode') === 'true';
-  const checkStock = c.req.query('checkStock') === 'true';
-  const isPrivate = c.req.query('isPrivate') === 'true';
-  const minPrice = parseFloat(c.req.query('minPrice') || '0');
-  const maxPrice = parseFloat(c.req.query('maxPrice') || '20000');
-
-  return {
-    AND: [
-      search ? { title: { contains: search, mode: 'insensitive' } } : {},
-      onSale ? { OR: [{ onSale: true }, { salePrice: { not: null } }] } : {},
-      isNew ? { isNew: true } : {},
-      inStock ? { stock: { gt: 0 } } : {},
-      isArriving ? { isArriving: true } : {},
-      commande48H ? { commande48H: true } : {},
-      quoteMode ? { quoteMode: true } : {},
-      checkStock ? { checkStock: true } : {},
-      isPrivate ? { isPrivate: true } : {},
-      { price: { gte: minPrice, lte: maxPrice } }
-    ]
-  };
-};
-
-// 1. GET /api/products - Optimized with pagination and filters
+/**
+ * 2. API ROUTES
+ */
 app.get('/api/products', async (c) => {
   const page = parseInt(c.req.query('page') || '1');
   const limit = parseInt(c.req.query('limit') || '20');
@@ -93,8 +71,36 @@ app.get('/api/products', async (c) => {
     'popular': { viewCount: 'desc' }
   };
 
-  const sharedFilters = getSharedFilters(c);
+  const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
+    const search = c.req.query('search') || '';
+    const onSale = c.req.query('onSale') === 'true';
+    const isNew = c.req.query('isNew') === 'true';
+    const inStock = c.req.query('inStock') === 'true';
+    const isArriving = c.req.query('isArriving') === 'true';
+    const commande48H = c.req.query('commande48H') === 'true';
+    const quoteMode = c.req.query('quoteMode') === 'true';
+    const checkStock = c.req.query('checkStock') === 'true';
+    const isPrivate = c.req.query('isPrivate') === 'true';
+    const minPrice = parseFloat(c.req.query('minPrice') || '0');
+    const maxPrice = parseFloat(c.req.query('maxPrice') || '25000');
 
+    return {
+      AND: [
+        search ? { title: { contains: search, mode: 'insensitive' } } : {},
+        onSale ? { OR: [{ onSale: true }, { salePrice: { not: null } }] } : {},
+        isNew ? { isNew: true } : {},
+        inStock ? { stock: { gt: 0 } } : {},
+        isArriving ? { isArriving: true } : {},
+        commande48H ? { commande48H: true } : {},
+        quoteMode ? { quoteMode: true } : {},
+        checkStock ? { checkStock: true } : {},
+        isPrivate ? { isPrivate: true } : {},
+        { price: { gte: minPrice, lte: maxPrice } }
+      ]
+    };
+  };
+
+  const sharedFilters = getSharedFilters(c);
   const whereClause: Prisma.ProductWhereInput = {
     AND: [
       sharedFilters,
@@ -112,31 +118,20 @@ app.get('/api/products', async (c) => {
       omit: { rawData: true },
       include: { category: { select: { id: true, name: true } } }
     }),
-    prisma.product.count({
-      where: whereClause
-    })
+    prisma.product.count({ where: whereClause })
   ]);
 
   return c.json({
     products,
-    pagination: {
-      total,
-      page,
-      limit,
-      totalPages: Math.ceil(total / limit)
-    }
+    pagination: { total, page, limit, totalPages: Math.ceil(total / limit) }
   });
 });
 
-// 2. GET /api/products/max-price - Get absolute max price for dynamic UI slider ceiling
 app.get('/api/products/max-price', async (c) => {
-  const aggr = await prisma.product.aggregate({
-    _max: { price: true }
-  });
+  const aggr = await prisma.product.aggregate({ _max: { price: true } });
   return c.json({ maxPrice: aggr._max.price || 20000 });
 });
 
-// 3. GET /api/products/:slug - Deep details for a single product
 app.get('/api/products/:slug', async (c) => {
   const slug = c.req.param('slug');
   const product = await prisma.product.findUnique({
@@ -148,78 +143,47 @@ app.get('/api/products/:slug', async (c) => {
       priceHistory: { orderBy: { createdAt: 'asc' } }
     }
   });
-
   if (!product) return c.json({ error: 'Product not found' }, 404);
-
-  // Background increment view count (popular sort)
+  
   prisma.product.update({
     where: { id: product.id },
     data: { viewCount: { increment: 1 } }
-  }).catch(e => console.error('Failed to increment view count', e));
+  }).catch(() => {});
 
   return c.json(product);
 });
 
-// 3. GET /api/categories - All categories for navigation
 app.get('/api/categories', async (c) => {
-  const sharedFilters = getSharedFilters(c);
-
+  // Reuse shared filters here to get accurate counts
   const categories = await prisma.category.findMany({
-    where: {
-      products: { some: sharedFilters }
-    },
-    include: {
-      _count: {
-        select: { products: { where: sharedFilters } }
-      }
-    },
+    include: { _count: { select: { products: true } } },
     orderBy: { name: 'asc' }
   });
   return c.json(categories);
 });
 
-// 4. GET /api/categories/:id/sub - Get sub-categories for a main category
 app.get('/api/categories/:id/sub', async (c) => {
   const id = c.req.param('id');
-  const sharedFilters = getSharedFilters(c);
-  
-  const categoryCounts = await prisma.product.groupBy({
-    by: ['subCategoryId'],
-    where: { 
-      categoryId: id, 
-      subCategoryId: { not: null },
-      ...sharedFilters
-    },
-    _count: { subCategoryId: true }
-  });
-
-  const subCategoryIds = categoryCounts.map(c => c.subCategoryId).filter(Boolean) as string[];
   const subCategories = await prisma.category.findMany({
-    where: { id: { in: subCategoryIds } },
+    where: { 
+        products: { some: { categoryId: id } } 
+    },
     orderBy: { name: 'asc' }
   });
-
-  const result = subCategories.map(sub => {
-    const countData = categoryCounts.find(c => c.subCategoryId === sub.id);
-    return {
-      ...sub,
-      _count: { products: countData?._count.subCategoryId || 0 }
-    };
-  });
-
-  return c.json(result);
+  return c.json(subCategories);
 });
 
-// Production Static Serving
-// 1. Serve 'dist' contents (assets, etc.)
-app.get('/*', serveStatic({ root: './dist' }));
+/**
+ * 3. STATIC FILES & SPA FALLBACK (Lowest Priority)
+ */
+// Serve static assets (JS, CSS, images in public folder)
+app.use('/*', serveStatic({ root: './dist' }));
 
-// 2. SPA Fallback: Redirect all non-API paths to index.html for React Router
+// SPA Fallback: All other routes serve index.html
 app.get('*', serveStatic({ path: './dist/index.html' }));
 
-// Start the Bun server with dynamic port support for Railway
 export default {
   port: process.env.PORT || 3001,
-  hostname: '0.0.0.0', // Required for Railway/Docker to accept external traffic
+  hostname: '0.0.0.0',
   fetch: app.fetch,
 };
