@@ -9,6 +9,15 @@ import { ScrollArea } from "@/components/ui/scroll-area"
 import { Separator } from "@/components/ui/separator"
 import { Switch } from "@/components/ui/switch"
 import { Label } from "@/components/ui/label"
+import { 
+  Pagination, 
+  PaginationContent, 
+  PaginationEllipsis, 
+  PaginationItem, 
+  PaginationLink, 
+  PaginationNext, 
+  PaginationPrevious 
+} from "@/components/ui/pagination"
 
 interface Product {
   id: string
@@ -37,8 +46,17 @@ function App() {
   const [onSale, setOnSale] = useState(false)
   const [isNew, setIsNew] = useState(false)
   const [inStock, setInStock] = useState(false)
+  
+  const [page, setPage] = useState(1)
+  const [totalPages, setTotalPages] = useState(1)
+  
   const [loading, setLoading] = useState(true)
   const [sidebarOpen, setSidebarOpen] = useState(true)
+
+  // Reset to page 1 when any filter changes
+  useEffect(() => {
+    setPage(1)
+  }, [search, selectedCategory, onSale, isNew, inStock])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -54,7 +72,7 @@ function App() {
     setLoading(true)
     try {
       const query = new URLSearchParams({
-        page: '1',
+        page: page.toString(),
         limit: '48',
         search,
         onSale: onSale.toString(),
@@ -66,12 +84,13 @@ function App() {
       const res = await fetch(`http://localhost:3001/api/products?${query}`)
       const data = await res.json()
       setProducts(data.products)
+      setTotalPages(data.pagination.totalPages)
     } catch (e) {
       console.error('Failed to fetch products', e)
     } finally {
       setLoading(false)
     }
-  }, [search, selectedCategory, onSale, isNew, inStock])
+  }, [page, search, selectedCategory, onSale, isNew, inStock])
 
   useEffect(() => {
     document.documentElement.classList.add('dark')
@@ -80,15 +99,35 @@ function App() {
 
   useEffect(() => {
     fetchProducts()
+    window.scrollTo({ top: 0, behavior: 'smooth' })
   }, [fetchProducts])
+
+  // Simple page calculation for the UI
+  const getPages = () => {
+    const pages = []
+    const startPage = Math.max(1, page - 1)
+    const endPage = Math.min(totalPages, page + 1)
+    
+    if (startPage > 1) pages.push(1)
+    if (startPage > 2) pages.push('ellipsis')
+    
+    for (let i = startPage; i <= endPage; i++) {
+      pages.push(i)
+    }
+    
+    if (endPage < totalPages - 1) pages.push('ellipsis')
+    if (endPage < totalPages) pages.push(totalPages)
+    
+    return pages
+  }
 
   return (
     <div className="min-h-screen bg-background text-foreground flex flex-col">
       {/* Header Section */}
       <header className="sticky top-0 z-50 w-full border-b bg-background/80 backdrop-blur-md">
-        <div className="container flex h-16 items-center justify-between px-6 mx-auto">
+        <div className="container flex h-16 items-center justify-between px-0 mx-auto">
           <div className="flex items-center gap-6">
-            <Button variant="ghost" size="icon" onClick={() => setSidebarOpen(!sidebarOpen)} className="lg:flex">
+            <Button variant="ghost" size="icon" onClick={() => setSidebarOpen(!sidebarOpen)} className="lg:flex ml-4">
               <LayoutGrid className="h-5 w-5" />
             </Button>
             <a href="/" className="flex items-center">
@@ -96,7 +135,7 @@ function App() {
             </a>
           </div>
 
-          <div className="flex flex-1 items-center justify-end space-x-6">
+          <div className="flex flex-1 items-center justify-end space-x-6 pr-4">
             <div className="relative w-full max-w-sm lg:max-w-md hidden md:block">
               <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
               <Input
@@ -126,8 +165,8 @@ function App() {
                   <Filter className="h-3 w-3" /> Navigation
                 </h3>
                 <div className="flex flex-col gap-1">
-                  <Button
-                    variant={!selectedCategory ? "secondary" : "ghost"}
+                  <Button 
+                    variant={!selectedCategory ? "secondary" : "ghost"} 
                     className="justify-between h-10 px-3 font-bold text-xs rounded-xl group"
                     onClick={() => setSelectedCategory(null)}
                   >
@@ -136,6 +175,8 @@ function App() {
                   </Button>
                 </div>
               </div>
+
+              <Separator className="opacity-20" />
 
               <div>
                 <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Statut</h3>
@@ -167,7 +208,7 @@ function App() {
                 <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Catégories</h3>
                 <div className="flex flex-col gap-1">
                   {categories.filter(cat => cat._count.products > 0).map((cat) => (
-                    <Button
+                    <Button 
                       key={cat.id}
                       variant={selectedCategory === cat.id ? "secondary" : "ghost"}
                       className={`justify-between h-10 px-3 font-bold text-xs rounded-xl transition-all ${selectedCategory === cat.id ? 'text-primary' : 'text-muted-foreground hover:text-foreground'}`}
@@ -181,7 +222,6 @@ function App() {
                   ))}
                 </div>
               </div>
-
             </div>
           </ScrollArea>
         </aside>
@@ -219,7 +259,7 @@ function App() {
               </div>
 
               {/* Grid Section */}
-              <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-6 pb-20">
+              <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-6">
                 {loading && products.length === 0 ? (
                   Array(12).fill(0).map((_, i) => (
                     <Card key={i} className="overflow-hidden border-none bg-muted/20">
@@ -238,8 +278,8 @@ function App() {
                   ))
                 ) : (
                   products.map((product) => (
-                    <Card
-                      key={product.id}
+                    <Card 
+                      key={product.id} 
                       className="group overflow-hidden border-none bg-card hover:bg-muted/30 transition-all duration-300 ring-1 ring-white/5 hover:ring-primary/30 flex flex-col"
                     >
                       <div className="relative p-3">
@@ -256,14 +296,14 @@ function App() {
                           />
                         </div>
                       </div>
-
+                      
                       <CardContent className="p-6 flex flex-col space-y-4 flex-1">
                         <div className="flex items-center gap-2">
                           <span className="text-[10px] font-black uppercase tracking-[0.15em] text-muted-foreground/60">
                             {product.category?.name || 'Composant'}
                           </span>
                         </div>
-
+                        
                         <h3 className="text-sm font-bold leading-relaxed line-clamp-2 min-h-12 text-foreground/90 group-hover:text-primary transition-colors cursor-pointer">
                           {product.title}
                         </h3>
@@ -285,8 +325,8 @@ function App() {
                               </span>
                             )}
                           </div>
-
-                          <Button size="icon" className="h-10 w-10 rounded-2xl shadow-lg shadow-primary/10 hover:scale-110 transition-all active:scale-95 bg-primary/10 text-primary hover:bg-primary hover:text-white border border-primary/20">
+                          
+                          <Button size="icon" className="h-10 w-10 rounded-2xl bg-primary text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:scale-110 hover:shadow-primary/40 active:scale-95 border-none">
                             <Plus className="h-5 w-5 stroke-[2.5px]" />
                           </Button>
                         </div>
@@ -295,6 +335,48 @@ function App() {
                   ))
                 )}
               </div>
+
+              {/* Pagination Section */}
+              {totalPages > 1 && (
+                <div className="pt-10 pb-20">
+                  <Pagination>
+                    <PaginationContent>
+                      <PaginationItem>
+                        <PaginationPrevious 
+                          href="#" 
+                          onClick={(e) => { e.preventDefault(); if (page > 1) setPage(page - 1); }}
+                          className={page === 1 ? "pointer-events-none opacity-50" : "cursor-pointer"}
+                        />
+                      </PaginationItem>
+                      
+                      {getPages().map((p, i) => (
+                        <PaginationItem key={i}>
+                          {p === 'ellipsis' ? (
+                            <PaginationEllipsis />
+                          ) : (
+                            <PaginationLink 
+                              href="#" 
+                              isActive={page === p}
+                              onClick={(e) => { e.preventDefault(); setPage(p as number); }}
+                              className="cursor-pointer"
+                            >
+                              {p}
+                            </PaginationLink>
+                          )}
+                        </PaginationItem>
+                      ))}
+
+                      <PaginationItem>
+                        <PaginationNext 
+                          href="#" 
+                          onClick={(e) => { e.preventDefault(); if (page < totalPages) setPage(page + 1); }}
+                          className={page === totalPages ? "pointer-events-none opacity-50" : "cursor-pointer"}
+                        />
+                      </PaginationItem>
+                    </PaginationContent>
+                  </Pagination>
+                </div>
+              )}
             </div>
           </div>
         </main>
