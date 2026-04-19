@@ -1,14 +1,13 @@
 import { useState, useEffect } from 'react'
-import { ArrowLeft, FileText, ShoppingCart, Box, PackageOpen } from 'lucide-react'
-import { Button } from "@/components/ui/button"
+import { useParams, useNavigate } from 'react-router-dom'
+import { ArrowLeft, FileText, ShoppingCart, Box, PackageOpen, ExternalLink } from 'lucide-react'
+import { Button, buttonVariants } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
 import { cn } from "@/lib/utils"
 
 interface ProductDetailsProps {
-  slug: string
-  onBack: () => void
   onNavigate: (categoryId: string | null, subCategoryId: string | null) => void
 }
 
@@ -28,7 +27,9 @@ interface ProductData {
   subCategory?: { id: string, name: string };
 }
 
-export function ProductDetails({ slug, onBack, onNavigate }: ProductDetailsProps) {
+export function ProductDetails({ onNavigate }: ProductDetailsProps) {
+  const { slug } = useParams<{ slug: string }>()
+  const navigate = useNavigate()
   const [product, setProduct] = useState<ProductData | null>(null)
   const [loading, setLoading] = useState(true)
   const [activeImage, setActiveImage] = useState<string>('')
@@ -51,6 +52,20 @@ export function ProductDetails({ slug, onBack, onNavigate }: ProductDetailsProps
     fetchProduct()
   }, [slug])
 
+  useEffect(() => {
+    if (!product || !product.images || product.images.length <= 1) return
+
+    const interval = setInterval(() => {
+      setActiveImage(current => {
+        const index = product.images.indexOf(current)
+        const nextIndex = (index + 1) % product.images.length
+        return product.images[nextIndex]
+      })
+    }, 5000)
+
+    return () => clearInterval(interval)
+  }, [product])
+
   if (loading) {
     return (
       <div className="flex-1 flex items-center justify-center py-20">
@@ -67,7 +82,7 @@ export function ProductDetails({ slug, onBack, onNavigate }: ProductDetailsProps
       <div className="flex-1 flex flex-col items-center justify-center py-20 gap-4">
         <PackageOpen className="w-10 h-10 text-muted-foreground/20" />
         <h2 className="text-sm font-bold uppercase tracking-wider text-muted-foreground">Produit non trouvé</h2>
-        <Button onClick={onBack} variant="secondary" size="sm" className="rounded-xl font-bold uppercase text-[10px] h-9">Retour à la boutique</Button>
+        <Button onClick={() => navigate('/')} variant="secondary" size="sm" className="rounded-xl font-bold uppercase text-[10px] h-9">Retour à la boutique</Button>
       </div>
     )
   }
@@ -78,9 +93,9 @@ export function ProductDetails({ slug, onBack, onNavigate }: ProductDetailsProps
     <div className="flex-1 flex flex-col">
       {/* Navigation */}
       <div className="h-14 flex items-center border-b px-8">
-        <Button 
-          onClick={onBack} 
-          variant="ghost" 
+        <Button
+          onClick={() => navigate('/')}
+          variant="ghost"
           size="sm"
           className="gap-2 font-bold uppercase text-[11px] h-9 rounded-xl hover:bg-muted/40"
         >
@@ -90,13 +105,13 @@ export function ProductDetails({ slug, onBack, onNavigate }: ProductDetailsProps
 
       <div className="p-8 lg:p-12">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-          
+
           {/* Images */}
           <div className="flex flex-col gap-6">
             <Card className="border-none bg-muted/20 ring-1 ring-white/5 overflow-hidden rounded-2xl aspect-square flex items-center justify-center p-8">
               {activeImage ? (
-                <img 
-                  src={`/api/images${activeImage}`} 
+                <img
+                  src={`/api/images${activeImage}`}
                   alt={product.title}
                   className="w-full h-full object-contain brightness-110"
                 />
@@ -126,18 +141,28 @@ export function ProductDetails({ slug, onBack, onNavigate }: ProductDetailsProps
           {/* Details */}
           <div className="flex flex-col">
             <div className="flex items-center gap-2 mb-4">
-              <span 
+              <span
                 className="text-[10px] font-black uppercase tracking-[0.15em] text-muted-foreground/60 cursor-pointer hover:text-foreground transition-colors"
-                onClick={() => product?.category && onNavigate(product.category.id, null)}
+                onClick={() => {
+                  if (product?.category) {
+                    onNavigate(product.category.id, null);
+                    navigate('/');
+                  }
+                }}
               >
                 {product.category?.name || 'Composant'}
               </span>
               {product.subCategory && (
                 <>
                   <span className="text-muted-foreground/30">/</span>
-                  <span 
+                  <span
                     className="text-[10px] font-black uppercase tracking-[0.15em] text-primary/60 cursor-pointer hover:text-primary transition-colors"
-                    onClick={() => product?.category && product?.subCategory && onNavigate(product.category.id, product.subCategory.id)}
+                    onClick={() => {
+                      if (product?.category && product?.subCategory) {
+                        onNavigate(product.category.id, product.subCategory.id);
+                        navigate('/');
+                      }
+                    }}
                   >
                     {product.subCategory.name}
                   </span>
@@ -201,6 +226,18 @@ export function ProductDetails({ slug, onBack, onNavigate }: ProductDetailsProps
                     <ShoppingCart className="w-4 h-4 mr-2" /> Ajouter au panier
                   </Button>
                 )}
+
+                <a
+                  href={`https://www.megapc.tn/shop/product/${slug}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={cn(
+                    buttonVariants({ variant: "outline" }),
+                    "h-12 w-full rounded-xl border-white/10 bg-white/5 hover:bg-white/10 font-bold uppercase text-[11px] tracking-wider transition-colors"
+                  )}
+                >
+                  <ExternalLink className="w-4 h-4 mr-2" /> Voir sur Megapc.tn
+                </a>
               </div>
             </div>
 
@@ -208,11 +245,11 @@ export function ProductDetails({ slug, onBack, onNavigate }: ProductDetailsProps
               <div className="flex flex-col gap-4">
                 <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground">Description technique</h3>
                 <Separator className="opacity-20" />
-                <div 
-                  className="prose prose-invert prose-sm max-w-none text-muted-foreground/80 leading-relaxed
+                <div
+                  className="prose prose-invert prose-sm max-w-none text-foreground/85 leading-relaxed
                     prose-ul:list-disc prose-ul:pl-4 
                     prose-li:marker:text-primary/60 
-                    prose-strong:text-foreground prose-strong:font-bold"
+                    prose-strong:text-white prose-strong:font-bold"
                   dangerouslySetInnerHTML={{ __html: product.description }}
                 />
               </div>
