@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react'
 import { TrendingUp } from 'lucide-react'
 import { 
   AreaChart, 
@@ -15,6 +16,9 @@ interface PriceHistoryChartProps {
 }
 
 export function PriceHistoryChart({ product }: PriceHistoryChartProps) {
+  const [mounted, setMounted] = useState(false)
+  useEffect(() => { setMounted(true) }, [])
+
   if (!product.priceHistory || product.priceHistory.length === 0) return null
 
   return (
@@ -28,52 +32,51 @@ export function PriceHistoryChart({ product }: PriceHistoryChartProps) {
         </div>
       </div>
       <div className="h-[200px] w-full bg-muted/10 rounded-2xl p-4 ring-1 ring-white/5">
-        <ResponsiveContainer width="100%" height="100%">
-          <AreaChart data={product.priceHistory.map(h => ({
-            date: new Date(h.createdAt).toLocaleDateString('fr-FR', { day: '2-digit', month: 'short' }),
-            price: h.price
-          }))}>
-            <defs>
-              <linearGradient id="colorPrice" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="5%" stopColor="hsl(var(--primary))" stopOpacity={0.3}/>
-                <stop offset="95%" stopColor="hsl(var(--primary))" stopOpacity={0}/>
-              </linearGradient>
-            </defs>
-            <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="rgba(255,255,255,0.03)" />
-            <XAxis 
-              dataKey="date" 
-              axisLine={false} 
-              tickLine={false} 
-              tick={{ fill: 'rgba(255,255,255,0.3)', fontSize: 9, fontWeight: 800 }}
-              dy={10}
-            />
-            <YAxis 
-              hide 
-              domain={['dataMin - 100', 'dataMax + 100']} 
-            />
-            <Tooltip 
-              // eslint-disable-next-line @typescript-eslint/no-explicit-any
-              formatter={(value: any) => value ? [`${Number(value).toLocaleString()} TND`, "Prix"] : ["-", "Prix"]}
-              contentStyle={{ 
-                backgroundColor: 'rgba(20,20,20,0.95)', 
-                border: '1px solid rgba(255,255,255,0.1)',
-                borderRadius: '12px',
-                fontSize: '11px',
-                fontWeight: 'bold',
-                backdropFilter: 'blur(10px)'
-              }}
-              itemStyle={{ color: 'hsl(var(--primary))' }}
-            />
-            <Area 
-              type="monotone" 
-              dataKey="price" 
-              stroke="hsl(var(--primary))" 
-              strokeWidth={2.5}
-              fillOpacity={1} 
-              fill="url(#colorPrice)" 
-            />
-          </AreaChart>
-        </ResponsiveContainer>
+        {mounted && (
+          <ResponsiveContainer width="100%" height="100%">
+            <AreaChart data={product.priceHistory.map(h => ({
+              date: new Date(h.createdAt).toLocaleDateString('fr-FR', { day: '2-digit', month: 'short' }),
+              price: h.price
+            }))}>
+              <defs>
+                <linearGradient id="colorPrice" x1="0" y1="0" x2="0" y2="1">
+                  <stop offset="5%" stopColor="hsl(var(--primary))" stopOpacity={0.3}/>
+                  <stop offset="95%" stopColor="hsl(var(--primary))" stopOpacity={0}/>
+                </linearGradient>
+              </defs>
+              <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="rgba(255,255,255,0.03)" />
+              <XAxis 
+                dataKey="date" 
+                axisLine={false} 
+                tickLine={false} 
+                tick={{ fill: 'rgba(255,255,255,0.3)', fontSize: 9, fontWeight: 800 }}
+                dy={10}
+              />
+              <YAxis hide domain={['dataMin - 100', 'dataMax + 100']} />
+              <Tooltip 
+                // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                formatter={(value: any) => value ? [`${Number(value).toLocaleString()} TND`, "Prix"] : ["-", "Prix"]}
+                contentStyle={{ 
+                  backgroundColor: 'rgba(20,20,20,0.95)', 
+                  border: '1px solid rgba(255,255,255,0.1)',
+                  borderRadius: '12px',
+                  fontSize: '11px',
+                  fontWeight: 'bold',
+                  backdropFilter: 'blur(10px)'
+                }}
+                itemStyle={{ color: 'hsl(var(--primary))' }}
+              />
+              <Area 
+                type="monotone" 
+                dataKey="price" 
+                stroke="hsl(var(--primary))" 
+                strokeWidth={2.5}
+                fillOpacity={1} 
+                fill="url(#colorPrice)" 
+              />
+            </AreaChart>
+          </ResponsiveContainer>
+        )}
       </div>
     </div>
   )

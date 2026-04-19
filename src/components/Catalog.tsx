@@ -128,7 +128,10 @@ export function Catalog({
                 <Card
                   key={product.id}
                   className="group overflow-hidden border-none bg-card hover:bg-muted/30 transition-all duration-300 ring-1 ring-white/5 hover:ring-primary/30 flex flex-col cursor-pointer"
-                  onClick={() => navigate('/produit/' + product.slug)}
+                  onClick={() => {
+                    sessionStorage.setItem('catalog-scroll', window.scrollY.toString());
+                    navigate('/produit/' + product.slug);
+                  }}
                 >
                   <div className="relative p-3">
                     <div className="relative aspect-square overflow-hidden rounded-2xl bg-black/40 flex items-center justify-center p-0">
@@ -138,7 +141,7 @@ export function Catalog({
                         </Badge>
                       )}
                       <img
-                        src={product.images[0] ? `/api/images${product.images[0]}` : ''}
+                        src={product.images[0] ? `/api/images${product.images[0]}?w=384&q=75` : ''}
                         alt={product.title}
                         loading="lazy"
                         decoding="async"

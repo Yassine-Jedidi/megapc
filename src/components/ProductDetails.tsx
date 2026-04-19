@@ -19,6 +19,9 @@ export function ProductDetails({ onNavigate, addToCart }: ProductDetailsProps) {
   const [activeImage, setActiveImage] = useState<string>('')
 
   useEffect(() => {
+    // Scroll to top INSTANTLY when navigation starts
+    window.scrollTo({ top: 0, behavior: 'instant' });
+
     const fetchProduct = async () => {
       try {
         const res = await fetch(`/api/products/${slug}`)

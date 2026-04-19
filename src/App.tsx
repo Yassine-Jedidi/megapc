@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, useLocation } from 'react-router-dom'
 import { ProductDetails } from "@/components/ProductDetails"
 import { Header } from "@/components/Header"
 import { Sidebar } from "@/components/Sidebar"
@@ -155,6 +155,23 @@ function App() {
     }
   }, [page, selectedCategory, selectedSubCategory, sortBy, getSharedQueryParams])
 
+  const location = useLocation()
+
+  // Scroll Restoration Logic
+  useEffect(() => {
+    // Only restore if we are back on the home page, not loading, and have products
+    if (location.pathname === '/' && !loading && products.length > 0) {
+      const savedScroll = sessionStorage.getItem('catalog-scroll')
+      if (savedScroll) {
+        sessionStorage.removeItem('catalog-scroll')
+        // Small delay to ensure the browser has actually rendered the card height
+        setTimeout(() => {
+          window.scrollTo({ top: parseInt(savedScroll), behavior: 'instant' })
+        }, 30)
+      }
+    }
+  }, [location.pathname, loading, products.length])
+
   useEffect(() => {
     document.documentElement.classList.add('dark')
     // Fetch absolute max price to globally scale the slider
@@ -173,7 +190,6 @@ function App() {
     fetchCategories()
     if (selectedCategory) fetchSubCategories(selectedCategory)
     fetchProducts(controller.signal)
-    window.scrollTo({ top: 0, behavior: 'smooth' })
     return () => controller.abort()
   }, [fetchProducts, fetchCategories, fetchSubCategories, selectedCategory])
 

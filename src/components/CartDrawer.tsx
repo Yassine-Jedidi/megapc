@@ -68,7 +68,7 @@ export function CartDrawer({
                 <div key={item.id} className="flex gap-4 group">
                   <div className="h-20 w-20 shrink-0 bg-muted/20 rounded-xl ring-1 ring-white/5 overflow-hidden flex items-center justify-center p-2">
                     <img
-                      src={`/api/images${item.image}`}
+                      src={`/api/images${item.image}?w=96&q=60`}
                       alt={item.title}
                       className="w-full h-full object-contain brightness-110"
                     />

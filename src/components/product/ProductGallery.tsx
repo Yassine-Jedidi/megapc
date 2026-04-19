@@ -15,7 +15,7 @@ export function ProductGallery({ product, activeImage, setActiveImage }: Product
       <Card className="border-none bg-muted/20 ring-1 ring-white/5 overflow-hidden rounded-2xl aspect-square flex items-center justify-center p-8">
         {activeImage ? (
           <img
-            src={`/api/images${activeImage}`}
+            src={`/api/images${activeImage}?w=1080&q=80`}
             alt={product.title}
             className="w-full h-full object-contain brightness-110"
           />
@@ -35,7 +35,7 @@ export function ProductGallery({ product, activeImage, setActiveImage }: Product
                 activeImage === img ? 'ring-primary' : 'ring-white/5 opacity-50 hover:opacity-100'
               )}
             >
-              <img src={`/api/images${img}`} loading="lazy" decoding="async" className="w-full h-full object-contain" alt="" />
+              <img src={`/api/images${img}?w=384&q=70`} loading="lazy" decoding="async" className="w-full h-full object-contain" alt="" />
             </button>
           ))}
         </div>

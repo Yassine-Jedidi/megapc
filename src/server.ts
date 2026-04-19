@@ -23,19 +23,29 @@ app.use('*', cors());
  */
 app.all('/api/images/*', async (c) => {
   const targetPath = c.req.path.replace(/^\/api\/images/, '');
-  const targetUrl = `https://apibackend.megapc.tn${targetPath}`;
+  const w = c.req.query('w');
+  const q = c.req.query('q');
+  
+  let targetUrl;
+  if (w || q) {
+    const fullImageUrl = `https://static.gi-ga.tech${targetPath}`;
+    targetUrl = `https://www.megapc.tn/_next/image?url=${encodeURIComponent(fullImageUrl)}&w=${w || 1080}&q=${q || 75}`;
+  } else {
+    targetUrl = `https://apibackend.megapc.tn${targetPath}`;
+  }
   
   try {
     const response = await fetch(targetUrl, {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Referer': 'https://megapc.tn/',
-        'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Referer': 'https://www.megapc.tn/',
+        'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
       }
     });
 
     if (!response.ok) {
-       console.error(`External image fetch failed: ${response.status} ${targetUrl}`);
+       console.error(`Image proxy failed: ${response.status} for ${targetUrl}`);
        return c.text('Not found', 404);
     }
 
@@ -52,9 +62,37 @@ app.all('/api/images/*', async (c) => {
   }
 });
 
-/**
- * 2. API ROUTES
- */
+// Centralized filtering logic for syncing counts across products and categories
+const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
+  const search = c.req.query('search') || '';
+  const onSale = c.req.query('onSale') === 'true';
+  const isNew = c.req.query('isNew') === 'true';
+  const inStock = c.req.query('inStock') === 'true';
+  const isArriving = c.req.query('isArriving') === 'true';
+  const commande48H = c.req.query('commande48H') === 'true';
+  const quoteMode = c.req.query('quoteMode') === 'true';
+  const checkStock = c.req.query('checkStock') === 'true';
+  const isPrivate = c.req.query('isPrivate') === 'true';
+  const minPrice = parseFloat(c.req.query('minPrice') || '0');
+  const maxPrice = parseFloat(c.req.query('maxPrice') || '25000');
+
+  return {
+    AND: [
+      search ? { title: { contains: search, mode: 'insensitive' } } : {},
+      onSale ? { OR: [{ onSale: true }, { salePrice: { not: null } }] } : {},
+      isNew ? { isNew: true } : {},
+      inStock ? { stock: { gt: 0 } } : {},
+      isArriving ? { isArriving: true } : {},
+      commande48H ? { commande48H: true } : {},
+      quoteMode ? { quoteMode: true } : {},
+      checkStock ? { checkStock: true } : {},
+      isPrivate ? { isPrivate: true } : {},
+      { price: { gte: minPrice, lte: maxPrice } }
+    ]
+  };
+};
+
+// 1. GET /api/products - Optimized with pagination and filters
 app.get('/api/products', async (c) => {
   const page = parseInt(c.req.query('page') || '1');
   const limit = parseInt(c.req.query('limit') || '20');
@@ -69,35 +107,6 @@ app.get('/api/products', async (c) => {
     'price-asc': { price: 'asc' },
     'price-desc': { price: 'desc' },
     'popular': { viewCount: 'desc' }
-  };
-
-  const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
-    const search = c.req.query('search') || '';
-    const onSale = c.req.query('onSale') === 'true';
-    const isNew = c.req.query('isNew') === 'true';
-    const inStock = c.req.query('inStock') === 'true';
-    const isArriving = c.req.query('isArriving') === 'true';
-    const commande48H = c.req.query('commande48H') === 'true';
-    const quoteMode = c.req.query('quoteMode') === 'true';
-    const checkStock = c.req.query('checkStock') === 'true';
-    const isPrivate = c.req.query('isPrivate') === 'true';
-    const minPrice = parseFloat(c.req.query('minPrice') || '0');
-    const maxPrice = parseFloat(c.req.query('maxPrice') || '25000');
-
-    return {
-      AND: [
-        search ? { title: { contains: search, mode: 'insensitive' } } : {},
-        onSale ? { OR: [{ onSale: true }, { salePrice: { not: null } }] } : {},
-        isNew ? { isNew: true } : {},
-        inStock ? { stock: { gt: 0 } } : {},
-        isArriving ? { isArriving: true } : {},
-        commande48H ? { commande48H: true } : {},
-        quoteMode ? { quoteMode: true } : {},
-        checkStock ? { checkStock: true } : {},
-        isPrivate ? { isPrivate: true } : {},
-        { price: { gte: minPrice, lte: maxPrice } }
-      ]
-    };
   };
 
   const sharedFilters = getSharedFilters(c);
@@ -154,7 +163,6 @@ app.get('/api/products/:slug', async (c) => {
 });
 
 app.get('/api/categories', async (c) => {
-  // Reuse shared filters here to get accurate counts
   const categories = await prisma.category.findMany({
     include: { _count: { select: { products: true } } },
     orderBy: { name: 'asc' }
@@ -176,10 +184,7 @@ app.get('/api/categories/:id/sub', async (c) => {
 /**
  * 3. STATIC FILES & SPA FALLBACK (Lowest Priority)
  */
-// Serve static assets (JS, CSS, images in public folder)
 app.use('/*', serveStatic({ root: './dist' }));
-
-// SPA Fallback: All other routes serve index.html
 app.get('*', serveStatic({ path: './dist/index.html' }));
 
 export default {
