@@ -6,6 +6,9 @@ const path = require('path');
 
 async function scrapeQuoiDeNeuf(targetCount = 50) {
     const url = 'https://megapc.tn/shop/quoi-de-neuf';
+    const today = new Date();
+    const dateStr = `${String(today.getDate()).padStart(2, '0')}/${String(today.getMonth() + 1).padStart(2, '0')}/${today.getFullYear()}`;
+    console.log(`📅 Scrape started on: ${dateStr}`);
     console.log(`Launching Chrome via puppeteer-stealth to scrape up to ${targetCount} products...`);
 
     const browser = await puppeteer.launch({
@@ -28,7 +31,8 @@ async function scrapeQuoiDeNeuf(targetCount = 50) {
     const page = pages.length > 0 ? pages[0] : await browser.newPage();
 
     // Intercept API responses
-    const capturedProducts = [];
+    // Use a Map keyed by _id to prevent duplicates
+    const capturedMap = new Map();
     page.on('response', async (response) => {
         const reqUrl = response.url();
         const method = response.request().method();
@@ -55,10 +59,12 @@ async function scrapeQuoiDeNeuf(targetCount = 50) {
                 }
 
                 if (newItems.length > 0) {
-                     console.log(`  → Intercepted ${newItems.length} products.`);
-                     capturedProducts.push(...newItems);
+                     const before = capturedMap.size;
+                     newItems.forEach(p => { if (p._id) capturedMap.set(p._id, p); });
+                     const added = capturedMap.size - before;
+                     console.log(`  → Intercepted ${newItems.length} products (${added} new, ${newItems.length - added} dupes skipped). Total: ${capturedMap.size}`);
                 }
-            } catch (e) {
+            } catch {
                  // Ignore parsing errors for non-JSON or interrupted responses
             }
         }
@@ -76,17 +82,36 @@ async function scrapeQuoiDeNeuf(targetCount = 50) {
     });
     const initialProducts = nextData?.props?.pageProps?.initialProducts || [];
     if (initialProducts.length > 0) {
-        capturedProducts.push(...initialProducts);
-        console.log(`Got ${initialProducts.length} initial products from the DOM.`);
+        initialProducts.forEach(p => { if (p._id) capturedMap.set(p._id, p); });
+        console.log(`Got ${capturedMap.size} initial products from the DOM.`);
     }
 
     // Scroll to trigger more loads
     let lastCount = 0;
     let stalls = 0;
     
-    while (capturedProducts.length < targetCount && stalls < 4) {
-        console.log(`Scrolling gradually... (${capturedProducts.length} collected so far)`);
+    let lastLogCount = 0;
+    while (capturedMap.size < targetCount && stalls < 24) {
+        console.log(`Scrolling gradually... (${capturedMap.size} collected so far)`);
         
+        // Check if we passed a 100-product milestone to log the date and auto-save
+        const currentSize = capturedMap.size;
+        if (currentSize >= lastLogCount + 100) {
+            lastLogCount = Math.floor(currentSize / 100) * 100;
+            const capturedList = [...capturedMap.values()];
+            const lastProduct = capturedList[capturedList.length - 1];
+            
+            // Incremental Save
+            const outPath = path.join(process.cwd(), 'data', 'products.json');
+            fs.writeFileSync(outPath, JSON.stringify(capturedList, null, 2));
+
+            if (lastProduct && lastProduct.create_date) {
+                const date = new Date(lastProduct.create_date);
+                const dateStr = `${String(date.getDate()).padStart(2, '0')}/${String(date.getMonth() + 1).padStart(2, '0')}/${date.getFullYear()}`;
+                console.log(`\n💾 Auto-saved ${currentSize} products. Most recent product date: ${dateStr}\n`);
+            }
+        }
+
         // Scroll to the bottom to trigger lazy loading
         await page.evaluate(() => {
             window.scrollTo(0, document.body.scrollHeight);
@@ -95,9 +120,9 @@ async function scrapeQuoiDeNeuf(targetCount = 50) {
         // Wait for potential API response
         await new Promise(r => setTimeout(r, 2500));
         
-        if (capturedProducts.length === lastCount) {
+        if (capturedMap.size === lastCount) {
              stalls++;
-             console.log(`No new products loaded (Stall ${stalls}/4). Nudging scroll...`);
+             console.log(`No new products loaded (Stall ${stalls}/24). Nudging scroll...`);
              await page.evaluate(() => {
                  window.scrollBy(0, -500);
                  setTimeout(() => window.scrollTo(0, document.body.scrollHeight), 500);
@@ -107,12 +132,13 @@ async function scrapeQuoiDeNeuf(targetCount = 50) {
              stalls = 0; // Reset stall counter because we got new data
         }
         
-        lastCount = capturedProducts.length;
+        lastCount = capturedMap.size;
     }
 
 
     await browser.close();
 
+    const capturedProducts = [...capturedMap.values()];
     const final = capturedProducts.slice(0, targetCount);
     console.log(`\n✅ Done! Captured ${final.length} products.`);
     final.forEach((p, i) => {
@@ -125,7 +151,7 @@ async function scrapeQuoiDeNeuf(targetCount = 50) {
     return final;
 }
 
-scrapeQuoiDeNeuf(50).catch(err => {
+scrapeQuoiDeNeuf(10000).catch(err => {
     console.error('Fatal error:', err.message);
     process.exit(1);
 });
