@@ -1,4 +1,5 @@
 import { Search, ShoppingCart, PanelLeftClose, PanelLeftOpen } from 'lucide-react'
+import type { CartItem } from '@/types'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Badge } from "@/components/ui/badge"
@@ -8,9 +9,14 @@ interface HeaderProps {
   setSidebarOpen: (open: boolean) => void;
   search: string;
   setSearch: (search: string) => void;
+  cart: CartItem[];
+  onOpenCart: () => void;
 }
 
-export function Header({ sidebarOpen, setSidebarOpen, search, setSearch }: HeaderProps) {
+export function Header({ sidebarOpen, setSidebarOpen, search, setSearch, cart, onOpenCart }: HeaderProps) {
+  const totalItems = cart.reduce((acc, item) => acc + item.quantity, 0)
+  const totalPrice = cart.reduce((acc, item) => acc + (item.price * item.quantity), 0)
+
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/80 backdrop-blur-md">
       <div className="container flex h-16 items-center justify-between px-0 mx-auto">
@@ -35,10 +41,23 @@ export function Header({ sidebarOpen, setSidebarOpen, search, setSearch }: Heade
           </div>
         </div>
 
-        <div className="flex items-center gap-2 pr-4 min-w-[200px] justify-end">
-          <Button variant="ghost" size="icon" className="relative">
-            <ShoppingCart className="h-5 w-5" />
-            <Badge className="absolute -top-1 -right-1 h-4 w-4 p-0 flex items-center justify-center text-[8px] bg-primary">0</Badge>
+        <div className="flex items-center gap-4 pr-4 min-w-[200px] justify-end">
+          {totalPrice > 0 && (
+            <div className="hidden sm:flex flex-col items-end gap-0">
+              <span className="text-[10px] font-black tracking-tight text-primary uppercase">Mon Panier</span>
+              <span className="text-[12px] font-black tabular-nums">{totalPrice.toLocaleString()} TND</span>
+            </div>
+          )}
+          <Button 
+            variant="ghost" 
+            size="icon" 
+            className="relative group"
+            onClick={onOpenCart}
+          >
+            <ShoppingCart className="h-5 w-5 group-hover:text-primary transition-colors" />
+            <Badge className="absolute -top-1 -right-1 h-4 w-4 p-0 flex items-center justify-center text-[8px] bg-primary border-none shadow-lg shadow-primary/20">
+              {totalItems}
+            </Badge>
           </Button>
         </div>
       </div>

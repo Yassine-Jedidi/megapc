@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { ArrowLeft, PackageOpen } from 'lucide-react'
 import { Button } from "@/components/ui/button"
+import { Skeleton } from "@/components/ui/skeleton"
+import { Card } from "@/components/ui/card"
 
 import type { Product, ProductDetailsProps } from '@/types'
 import { ProductGallery } from './product/ProductGallery'
@@ -9,7 +11,7 @@ import { ProductInfo } from './product/ProductInfo'
 import { PriceHistoryChart } from './product/PriceHistoryChart'
 import { ProductDescription } from './product/ProductDescription'
 
-export function ProductDetails({ onNavigate }: ProductDetailsProps) {
+export function ProductDetails({ onNavigate, addToCart }: ProductDetailsProps) {
   const { slug } = useParams<{ slug: string }>()
   const navigate = useNavigate()
   const [product, setProduct] = useState<Product | null>(null)
@@ -50,10 +52,42 @@ export function ProductDetails({ onNavigate }: ProductDetailsProps) {
 
   if (loading) {
     return (
-      <div className="flex-1 flex items-center justify-center py-20">
-        <div className="text-center">
-          <div className="w-10 h-10 border-2 border-primary border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-          <p className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground">Chargement...</p>
+      <div className="flex-1 flex flex-col">
+        <div className="h-14 flex items-center border-b px-8">
+          <Skeleton className="h-9 w-24 rounded-xl bg-muted/20" />
+        </div>
+        <div className="p-8 lg:p-12">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+            <div className="flex flex-col gap-6">
+              <Skeleton className="aspect-square rounded-2xl bg-muted/20 w-full" />
+              <div className="flex gap-4">
+                <Skeleton className="h-20 w-20 rounded-xl bg-muted/20" />
+                <Skeleton className="h-20 w-20 rounded-xl bg-muted/20" />
+                <Skeleton className="h-20 w-20 rounded-xl bg-muted/20" />
+              </div>
+            </div>
+            <div className="flex flex-col gap-8">
+              <div className="space-y-4">
+                <Skeleton className="h-3 w-1/4 bg-muted/20 rounded-lg" />
+                <Skeleton className="h-10 w-3/4 bg-muted/20 rounded-xl" />
+                <div className="flex gap-2">
+                  <Skeleton className="h-5 w-16 bg-muted/20 rounded-lg" />
+                  <Skeleton className="h-5 w-20 bg-muted/20 rounded-lg" />
+                </div>
+              </div>
+              <Card className="p-8 border-none bg-muted/10 ring-1 ring-white/5 rounded-2xl space-y-8">
+                <div className="flex justify-between">
+                  <Skeleton className="h-3 w-20 bg-muted/20" />
+                  <Skeleton className="h-6 w-16 bg-muted/20 rounded-lg" />
+                </div>
+                <Skeleton className="h-12 w-48 bg-muted/20" />
+                <div className="space-y-3">
+                  <Skeleton className="h-12 w-full bg-muted/20 rounded-xl" />
+                  <Skeleton className="h-12 w-full bg-muted/20 rounded-xl" />
+                </div>
+              </Card>
+            </div>
+          </div>
         </div>
       </div>
     )
@@ -97,6 +131,7 @@ export function ProductDetails({ onNavigate }: ProductDetailsProps) {
               onNavigate={onNavigate} 
               navigate={navigate} 
               slug={slug} 
+              addToCart={addToCart}
             />
 
             <PriceHistoryChart product={product} />

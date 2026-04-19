@@ -9,9 +9,10 @@ interface ProductInfoProps {
   onNavigate: (categoryId: string | null, subCategoryId: string | null) => void;
   navigate: (path: string) => void;
   slug: string | undefined;
+  addToCart: (product: Product) => void;
 }
 
-export function ProductInfo({ product, onNavigate, navigate, slug }: ProductInfoProps) {
+export function ProductInfo({ product, onNavigate, navigate, slug, addToCart }: ProductInfoProps) {
   const isDevis = product.quoteMode
 
   return (
@@ -115,7 +116,10 @@ export function ProductInfo({ product, onNavigate, navigate, slug }: ProductInfo
               <FileText className="w-4 h-4 mr-2" /> Demander un devis
             </Button>
           ) : (
-            <Button className="h-12 w-full rounded-xl bg-primary text-primary-foreground font-bold uppercase text-[11px] tracking-wider shadow-lg shadow-primary/20 border-none">
+            <Button 
+              onClick={() => addToCart(product)}
+              className="h-12 w-full rounded-xl bg-primary text-primary-foreground font-bold uppercase text-[11px] tracking-wider shadow-lg shadow-primary/20 border-none"
+            >
               <ShoppingCart className="w-4 h-4 mr-2" /> Ajouter au panier
             </Button>
           )}

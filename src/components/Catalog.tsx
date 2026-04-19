@@ -1,6 +1,6 @@
 import { Plus } from 'lucide-react'
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
+import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Skeleton } from "@/components/ui/skeleton"
 import {
@@ -36,6 +36,7 @@ interface CatalogProps {
   setPage: (page: number) => void;
   totalPages: number;
   getPages: () => (number | string)[];
+  addToCart: (product: Product) => void;
 }
 
 export function Catalog({
@@ -50,7 +51,8 @@ export function Catalog({
   page,
   setPage,
   totalPages,
-  getPages
+  getPages,
+  addToCart
 }: CatalogProps) {
   const navigate = useNavigate();
 
@@ -101,18 +103,24 @@ export function Catalog({
           <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-6">
             {loading && products.length === 0 ? (
               Array(12).fill(0).map((_, i) => (
-                <Card key={i} className="overflow-hidden border-none bg-muted/20">
+                <Card key={i} className="overflow-hidden border-none bg-card ring-1 ring-white/5 flex flex-col h-full">
                   <div className="p-3">
-                    <Skeleton className="aspect-square rounded-2xl" />
+                    <Skeleton className="aspect-square rounded-2xl bg-muted/20" />
                   </div>
-                  <CardHeader className="p-5 space-y-3">
-                    <Skeleton className="h-3 w-1/3" />
-                    <Skeleton className="h-5 w-full" />
-                    <Skeleton className="h-5 w-2/3" />
-                  </CardHeader>
-                  <CardFooter className="p-5">
-                    <Skeleton className="h-10 w-full rounded-xl" />
-                  </CardFooter>
+                  <CardContent className="p-6 flex flex-col space-y-4 flex-1">
+                    <Skeleton className="h-2.5 w-1/3 bg-muted/20" />
+                    <div className="space-y-2">
+                      <Skeleton className="h-4 w-full bg-muted/20" />
+                      <Skeleton className="h-4 w-2/3 bg-muted/20" />
+                    </div>
+                    <div className="flex items-center justify-between pt-4 mt-auto">
+                      <div className="space-y-2">
+                        <Skeleton className="h-3 w-16 bg-muted/20" />
+                        <Skeleton className="h-6 w-24 bg-muted/20" />
+                      </div>
+                      <Skeleton className="h-10 w-10 rounded-2xl bg-muted/20" />
+                    </div>
+                  </CardContent>
                 </Card>
               ))
             ) : (
@@ -178,7 +186,7 @@ export function Catalog({
                         className="h-10 w-10 rounded-2xl bg-primary text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:scale-110 hover:shadow-primary/40 active:scale-95 border-none"
                         onClick={(e) => {
                           e.stopPropagation();
-                          // Add to cart logic would go here
+                          addToCart(product);
                         }}
                       >
                         <Plus className="h-5 w-5 stroke-[2.5px]" />

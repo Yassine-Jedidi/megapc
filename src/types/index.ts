@@ -13,6 +13,15 @@ export interface PriceHistory {
   createdAt: string;
 }
 
+export interface CartItem {
+  id: string;
+  productId: string;
+  title: string;
+  price: number;
+  quantity: number;
+  image: string;
+}
+
 export interface Product {
   id: string;
   slug: string;
@@ -43,4 +52,5 @@ export interface Product {
 
 export interface ProductDetailsProps {
   onNavigate: (categoryId: string | null, subCategoryId: string | null) => void;
+  addToCart: (product: Product) => void;
 }

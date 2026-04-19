@@ -4,8 +4,9 @@ import { ProductDetails } from "@/components/ProductDetails"
 import { Header } from "@/components/Header"
 import { Sidebar } from "@/components/Sidebar"
 import { Catalog } from "@/components/Catalog"
+import { CartDrawer } from "@/components/CartDrawer"
 
-import type { Product, Category } from '@/types'
+import type { Product, Category, CartItem } from '@/types'
 
 function App() {
   const [products, setProducts] = useState<Product[]>([])
@@ -32,6 +33,50 @@ function App() {
 
   const [loading, setLoading] = useState(true)
   const [sidebarOpen, setSidebarOpen] = useState(true)
+  const [isCartOpen, setIsCartOpen] = useState(false)
+
+  const [cart, setCart] = useState<CartItem[]>(() => {
+    const saved = localStorage.getItem('megapc-cart')
+    return saved ? JSON.parse(saved) : []
+  })
+
+  useEffect(() => {
+    localStorage.setItem('megapc-cart', JSON.stringify(cart))
+  }, [cart])
+
+  const addToCart = (product: Product) => {
+    setCart(prev => {
+      const existing = prev.find(item => item.productId === product.id)
+      if (existing) {
+        return prev.map(item => 
+          item.productId === product.id ? { ...item, quantity: item.quantity + 1 } : item
+        )
+      }
+      return [...prev, {
+        id: Math.random().toString(36).substring(2, 9),
+        productId: product.id,
+        title: product.title,
+        price: product.salePrice || product.price,
+        quantity: 1,
+        image: product.images[0] || ''
+      }]
+    })
+    setIsCartOpen(true)
+  }
+
+  const removeFromCart = (id: string) => {
+    setCart(prev => prev.filter(item => item.id !== id))
+  }
+
+  const updateQuantity = (id: string, delta: number) => {
+    setCart(prev => prev.map(item => {
+      if (item.id === id) {
+        const nextQty = Math.max(1, item.quantity + delta)
+        return { ...item, quantity: nextQty }
+      }
+      return item
+    }))
+  }
 
   // Reset to page 1 when any filter changes
   useEffect(() => {
@@ -190,6 +235,16 @@ function App() {
         setSidebarOpen={setSidebarOpen} 
         search={search} 
         setSearch={setSearch} 
+        cart={cart}
+        onOpenCart={() => setIsCartOpen(true)}
+      />
+
+      <CartDrawer 
+        isOpen={isCartOpen}
+        onClose={() => setIsCartOpen(false)}
+        cart={cart}
+        removeFromCart={removeFromCart}
+        updateQuantity={updateQuantity}
       />
 
       <div className="flex-1 flex container mx-auto">
@@ -201,6 +256,7 @@ function App() {
                 setSelectedSubCategory(subId);
                 if (catId) fetchSubCategories(catId);
               }}
+              addToCart={addToCart}
             />
           } />
           <Route path="/" element={
@@ -251,6 +307,7 @@ function App() {
                 setPage={setPage}
                 totalPages={totalPages}
                 getPages={getPages}
+                addToCart={addToCart}
               />
             </>
           } />
