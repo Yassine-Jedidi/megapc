@@ -1,4 +1,5 @@
 import { Hono } from 'hono';
+import type { Context } from 'hono';
 import { cors } from 'hono/cors';
 import { Pool } from 'pg';
 import { PrismaPg } from '@prisma/adapter-pg';
@@ -15,18 +16,36 @@ const app = new Hono();
 app.use('*', logger());
 app.use('*', cors());
 
-// 1. GET /api/products - Optimized with pagination and filters
-app.get('/api/products', async (c) => {
-  const page = parseInt(c.req.query('page') || '1');
-  const limit = parseInt(c.req.query('limit') || '20');
+// Centralized filtering logic for syncing counts across products and categories
+const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
   const search = c.req.query('search') || '';
-  const categoryId = c.req.query('categoryId');
   const onSale = c.req.query('onSale') === 'true';
   const isNew = c.req.query('isNew') === 'true';
   const inStock = c.req.query('inStock') === 'true';
   const isArriving = c.req.query('isArriving') === 'true';
+  const commande48H = c.req.query('commande48H') === 'true';
   const minPrice = parseFloat(c.req.query('minPrice') || '0');
   const maxPrice = parseFloat(c.req.query('maxPrice') || '20000');
+
+  return {
+    AND: [
+      search ? { title: { contains: search, mode: 'insensitive' } } : {},
+      onSale ? { onSale: true } : {},
+      isNew ? { isNew: true } : {},
+      inStock ? { stock: { gt: 0 } } : {},
+      isArriving ? { isArriving: true } : {},
+      commande48H ? { commande48H: true } : {},
+      { price: { gte: minPrice, lte: maxPrice } }
+    ]
+  };
+};
+
+// 1. GET /api/products - Optimized with pagination and filters
+app.get('/api/products', async (c) => {
+  const page = parseInt(c.req.query('page') || '1');
+  const limit = parseInt(c.req.query('limit') || '20');
+  const categoryId = c.req.query('categoryId');
+  const subCategoryId = c.req.query('subCategoryId');
   const sortBy = c.req.query('sortBy') || 'newest';
   const skip = (page - 1) * limit;
 
@@ -38,16 +57,13 @@ app.get('/api/products', async (c) => {
     'popular': { viewCount: 'desc' }
   };
 
+  const sharedFilters = getSharedFilters(c);
+
   const whereClause: Prisma.ProductWhereInput = {
     AND: [
-      search ? { title: { contains: search, mode: 'insensitive' } } : {},
+      sharedFilters,
       categoryId ? { categoryId: categoryId } : {},
-      c.req.query('subCategoryId') ? { subCategoryId: c.req.query('subCategoryId') } : {},
-      onSale ? { onSale: true } : {},
-      isNew ? { isNew: true } : {},
-      inStock ? { stock: { gt: 0 } } : {},
-      isArriving ? { isArriving: true } : {},
-      { price: { gte: minPrice, lte: maxPrice } }
+      subCategoryId ? { subCategoryId: subCategoryId } : {}
     ]
   };
 
@@ -95,10 +111,15 @@ app.get('/api/products/:slug', async (c) => {
 
 // 3. GET /api/categories - All categories for navigation
 app.get('/api/categories', async (c) => {
+  const sharedFilters = getSharedFilters(c);
+
   const categories = await prisma.category.findMany({
+    where: {
+      products: { some: sharedFilters }
+    },
     include: {
       _count: {
-        select: { products: true }
+        select: { products: { where: sharedFilters } }
       }
     },
     orderBy: { name: 'asc' }
@@ -109,10 +130,15 @@ app.get('/api/categories', async (c) => {
 // 4. GET /api/categories/:id/sub - Get sub-categories for a main category
 app.get('/api/categories/:id/sub', async (c) => {
   const id = c.req.param('id');
+  const sharedFilters = getSharedFilters(c);
   
   const categoryCounts = await prisma.product.groupBy({
     by: ['subCategoryId'],
-    where: { categoryId: id, subCategoryId: { not: null } },
+    where: { 
+      categoryId: id, 
+      subCategoryId: { not: null },
+      ...sharedFilters
+    },
     _count: { subCategoryId: true }
   });
 

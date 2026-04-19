@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box, Truck } from 'lucide-react'
+import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box, Truck, Timer } from 'lucide-react'
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
@@ -57,6 +57,7 @@ function App() {
   const [isNew, setIsNew] = useState(false)
   const [inStock, setInStock] = useState(false)
   const [isArriving, setIsArriving] = useState(false)
+  const [commande48H, setCommande48H] = useState(false)
   const [priceRange, setPriceRange] = useState([0, 20000])
   const [sortBy, setSortBy] = useState('newest')
 
@@ -70,27 +71,42 @@ function App() {
   // Reset to page 1 when any filter changes
   useEffect(() => {
     setPage(1)
-  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, priceRange, sortBy])
+  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, priceRange, sortBy])
+
+  const getSharedQueryParams = useCallback(() => {
+    return {
+      search,
+      onSale: onSale.toString(),
+      isNew: isNew.toString(),
+      inStock: inStock.toString(),
+      isArriving: isArriving.toString(),
+      commande48H: commande48H.toString(),
+      minPrice: priceRange[0].toString(),
+      maxPrice: priceRange[1].toString(),
+    }
+  }, [search, onSale, isNew, inStock, isArriving, commande48H, priceRange])
 
   const fetchCategories = useCallback(async () => {
     try {
-      const res = await fetch('http://localhost:3001/api/categories')
+      const query = new URLSearchParams(getSharedQueryParams())
+      const res = await fetch(`http://localhost:3001/api/categories?${query}`)
       const data = await res.json()
       setCategories(data)
     } catch (e) {
       console.error('Failed to fetch categories', e)
     }
-  }, [])
+  }, [getSharedQueryParams])
 
-  const fetchSubCategories = async (catId: string) => {
+  const fetchSubCategories = useCallback(async (catId: string) => {
     try {
-      const res = await fetch(`http://localhost:3001/api/categories/${catId}/sub`)
+      const query = new URLSearchParams(getSharedQueryParams())
+      const res = await fetch(`http://localhost:3001/api/categories/${catId}/sub?${query}`)
       const data = await res.json()
       setSubCategories(data)
     } catch (e) {
       console.error('Failed to fetch sub-categories', e)
     }
-  }
+  }, [getSharedQueryParams])
 
   const fetchProducts = useCallback(async () => {
     setLoading(true)
@@ -98,14 +114,8 @@ function App() {
       const query = new URLSearchParams({
         page: page.toString(),
         limit: '48',
-        search,
-        onSale: onSale.toString(),
-        isNew: isNew.toString(),
-        inStock: inStock.toString(),
-        isArriving: isArriving.toString(),
-        minPrice: priceRange[0].toString(),
-        maxPrice: priceRange[1].toString(),
         sortBy,
+        ...getSharedQueryParams()
       })
       if (selectedCategory) query.append('categoryId', selectedCategory)
       if (selectedSubCategory) query.append('subCategoryId', selectedSubCategory)
@@ -120,20 +130,23 @@ function App() {
     } finally {
       setLoading(false)
     }
-  }, [page, search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, priceRange, sortBy])
+  }, [page, selectedCategory, selectedSubCategory, sortBy, getSharedQueryParams])
 
   useEffect(() => {
     document.documentElement.classList.add('dark')
-    fetchCategories()
-  }, [fetchCategories])
+  }, [])
 
   useEffect(() => {
     const timer = setTimeout(() => {
+      fetchCategories()
+      if (selectedCategory) {
+        fetchSubCategories(selectedCategory)
+      }
       fetchProducts()
     }, 400) // Debounce 400ms for smooth sliding
     window.scrollTo({ top: 0, behavior: 'smooth' })
     return () => clearTimeout(timer)
-  }, [fetchProducts])
+  }, [fetchProducts, fetchCategories, fetchSubCategories, selectedCategory])
 
   // Simple page calculation for the UI
   const getPages = () => {
@@ -238,11 +251,17 @@ function App() {
                     </Label>
                     <Switch id="is-arriving" checked={isArriving} onCheckedChange={setIsArriving} />
                   </div>
+                  <div className="flex items-center justify-between">
+                    <Label htmlFor="commande-48h" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                       <Timer className="h-3 w-3 text-emerald-400" /> LIVRAISON 48H
+                    </Label>
+                    <Switch id="commande-48h" checked={commande48H} onCheckedChange={setCommande48H} />
+                  </div>
                 </div>
               </div>
 
               <div className="flex flex-col gap-6">
-                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
                   <Button
                     variant="ghost"
                     size="sm"
@@ -255,6 +274,7 @@ function App() {
                       setIsNew(false);
                       setInStock(false);
                       setIsArriving(false);
+                      setCommande48H(false);
                       setPriceRange([0, 20000]);
                       setSortBy('newest');
                     }}
@@ -366,7 +386,7 @@ function App() {
                       {sortBy === 'price-asc' && 'Prix croissant'}
                       {sortBy === 'price-desc' && 'Prix décroissant'}
                     </SelectTrigger>
-                    <SelectContent alignItemWithTrigger={false} className="rounded-xl border-white/10 bg-background/95 backdrop-blur-md">
+                    <SelectContent sideOffset={8} alignItemWithTrigger={false} className="rounded-xl border-white/10 bg-background/95 backdrop-blur-md">
                       <SelectItem value="newest" className="text-xs font-bold uppercase tracking-wide">Nouveautés</SelectItem>
                       <SelectItem value="popular" className="text-xs font-bold uppercase tracking-wide">Plus populaires</SelectItem>
                       <SelectItem value="price-asc" className="text-xs font-bold uppercase tracking-wide">Prix croissant</SelectItem>
@@ -374,7 +394,7 @@ function App() {
                     </SelectContent>
                   </Select>
 
-                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
+                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || priceRange[0] !== 0 || priceRange[1] !== 20000 || sortBy !== 'newest') && (
                     <Button
                       variant="ghost"
                       size="sm"
@@ -387,6 +407,7 @@ function App() {
                         setIsNew(false);
                         setInStock(false);
                         setIsArriving(false);
+                        setCommande48H(false);
                         setPriceRange([0, 20000]);
                         setSortBy('newest');
                       }}
