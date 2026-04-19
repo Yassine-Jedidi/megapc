@@ -517,8 +517,10 @@ function App() {
                                   </Badge>
                                 )}
                                 <img
-                                  src={product.images[0] ? `/api/images${product.images[0]}` : 'https://via.placeholder.com/400'}
+                                  src={product.images[0] ? `/api/images${product.images[0]}` : ''}
                                   alt={product.title}
+                                  loading="lazy"
+                                  decoding="async"
                                   className="w-full h-full object-contain brightness-110"
                                 />
                               </div>

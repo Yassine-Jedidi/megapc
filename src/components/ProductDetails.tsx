@@ -131,7 +131,7 @@ export function ProductDetails({ onNavigate }: ProductDetailsProps) {
                       activeImage === img ? 'ring-primary' : 'ring-white/5 opacity-50 hover:opacity-100'
                     )}
                   >
-                    <img src={`/api/images${img}`} className="w-full h-full object-contain" alt="" />
+                    <img src={`/api/images${img}`} loading="lazy" decoding="async" className="w-full h-full object-contain" alt="" />
                   </button>
                 ))}
               </div>
