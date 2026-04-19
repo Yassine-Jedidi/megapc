@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box, Truck, Timer, FileText, ShieldCheck, Lock } from 'lucide-react'
 import { cn } from "@/lib/utils"
+import { ProductDetails } from "@/components/ProductDetails"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
@@ -55,7 +56,7 @@ function App() {
   const [selectedSubCategory, setSelectedSubCategory] = useState<string | null>(null)
   const [onSale, setOnSale] = useState(false)
   const [isNew, setIsNew] = useState(false)
-  const [inStock, setInStock] = useState(false)
+  const [inStock, setInStock] = useState(true)
   const [isArriving, setIsArriving] = useState(false)
   const [commande48H, setCommande48H] = useState(false)
   const [quoteMode, setQuoteMode] = useState(false)
@@ -64,6 +65,7 @@ function App() {
   const [absoluteMaxPrice, setAbsoluteMaxPrice] = useState(20000)
   const [priceRange, setPriceRange] = useState([0, 20000])
   const [sortBy, setSortBy] = useState('newest')
+  const [selectedProductSlug, setSelectedProductSlug] = useState<string | null>(null)
 
   const [page, setPage] = useState(1)
   const [totalPages, setTotalPages] = useState(1)
@@ -217,8 +219,21 @@ function App() {
       </header>
 
       <div className="flex-1 flex container mx-auto">
-        {/* Left Sidebar Filter */}
-        <aside className={`${sidebarOpen ? 'w-72' : 'w-0'} sticky top-16 h-[calc(100vh-4rem)] border-r bg-muted/5 transition-all duration-300 hidden lg:block overflow-hidden`}>
+        {selectedProductSlug ? (
+          <ProductDetails 
+            slug={selectedProductSlug} 
+            onBack={() => setSelectedProductSlug(null)} 
+            onNavigate={(catId, subId) => {
+              setSelectedCategory(catId);
+              setSelectedSubCategory(subId);
+              if (catId) fetchSubCategories(catId);
+              setSelectedProductSlug(null);
+            }}
+          />
+        ) : (
+          <>
+            {/* Left Sidebar Filter */}
+            <aside className={`${sidebarOpen ? 'w-72' : 'w-0'} sticky top-16 h-[calc(100vh-4rem)] border-r bg-muted/5 transition-all duration-300 hidden lg:block overflow-hidden`}>
           <ScrollArea className="h-full p-6">
             <div className="flex flex-col space-y-6">
               <div>
@@ -243,6 +258,12 @@ function App() {
                 <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Statut</h3>
                 <div className="flex flex-col gap-4 px-1">
                   <div className="flex items-center justify-between">
+                    <Label htmlFor="in-stock" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
+                      <Box className="h-3 w-3 text-green-500" /> EN STOCK
+                    </Label>
+                    <Switch id="in-stock" checked={inStock} onCheckedChange={setInStock} />
+                  </div>
+                  <div className="flex items-center justify-between">
                     <Label htmlFor="on-sale" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
                       <Zap className="h-3 w-3 text-orange-500" /> PROMO
                     </Label>
@@ -253,12 +274,6 @@ function App() {
                       <Rocket className="h-3 w-3 text-blue-400 font-bold" /> NOUVEAUTÉ
                     </Label>
                     <Switch id="is-new" checked={isNew} onCheckedChange={setIsNew} />
-                  </div>
-                  <div className="flex items-center justify-between">
-                    <Label htmlFor="in-stock" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
-                      <Box className="h-3 w-3 text-green-500" /> EN STOCK
-                    </Label>
-                    <Switch id="in-stock" checked={inStock} onCheckedChange={setInStock} />
                   </div>
                   <div className="flex items-center justify-between">
                     <Label htmlFor="is-arriving" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
@@ -294,7 +309,7 @@ function App() {
               </div>
 
               <div className="flex flex-col gap-6">
-                {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest') && (
+                {(selectedCategory || selectedSubCategory || search || onSale || isNew || !inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest') && (
                   <Button
                     variant="ghost"
                     size="sm"
@@ -305,7 +320,7 @@ function App() {
                       setSearch('');
                       setOnSale(false);
                       setIsNew(false);
-                      setInStock(false);
+                      setInStock(true);
                       setIsArriving(false);
                       setCommande48H(false);
                       setQuoteMode(false);
@@ -432,7 +447,7 @@ function App() {
                     </SelectContent>
                   </Select>
 
-                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest') && (
+                  {(selectedCategory || selectedSubCategory || search || onSale || isNew || !inStock || isArriving || commande48H || quoteMode || checkStock || isPrivate || priceRange[0] !== 0 || priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest') && (
                     <Button
                       variant="ghost"
                       size="sm"
@@ -443,7 +458,7 @@ function App() {
                         setSearch('');
                         setOnSale(false);
                         setIsNew(false);
-                        setInStock(false);
+                        setInStock(true);
                         setIsArriving(false);
                         setCommande48H(false);
                         setQuoteMode(false);
@@ -482,7 +497,8 @@ function App() {
                   products.map((product) => (
                     <Card
                       key={product.id}
-                      className="group overflow-hidden border-none bg-card hover:bg-muted/30 transition-all duration-300 ring-1 ring-white/5 hover:ring-primary/30 flex flex-col"
+                      className="group overflow-hidden border-none bg-card hover:bg-muted/30 transition-all duration-300 ring-1 ring-white/5 hover:ring-primary/30 flex flex-col cursor-pointer"
+                      onClick={() => setSelectedProductSlug(product.slug)}
                     >
                       <div className="relative p-3">
                         <div className="relative aspect-square overflow-hidden rounded-2xl bg-black/40 flex items-center justify-center p-0">
@@ -512,15 +528,20 @@ function App() {
 
                         <div className="flex items-center justify-between pt-4 mt-auto">
                           <div className="flex flex-col">
-                            {product.onSale && product.salePrice ? (
-                              <>
-                                <span className="text-[10px] text-muted-foreground/60 line-through font-bold">
-                                  {product.price.toLocaleString()} TND
-                                </span>
+                            {product.salePrice && product.salePrice < product.price ? (
+                              <div className="flex flex-col">
+                                <div className="flex items-center gap-2">
+                                  <span className="text-[10px] text-muted-foreground/50 line-through font-bold">
+                                    {product.price.toLocaleString()} TND
+                                  </span>
+                                  <span className="text-[9px] bg-orange-500/10 text-orange-500 px-1 rounded font-black">
+                                    -{Math.round((1 - product.salePrice / product.price) * 100)}%
+                                  </span>
+                                </div>
                                 <span className="text-xl font-black text-primary tracking-tight">
                                   {product.salePrice.toLocaleString()} <span className="text-[11px] font-bold opacity-70">TND</span>
                                 </span>
-                              </>
+                              </div>
                             ) : (
                               <span className="text-xl font-black text-foreground tracking-tight">
                                 {product.price.toLocaleString()} <span className="text-[11px] font-bold opacity-70">TND</span>
@@ -582,6 +603,8 @@ function App() {
             </div>
           </div>
         </main>
+        </>
+        )}
       </div>
     </div>
   )
