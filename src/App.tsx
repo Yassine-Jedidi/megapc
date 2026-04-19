@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Sparkles, Zap, Box } from 'lucide-react'
+import { Search, ShoppingCart, Plus, Filter, LayoutGrid, X, Rocket, Zap, Box } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
@@ -18,6 +18,7 @@ import {
   PaginationNext, 
   PaginationPrevious 
 } from "@/components/ui/pagination"
+import { Slider } from "@/components/ui/slider"
 
 interface Product {
   id: string
@@ -46,6 +47,7 @@ function App() {
   const [onSale, setOnSale] = useState(false)
   const [isNew, setIsNew] = useState(false)
   const [inStock, setInStock] = useState(false)
+  const [priceRange, setPriceRange] = useState([0, 20000])
   
   const [page, setPage] = useState(1)
   const [totalPages, setTotalPages] = useState(1)
@@ -56,7 +58,7 @@ function App() {
   // Reset to page 1 when any filter changes
   useEffect(() => {
     setPage(1)
-  }, [search, selectedCategory, onSale, isNew, inStock])
+  }, [search, selectedCategory, onSale, isNew, inStock, priceRange])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -78,6 +80,8 @@ function App() {
         onSale: onSale.toString(),
         isNew: isNew.toString(),
         inStock: inStock.toString(),
+        minPrice: priceRange[0].toString(),
+        maxPrice: priceRange[1].toString(),
       })
       if (selectedCategory) query.append('categoryId', selectedCategory)
 
@@ -90,7 +94,7 @@ function App() {
     } finally {
       setLoading(false)
     }
-  }, [page, search, selectedCategory, onSale, isNew, inStock])
+  }, [page, search, selectedCategory, onSale, isNew, inStock, priceRange])
 
   useEffect(() => {
     document.documentElement.classList.add('dark')
@@ -98,8 +102,11 @@ function App() {
   }, [fetchCategories])
 
   useEffect(() => {
-    fetchProducts()
+    const timer = setTimeout(() => {
+      fetchProducts()
+    }, 400) // Debounce 400ms for smooth sliding
     window.scrollTo({ top: 0, behavior: 'smooth' })
+    return () => clearTimeout(timer)
   }, [fetchProducts])
 
   // Simple page calculation for the UI
@@ -189,7 +196,7 @@ function App() {
                   </div>
                   <div className="flex items-center justify-between">
                     <Label htmlFor="is-new" className="text-xs font-bold text-muted-foreground flex items-center gap-2">
-                       <Sparkles className="h-3 w-3 text-primary" /> NOUVEAUTÉ
+                       <Rocket className="h-3 w-3 text-blue-400 font-bold" /> NOUVEAUTÉ
                     </Label>
                     <Switch id="is-new" checked={isNew} onCheckedChange={setIsNew} />
                   </div>
@@ -199,6 +206,31 @@ function App() {
                     </Label>
                     <Switch id="in-stock" checked={inStock} onCheckedChange={setInStock} />
                   </div>
+                </div>
+              </div>
+
+              <Separator className="opacity-20" />
+
+              <div>
+                <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-muted-foreground mb-4">Budget</h3>
+                <div className="flex flex-col gap-5 px-1">
+                  <div className="flex justify-between items-center text-[10px] font-black tracking-wider uppercase">
+                    <span className="text-primary">{priceRange[0].toLocaleString()} TND</span>
+                    <span className="text-muted-foreground/50">—</span>
+                    <span className="text-primary">{priceRange[1].toLocaleString()} TND</span>
+                  </div>
+                  <Slider 
+                    value={priceRange} 
+                    max={20000} 
+                    step={100} 
+                    onValueChange={(val) => {
+                      if (Array.isArray(val)) setPriceRange(val)
+                    }} 
+                    className="cursor-pointer"
+                  />
+                  <p className="text-[9px] text-muted-foreground/40 text-center uppercase font-bold tracking-widest leading-loose">
+                    Ajustez pour trouver le PC de vos rêves
+                  </p>
                 </div>
               </div>
 
@@ -240,7 +272,7 @@ function App() {
                     Affichage de <span className="text-foreground font-bold">{products.length}</span> produits disponibles
                   </p>
                 </div>
-                {(selectedCategory || search || onSale || isNew || inStock) && (
+                {(selectedCategory || search || onSale || isNew || inStock || priceRange[0] !== 0 || priceRange[1] !== 20000) && (
                   <Button
                     variant="ghost"
                     size="sm"
@@ -250,6 +282,7 @@ function App() {
                       setOnSale(false);
                       setIsNew(false);
                       setInStock(false);
+                      setPriceRange([0, 20000]);
                     }}
                     className="text-[10px] font-bold uppercase gap-2 hover:text-red-500"
                   >
