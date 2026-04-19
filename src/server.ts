@@ -6,6 +6,7 @@ import { PrismaPg } from '@prisma/adapter-pg';
 import { PrismaClient, Prisma } from '@prisma/client';
 import { logger } from 'hono/logger';
 import { serveStatic } from 'hono/bun';
+import type { ContentfulStatusCode } from 'hono/utils/http-status';
 
 // Initialize Prisma with the PG Adapter for Hono/Bun speed
 const pool = new Pool({ connectionString: process.env.DATABASE_URL });
@@ -16,6 +17,34 @@ const app = new Hono();
 
 app.use('*', logger());
 app.use('*', cors());
+
+// Production Image Proxy - Mimics the Vite proxy for Railway/Production
+app.all('/api/images/*', async (c) => {
+  const targetPath = c.req.path.replace(/^\/api\/images/, '');
+  const targetUrl = `https://apibackend.megapc.tn${targetPath}`;
+  
+  try {
+    const response = await fetch(targetUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Referer': 'https://megapc.tn/',
+        'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8'
+      }
+    });
+
+    const contentType = response.headers.get('Content-Type') || 'image/jpeg';
+    const buffer = await response.arrayBuffer();
+
+    // Cast status to ContentfulStatusCode (200, 404, etc.) as we are returning a body
+    return c.body(buffer, response.status as ContentfulStatusCode, {
+      'Content-Type': contentType,
+      'Cache-Control': 'public, max-age=86400', // Cache images for 24 hours
+    });
+  } catch (error) {
+    console.error('Image proxy error:', error);
+    return c.text('Failed to fetch image', 500);
+  }
+});
 
 // Centralized filtering logic for syncing counts across products and categories
 const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
