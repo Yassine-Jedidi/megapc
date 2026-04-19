@@ -80,7 +80,7 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
   return {
     AND: [
       search ? { title: { contains: search, mode: "insensitive" } } : {},
-      onSale ? { OR: [{ onSale: true }, { salePrice: { not: null } }] } : {},
+      onSale ? { OR: [{ onSale: true }, { discount: { not: null } }] } : {},
       isNew ? { isNew: true } : {},
       inStock ? { stock: { gt: 0 } } : {},
       isArriving ? { isArriving: true } : {},
@@ -103,10 +103,14 @@ app.get("/api/products", async (c) => {
   const skip = (page - 1) * limit;
 
   // Sorting map
+  // NOTE: We sort by `price` for price-asc/desc (not salePrice) because salePrice
+  // is null for non-promo items, which causes NULL rows to float to top in DESC.
+  // The "effective price" column is always `price`; salePrice is only for display.
   const orderByMap: Record<string, Prisma.ProductOrderByWithRelationInput> = {
-    newest: { siteCreateDate: "desc" },
-    "price-asc": { price: "asc" },
-    "price-desc": { price: "desc" },
+    newest: { siteCreateDate: { sort: "desc", nulls: "last" } },
+    "price-asc": { price: { sort: "asc", nulls: "last" } },
+    "price-desc": { price: { sort: "desc", nulls: "last" } },
+    "discount-desc": { discount: { sort: "desc", nulls: "last" } },
     popular: { viewCount: "desc" },
   };
 
@@ -116,6 +120,7 @@ app.get("/api/products", async (c) => {
       sharedFilters,
       categoryId ? { categoryId: categoryId } : {},
       subCategoryId ? { subCategoryId: subCategoryId } : {},
+      sortBy === "discount-desc" ? { discount: { not: null } } : {},
     ],
   };
 
@@ -182,13 +187,21 @@ app.get("/api/categories/:id/sub", async (c) => {
     where: {
       subProducts: { some: { AND: [{ categoryId: id }, sharedFilters] } },
     },
-    include: { _count: { select: { subProducts: { where: { AND: [{ categoryId: id }, sharedFilters] } } } } },
+    include: {
+      _count: {
+        select: {
+          subProducts: { where: { AND: [{ categoryId: id }, sharedFilters] } },
+        },
+      },
+    },
     orderBy: { name: "asc" },
   });
-  return c.json(subCategories.map(sub => ({
-    ...sub,
-    _count: { products: sub._count?.subProducts || 0 }
-  })));
+  return c.json(
+    subCategories.map((sub) => ({
+      ...sub,
+      _count: { products: sub._count?.subProducts || 0 },
+    })),
+  );
 });
 
 /**

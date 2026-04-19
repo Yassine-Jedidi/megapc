@@ -87,6 +87,16 @@ async function main() {
             const slug = item.lien || item._id;
             const title = item.title || item.title_fr || "Unknown Product";
             const price = typeof item.price === 'string' ? parseFloat(item.price) : (item.price || null);
+            const parsedSalePrice = item.prixEnPromo ? parseFloat(item.prixEnPromo.toString()) : null;
+            // Only set salePrice/discount if there's a genuine promo (parsedSalePrice strictly < price)
+            // Non-promo items keep salePrice=null, discount=null.
+            // Price sorts use the `price` column (always set), not salePrice.
+            let salePrice: number | null = null;
+            let discount: number | null = null;
+            if (price && parsedSalePrice && parsedSalePrice < price) {
+                salePrice = parsedSalePrice;
+                discount = ((price - salePrice) / price) * 100;
+            }
             const images = item.gallerie?.urlPhoto || [];
             
             try {
@@ -104,9 +114,9 @@ async function main() {
                         titleFr: item.title_fr || null,
                         description: item.miniDescription_fr || null,
                         price: price,
-                        onSale: !!item.sale || !!item.prixEnPromo,
-                        salePrice: item.prixEnPromo ? parseFloat(item.prixEnPromo.toString()) : null,
-                        discount: item.discount ? parseFloat(item.discount.toString()) : null,
+                        onSale: !!item.sale || discount !== null,
+                        salePrice: salePrice,
+                        discount: discount,
                         stock: item.stock || 0,
                         isNew: !!item.new,
                         isArriving: !!item.enArrivage,
@@ -129,9 +139,9 @@ async function main() {
                         titleFr: item.title_fr || null,
                         description: item.miniDescription_fr || null,
                         price: price,
-                        onSale: !!item.sale || !!item.prixEnPromo,
-                        salePrice: item.prixEnPromo ? parseFloat(item.prixEnPromo.toString()) : null,
-                        discount: item.discount ? parseFloat(item.discount.toString()) : null,
+                        onSale: !!item.sale || discount !== null,
+                        salePrice: salePrice,
+                        discount: discount,
                         stock: item.stock || 0,
                         isNew: !!item.new,
                         isArriving: !!item.enArrivage,

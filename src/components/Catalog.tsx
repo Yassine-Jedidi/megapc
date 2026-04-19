@@ -76,12 +76,14 @@ export function Catalog({
                   {sortBy === 'popular' && 'Plus populaires'}
                   {sortBy === 'price-asc' && 'Prix croissant'}
                   {sortBy === 'price-desc' && 'Prix décroissant'}
+                  {sortBy === 'discount-desc' && 'Meilleures promos'}
                 </SelectTrigger>
                 <SelectContent sideOffset={8} alignItemWithTrigger={false} className="rounded-xl border-white/10 bg-background/95 backdrop-blur-md">
                   <SelectItem value="newest" className="text-xs font-bold uppercase tracking-wide">Nouveautés</SelectItem>
                   <SelectItem value="popular" className="text-xs font-bold uppercase tracking-wide">Plus populaires</SelectItem>
                   <SelectItem value="price-asc" className="text-xs font-bold uppercase tracking-wide">Prix croissant</SelectItem>
                   <SelectItem value="price-desc" className="text-xs font-bold uppercase tracking-wide">Prix décroissant</SelectItem>
+                  <SelectItem value="discount-desc" className="text-xs font-bold uppercase tracking-wide">Meilleures promos</SelectItem>
                 </SelectContent>
               </Select>
 
