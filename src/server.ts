@@ -68,7 +68,6 @@ app.get('/api/products/:slug', async (c) => {
     include: {
       category: true,
       subCategory: true,
-      attributes: true,
       priceHistory: {
         orderBy: { createdAt: 'asc' }
       }

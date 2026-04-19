@@ -37,13 +37,10 @@ model Product {
   
   subCategory       Category? @relation("SubCategory", fields: [subCategoryId], references: [id])
   subCategoryId      String?
-
-  // technical attributes (e.g., Brand, Powered By)
-  attributes        Attribute[]
-
+  
   // Media
   images            String[] // All photos from gallerie.urlPhoto
-  
+
   // Scraper metadata
   rawData           Json
   siteCreateDate    DateTime? // the "create_date" from the site
@@ -61,16 +58,6 @@ model Category {
   
   products        Product[] @relation("MainCategory")
   subProducts     Product[] @relation("SubCategory")
-}
-
-model Attribute {
-  id        String  @id @default(cuid())
-  key       String  // e.g. "Powered By"
-  value     String  // e.g. "asus"
-  product   Product @relation(fields: [productId], references: [id])
-  productId String
-
-  @@unique([productId, key])
 }
 
 model PriceHistory {

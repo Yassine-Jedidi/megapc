@@ -98,11 +98,12 @@ async function main() {
                     where: { slug: slug },
                     update: {
                         externalId: item._id,
+                        slug: slug,
                         title: title,
                         titleFr: item.title_fr || null,
                         description: item.miniDescription_fr || null,
                         price: price,
-                        onSale: !!item.sale,
+                        onSale: !!item.sale || !!item.prixEnPromo,
                         salePrice: item.prixEnPromo ? parseFloat(item.prixEnPromo.toString()) : null,
                         discount: item.discount ? parseFloat(item.discount.toString()) : null,
                         stock: item.stock || 0,
@@ -144,17 +145,6 @@ async function main() {
                         rawData: item as unknown as object,
                     },
                 });
-
-                // Attributes and Price History (still sequential per-product to maintain integrity)
-                if (item.attributes?.length) {
-                    await Promise.all(item.attributes.map((attr) => 
-                        prisma.attribute.upsert({
-                            where: { productId_key: { productId: product.id, key: attr.cle.toString() } },
-                            update: { value: attr.valeur.toString() },
-                            create: { productId: product.id, key: attr.cle.toString(), value: attr.valeur.toString() }
-                        })
-                    ));
-                }
 
                 // Smart Price History Check
                 const lastPriceRecord = await prisma.priceHistory.findFirst({
