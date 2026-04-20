@@ -39,6 +39,10 @@ model Product {
   subCategory       Category? @relation("SubCategory", fields: [subCategoryId], references: [id])
   subCategoryId      String?
   
+  // Specs for filtering
+  cpu               String?
+  gpu               String?
+  
   // Media
   images            String[] // All photos from gallerie.urlPhoto
 
@@ -56,6 +60,8 @@ model Product {
   @@index([categoryId])
   @@index([subCategoryId])
   @@index([hasHistory])
+  @@index([cpu])
+  @@index([gpu])
 
   // Composite indexes for the most common catalog query patterns:
   // (category + sort column) avoids a separate sort step entirely

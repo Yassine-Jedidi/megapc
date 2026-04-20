@@ -41,6 +41,8 @@ export interface Product {
     name: string;
   };
   description?: string;
+  cpu?: string;
+  gpu?: string;
   commande48H?: boolean;
   quoteMode?: boolean;
   checkStock?: boolean;

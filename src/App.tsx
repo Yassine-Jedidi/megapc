@@ -27,6 +27,10 @@ function App() {
   const [absoluteMaxPrice, setAbsoluteMaxPrice] = useState(20000)
   const [priceRange, setPriceRange] = useState([0, 20000])
   const [sortBy, setSortBy] = useState('newest')
+  const [selectedCpu, setSelectedCpu] = useState<string | null>(null)
+  const [selectedGpu, setSelectedGpu] = useState<string | null>(null)
+  const [availableCpus, setAvailableCpus] = useState<string[]>([])
+  const [availableGpus, setAvailableGpus] = useState<string[]>([])
 
   const [page, setPage] = useState(1)
   const [totalPages, setTotalPages] = useState(1)
@@ -84,7 +88,7 @@ function App() {
   useEffect(() => {
     setPage(1);
     window.scrollTo({ top: 0, behavior: 'smooth' });
-  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange, sortBy])
+  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange, sortBy, selectedCpu, selectedGpu])
 
   // Debounce search input: only update debouncedSearch after 300ms of no typing
   const [debouncedSearch, setDebouncedSearch] = useState('')
@@ -107,8 +111,10 @@ function App() {
       hasHistory: hasHistory.toString(),
       minPrice: priceRange[0].toString(),
       maxPrice: priceRange[1].toString(),
+      cpu: selectedCpu || '',
+      gpu: selectedGpu || '',
     }
-  }, [debouncedSearch, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange])
+  }, [debouncedSearch, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange, selectedCpu, selectedGpu])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -178,7 +184,7 @@ function App() {
 
   useEffect(() => {
     document.documentElement.classList.add('dark')
-    // Fetch absolute max price to globally scale the slider
+    // Fetch absolute max price and initial specs
     fetch('/api/products/max-price')
       .then(r => r.json())
       .then(data => {
@@ -188,6 +194,20 @@ function App() {
       .catch(e => console.error('Failed to get max price:', e))
       .finally(() => setIsConfigLoaded(true))
   }, [])
+
+  useEffect(() => {
+    const query = new URLSearchParams()
+    if (selectedCategory) query.append('categoryId', selectedCategory)
+    if (selectedSubCategory) query.append('subCategoryId', selectedSubCategory)
+    
+    fetch(`/api/products/specs?${query}`)
+      .then(r => r.json())
+      .then(data => {
+        setAvailableCpus(data.cpus)
+        setAvailableGpus(data.gpus)
+      })
+      .catch(e => console.error('Failed to fetch specs:', e))
+  }, [selectedCategory, selectedSubCategory])
 
   // Trigger fetches with AbortController to cancel stale requests
   useEffect(() => {
@@ -234,6 +254,8 @@ function App() {
     setHasHistory(false);
     setPriceRange([0, absoluteMaxPrice]);
     setSortBy('newest');
+    setSelectedCpu(null);
+    setSelectedGpu(null);
   };
 
   const isFilterActive = selectedCategory || 
@@ -250,7 +272,9 @@ function App() {
                         hasHistory ||
                         priceRange[0] !== 0 || 
                         priceRange[1] !== absoluteMaxPrice || 
-                        sortBy !== 'newest';
+                        sortBy !== 'newest' ||
+                        selectedCpu ||
+                        selectedGpu;
 
   return (
     <div className="min-h-screen bg-background text-foreground flex flex-col">
@@ -319,6 +343,12 @@ function App() {
                 search={search}
                 sortBy={sortBy}
                 onClearAll={handleClearAll}
+                selectedCpu={selectedCpu}
+                setSelectedCpu={setSelectedCpu}
+                selectedGpu={selectedGpu}
+                setSelectedGpu={setSelectedGpu}
+                availableCpus={availableCpus}
+                availableGpus={availableGpus}
               />
               <Catalog 
                 products={products}

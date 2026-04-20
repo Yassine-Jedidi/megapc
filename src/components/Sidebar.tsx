@@ -7,6 +7,7 @@ import type { Category } from '@/types'
 import { StatusFilters } from './sidebar/StatusFilters'
 import { BudgetFilter } from './sidebar/BudgetFilter'
 import { CategoryNav } from './sidebar/CategoryNav'
+import { SpecFilters } from './sidebar/SpecFilters'
 
 interface SidebarProps {
   sidebarOpen: boolean;
@@ -42,6 +43,12 @@ interface SidebarProps {
   search: string;
   sortBy: string;
   onClearAll: () => void;
+  selectedCpu: string | null;
+  setSelectedCpu: (val: string | null) => void;
+  selectedGpu: string | null;
+  setSelectedGpu: (val: string | null) => void;
+  availableCpus: string[];
+  availableGpus: string[];
 }
 
 export function Sidebar({
@@ -50,12 +57,14 @@ export function Sidebar({
   inStock, setInStock, onSale, setOnSale, isNew, setIsNew, isArriving, setIsArriving,
   commande48H, setCommande48H, quoteMode, setQuoteMode, checkStock, setCheckStock,
   isPrivate, setIsPrivate, hasHistory, setHasHistory, priceRange, setPriceRange, absoluteMaxPrice, search,
-  sortBy, onClearAll
+  sortBy, onClearAll,
+  selectedCpu, setSelectedCpu, selectedGpu, setSelectedGpu, availableCpus, availableGpus
 }: SidebarProps) {
   const isFiltered = selectedCategory || selectedSubCategory || search || onSale || 
                     isNew || !inStock || isArriving || commande48H || quoteMode || 
                     checkStock || isPrivate || hasHistory || priceRange[0] !== 0 || 
-                    priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest'
+                    priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest' ||
+                    selectedCpu || selectedGpu
 
   return (
     <aside className={`${sidebarOpen ? 'w-72' : 'w-0'} sticky top-16 h-[calc(100vh-4rem)] border-r bg-muted/5 transition-all duration-300 hidden lg:block overflow-hidden`}>
@@ -107,6 +116,17 @@ export function Sidebar({
               priceRange={priceRange}
               setPriceRange={setPriceRange}
               absoluteMaxPrice={absoluteMaxPrice}
+            />
+
+            <Separator className="opacity-20" />
+
+            <SpecFilters
+              selectedCpu={selectedCpu}
+              setSelectedCpu={setSelectedCpu}
+              selectedGpu={selectedGpu}
+              setSelectedGpu={setSelectedGpu}
+              availableCpus={availableCpus}
+              availableGpus={availableGpus}
             />
 
             <Separator className="opacity-20" />

@@ -46,6 +46,94 @@ interface ProductCacheItem {
   hasHistory: boolean;
 }
 
+function extractSpecs(title: string, html: string): { cpu: string | null, gpu: string | null } {
+  let cpu: string | null = null;
+  let gpu: string| null = null;
+
+  // 1. Try extracting from HTML miniDescription_fr
+  if (html) {
+    // Regex looking for common labels in French/English
+    // We handle optional tags like <strong> after the colon
+    const cpuRegex = /(?:Processeur|CPU|Processor)\s*:\s*(?:<[^>]*>)?\s*([^<]+)/i;
+    const gpuRegex = /(?:Carte graphique|GPU|Graphics|VGA)\s*:\s*(?:<[^>]*>)?\s*([^<]+)/i;
+
+    const cpuMatch = html.match(cpuRegex);
+    const gpuMatch = html.match(gpuRegex);
+
+    const clean = (s: string) => {
+       const decode = (str: string) => str
+         .replace(/&nbsp;/g, ' ')
+         .replace(/&rsquo;/g, "'")
+         .replace(/&agrave;/g, 'à')
+         .replace(/&ndash;/g, '-')
+         .replace(/&oelig;/g, 'oe')
+         .replace(/&#39;/g, "'")
+         .replace(/&trade;/g, '')
+         .replace(/&reg;/g, '')
+         .replace(/&bull;/g, '');
+
+       const text = decode(s)
+         .replace(/[\u{1F000}-\u{1F9FF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]/gu, '')
+         .split(/[(\-,\u2013\u2014|]/)[0] // Truncate at logic separators
+         .replace(/jusqu['’]à.*/i, '')
+         .replace(/up to.*/i, '')
+         // Strip brands to normalize models (optional, but requested for grouping)
+         .replace(/^(?:msi|gigabyte|asus|pny|zotac|palit|sapphire|asrock|arktek|inno3d|evga|xfx|powercolor|nvidia|amd|intel|apple)\s+/gi, '')
+         // Strip marketing/tech fluff
+         .replace(/(?:box|tray|wraith stealth|wraith prism|edition|gaming|pro|dual|series|with any custom build|oc|overclocked|max|boost|turbo|windforce|ventus|twin edge|shadow|aero|eagle|suprim|tuf|rog|strix|master|elite|power|prime|liquid)/gi, '')
+         // Strip Memory (8GB, 16Go, GDDR6, etc)
+         .replace(/\s?\d+\s?(?:gb|go|mo|gddr\d|mb|bit|bits)\b/gi, '')
+         .replace(/\s+/g, ' ')
+         .trim();
+
+       // Improved Blacklist for dimension and motherboards
+       if (/\d+\s?mm|socket|lga|am\d|atx|pin|cable|broches|cache|tflops|reinforc|length|watt|tray|box|tray|box| ghz| mhz/i.test(text)) return null;
+       if (text.length < 4 || text.length > 30) return null;
+       
+       return text;
+    };
+
+    if (cpuMatch) cpu = clean(cpuMatch[1]);
+    if (gpuMatch) gpu = clean(gpuMatch[1]);
+  }
+
+  // 2. Fallback to Title parsing (Focus on identifiers)
+  if (!cpu || !gpu) {
+    const parts = title.split('|').map(p => p.trim());
+    
+    if (!cpu) {
+      const cpuPart = parts.find(p => /intel\s*core|ryzen|apple\s*m[1235]/i.test(p));
+      if (cpuPart) {
+         const cleaned = cpuPart.split(/[(\-,\u2013\u2014|]/)[0]
+            .replace(/^(?:msi|gigabyte|asus|pny|nvidia|amd|intel|apple)\s+/gi, '')
+            .replace(/(?:box|tray|wraith|series|gaming)/gi, '').trim();
+         if (cleaned.length >= 4) cpu = cleaned;
+      }
+    }
+    
+    if (!gpu) {
+      const gpuPart = parts.find(p => /rtx\s*\d+|gtx\s*\d+|rx\s*\d+|radeon|geforce|arc\s*a\d+/i.test(p));
+      if (gpuPart) {
+         const cleaned = gpuPart.split(/[(\-,\u2013\u2014|]/)[0]
+            .replace(/^(?:msi|gigabyte|asus|pny|zotac|palit|sapphire|nvidia|amd|intel|apple)\s+/gi, '')
+            .replace(/(?:oc|gaming|edition|dual|series|windforce|ventus)/gi, '').trim();
+         if (cleaned.length >= 4) gpu = cleaned;
+      }
+    }
+  }
+
+  const normalize = (val: string | null) => {
+    if (!val) return null;
+    // Special case for names like RTX, GTX, RX to keep them uppercase
+    return val.replace(/\w\S*/g, (txt) => {
+       if (/^(?:rtx|gtx|rx|gpu|cpu|lga|am\d)$/i.test(txt)) return txt.toUpperCase();
+       return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+    });
+  }
+
+  return { cpu: normalize(cpu), gpu: normalize(gpu) };
+}
+
 async function getCategoryId(name: string, externalId?: string, catMap?: Map<string, string>) {
   if (!name) return undefined;
   if (catMap?.has(name)) return catMap.get(name);
@@ -70,6 +158,10 @@ async function processProduct(
   const price = typeof item.price === 'string' ? parseFloat(item.price) : (item.price || null);
   
   const siteUpdateDate = item.update_date ? new Date(item.update_date) : (item.gallerie?.update_date ? new Date(item.gallerie.update_date) : null);
+  
+  // Extract Specs (CPU/GPU)
+  const { cpu, gpu } = extractSpecs(title, item.miniDescription_fr || "");
+
   const existingProduct = productCache.get(slug);
 
   // OPTIMIZATION: If product exists and update date hasn't changed, skip DB update
@@ -110,6 +202,8 @@ async function processProduct(
       viewCount: item.vue || 0,
       categoryId,
       subCategoryId,
+      cpu,
+      gpu,
       images: item.gallerie?.urlPhoto || [],
       siteCreateDate: item.create_date ? new Date(item.create_date) : null,
       siteUpdateDate: siteUpdateDate,
@@ -136,6 +230,8 @@ async function processProduct(
       viewCount: item.vue || 0,
       categoryId,
       subCategoryId,
+      cpu,
+      gpu,
       images: item.gallerie?.urlPhoto || [],
       siteCreateDate: item.create_date ? new Date(item.create_date) : null,
       siteUpdateDate: siteUpdateDate,

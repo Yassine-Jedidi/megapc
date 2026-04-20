@@ -77,6 +77,8 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
   const hasHistory = c.req.query("hasHistory") === "true";
   const minPrice = parseFloat(c.req.query("minPrice") || "0");
   const maxPrice = parseFloat(c.req.query("maxPrice") || "25000");
+  const cpu = c.req.query("cpu");
+  const gpu = c.req.query("gpu");
 
   return {
     AND: [
@@ -90,10 +92,115 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
       checkStock ? { checkStock: true } : {},
       isPrivate ? { isPrivate: true } : {},
       hasHistory ? { hasHistory: true } : {},
+      cpu ? (() => {
+        const core = cpu.replace(/^(AMD\s+)?(Ryzen\s+|Intel\s+Core\s+Ultra\s+|Intel\s+Core\s+)/i, "").trim();
+        const filters: Prisma.ProductWhereInput[] = [{ cpu: { contains: core, mode: "insensitive" } }];
+        
+        if (!/X$/i.test(core) && !/X3D/i.test(core)) {
+          filters.push({ NOT: { cpu: { contains: `${core}X`, mode: "insensitive" } } });
+        }
+        if (!/X3D/i.test(core)) {
+          filters.push({ NOT: { cpu: { contains: "X3D", mode: "insensitive" } } });
+        }
+        if (!/F$/i.test(core)) {
+          filters.push({ NOT: { cpu: { contains: `${core}F`, mode: "insensitive" } } });
+        }
+        
+        return { AND: filters };
+      })() : {},
+      gpu ? (() => {
+        const core = gpu.replace(/^(Nvidia\s+)?(GeForce\s+|Radeon\s+|Intel\s+Arc\s+|Intel\s+)/i, "").trim();
+        const filters: Prisma.ProductWhereInput[] = [{ gpu: { contains: core, mode: "insensitive" } }];
+        
+        if (!/Ti/i.test(core)) filters.push({ NOT: { gpu: { contains: "Ti", mode: "insensitive" } } });
+        if (!/Super/i.test(core)) filters.push({ NOT: { gpu: { contains: "Super", mode: "insensitive" } } });
+        if (!/XT/i.test(core)) filters.push({ NOT: { gpu: { contains: "XT", mode: "insensitive" } } });
+        
+        return { AND: filters };
+      })() : {},
       { price: { gte: minPrice, lte: maxPrice } },
     ],
   };
 };
+
+app.get("/api/products/specs", async (c) => {
+  const categoryId = c.req.query("categoryId");
+  const subCategoryId = c.req.query("subCategoryId");
+  
+  const where: Prisma.ProductWhereInput = {
+    AND: [
+      categoryId ? { categoryId } : {},
+      subCategoryId ? { subCategoryId } : {},
+    ]
+  };
+
+  const [cpus, gpus] = await Promise.all([
+    prisma.product.findMany({
+      where: { ...where, cpu: { not: null } },
+      distinct: ["cpu"],
+      select: { cpu: true },
+      orderBy: { cpu: "asc" }
+    }),
+    prisma.product.findMany({
+      where: { ...where, gpu: { not: null } },
+      distinct: ["gpu"],
+      select: { gpu: true },
+      orderBy: { gpu: "asc" }
+    }),
+  ]);
+
+  // API-Level Validation Allowlist + Formatting
+  const isValidCpu = (val: string) => /^(Intel|AMD|Apple|Ryzen|Core\s*Ultra|Core\s*i[3579])\b/i.test(val);
+  const isValidGpu = (val: string) => /^(Nvidia|GeForce|RTX|GTX|AMD|Radeon|RX|Arc|Apple)\b/i.test(val);
+
+  const cleanCpus = [...new Set(
+    cpus.map(c => c.cpu!)
+        .filter(isValidCpu)
+        .map(cpu => {
+           const cleaned = cpu.replace(/^(?:Amd\s+Ryzen\b|Ryzen\b)/i, 'AMD Ryzen')
+                            .replace(/^(?:Intel\s+Core\b|Core\b)/i, 'Intel Core')
+                            .replace(/^(?:Intel\s+Ultra\b)/i, 'Intel Core Ultra')
+                            .trim();
+           
+           // Match core CPU: Brand Line Model (e.g. Intel Core i5-12400F, AMD Ryzen 5 7600X)
+           const match = cleaned.match(/^(Intel\s+Core\s+(?:Ultra\s+\d\s+|\w\d-)\w+|AMD\s+Ryzen\s+\d\s+\w+|Apple\s+M\d\s*(?:Pro|Max|Ultra)?)/i);
+           if (match) {
+              return match[1];
+           }
+           return cleaned.split(/\s(?:Box|Tray|WRAITH)/i)[0].trim();
+        })
+  )].sort();
+
+  const cleanGpus = [...new Set(
+    gpus.map(g => g.gpu!)
+        .filter(isValidGpu)
+        .map(gpu => {
+          const cleaned = gpu.replace(/^(?:Nvidia\s+Geforce\b|Geforce\b|Nvidia\b)/i, '')
+                           .replace(/^(?:Amd\s+Radeon\b|Radeon\b|Amd\b)/i, '')
+                           .replace(/^(?:Intel\b)/i, '')
+                           .trim();
+          
+          // Match the core GPU logic (e.g., RTX 5070 Ti, RX 7800 XT) ignoring all suffix fluff
+          const match = cleaned.match(/^((?:RTX|GTX)\s+\d+(?:\s+(?:Ti(?:\s+Super)?|Super))?|RX\s+\d+(?:\s+(?:XT|XTX|GRE))?|Arc\s+(?:A|B)\d+)/i);
+          
+          if (match) {
+            const core = match[1].replace(/\s+/g, ' ').trim().toUpperCase();
+            if (core.startsWith('RTX') || core.startsWith('GTX')) return `GeForce ${core}`;
+            if (core.startsWith('RX')) return `Radeon ${core}`;
+            if (core.startsWith('ARC')) return `Intel Core ${core.replace('ARC', 'Arc')}`;
+            return core;
+          }
+          
+          // Fallback stripping for items that didn't perfectly match the above
+          return gpu.replace(/\b(?:[123]x|Fan|Gddr[567]|Pcie\s+\d\.\d|Sff|Ice|Inspire|Shadow|Aero|Eagle|Prime|Triple|Verto|Epic|Plus|Bulk|White|Black|Max|Pro|O?12G(?:B|O)?|O?8G(?:B|O)?|O?16G(?:B|O)?|O?24G(?:B|O)?|O?32G(?:B|O)?)\b.*/gi, '').replace(/\s+/g, ' ').trim();
+        })
+  )].sort();
+
+  return c.json({
+    cpus: cleanCpus,
+    gpus: cleanGpus
+  });
+});
 
 // 1. GET /api/products - Optimized with pagination and filters
 app.get("/api/products", async (c) => {
