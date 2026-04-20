@@ -27,7 +27,7 @@ jobs:
         run: bunx prisma generate
 
       - name: Install Puppeteer Browser and Dependencies
-        run: npx puppeteer browsers install chrome --install-deps
+        run: sudo npx puppeteer browsers install chrome --install-deps
 
       - name: Run Sync Script
         run: bun scripts/sync-products.ts
