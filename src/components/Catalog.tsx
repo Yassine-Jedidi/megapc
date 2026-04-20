@@ -129,7 +129,11 @@ export function Catalog({
                 <Card
                   key={product.id}
                   className="group overflow-hidden border-none bg-card hover:bg-muted/30 transition-all duration-300 ring-1 ring-white/5 hover:ring-primary/30 flex flex-col cursor-pointer"
-                  onClick={() => {
+                  onClick={(e) => {
+                    if (e.ctrlKey || e.metaKey) {
+                      window.open('/produit/' + product.slug, '_blank');
+                      return;
+                    }
                     sessionStorage.setItem('catalog-scroll', window.scrollY.toString());
                     navigate('/produit/' + product.slug);
                   }}
