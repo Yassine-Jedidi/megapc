@@ -43,6 +43,7 @@ interface ProductCacheItem {
   id: string;
   price: number | null;
   siteUpdateDate: Date | null;
+  hasHistory: boolean;
 }
 
 async function getCategoryId(name: string, externalId?: string, catMap?: Map<string, string>) {
@@ -91,7 +92,7 @@ async function processProduct(
   const product = await prisma.product.upsert({
     where: { slug: slug },
     update: {
-      externalId: item._id,
+      slug: slug,
       title: title,
       titleFr: item.title_fr || null,
       description: item.miniDescription_fr || null,
@@ -112,6 +113,7 @@ async function processProduct(
       images: item.gallerie?.urlPhoto || [],
       siteCreateDate: item.create_date ? new Date(item.create_date) : null,
       siteUpdateDate: siteUpdateDate,
+      hasHistory: existingProduct?.hasHistory || false,
       rawData: item as unknown as object,
     },
     create: {
@@ -137,19 +139,28 @@ async function processProduct(
       images: item.gallerie?.urlPhoto || [],
       siteCreateDate: item.create_date ? new Date(item.create_date) : null,
       siteUpdateDate: siteUpdateDate,
+      hasHistory: false,
       rawData: item as unknown as object,
     },
   });
 
   // 3. Price History Logic
   let priceChanged = false;
+  let nowHasHistory = existingProduct?.hasHistory || false;
+
   if (!existingProduct || existingProduct.price !== price) {
     priceChanged = true;
     await prisma.priceHistory.create({
       data: { productId: product.id, price: price || 0 }
     });
     
+    // If it's an existing product and price changed, it now definitely has history
     if (existingProduct) {
+      nowHasHistory = true;
+      await prisma.product.update({
+        where: { id: product.id },
+        data: { hasHistory: true }
+      });
       console.log(`   💰 Price Change: ${existingProduct.price} -> ${price} TND`);
     } else {
       console.log(`   📈 Initial Price: ${price} TND`);
@@ -167,7 +178,7 @@ async function processProduct(
   }
 
   // Update memory cache
-  productCache.set(slug, { id: product.id, price, siteUpdateDate });
+  productCache.set(slug, { id: product.id, price, siteUpdateDate, hasHistory: nowHasHistory });
 
   return { isNew: !existingProduct, updated: true, skipped: false };
 }
@@ -192,12 +203,17 @@ async function syncProducts() {
   const [existingCats, existingProducts] = await Promise.all([
     prisma.category.findMany(),
     prisma.product.findMany({
-      select: { id: true, slug: true, price: true, siteUpdateDate: true }
+      select: { id: true, slug: true, price: true, siteUpdateDate: true, hasHistory: true }
     })
   ]);
 
   existingCats.forEach(c => catMap.set(c.name, c.id));
-  existingProducts.forEach(p => productCache.set(p.slug, { id: p.id, price: p.price, siteUpdateDate: p.siteUpdateDate }));
+  existingProducts.forEach(p => productCache.set(p.slug, { 
+    id: p.id, 
+    price: p.price, 
+    siteUpdateDate: p.siteUpdateDate,
+    hasHistory: p.hasHistory 
+  }));
   console.log(`   ✅ Cache Loaded: ${existingCats.length} Categories, ${existingProducts.length} Products.`);
 
   let totalNew = 0;

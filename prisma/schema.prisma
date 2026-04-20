@@ -30,6 +30,7 @@ model Product {
   checkStock        Boolean  @default(true)  // checkStockWhenPurchased
   isPrivate         Boolean  @default(false) // productpriv
   viewCount         Int      @default(0)
+  hasHistory        Boolean  @default(false)
   
   // Category relationship
   category          Category? @relation("MainCategory", fields: [categoryId], references: [id])
@@ -54,6 +55,7 @@ model Product {
   // High-cardinality FK indexes — essential for category filtering
   @@index([categoryId])
   @@index([subCategoryId])
+  @@index([hasHistory])
 
   // Composite indexes for the most common catalog query patterns:
   // (category + sort column) avoids a separate sort step entirely

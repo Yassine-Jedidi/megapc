@@ -74,6 +74,7 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
   const quoteMode = c.req.query("quoteMode") === "true";
   const checkStock = c.req.query("checkStock") === "true";
   const isPrivate = c.req.query("isPrivate") === "true";
+  const hasHistory = c.req.query("hasHistory") === "true";
   const minPrice = parseFloat(c.req.query("minPrice") || "0");
   const maxPrice = parseFloat(c.req.query("maxPrice") || "25000");
 
@@ -88,6 +89,7 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
       quoteMode ? { quoteMode: true } : {},
       checkStock ? { checkStock: true } : {},
       isPrivate ? { isPrivate: true } : {},
+      hasHistory ? { hasHistory: true } : {},
       { price: { gte: minPrice, lte: maxPrice } },
     ],
   };

@@ -23,6 +23,7 @@ function App() {
   const [quoteMode, setQuoteMode] = useState(false)
   const [checkStock, setCheckStock] = useState(false)
   const [isPrivate, setIsPrivate] = useState(false)
+  const [hasHistory, setHasHistory] = useState(false)
   const [absoluteMaxPrice, setAbsoluteMaxPrice] = useState(20000)
   const [priceRange, setPriceRange] = useState([0, 20000])
   const [sortBy, setSortBy] = useState('newest')
@@ -79,10 +80,11 @@ function App() {
     }))
   }
 
-  // Reset to page 1 when any filter changes
+  // Reset to page 1 and scroll to top when any filter changes
   useEffect(() => {
-    setPage(1)
-  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, priceRange, sortBy])
+    setPage(1);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange, sortBy])
 
   // Debounce search input: only update debouncedSearch after 300ms of no typing
   const [debouncedSearch, setDebouncedSearch] = useState('')
@@ -102,10 +104,11 @@ function App() {
       quoteMode: quoteMode.toString(),
       checkStock: checkStock.toString(),
       isPrivate: isPrivate.toString(),
+      hasHistory: hasHistory.toString(),
       minPrice: priceRange[0].toString(),
       maxPrice: priceRange[1].toString(),
     }
-  }, [debouncedSearch, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, priceRange])
+  }, [debouncedSearch, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -228,6 +231,7 @@ function App() {
     setQuoteMode(false);
     setCheckStock(false);
     setIsPrivate(false);
+    setHasHistory(false);
     setPriceRange([0, absoluteMaxPrice]);
     setSortBy('newest');
   };
@@ -243,6 +247,7 @@ function App() {
                         quoteMode || 
                         checkStock || 
                         isPrivate || 
+                        hasHistory ||
                         priceRange[0] !== 0 || 
                         priceRange[1] !== absoluteMaxPrice || 
                         sortBy !== 'newest';
@@ -306,6 +311,8 @@ function App() {
                 setCheckStock={setCheckStock}
                 isPrivate={isPrivate}
                 setIsPrivate={setIsPrivate}
+                hasHistory={hasHistory}
+                setHasHistory={setHasHistory}
                 priceRange={priceRange}
                 setPriceRange={setPriceRange}
                 absoluteMaxPrice={absoluteMaxPrice}

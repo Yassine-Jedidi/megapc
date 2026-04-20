@@ -34,6 +34,8 @@ interface SidebarProps {
   setCheckStock: (val: boolean) => void;
   isPrivate: boolean;
   setIsPrivate: (val: boolean) => void;
+  hasHistory: boolean;
+  setHasHistory: (val: boolean) => void;
   priceRange: number[];
   setPriceRange: (range: number[]) => void;
   absoluteMaxPrice: number;
@@ -47,12 +49,12 @@ export function Sidebar({
   selectedSubCategory, setSelectedSubCategory, fetchSubCategories, setSubCategories,
   inStock, setInStock, onSale, setOnSale, isNew, setIsNew, isArriving, setIsArriving,
   commande48H, setCommande48H, quoteMode, setQuoteMode, checkStock, setCheckStock,
-  isPrivate, setIsPrivate, priceRange, setPriceRange, absoluteMaxPrice, search,
+  isPrivate, setIsPrivate, hasHistory, setHasHistory, priceRange, setPriceRange, absoluteMaxPrice, search,
   sortBy, onClearAll
 }: SidebarProps) {
   const isFiltered = selectedCategory || selectedSubCategory || search || onSale || 
                     isNew || !inStock || isArriving || commande48H || quoteMode || 
-                    checkStock || isPrivate || priceRange[0] !== 0 || 
+                    checkStock || isPrivate || hasHistory || priceRange[0] !== 0 || 
                     priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest'
 
   return (
@@ -86,6 +88,7 @@ export function Sidebar({
             quoteMode={quoteMode} setQuoteMode={setQuoteMode}
             checkStock={checkStock} setCheckStock={setCheckStock}
             isPrivate={isPrivate} setIsPrivate={setIsPrivate}
+            hasHistory={hasHistory} setHasHistory={setHasHistory}
           />
 
           <div className="flex flex-col gap-6">

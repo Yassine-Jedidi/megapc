@@ -1,4 +1,4 @@
-import { Box, Zap, Rocket, Truck, Timer, FileText, ShieldCheck, Lock } from 'lucide-react'
+import { Box, Zap, Rocket, Truck, Timer, FileText, ShieldCheck, Lock, Activity } from 'lucide-react'
 import { Label } from "@/components/ui/label"
 import { Switch } from "@/components/ui/switch"
 
@@ -19,6 +19,8 @@ interface StatusFiltersProps {
   setCheckStock: (val: boolean) => void;
   isPrivate: boolean;
   setIsPrivate: (val: boolean) => void;
+  hasHistory: boolean;
+  setHasHistory: (val: boolean) => void;
 }
 
 export function StatusFilters({
@@ -29,7 +31,8 @@ export function StatusFilters({
   commande48H, setCommande48H,
   quoteMode, setQuoteMode,
   checkStock, setCheckStock,
-  isPrivate, setIsPrivate
+  isPrivate, setIsPrivate,
+  hasHistory, setHasHistory
 }: StatusFiltersProps) {
   const filters = [
     { id: 'in-stock', label: 'EN STOCK', icon: Box, iconColor: 'text-green-500', value: inStock, setter: setInStock },
@@ -40,6 +43,7 @@ export function StatusFilters({
     { id: 'quote-mode', label: 'SUR DEVIS', icon: FileText, iconColor: 'text-sky-400', value: quoteMode, setter: setQuoteMode },
     { id: 'check-stock', label: 'STOCK GARANTI', icon: ShieldCheck, iconColor: 'text-indigo-400', value: checkStock, setter: setCheckStock },
     { id: 'is-private', label: 'VENTES PRIVÉES', icon: Lock, iconColor: 'text-rose-500', value: isPrivate, setter: setIsPrivate },
+    { id: 'has-history', label: 'AVEC HISTORIQUE', icon: Activity, iconColor: 'text-amber-400', value: hasHistory, setter: setHasHistory },
   ]
 
   return (
