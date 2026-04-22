@@ -41,7 +41,21 @@ interface ScrapedProduct {
 
 interface ProductCacheItem {
   id: string;
+  title: string;
+  description: string | null;
   price: number | null;
+  discount: number | null;
+  stock: number | null;
+  onSale: boolean;
+  salePrice: number | null;
+  isArriving: boolean;
+  isNew: boolean;
+  quoteMode: boolean;
+  commande48H: boolean;
+  checkStock: boolean;
+  isPrivate: boolean;
+  cpu: string | null;
+  gpu: string | null;
   siteUpdateDate: Date | null;
   hasHistory: boolean;
 }
@@ -167,12 +181,44 @@ async function processProduct(
   // OPTIMIZATION: If product exists and update date hasn't changed, skip DB update
   if (existingProduct && siteUpdateDate && existingProduct.siteUpdateDate) {
     const datesMatch = siteUpdateDate.getTime() <= existingProduct.siteUpdateDate.getTime();
-    if (datesMatch && existingProduct.price === price) {
+    
+    // Check if any critical attributes changed
+    const titleMatch = existingProduct.title === title;
+    const descriptionMatch = existingProduct.description === (item.miniDescription_fr || null);
+    const priceMatch = existingProduct.price === price;
+    const discountMatch = existingProduct.discount === (item.discount ? parseFloat(item.discount.toString()) : null);
+    const stockMatch = existingProduct.stock === (item.stock || 0);
+    const saleMatch = existingProduct.onSale === (!!item.sale || !!item.prixEnPromo);
+    const salePriceMatch = existingProduct.salePrice === (item.prixEnPromo ? parseFloat(item.prixEnPromo.toString()) : null);
+    const arrivingMatch = existingProduct.isArriving === !!item.enArrivage;
+    const isNewMatch = existingProduct.isNew === !!item.new;
+    const quoteModeMatch = existingProduct.quoteMode === !!item.devis;
+    const commande48HMatch = existingProduct.commande48H === !!item.commande48H;
+    const checkStockMatch = existingProduct.checkStock === (item.checkStockWhenPurchased ?? true);
+    const isPrivateMatch = existingProduct.isPrivate === !!item.productpriv;
+    const cpuMatch = existingProduct.cpu === cpu;
+    const gpuMatch = existingProduct.gpu === gpu;
+
+    if (datesMatch && titleMatch && descriptionMatch && priceMatch && discountMatch && stockMatch && saleMatch && salePriceMatch && arrivingMatch && isNewMatch && quoteModeMatch && commande48HMatch && checkStockMatch && isPrivateMatch && cpuMatch && gpuMatch) {
       return { isNew: false, updated: false, skipped: true };
     }
     
     if (!datesMatch) {
       console.log(`   📅 Date Update: ${title} (${existingProduct.siteUpdateDate.toISOString()} -> ${siteUpdateDate.toISOString()})`);
+    } else {
+      // Attribute change without date update
+      const changes = [];
+      if (!titleMatch) changes.push(`Title changed`);
+      if (!descriptionMatch) changes.push(`Description changed`);
+      if (!priceMatch) changes.push(`Price: ${existingProduct.price} -> ${price}`);
+      if (!discountMatch) changes.push(`Discount: ${existingProduct.discount} -> ${item.discount}`);
+      if (!stockMatch) changes.push(`Stock: ${existingProduct.stock} -> ${item.stock || 0}`);
+      if (!saleMatch || !salePriceMatch) changes.push(`Sale status changed`);
+      if (!arrivingMatch) changes.push(`Arriving: ${existingProduct.isArriving} -> ${!!item.enArrivage}`);
+      if (!cpuMatch) changes.push(`CPU: ${existingProduct.cpu} -> ${cpu}`);
+      if (!gpuMatch) changes.push(`GPU: ${existingProduct.gpu} -> ${gpu}`);
+      
+      console.log(`   🔄 Attribute Update (No date change): ${title} [${changes.join(', ')}]`);
     }
   }
 
@@ -274,7 +320,26 @@ async function processProduct(
   }
 
   // Update memory cache
-  productCache.set(slug, { id: product.id, price, siteUpdateDate, hasHistory: nowHasHistory });
+  productCache.set(slug, { 
+    id: product.id, 
+    title: product.title,
+    description: product.description,
+    price, 
+    discount: product.discount,
+    stock: product.stock,
+    onSale: product.onSale,
+    salePrice: product.salePrice,
+    isArriving: product.isArriving,
+    isNew: product.isNew,
+    quoteMode: product.quoteMode,
+    commande48H: product.commande48H,
+    checkStock: product.checkStock,
+    isPrivate: product.isPrivate,
+    cpu: product.cpu,
+    gpu: product.gpu,
+    siteUpdateDate, 
+    hasHistory: nowHasHistory 
+  });
 
   return { isNew: !existingProduct, updated: true, skipped: false };
 }
@@ -299,14 +364,48 @@ async function syncProducts() {
   const [existingCats, existingProducts] = await Promise.all([
     prisma.category.findMany(),
     prisma.product.findMany({
-      select: { id: true, slug: true, price: true, siteUpdateDate: true, hasHistory: true }
+      select: { 
+        id: true, 
+        slug: true, 
+        title: true,
+        description: true,
+        price: true, 
+        discount: true,
+        stock: true,
+        onSale: true,
+        salePrice: true,
+        isArriving: true,
+        isNew: true,
+        quoteMode: true,
+        commande48H: true,
+        checkStock: true,
+        isPrivate: true,
+        cpu: true,
+        gpu: true,
+        siteUpdateDate: true, 
+        hasHistory: true 
+      }
     })
   ]);
 
   existingCats.forEach(c => catMap.set(c.name, c.id));
   existingProducts.forEach(p => productCache.set(p.slug, { 
     id: p.id, 
+    title: p.title,
+    description: p.description,
     price: p.price, 
+    discount: p.discount,
+    stock: p.stock,
+    onSale: p.onSale,
+    salePrice: p.salePrice,
+    isArriving: p.isArriving,
+    isNew: p.isNew,
+    quoteMode: p.quoteMode,
+    commande48H: p.commande48H,
+    checkStock: p.checkStock,
+    isPrivate: p.isPrivate,
+    cpu: p.cpu,
+    gpu: p.gpu,
     siteUpdateDate: p.siteUpdateDate,
     hasHistory: p.hasHistory 
   }));
