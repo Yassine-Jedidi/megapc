@@ -82,7 +82,16 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
 
   return {
     AND: [
-      search ? { title: { contains: search, mode: "insensitive" } } : {},
+      search ? {
+        AND: search.trim().split(/\s+/).map(term => ({
+          OR: [
+            { title: { contains: term, mode: "insensitive" } },
+            { description: { contains: term, mode: "insensitive" } },
+            { cpu: { contains: term, mode: "insensitive" } },
+            { gpu: { contains: term, mode: "insensitive" } }
+          ]
+        }))
+      } : {},
       onSale ? { OR: [{ onSale: true }, { discount: { not: null } }] } : {},
       isNew ? { isNew: true } : {},
       inStock ? { stock: { gt: 0 } } : {},

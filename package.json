@@ -12,7 +12,8 @@
     "check": "eslint && tsc -b --noEmit",
     "api": "bun --watch src/server.ts",
     "start": "bun src/server.ts",
-    "postinstall": "prisma generate"
+    "postinstall": "prisma generate",
+    "db:optimize": "bun scripts/setup-search-index.ts"
   },
   "dependencies": {
     "@base-ui/react": "^1.4.0",
