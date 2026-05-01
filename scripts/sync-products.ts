@@ -58,6 +58,7 @@ interface ProductCacheItem {
   gpu: string | null;
   siteUpdateDate: Date | null;
   hasHistory: boolean;
+  priceTrend: string | null;
 }
 
 function extractSpecs(title: string, html: string): { cpu: string | null, gpu: string | null } {
@@ -254,6 +255,7 @@ async function processProduct(
       siteCreateDate: item.create_date ? new Date(item.create_date) : null,
       siteUpdateDate: siteUpdateDate,
       hasHistory: existingProduct?.hasHistory || false,
+      priceTrend: existingProduct?.priceTrend || null,
       rawData: item as unknown as object,
     },
     create: {
@@ -289,9 +291,17 @@ async function processProduct(
   // 3. Price History Logic
   let priceChanged = false;
   let nowHasHistory = existingProduct?.hasHistory || false;
+  let currentTrend = existingProduct?.priceTrend || null;
 
-  if (!existingProduct || existingProduct.price !== price) {
+  if (!existingProduct || (price !== null && existingProduct.price !== price)) {
     priceChanged = true;
+    
+    // Calculate trend if we have an old price
+    if (existingProduct && existingProduct.price !== null && price !== null) {
+      if (price > existingProduct.price) currentTrend = 'asc';
+      else if (price < existingProduct.price) currentTrend = 'desc';
+    }
+
     await prisma.priceHistory.create({
       data: { productId: product.id, price: price || 0 }
     });
@@ -301,9 +311,9 @@ async function processProduct(
       nowHasHistory = true;
       await prisma.product.update({
         where: { id: product.id },
-        data: { hasHistory: true }
+        data: { hasHistory: true, priceTrend: currentTrend }
       });
-      console.log(`   💰 Price Change: ${existingProduct.price} -> ${price} TND`);
+      console.log(`   💰 Price Change: ${existingProduct.price} -> ${price} TND [Trend: ${currentTrend}]`);
     } else {
       console.log(`   📈 Initial Price: ${price} TND`);
     }
@@ -338,7 +348,8 @@ async function processProduct(
     cpu: product.cpu,
     gpu: product.gpu,
     siteUpdateDate, 
-    hasHistory: nowHasHistory 
+    hasHistory: nowHasHistory,
+    priceTrend: currentTrend
   });
 
   return { isNew: !existingProduct, updated: true, skipped: false };
@@ -383,7 +394,8 @@ async function syncProducts() {
         cpu: true,
         gpu: true,
         siteUpdateDate: true, 
-        hasHistory: true 
+        hasHistory: true,
+        priceTrend: true
       }
     })
   ]);
@@ -407,7 +419,8 @@ async function syncProducts() {
     cpu: p.cpu,
     gpu: p.gpu,
     siteUpdateDate: p.siteUpdateDate,
-    hasHistory: p.hasHistory 
+    hasHistory: p.hasHistory,
+    priceTrend: p.priceTrend
   }));
   console.log(`   ✅ Cache Loaded: ${existingCats.length} Categories, ${existingProducts.length} Products.`);
 

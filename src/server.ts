@@ -79,6 +79,7 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
   const maxPrice = parseFloat(c.req.query("maxPrice") || "25000");
   const cpu = c.req.query("cpu");
   const gpu = c.req.query("gpu");
+  const priceTrend = c.req.query("priceTrend");
 
   return {
     AND: [
@@ -128,6 +129,7 @@ const getSharedFilters = (c: Context): Prisma.ProductWhereInput => {
         return { AND: filters };
       })() : {},
       { price: { gte: minPrice, lte: maxPrice } },
+      priceTrend ? { priceTrend } : {},
     ],
   };
 };

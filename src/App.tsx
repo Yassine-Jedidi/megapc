@@ -29,6 +29,7 @@ function App() {
   const [sortBy, setSortBy] = useState('newest')
   const [selectedCpu, setSelectedCpu] = useState<string | null>(null)
   const [selectedGpu, setSelectedGpu] = useState<string | null>(null)
+  const [priceTrend, setPriceTrend] = useState<string | null>(null)
   const [availableCpus, setAvailableCpus] = useState<string[]>([])
   const [availableGpus, setAvailableGpus] = useState<string[]>([])
 
@@ -88,7 +89,7 @@ function App() {
   useEffect(() => {
     setPage(1);
     window.scrollTo({ top: 0, behavior: 'smooth' });
-  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange, sortBy, selectedCpu, selectedGpu])
+  }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange, sortBy, selectedCpu, selectedGpu, priceTrend])
 
   // Debounce search input: only update debouncedSearch after 300ms of no typing
   const [debouncedSearch, setDebouncedSearch] = useState('')
@@ -113,8 +114,9 @@ function App() {
       maxPrice: priceRange[1].toString(),
       cpu: selectedCpu || '',
       gpu: selectedGpu || '',
+      priceTrend: priceTrend || '',
     }
-  }, [debouncedSearch, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange, selectedCpu, selectedGpu])
+  }, [debouncedSearch, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange, selectedCpu, selectedGpu, priceTrend])
 
   const fetchCategories = useCallback(async () => {
     try {
@@ -256,6 +258,7 @@ function App() {
     setSortBy('newest');
     setSelectedCpu(null);
     setSelectedGpu(null);
+    setPriceTrend(null);
   };
 
   const isFilterActive = selectedCategory || 
@@ -274,7 +277,8 @@ function App() {
                         priceRange[1] !== absoluteMaxPrice || 
                         sortBy !== 'newest' ||
                         selectedCpu ||
-                        selectedGpu;
+                        selectedGpu ||
+                        priceTrend;
 
   return (
     <div className="min-h-screen bg-background text-foreground flex flex-col">
@@ -349,6 +353,8 @@ function App() {
                 setSelectedGpu={setSelectedGpu}
                 availableCpus={availableCpus}
                 availableGpus={availableGpus}
+                priceTrend={priceTrend}
+                setPriceTrend={setPriceTrend}
               />
               <Catalog 
                 products={products}

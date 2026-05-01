@@ -1,6 +1,8 @@
 import { Box, Zap, Rocket, Truck, Timer, FileText, ShieldCheck, Lock, Activity } from 'lucide-react'
 import { Label } from "@/components/ui/label"
 import { Switch } from "@/components/ui/switch"
+import { Button } from "@/components/ui/button"
+import { TrendingUp, TrendingDown } from 'lucide-react'
 
 interface StatusFiltersProps {
   inStock: boolean;
@@ -21,6 +23,8 @@ interface StatusFiltersProps {
   setIsPrivate: (val: boolean) => void;
   hasHistory: boolean;
   setHasHistory: (val: boolean) => void;
+  priceTrend: string | null;
+  setPriceTrend: (val: string | null) => void;
 }
 
 export function StatusFilters({
@@ -32,7 +36,8 @@ export function StatusFilters({
   quoteMode, setQuoteMode,
   checkStock, setCheckStock,
   isPrivate, setIsPrivate,
-  hasHistory, setHasHistory
+  hasHistory, setHasHistory,
+  priceTrend, setPriceTrend
 }: StatusFiltersProps) {
   const filters = [
     { id: 'in-stock', label: 'EN STOCK', icon: Box, iconColor: 'text-green-500', value: inStock, setter: setInStock },
@@ -51,11 +56,34 @@ export function StatusFilters({
       <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-foreground/50 mb-4">Statut</h3>
       <div className="flex flex-col gap-4 px-1">
         {filters.map((f) => (
-          <div key={f.id} className="flex items-center justify-between">
-            <Label htmlFor={f.id} className="text-xs font-bold text-foreground/70 flex items-center gap-2 cursor-pointer">
-              <f.icon className={`h-3 w-3 ${f.iconColor}`} /> {f.label}
-            </Label>
-            <Switch id={f.id} checked={f.value} onCheckedChange={f.setter} />
+          <div key={f.id} className="flex flex-col gap-1">
+            <div className="flex items-center justify-between">
+              <Label htmlFor={f.id} className="text-xs font-bold text-foreground/70 flex items-center gap-2 cursor-pointer">
+                <f.icon className={`h-3 w-3 ${f.iconColor}`} /> {f.label}
+              </Label>
+              <Switch id={f.id} checked={f.value} onCheckedChange={f.setter} />
+            </div>
+            
+            {f.id === 'has-history' && f.value && (
+              <div className="flex gap-2 ml-5 mt-1 animate-in slide-in-from-top-1 duration-200">
+                <Button 
+                  variant={priceTrend === 'asc' ? 'secondary' : 'ghost'} 
+                  size="sm" 
+                  className={`h-7 px-2 text-[10px] font-bold gap-1 rounded-lg ${priceTrend === 'asc' ? 'bg-red-500/10 text-red-500 border border-red-500/20 hover:bg-red-500/20' : ''}`}
+                  onClick={() => setPriceTrend(priceTrend === 'asc' ? null : 'asc')}
+                >
+                  <TrendingUp className="h-3 w-3" /> HAUSSE
+                </Button>
+                <Button 
+                  variant={priceTrend === 'desc' ? 'secondary' : 'ghost'} 
+                  size="sm" 
+                  className={`h-7 px-2 text-[10px] font-bold gap-1 rounded-lg ${priceTrend === 'desc' ? 'bg-green-500/10 text-green-500 border border-green-500/20 hover:bg-green-500/20' : ''}`}
+                  onClick={() => setPriceTrend(priceTrend === 'desc' ? null : 'desc')}
+                >
+                  <TrendingDown className="h-3 w-3" /> BAISSE
+                </Button>
+              </div>
+            )}
           </div>
         ))}
       </div>

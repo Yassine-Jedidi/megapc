@@ -49,6 +49,8 @@ interface SidebarProps {
   setSelectedGpu: (val: string | null) => void;
   availableCpus: string[];
   availableGpus: string[];
+  priceTrend: string | null;
+  setPriceTrend: (val: string | null) => void;
 }
 
 export function Sidebar({
@@ -58,13 +60,14 @@ export function Sidebar({
   commande48H, setCommande48H, quoteMode, setQuoteMode, checkStock, setCheckStock,
   isPrivate, setIsPrivate, hasHistory, setHasHistory, priceRange, setPriceRange, absoluteMaxPrice, search,
   sortBy, onClearAll,
-  selectedCpu, setSelectedCpu, selectedGpu, setSelectedGpu, availableCpus, availableGpus
+  selectedCpu, setSelectedCpu, selectedGpu, setSelectedGpu, availableCpus, availableGpus,
+  priceTrend, setPriceTrend
 }: SidebarProps) {
   const isFiltered = selectedCategory || selectedSubCategory || search || onSale || 
                     isNew || !inStock || isArriving || commande48H || quoteMode || 
                     checkStock || isPrivate || hasHistory || priceRange[0] !== 0 || 
                     priceRange[1] !== absoluteMaxPrice || sortBy !== 'newest' ||
-                    selectedCpu || selectedGpu
+                    selectedCpu || selectedGpu || priceTrend
 
   return (
     <aside className={`${sidebarOpen ? 'w-72' : 'w-0'} sticky top-16 h-[calc(100vh-4rem)] border-r bg-muted/5 transition-all duration-300 hidden lg:block overflow-hidden`}>
@@ -98,6 +101,7 @@ export function Sidebar({
             checkStock={checkStock} setCheckStock={setCheckStock}
             isPrivate={isPrivate} setIsPrivate={setIsPrivate}
             hasHistory={hasHistory} setHasHistory={setHasHistory}
+            priceTrend={priceTrend} setPriceTrend={setPriceTrend}
           />
 
           <div className="flex flex-col gap-6">

@@ -31,6 +31,7 @@ model Product {
   isPrivate         Boolean  @default(false) // productpriv
   viewCount         Int      @default(0)
   hasHistory        Boolean  @default(false)
+  priceTrend        String?  // 'up', 'down', or null
   
   // Category relationship
   category          Category? @relation("MainCategory", fields: [categoryId], references: [id])
@@ -79,6 +80,7 @@ model Product {
 
   // stock: used as stock > 0 — B-tree will use this for inequality scans
   @@index([stock])
+  @@index([priceTrend])
 
   // Note: Boolean indexes (onSale, isNew, etc.) intentionally removed.
   // Low-cardinality booleans are ignored by PostgreSQL's query planner.
