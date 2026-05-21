@@ -31,13 +31,14 @@ app.all("/api/images/*", async (c) => {
   const targetPath = c.req.path.replace(/^\/api\/images/, "");
   const w = c.req.query("w");
   const q = c.req.query("q");
+  const imageOrigin = process.env.IMAGE_ORIGIN || "https://apibackend.megapc.tn";
 
   let targetUrl;
   if (w || q) {
-    const fullImageUrl = `https://static.gi-ga.tech${targetPath}`;
+    const fullImageUrl = `${imageOrigin}${targetPath}`;
     targetUrl = `https://www.megapc.tn/_next/image?url=${encodeURIComponent(fullImageUrl)}&w=${w || 1080}&q=${q || 75}`;
   } else {
-    targetUrl = `https://apibackend.megapc.tn${targetPath}`;
+    targetUrl = `${imageOrigin}${targetPath}`;
   }
 
   try {
@@ -53,6 +54,29 @@ app.all("/api/images/*", async (c) => {
 
     if (!response.ok) {
       console.error(`Image proxy failed: ${response.status} for ${targetUrl}`);
+      if (w || q) {
+        const fallbackResponse = await fetch(`${imageOrigin}${targetPath}`, {
+          headers: {
+            "User-Agent":
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            Referer: "https://www.megapc.tn/",
+            Accept: "image/webp,image/apng,image/*,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
+          },
+        });
+
+        if (!fallbackResponse.ok) {
+          return c.text("Not found", 404);
+        }
+
+        const fallbackContentType = fallbackResponse.headers.get("Content-Type") || "image/jpeg";
+        const fallbackBuffer = await fallbackResponse.arrayBuffer();
+        return c.body(fallbackBuffer, fallbackResponse.status as ContentfulStatusCode, {
+          "Content-Type": fallbackContentType,
+          "Cache-Control": "public, max-age=604800",
+        });
+      }
+
       return c.text("Not found", 404);
     }
 
