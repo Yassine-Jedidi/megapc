@@ -8,7 +8,14 @@ import { logger } from "hono/logger";
 import type { ContentfulStatusCode } from "hono/utils/http-status";
 
 // Initialize Prisma
-const pool = new Pool({ connectionString: process.env.DATABASE_URL });
+// Strip channel_binding param — not supported by the pg driver (Neon-specific, causes silent failures)
+const connectionString = process.env.DATABASE_URL?.replace(/[?&]channel_binding=[^&]*/g, (m) =>
+  m.startsWith("?") ? "?" : ""
+);
+const pool = new Pool({
+  connectionString,
+  ssl: { rejectUnauthorized: false }, // Required for Neon / managed Postgres on Vercel
+});
 const adapter = new PrismaPg(pool);
 const prisma = new PrismaClient({ adapter });
 
