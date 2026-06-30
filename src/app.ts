@@ -281,7 +281,7 @@ app.get("/api/products", async (c) => {
       skip: skip,
       orderBy: orderByMap[sortBy] || orderByMap.newest,
       omit: { rawData: true },
-      include: { category: { select: { id: true, name: true } } },
+      include: { category: { select: { id: true, name: true, slug: true } } },
     }),
     prisma.product.count({ where: whereClause }),
   ]);
@@ -299,12 +299,12 @@ app.get("/api/products/max-price", async (c) => {
 
 app.get("/api/products/:slug", async (c) => {
   const slug = c.req.param("slug");
-  const product = await prisma.product.findUnique({
+  const product = await prisma.product.findFirst({
     where: { slug },
     omit: { rawData: true },
     include: {
-      category: { select: { id: true, name: true } },
-      subCategory: { select: { id: true, name: true } },
+      category: { select: { id: true, name: true, slug: true } },
+      subCategory: { select: { id: true, name: true, slug: true } },
       priceHistory: { orderBy: { createdAt: "asc" } },
     },
   });
@@ -327,7 +327,46 @@ app.get("/api/categories", async (c) => {
     include: { _count: { select: { products: { where: sharedFilters } } } },
     orderBy: { name: "asc" },
   });
-  return c.json(categories);
+  return c.json(categories.map(({ id, name, slug, _count }) => ({ id, name, slug, _count })));
+});
+
+app.get("/api/categories/by-slug/:slug", async (c) => {
+  const slug = c.req.param("slug");
+  const category = await prisma.category.findUnique({
+    where: { slug },
+    select: { id: true, name: true, slug: true },
+  });
+  if (!category) return c.json({ error: "Category not found" }, 404);
+  return c.json(category);
+});
+
+app.get("/api/categories/by-slug/:slug/sub", async (c) => {
+  const slug = c.req.param("slug");
+  const sharedFilters = getSharedFilters(c);
+  const category = await prisma.category.findUnique({ where: { slug }, select: { id: true } });
+  if (!category) return c.json({ error: "Category not found" }, 404);
+
+  const subCategories = await prisma.category.findMany({
+    where: {
+      subProducts: { some: { AND: [{ categoryId: category.id }, sharedFilters] } },
+    },
+    include: {
+      _count: {
+        select: {
+          subProducts: { where: { AND: [{ categoryId: category.id }, sharedFilters] } },
+        },
+      },
+    },
+    orderBy: { name: "asc" },
+  });
+  return c.json(
+    subCategories.map((sub) => ({
+      id: sub.id,
+      name: sub.name,
+      slug: sub.slug,
+      _count: { products: sub._count?.subProducts || 0 },
+    })),
+  );
 });
 
 app.get("/api/categories/:id/sub", async (c) => {
@@ -348,7 +387,9 @@ app.get("/api/categories/:id/sub", async (c) => {
   });
   return c.json(
     subCategories.map((sub) => ({
-      ...sub,
+      id: sub.id,
+      name: sub.name,
+      slug: sub.slug,
       _count: { products: sub._count?.subProducts || 0 },
     })),
   );

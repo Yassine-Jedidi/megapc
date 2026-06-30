@@ -14,6 +14,17 @@ const pool = new Pool({ connectionString: process.env.DATABASE_URL });
 const adapter = new PrismaPg(pool);
 const prisma = new PrismaClient({ adapter });
 
+function toSlug(name: string): string {
+  return name
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
 interface ScrapedProduct {
   _id: string;
   title?: string;
@@ -153,10 +164,11 @@ async function getCategoryId(name: string, externalId?: string, catMap?: Map<str
   if (!name) return undefined;
   if (catMap?.has(name)) return catMap.get(name);
   
+  const slug = toSlug(name);
   const cat = await prisma.category.upsert({
     where: { name },
-    update: { externalId },
-    create: { name, externalId },
+    update: { externalId, slug },
+    create: { name, slug, externalId },
   });
   
   catMap?.set(name, cat.id);
@@ -229,7 +241,7 @@ async function processProduct(
 
   // 2. Upsert Product
   const product = await prisma.product.upsert({
-    where: { slug: slug },
+    where: { slug: slug } as any,
     update: {
       slug: slug,
       title: title,
@@ -400,8 +412,8 @@ async function syncProducts() {
     })
   ]);
 
-  existingCats.forEach(c => catMap.set(c.name, c.id));
-  existingProducts.forEach(p => productCache.set(p.slug, { 
+  existingCats.forEach(c => catMap.set(c.name!, c.id));
+  existingProducts.forEach(p => productCache.set(p.slug!, { 
     id: p.id, 
     title: p.title,
     description: p.description,

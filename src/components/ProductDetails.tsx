@@ -132,7 +132,6 @@ export function ProductDetails({ onNavigate, addToCart }: ProductDetailsProps) {
             <ProductInfo 
               product={product} 
               onNavigate={onNavigate} 
-              navigate={navigate} 
               slug={slug} 
               addToCart={addToCart}
             />

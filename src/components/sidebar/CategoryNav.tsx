@@ -1,3 +1,4 @@
+import { useNavigate } from 'react-router-dom'
 import { Button } from "@/components/ui/button"
 import { cn } from "@/lib/utils"
 import type { Category } from '@/types'
@@ -6,23 +7,17 @@ interface CategoryNavProps {
   categories: Category[];
   subCategories: Category[];
   selectedCategory: string | null;
-  setSelectedCategory: (id: string | null) => void;
   selectedSubCategory: string | null;
-  setSelectedSubCategory: (id: string | null) => void;
-  fetchSubCategories: (catId: string) => void;
-  setSubCategories: (subs: Category[]) => void;
 }
 
 export function CategoryNav({
   categories,
   subCategories,
   selectedCategory,
-  setSelectedCategory,
   selectedSubCategory,
-  setSelectedSubCategory,
-  fetchSubCategories,
-  setSubCategories
 }: CategoryNavProps) {
+  const navigate = useNavigate()
+
   return (
     <div>
       <h3 className="text-[10px] font-black uppercase tracking-[0.2em] text-foreground/50 mb-4">Catégories</h3>
@@ -37,13 +32,9 @@ export function CategoryNav({
               )}
               onClick={() => {
                 if (selectedCategory === cat.id) {
-                  setSelectedCategory(null);
-                  setSelectedSubCategory(null);
-                  setSubCategories([]);
+                  navigate('/')
                 } else {
-                  setSelectedCategory(cat.id);
-                  setSelectedSubCategory(null);
-                  fetchSubCategories(cat.id);
+                  navigate(`/category/${cat.slug}`)
                 }
               }}
             >
@@ -65,7 +56,13 @@ export function CategoryNav({
                       "w-full justify-between text-[10px] font-bold uppercase tracking-wide h-7 px-3 rounded-lg transition-all",
                       selectedSubCategory === sub.id ? "text-primary bg-primary/5 font-black" : "text-foreground/90 hover:text-primary hover:bg-transparent"
                     )}
-                    onClick={() => setSelectedSubCategory(selectedSubCategory === sub.id ? null : sub.id)}
+                    onClick={() => {
+                      if (selectedSubCategory === sub.id) {
+                        navigate(`/category/${cat.slug}`)
+                      } else {
+                        navigate(`/category/${cat.slug}/${sub.slug}`)
+                      }
+                    }}
                   >
                     <span>{sub.name}</span>
                     <span className="bg-white/10 text-white font-black text-[8px] px-1.5 py-0.5 rounded-full min-w-4 flex items-center justify-center">

@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Routes, Route, useLocation } from 'react-router-dom'
+import { Routes, Route, useLocation, useParams, useNavigate } from 'react-router-dom'
 import { ProductDetails } from "@/components/ProductDetails"
 import { Header } from "@/components/Header"
 import { Sidebar } from "@/components/Sidebar"
@@ -8,7 +8,150 @@ import { CartDrawer } from "@/components/CartDrawer"
 
 import type { Product, Category, CartItem } from '@/types'
 
+interface CategoryRouteProps {
+  categories: Category[];
+  subCategories: Category[];
+  selectedCategory: string | null;
+  setSelectedCategory: (id: string | null) => void;
+  selectedSubCategory: string | null;
+  setSelectedSubCategory: (id: string | null) => void;
+  fetchSubCategories: (catId: string) => void;
+  sidebarOpen: boolean;
+  inStock: boolean;
+  setInStock: (val: boolean) => void;
+  onSale: boolean;
+  setOnSale: (val: boolean) => void;
+  isNew: boolean;
+  setIsNew: (val: boolean) => void;
+  isArriving: boolean;
+  setIsArriving: (val: boolean) => void;
+  commande48H: boolean;
+  setCommande48H: (val: boolean) => void;
+  quoteMode: boolean;
+  setQuoteMode: (val: boolean) => void;
+  checkStock: boolean;
+  setCheckStock: (val: boolean) => void;
+  isPrivate: boolean;
+  setIsPrivate: (val: boolean) => void;
+  hasHistory: boolean;
+  setHasHistory: (val: boolean) => void;
+  priceRange: number[];
+  setPriceRange: (range: number[]) => void;
+  absoluteMaxPrice: number;
+  search: string;
+  sortBy: string;
+  setSortBy: (val: string) => void;
+  onClearAll: () => void;
+  selectedCpu: string | null;
+  setSelectedCpu: (val: string | null) => void;
+  selectedGpu: string | null;
+  setSelectedGpu: (val: string | null) => void;
+  availableCpus: string[];
+  availableGpus: string[];
+  priceTrend: string | null;
+  setPriceTrend: (val: string | null) => void;
+  products: Product[];
+  loading: boolean;
+  total: number;
+  page: number;
+  setPage: (page: number) => void;
+  totalPages: number;
+  getPages: () => (string | number)[];
+  addToCart: (product: Product) => void;
+  showClearAll: boolean;
+}
+
+function CategoryRoute({
+  categories, subCategories, selectedCategory, setSelectedCategory,
+  selectedSubCategory, setSelectedSubCategory, fetchSubCategories,
+  sidebarOpen, inStock, setInStock, onSale, setOnSale, isNew, setIsNew,
+  isArriving, setIsArriving, commande48H, setCommande48H, quoteMode, setQuoteMode,
+  checkStock, setCheckStock, isPrivate, setIsPrivate, hasHistory, setHasHistory,
+  priceRange, setPriceRange, absoluteMaxPrice, search, sortBy, setSortBy, onClearAll,
+  selectedCpu, setSelectedCpu, selectedGpu, setSelectedGpu,
+  availableCpus, availableGpus, priceTrend, setPriceTrend,
+  products, loading, total, page, setPage, totalPages, getPages,
+  addToCart, showClearAll
+}: CategoryRouteProps) {
+  const { categorySlug, subCategorySlug } = useParams<{ categorySlug: string; subCategorySlug: string }>()
+  const navigate = useNavigate()
+
+  useEffect(() => {
+    if (!categorySlug) return
+    const cat = categories.find(c => c.slug === categorySlug)
+    if (cat) {
+      setSelectedCategory(cat.id)
+      fetchSubCategories(cat.id)
+    }
+  }, [categorySlug, categories, setSelectedCategory, fetchSubCategories])
+
+  useEffect(() => {
+    if (!categorySlug || !subCategorySlug) return
+    const sub = subCategories.find(s => s.slug === subCategorySlug)
+    if (sub) {
+      setSelectedSubCategory(sub.id)
+    }
+  }, [subCategorySlug, subCategories, setSelectedSubCategory])
+
+  return (
+    <>
+      <Sidebar
+        sidebarOpen={sidebarOpen}
+        categories={categories}
+        subCategories={subCategories}
+        selectedCategory={selectedCategory}
+        setSelectedCategory={(id) => {
+          setSelectedCategory(id)
+          if (id) {
+            const cat = categories.find(c => c.id === id)
+            if (cat) navigate(`/category/${cat.slug}`)
+            else navigate('/')
+          } else {
+            navigate('/')
+          }
+        }}
+        selectedSubCategory={selectedSubCategory}
+        inStock={inStock} setInStock={setInStock}
+        onSale={onSale} setOnSale={setOnSale}
+        isNew={isNew} setIsNew={setIsNew}
+        isArriving={isArriving} setIsArriving={setIsArriving}
+        commande48H={commande48H} setCommande48H={setCommande48H}
+        quoteMode={quoteMode} setQuoteMode={setQuoteMode}
+        checkStock={checkStock} setCheckStock={setCheckStock}
+        isPrivate={isPrivate} setIsPrivate={setIsPrivate}
+        hasHistory={hasHistory} setHasHistory={setHasHistory}
+        priceRange={priceRange} setPriceRange={setPriceRange}
+        absoluteMaxPrice={absoluteMaxPrice}
+        search={search}
+        sortBy={sortBy}
+        onClearAll={onClearAll}
+        selectedCpu={selectedCpu} setSelectedCpu={setSelectedCpu}
+        selectedGpu={selectedGpu} setSelectedGpu={setSelectedGpu}
+        availableCpus={availableCpus} availableGpus={availableGpus}
+        priceTrend={priceTrend} setPriceTrend={setPriceTrend}
+      />
+      <Catalog
+        products={products}
+        loading={loading}
+        total={total}
+        selectedCategoryName={categories.find(c => c.id === selectedCategory)?.name}
+        sortBy={sortBy}
+        setSortBy={setSortBy}
+        onClearAll={onClearAll}
+        showClearAll={showClearAll}
+        page={page}
+        setPage={setPage}
+        totalPages={totalPages}
+        getPages={getPages}
+        addToCart={addToCart}
+      />
+    </>
+  )
+}
+
 function App() {
+  const navigate = useNavigate()
+  const location = useLocation()
   const [products, setProducts] = useState<Product[]>([])
   const [categories, setCategories] = useState<Category[]>([])
   const [subCategories, setSubCategories] = useState<Category[]>([])
@@ -167,8 +310,6 @@ function App() {
     }
   }, [page, selectedCategory, selectedSubCategory, sortBy, getSharedQueryParams])
 
-  const location = useLocation()
-
   // Scroll Restoration Logic
   useEffect(() => {
     // Only restore if we are back on the home page, not loading, and have products
@@ -259,6 +400,7 @@ function App() {
     setSelectedCpu(null);
     setSelectedGpu(null);
     setPriceTrend(null);
+    navigate('/');
   };
 
   const isFilterActive = selectedCategory || 
@@ -303,12 +445,121 @@ function App() {
         <Routes>
           <Route path="/produit/:slug" element={
             <ProductDetails
-              onNavigate={(catId, subId) => {
-                setSelectedCategory(catId);
-                setSelectedSubCategory(subId);
-                if (catId) fetchSubCategories(catId);
+              onNavigate={(catSlug, subSlug) => {
+                if (catSlug) {
+                  if (subSlug) navigate(`/category/${catSlug}/${subSlug}`)
+                  else navigate(`/category/${catSlug}`)
+                }
               }}
               addToCart={addToCart}
+            />
+          } />
+          <Route path="/category/:categorySlug/:subCategorySlug" element={
+            <CategoryRoute
+              sidebarOpen={sidebarOpen}
+              categories={categories}
+              subCategories={subCategories}
+              selectedCategory={selectedCategory}
+              setSelectedCategory={setSelectedCategory}
+              selectedSubCategory={selectedSubCategory}
+              setSelectedSubCategory={setSelectedSubCategory}
+              fetchSubCategories={fetchSubCategories}
+              inStock={inStock}
+              setInStock={setInStock}
+              onSale={onSale}
+              setOnSale={setOnSale}
+              isNew={isNew}
+              setIsNew={setIsNew}
+              isArriving={isArriving}
+              setIsArriving={setIsArriving}
+              commande48H={commande48H}
+              setCommande48H={setCommande48H}
+              quoteMode={quoteMode}
+              setQuoteMode={setQuoteMode}
+              checkStock={checkStock}
+              setCheckStock={setCheckStock}
+              isPrivate={isPrivate}
+              setIsPrivate={setIsPrivate}
+              hasHistory={hasHistory}
+              setHasHistory={setHasHistory}
+              priceRange={priceRange}
+              setPriceRange={setPriceRange}
+              absoluteMaxPrice={absoluteMaxPrice}
+              search={search}
+              sortBy={sortBy}
+              setSortBy={setSortBy}
+              onClearAll={handleClearAll}
+              selectedCpu={selectedCpu}
+              setSelectedCpu={setSelectedCpu}
+              selectedGpu={selectedGpu}
+              setSelectedGpu={setSelectedGpu}
+              availableCpus={availableCpus}
+              availableGpus={availableGpus}
+              priceTrend={priceTrend}
+              setPriceTrend={setPriceTrend}
+              products={products}
+              loading={loading}
+              total={total}
+              page={page}
+              setPage={setPage}
+              totalPages={totalPages}
+              getPages={getPages}
+              addToCart={addToCart}
+              showClearAll={!!isFilterActive}
+            />
+          } />
+          <Route path="/category/:categorySlug" element={
+            <CategoryRoute
+              sidebarOpen={sidebarOpen}
+              categories={categories}
+              subCategories={subCategories}
+              selectedCategory={selectedCategory}
+              setSelectedCategory={setSelectedCategory}
+              selectedSubCategory={selectedSubCategory}
+              setSelectedSubCategory={setSelectedSubCategory}
+              fetchSubCategories={fetchSubCategories}
+              inStock={inStock}
+              setInStock={setInStock}
+              onSale={onSale}
+              setOnSale={setOnSale}
+              isNew={isNew}
+              setIsNew={setIsNew}
+              isArriving={isArriving}
+              setIsArriving={setIsArriving}
+              commande48H={commande48H}
+              setCommande48H={setCommande48H}
+              quoteMode={quoteMode}
+              setQuoteMode={setQuoteMode}
+              checkStock={checkStock}
+              setCheckStock={setCheckStock}
+              isPrivate={isPrivate}
+              setIsPrivate={setIsPrivate}
+              hasHistory={hasHistory}
+              setHasHistory={setHasHistory}
+              priceRange={priceRange}
+              setPriceRange={setPriceRange}
+              absoluteMaxPrice={absoluteMaxPrice}
+              search={search}
+              sortBy={sortBy}
+              setSortBy={setSortBy}
+              onClearAll={handleClearAll}
+              selectedCpu={selectedCpu}
+              setSelectedCpu={setSelectedCpu}
+              selectedGpu={selectedGpu}
+              setSelectedGpu={setSelectedGpu}
+              availableCpus={availableCpus}
+              availableGpus={availableGpus}
+              priceTrend={priceTrend}
+              setPriceTrend={setPriceTrend}
+              products={products}
+              loading={loading}
+              total={total}
+              page={page}
+              setPage={setPage}
+              totalPages={totalPages}
+              getPages={getPages}
+              addToCart={addToCart}
+              showClearAll={!!isFilterActive}
             />
           } />
           <Route path="/" element={
@@ -320,9 +571,6 @@ function App() {
                 selectedCategory={selectedCategory}
                 setSelectedCategory={setSelectedCategory}
                 selectedSubCategory={selectedSubCategory}
-                setSelectedSubCategory={setSelectedSubCategory}
-                fetchSubCategories={fetchSubCategories}
-                setSubCategories={setSubCategories}
                 inStock={inStock}
                 setInStock={setInStock}
                 onSale={onSale}

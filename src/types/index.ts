@@ -1,6 +1,7 @@
 export interface Category {
   id: string;
   name: string;
+  slug: string;
   _count: {
     products: number;
   };
@@ -34,11 +35,13 @@ export interface Product {
   images: string[];
   category?: { 
     id: string;
-    name: string; 
+    name: string;
+    slug: string;
   };
   subCategory?: {
     id: string;
     name: string;
+    slug: string;
   };
   description?: string;
   cpu?: string;
@@ -57,6 +60,6 @@ export interface Product {
 }
 
 export interface ProductDetailsProps {
-  onNavigate: (categoryId: string | null, subCategoryId: string | null) => void;
+  onNavigate: (categorySlug: string | null, subCategorySlug: string | null) => void;
   addToCart: (product: Product) => void;
 }

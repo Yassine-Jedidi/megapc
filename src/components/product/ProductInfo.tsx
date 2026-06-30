@@ -6,13 +6,12 @@ import type { Product } from '@/types'
 
 interface ProductInfoProps {
   product: Product;
-  onNavigate: (categoryId: string | null, subCategoryId: string | null) => void;
-  navigate: (path: string) => void;
+  onNavigate: (categorySlug: string | null, subCategorySlug: string | null) => void;
   slug: string | undefined;
   addToCart: (product: Product) => void;
 }
 
-export function ProductInfo({ product, onNavigate, navigate, slug, addToCart }: ProductInfoProps) {
+export function ProductInfo({ product, onNavigate, slug, addToCart }: ProductInfoProps) {
   const isDevis = product.quoteMode
 
   return (
@@ -22,8 +21,7 @@ export function ProductInfo({ product, onNavigate, navigate, slug, addToCart }: 
           className="text-[10px] font-black uppercase tracking-[0.15em] text-muted-foreground/60 cursor-pointer hover:text-foreground transition-colors"
           onClick={() => {
             if (product.category) {
-              onNavigate(product.category.id, null);
-              navigate('/');
+              onNavigate(product.category.slug, null);
             }
           }}
         >
@@ -36,8 +34,7 @@ export function ProductInfo({ product, onNavigate, navigate, slug, addToCart }: 
               className="text-[10px] font-black uppercase tracking-[0.15em] text-primary/60 cursor-pointer hover:text-primary transition-colors"
               onClick={() => {
                 if (product.category && product.subCategory) {
-                  onNavigate(product.category.id, product.subCategory.id);
-                  navigate('/');
+                  onNavigate(product.category.slug, product.subCategory.slug);
                 }
               }}
             >

@@ -93,6 +93,7 @@ model Product {
 model Category {
   id              String    @id @default(cuid())
   name            String    @unique
+  slug            String    @unique
   externalId      String?   @unique
   
   products        Product[] @relation("MainCategory")

@@ -16,9 +16,6 @@ interface SidebarProps {
   selectedCategory: string | null;
   setSelectedCategory: (id: string | null) => void;
   selectedSubCategory: string | null;
-  setSelectedSubCategory: (id: string | null) => void;
-  fetchSubCategories: (catId: string) => void;
-  setSubCategories: (subs: Category[]) => void;
   inStock: boolean;
   setInStock: (val: boolean) => void;
   onSale: boolean;
@@ -55,7 +52,7 @@ interface SidebarProps {
 
 export function Sidebar({
   sidebarOpen, categories, subCategories, selectedCategory, setSelectedCategory,
-  selectedSubCategory, setSelectedSubCategory, fetchSubCategories, setSubCategories,
+  selectedSubCategory,
   inStock, setInStock, onSale, setOnSale, isNew, setIsNew, isArriving, setIsArriving,
   commande48H, setCommande48H, quoteMode, setQuoteMode, checkStock, setCheckStock,
   isPrivate, setIsPrivate, hasHistory, setHasHistory, priceRange, setPriceRange, absoluteMaxPrice, search,
@@ -139,11 +136,7 @@ export function Sidebar({
               categories={categories}
               subCategories={subCategories}
               selectedCategory={selectedCategory}
-              setSelectedCategory={setSelectedCategory}
               selectedSubCategory={selectedSubCategory}
-              setSelectedSubCategory={setSelectedSubCategory}
-              fetchSubCategories={fetchSubCategories}
-              setSubCategories={setSubCategories}
             />
           </div>
         </div>
