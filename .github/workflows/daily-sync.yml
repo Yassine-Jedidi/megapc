@@ -26,6 +26,9 @@ jobs:
       - name: Generate Prisma Client
         run: bunx prisma generate
 
+      - name: Ensure Sync Database Constraints
+        run: bun scripts/ensure-sync-constraints.ts
+
       - name: Install Puppeteer Browser and Dependencies
         run: sudo npx puppeteer browsers install chrome --install-deps
 

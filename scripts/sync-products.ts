@@ -554,9 +554,11 @@ async function syncProducts() {
 }
 
 syncProducts()
-  .catch(console.error)
+  .catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  })
   .finally(async () => {
     await prisma.$disconnect();
     await pool.end();
-    process.exit(0);
   });
