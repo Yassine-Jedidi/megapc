@@ -262,15 +262,44 @@ app.get("/api/products", async (c) => {
     ],
   };
 
-  let orderBy: Prisma.ProductOrderByWithRelationInput | Prisma.ProductOrderByWithRelationInput[] | Prisma.Sql | undefined;
+  // For price sorting, we need effective price (COALESCE salePrice/price).
+  // Prisma's orderBy doesn't support this natively, so we fetch IDs + prices,
+  // sort in memory, then paginate.
+  if (sortBy === "price-asc" || sortBy === "price-desc") {
+    const dir = sortBy === "price-asc" ? 1 : -1;
+
+    const all = await prisma.product.findMany({
+      where: whereClause,
+      select: { id: true, price: true, salePrice: true },
+    });
+
+    all.sort((a, b) => {
+      const ea = a.salePrice ?? a.price ?? 0;
+      const eb = b.salePrice ?? b.price ?? 0;
+      return (ea - eb) * dir;
+    });
+
+    const total = all.length;
+    const pageIds = all.slice(skip, skip + limit).map(p => p.id);
+
+    const products = await prisma.product.findMany({
+      where: { id: { in: pageIds } },
+      omit: { rawData: true },
+      include: { category: { select: { id: true, name: true, slug: true } } },
+    });
+
+    const map = new Map(products.map(p => [p.id, p]));
+    const ordered = pageIds.map(id => map.get(id)).filter(Boolean);
+
+    return c.json({
+      products: ordered,
+      pagination: { total, page, limit, totalPages: Math.ceil(total / limit) },
+    });
+  }
+
+  let orderBy: Prisma.ProductOrderByWithRelationInput | Prisma.ProductOrderByWithRelationInput[] | undefined;
 
   switch (sortBy) {
-    case "price-asc":
-      orderBy = Prisma.sql`COALESCE("salePrice", "price") ASC NULLS LAST`;
-      break;
-    case "price-desc":
-      orderBy = Prisma.sql`COALESCE("salePrice", "price") DESC NULLS LAST`;
-      break;
     case "discount-desc":
       orderBy = { discount: { sort: "desc", nulls: "last" } };
       break;
@@ -286,7 +315,7 @@ app.get("/api/products", async (c) => {
       where: whereClause,
       take: limit,
       skip: skip,
-      orderBy: orderBy as any,
+      orderBy,
       omit: { rawData: true },
       include: { category: { select: { id: true, name: true, slug: true } } },
     }),
