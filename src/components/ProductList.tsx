@@ -82,9 +82,9 @@ function ProductList() {
     const sorted = [...products].sort((a, b) => {
       switch (sortBy) {
         case 'price-low':
-          return (a.salePrice ?? a.price || 0) - (b.salePrice ?? b.price || 0);
+          return (a.prixEnPromo ?? a.price) - (b.prixEnPromo ?? b.price);
         case 'price-high':
-          return (b.salePrice ?? b.price || 0) - (a.salePrice ?? a.price || 0);
+          return (b.prixEnPromo ?? b.price) - (a.prixEnPromo ?? a.price);
         case 'name-a-z':
           return a.title.localeCompare(b.title);
         case 'name-z-a':

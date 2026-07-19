@@ -164,7 +164,7 @@ export function Catalog({
                       </span>
                     </div>
 
-                    <h3 className="text-sm font-bold leading-relaxed line-clamp-2 min-h-12 text-foreground/90 group-hover:text-primary transition-colors cursor-pointer">
+                    <h3 title={product.title} className="text-sm font-bold leading-relaxed line-clamp-2 min-h-12 text-foreground/90 group-hover:text-primary transition-colors cursor-pointer">
                       {product.title}
                     </h3>
 

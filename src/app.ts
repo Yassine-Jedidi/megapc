@@ -263,14 +263,14 @@ app.get("/api/products", async (c) => {
   };
 
   let orderBy: Prisma.ProductOrderByWithRelationInput | undefined;
-  let orderByRaw: string | undefined;
+  let orderByRaw: Prisma.Sql | undefined;
 
   switch (sortBy) {
     case "price-asc":
-      orderByRaw = 'COALESCE("salePrice", "price") ASC NULLS LAST';
+      orderByRaw = Prisma.sql`COALESCE("salePrice", "price") ASC NULLS LAST`;
       break;
     case "price-desc":
-      orderByRaw = 'COALESCE("salePrice", "price") DESC NULLS LAST';
+      orderByRaw = Prisma.sql`COALESCE("salePrice", "price") DESC NULLS LAST`;
       break;
     case "discount-desc":
       orderBy = { discount: { sort: "desc", nulls: "last" } };
@@ -288,7 +288,7 @@ app.get("/api/products", async (c) => {
       take: limit,
       skip: skip,
       orderBy,
-      orderByRaw,
+      ...(orderByRaw ? { orderByRaw: orderByRaw as any } : {}),
       omit: { rawData: true },
       include: { category: { select: { id: true, name: true, slug: true } } },
     }),
