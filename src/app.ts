@@ -252,18 +252,6 @@ app.get("/api/products", async (c) => {
   const sortBy = c.req.query("sortBy") || "newest";
   const skip = (page - 1) * limit;
 
-  // Sorting map
-  // NOTE: We sort by `price` for price-asc/desc (not salePrice) because salePrice
-  // is null for non-promo items, which causes NULL rows to float to top in DESC.
-  // The "effective price" column is always `price`; salePrice is only for display.
-  const orderByMap: Record<string, Prisma.ProductOrderByWithRelationInput> = {
-    newest: { siteCreateDate: { sort: "desc", nulls: "last" } },
-    "price-asc": { price: { sort: "asc", nulls: "last" } },
-    "price-desc": { price: { sort: "desc", nulls: "last" } },
-    "discount-desc": { discount: { sort: "desc", nulls: "last" } },
-    popular: { viewCount: "desc" },
-  };
-
   const sharedFilters = getSharedFilters(c);
   const whereClause: Prisma.ProductWhereInput = {
     AND: [
@@ -274,12 +262,33 @@ app.get("/api/products", async (c) => {
     ],
   };
 
+  let orderBy: Prisma.ProductOrderByWithRelationInput | undefined;
+  let orderByRaw: string | undefined;
+
+  switch (sortBy) {
+    case "price-asc":
+      orderByRaw = 'COALESCE("salePrice", "price") ASC NULLS LAST';
+      break;
+    case "price-desc":
+      orderByRaw = 'COALESCE("salePrice", "price") DESC NULLS LAST';
+      break;
+    case "discount-desc":
+      orderBy = { discount: { sort: "desc", nulls: "last" } };
+      break;
+    case "popular":
+      orderBy = { viewCount: "desc" };
+      break;
+    default:
+      orderBy = { siteCreateDate: { sort: "desc", nulls: "last" } };
+  }
+
   const [products, total] = await Promise.all([
     prisma.product.findMany({
       where: whereClause,
       take: limit,
       skip: skip,
-      orderBy: orderByMap[sortBy] || orderByMap.newest,
+      orderBy,
+      orderByRaw,
       omit: { rawData: true },
       include: { category: { select: { id: true, name: true, slug: true } } },
     }),
