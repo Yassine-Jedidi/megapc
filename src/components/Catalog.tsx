@@ -126,17 +126,19 @@ export function Catalog({
               ))
             ) : (
               products.map((product) => (
-                <Card
+                <a
                   key={product.id}
-                  className="group overflow-hidden border-none bg-card hover:bg-muted/30 transition-all duration-300 ring-1 ring-white/5 hover:ring-primary/30 flex flex-col cursor-pointer"
+                  href={"/produit/" + product.slug}
+                  className="block no-underline text-inherit"
                   onClick={(e) => {
-                    if (e.ctrlKey || e.metaKey) {
-                      window.open('/produit/' + product.slug, '_blank');
-                      return;
-                    }
+                    if (e.ctrlKey || e.metaKey || e.button === 1) return;
+                    e.preventDefault();
                     sessionStorage.setItem('catalog-scroll', window.scrollY.toString());
                     navigate('/produit/' + product.slug);
                   }}
+                >
+                <Card
+                  className="group overflow-hidden border-none bg-card hover:bg-muted/30 transition-all duration-300 ring-1 ring-white/5 hover:ring-primary/30 flex flex-col cursor-pointer"
                 >
                   <div className="relative p-3">
                     <div className="relative aspect-square overflow-hidden rounded-2xl bg-black/40 flex items-center justify-center p-0">
@@ -217,8 +219,9 @@ export function Catalog({
                     </div>
                   </CardContent>
                 </Card>
-              ))
-            )}
+                </a>
+                ))
+              )}
           </div>
 
           {/* Pagination Section */}
