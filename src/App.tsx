@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { Routes, Route, useLocation, useParams, useNavigate } from 'react-router-dom'
+import { Routes, Route, useLocation, useParams, useNavigate, useSearchParams } from 'react-router-dom'
 import { ProductDetails } from "@/components/ProductDetails"
 import { Header } from "@/components/Header"
 import { Sidebar } from "@/components/Sidebar"
@@ -152,10 +152,11 @@ function CategoryRoute({
 function App() {
   const navigate = useNavigate()
   const location = useLocation()
+  const [searchParams, setSearchParams] = useSearchParams()
   const [products, setProducts] = useState<Product[]>([])
   const [categories, setCategories] = useState<Category[]>([])
   const [subCategories, setSubCategories] = useState<Category[]>([])
-  const [search, setSearch] = useState('')
+  const [search, setSearch] = useState(searchParams.get('search') || '')
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
   const [selectedSubCategory, setSelectedSubCategory] = useState<string | null>(null)
   const [onSale, setOnSale] = useState(false)
@@ -235,11 +236,25 @@ function App() {
   }, [search, selectedCategory, selectedSubCategory, onSale, isNew, inStock, isArriving, commande48H, quoteMode, checkStock, isPrivate, hasHistory, priceRange, sortBy, selectedCpu, selectedGpu, priceTrend])
 
   // Debounce search input: only update debouncedSearch after 300ms of no typing
-  const [debouncedSearch, setDebouncedSearch] = useState('')
+  const [debouncedSearch, setDebouncedSearch] = useState(searchParams.get('search') || '')
   useEffect(() => {
     const timer = setTimeout(() => setDebouncedSearch(search), 300)
     return () => clearTimeout(timer)
   }, [search])
+
+  // Sync debounced search to URL query param
+  useEffect(() => {
+    const currentSearch = searchParams.get('search') || ''
+    if (currentSearch === debouncedSearch) return
+
+    const next = new URLSearchParams(searchParams)
+    if (debouncedSearch) {
+      next.set('search', debouncedSearch)
+    } else {
+      next.delete('search')
+    }
+    setSearchParams(next, { replace: true })
+  }, [debouncedSearch, searchParams])
 
   const getSharedQueryParams = useCallback(() => {
     return {
